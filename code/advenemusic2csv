@@ -1,0 +1,22 @@
+#!/usr/bin/python
+
+import sys
+import csv
+import json
+
+infname = sys.argv[1]
+outfname = sys.argv[2]
+
+j = json.load(open(infname))
+w = csv.writer(open(outfname, 'w'), quoting=csv.QUOTE_NONNUMERIC)
+
+w.writerow(('start', 'end', 'artist', 'title', 'background'))
+
+for a in j['annotations']:
+    w.writerow((
+        float(a['begin']) / 1000,
+        float(a['end']) / 1000,
+        a['parsed']['artist'].encode('utf-8'),
+        a['parsed']['title'].encode('utf-8'),
+        a['parsed']['background'],
+    ))
