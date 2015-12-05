@@ -1,0 +1,3 @@
+[submodule "src/emotions"]
+	path = src/emotions
+	url = https://github.com/psychoinformatics-de/paper-f1000_gumpemotions
