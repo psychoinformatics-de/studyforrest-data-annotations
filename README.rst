@@ -18,8 +18,9 @@ Stimulus structure (``structure/``)
 
   - ``shots.csv``
 
-    Consecutive movie segment without a "cut". Plain text file. Single column:
-    start time.
+    Consecutive movie segment without a "cut".  Cuts were initially detected
+    using an automated procedure and later curated by hand.  Plain text file.
+    Single column: start time.
 
   - ``segments.csv``
 
@@ -39,9 +40,10 @@ Speech (``speech/``)
 
   - ``german_audio_description.csv``
 
-    German audio description in the Forrest Gump audio movie.
-    Plain text comma-separated value file. Columns: start time, end time, text
-    of the audio description.
+    German audio description in the Forrest Gump audio movie.  This transcript
+    contains all information on the audio-movie content that cannot be inferred
+    from the DVD release. Plain text comma-separated value file. Columns: start
+    time, end time, text of the audio description.
 
   - ``german_dialog.csv`` **[work in progress]**
 
@@ -81,7 +83,19 @@ Portrayed emotions
 
   - ``src/emotions``
 
-    Raw and derived annotations of the study published in
+    Characterization of the temporal location and duration of portrayed
+    emotions by independent 12 observers. The nature of an emotion was
+    characterized with basic attributes, such as arousal and valence, as well
+    as 22 explicit emotion category labels. In addition, annotations include a
+    record of the perceptual evidence for the presence of an emotion. Both
+    variant of the stimulus (audio-only and auto-visual) were annotated
+    separately. In addition to raw annotations, aggregate time series of
+    inter-observer agreement are provided that can be used as probabilistic
+    indicators of particular attributes of portrayed emotions. All data is
+    provided as plain text (comma-separated value) tables.
+
+    A detailed data descriptor has been published in `F1000Research
+    <http://dx.doi.org/10.12688/f1000research.6230.1>`_.
 
     Labs, A., Reich, T., Schulenburg, H., Boennen, M., Gehrke, M., Golz, M.,
     Hartings, B., Hoffmann, N., Keil, S., Perlow, M., Peukmann, A. K., Rabe, L.
