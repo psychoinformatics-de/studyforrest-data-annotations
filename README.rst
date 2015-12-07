@@ -81,7 +81,7 @@ Audio (``audio/``)
 Portrayed emotions
   Various properties of portrayed emotion (via visual and auditory cues).
 
-  - ``src/emotions``
+  - ``emotions``, ``src/emotions``
 
     Characterization of the temporal location and duration of portrayed
     emotions by independent 12 observers. The nature of an emotion was
