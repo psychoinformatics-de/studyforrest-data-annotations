@@ -102,3 +102,6 @@ Portrayed emotions
     N., von Sobbe, F.-R. & Hanke, M. (2015). `Portrayed emotions in the movie
     “Forrest Gump”. F1000Research, 4:92
     <http://f1000research.com/articles/4-92>`_.
+
+Humorous episodes (``humor/``) **[work in progress]**
+  Events in the movie that have been perceived as humorous (for any reason).
