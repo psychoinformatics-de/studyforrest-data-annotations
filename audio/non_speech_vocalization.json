@@ -1,0 +1,2382 @@
+{ "annotations": [
+
+                {
+                        "id": "a11195",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 224000,
+                        "end": 224500,
+                        "content": "title=person=FORREST transcript=mhm", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=mhm", 
+    "title": "person=FORREST transcript=mhm"
+}
+                },
+
+                {
+                        "id": "a11196",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 227700,
+                        "end": 228000,
+                        "content": "title=person=FORREST transcript=mhm", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=mhm", 
+    "title": "person=FORREST transcript=mhm"
+}
+                },
+
+                {
+                        "id": "a11197",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 233300,
+                        "end": 233600,
+                        "content": "title=person=FORREST transcript=mh", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=mh", 
+    "title": "person=FORREST transcript=mh"
+}
+                },
+
+                {
+                        "id": "a11198",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 241000,
+                        "end": 241400,
+                        "content": "title=person=FORREST transcript=tzm", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=tzm", 
+    "title": "person=FORREST transcript=tzm"
+}
+                },
+
+                {
+                        "id": "a11199",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 306900,
+                        "end": 307300,
+                        "content": "title=person=MS. GUMP transcript=huuuh", 
+                        "parsed": {
+    "_all": "title=person=MS. GUMP transcript=huuuh", 
+    "title": "person=MS. GUMP transcript=huuuh"
+}
+                },
+
+                {
+                        "id": "a11200",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 362600,
+                        "end": 363000,
+                        "content": "title=person=MS. GUMP transcript=hum", 
+                        "parsed": {
+    "_all": "title=person=MS. GUMP transcript=hum", 
+    "title": "person=MS. GUMP transcript=hum"
+}
+                },
+
+                {
+                        "id": "a11201",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 445100,
+                        "end": 445400,
+                        "content": "title=person=HANCOCK transcript=huuuh", 
+                        "parsed": {
+    "_all": "title=person=HANCOCK transcript=huuuh", 
+    "title": "person=HANCOCK transcript=huuuh"
+}
+                },
+
+                {
+                        "id": "a11202",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 517700,
+                        "end": 526600,
+                        "content": "title=person=HANCOCK transcript=eeeheeeheeeheeeheeheeeeeeeeh", 
+                        "parsed": {
+    "_all": "title=person=HANCOCK transcript=eeeheeeheeeheeeheeheeeeeeeeh", 
+    "title": "person=HANCOCK transcript=eeeheeeheeeheeeheeheeeeeeeeh"
+}
+                },
+
+                {
+                        "id": "a11203",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 531600,
+                        "end": 532000,
+                        "content": "title=person=HANCOCK transcript=Pfaaaah", 
+                        "parsed": {
+    "_all": "title=person=HANCOCK transcript=Pfaaaah", 
+    "title": "person=HANCOCK transcript=Pfaaaah"
+}
+                },
+
+                {
+                        "id": "a11204",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 536800,
+                        "end": 537600,
+                        "content": "title=person=HANCOCK transcript=mh mh mhhh", 
+                        "parsed": {
+    "_all": "title=person=HANCOCK transcript=mh mh mhhh", 
+    "title": "person=HANCOCK transcript=mh mh mhhh"
+}
+                },
+
+                {
+                        "id": "a11205",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 548100,
+                        "end": 555500,
+                        "content": "title=person=FORREST transcript=eeheeheeheeh", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=eeheeheeheeh", 
+    "title": "person=FORREST transcript=eeheeheeheeh"
+}
+                },
+
+                {
+                        "id": "a11206",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 591300,
+                        "end": 593400,
+                        "content": "title=person=MS. GUMP? transcript=hahahahahahahaha", 
+                        "parsed": {
+    "_all": "title=person=MS. GUMP? transcript=hahahahahahahaha", 
+    "title": "person=MS. GUMP? transcript=hahahahahahahaha"
+}
+                },
+
+                {
+                        "id": "a11207",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 743400,
+                        "end": 743700,
+                        "content": "title=person=DOROTHY (BUSDRIVER) transcript=mmpf", 
+                        "parsed": {
+    "_all": "title=person=DOROTHY (BUSDRIVER) transcript=mmpf", 
+    "title": "person=DOROTHY (BUSDRIVER) transcript=mmpf"
+}
+                },
+
+                {
+                        "id": "a11208",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 813900,
+                        "end": 814200,
+                        "content": "title=person=FORREST transcript=ähm", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=ähm", 
+    "title": "person=FORREST transcript=ähm"
+}
+                },
+
+                {
+                        "id": "a11209",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1062000,
+                        "end": 1062300,
+                        "content": "title=person=JENNY transcript=Psht", 
+                        "parsed": {
+    "_all": "title=person=JENNY transcript=Psht", 
+    "title": "person=JENNY transcript=Psht"
+}
+                },
+
+                {
+                        "id": "a11210",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1166600,
+                        "end": 1169100,
+                        "content": "title=person=MAN IN TRUCK 1 transcript=Ahahahaaaahahaha", 
+                        "parsed": {
+    "_all": "title=person=MAN IN TRUCK 1 transcript=Ahahahaaaahahaha", 
+    "title": "person=MAN IN TRUCK 1 transcript=Ahahahaaaahahaha"
+}
+                },
+
+                {
+                        "id": "a11211",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1173500,
+                        "end": 1174700,
+                        "content": "title=person=MAN IN TRUCK 2 transcript=Ahahaaaaahahaha", 
+                        "parsed": {
+    "_all": "title=person=MAN IN TRUCK 2 transcript=Ahahaaaaahahaha", 
+    "title": "person=MAN IN TRUCK 2 transcript=Ahahaaaaahahaha"
+}
+                },
+
+                {
+                        "id": "a11212",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1180500,
+                        "end": 1184200,
+                        "content": "title=person=PEOPLE IN TRUCK  transcript=hahahahah", 
+                        "parsed": {
+    "_all": "title=person=PEOPLE IN TRUCK  transcript=hahahahah", 
+    "title": "person=PEOPLE IN TRUCK  transcript=hahahahah"
+}
+                },
+
+                {
+                        "id": "a11213",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1184400,
+                        "end": 1186100,
+                        "content": "title=person=PEOPLE IN TRUCK transcript=huhuhuhuhuhuhu", 
+                        "parsed": {
+    "_all": "title=person=PEOPLE IN TRUCK transcript=huhuhuhuhuhuhu", 
+    "title": "person=PEOPLE IN TRUCK transcript=huhuhuhuhuhuhu"
+}
+                },
+
+                {
+                        "id": "a11214",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1186200,
+                        "end": 1186700,
+                        "content": "title=person=MAN IN TRUCK 3 transcript=whooo", 
+                        "parsed": {
+    "_all": "title=person=MAN IN TRUCK 3 transcript=whooo", 
+    "title": "person=MAN IN TRUCK 3 transcript=whooo"
+}
+                },
+
+                {
+                        "id": "a11215",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1187000,
+                        "end": 1189400,
+                        "content": "title=person=MAN IN TRUCK 1 transcript=ahahahahahahaha", 
+                        "parsed": {
+    "_all": "title=person=MAN IN TRUCK 1 transcript=ahahahahahahaha", 
+    "title": "person=MAN IN TRUCK 1 transcript=ahahahahahahaha"
+}
+                },
+
+                {
+                        "id": "a11216",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1187300,
+                        "end": 1188100,
+                        "content": "title=person=MAN IN TRUCK 3 transcript=whooo whooo", 
+                        "parsed": {
+    "_all": "title=person=MAN IN TRUCK 3 transcript=whooo whooo", 
+    "title": "person=MAN IN TRUCK 3 transcript=whooo whooo"
+}
+                },
+
+                {
+                        "id": "a11217",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1192100,
+                        "end": 1192100,
+                        "content": "title=person=PEOPLE IN TRUCK  transcript=ieaaaaah", 
+                        "parsed": {
+    "_all": "title=person=PEOPLE IN TRUCK  transcript=ieaaaaah", 
+    "title": "person=PEOPLE IN TRUCK  transcript=ieaaaaah"
+}
+                },
+
+                {
+                        "id": "a11218",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1192600,
+                        "end": 1193000,
+                        "content": "title=person=MAN IN TRUCK 3 transcript=whooo", 
+                        "parsed": {
+    "_all": "title=person=MAN IN TRUCK 3 transcript=whooo", 
+    "title": "person=MAN IN TRUCK 3 transcript=whooo"
+}
+                },
+
+                {
+                        "id": "a11219",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1204200,
+                        "end": 1212100,
+                        "content": "title=person=PEOPLE IN TRUCK  transcript=ieeeaaahahahahahahahahaha", 
+                        "parsed": {
+    "_all": "title=person=PEOPLE IN TRUCK  transcript=ieeeaaahahahahahahahahaha", 
+    "title": "person=PEOPLE IN TRUCK  transcript=ieeeaaahahahahahahahahaha"
+}
+                },
+
+                {
+                        "id": "a11220",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1226200,
+                        "end": 1226800,
+                        "content": "title=person=FOOTBALL PLAYER transcript=bwuaaaah", 
+                        "parsed": {
+    "_all": "title=person=FOOTBALL PLAYER transcript=bwuaaaah", 
+    "title": "person=FOOTBALL PLAYER transcript=bwuaaaah"
+}
+                },
+
+                {
+                        "id": "a11221",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1233800,
+                        "end": 1234200,
+                        "content": "title=person=ASSISTANT COACH transcript=hehehehe", 
+                        "parsed": {
+    "_all": "title=person=ASSISTANT COACH transcript=hehehehe", 
+    "title": "person=ASSISTANT COACH transcript=hehehehe"
+}
+                },
+
+                {
+                        "id": "a11222",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1238900,
+                        "end": 1292600,
+                        "content": "title=person=CROWD transcript=Background cheering", 
+                        "parsed": {
+    "_all": "title=person=CROWD transcript=Background cheering", 
+    "title": "person=CROWD transcript=Background cheering"
+}
+                },
+
+                {
+                        "id": "a11223",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1259700,
+                        "end": 1260300,
+                        "content": "title=person=FOOTBALL PLAYER transcript=bwuoooh", 
+                        "parsed": {
+    "_all": "title=person=FOOTBALL PLAYER transcript=bwuoooh", 
+    "title": "person=FOOTBALL PLAYER transcript=bwuoooh"
+}
+                },
+
+                {
+                        "id": "a11224",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1289200,
+                        "end": 1290500,
+                        "content": "title=person=ASSISTANT COACH transcript=bwaaaaaaah", 
+                        "parsed": {
+    "_all": "title=person=ASSISTANT COACH transcript=bwaaaaaaah", 
+    "title": "person=ASSISTANT COACH transcript=bwaaaaaaah"
+}
+                },
+
+                {
+                        "id": "a11225",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1289200,
+                        "end": 1292600,
+                        "content": "title=person=FOOTBALL COACH transcript=ahahahahahahahahahaha", 
+                        "parsed": {
+    "_all": "title=person=FOOTBALL COACH transcript=ahahahahahahahahahaha", 
+    "title": "person=FOOTBALL COACH transcript=ahahahahahahahahahaha"
+}
+                },
+
+                {
+                        "id": "a11226",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1321500,
+                        "end": 1321900,
+                        "content": "title=person=JENNY transcript=auuuh", 
+                        "parsed": {
+    "_all": "title=person=JENNY transcript=auuuh", 
+    "title": "person=JENNY transcript=auuuh"
+}
+                },
+
+                {
+                        "id": "a11227",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1334100,
+                        "end": 1334400,
+                        "content": "title=person=BILLY transcript=uuäh", 
+                        "parsed": {
+    "_all": "title=person=BILLY transcript=uuäh", 
+    "title": "person=BILLY transcript=uuäh"
+}
+                },
+
+                {
+                        "id": "a11228",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1335200,
+                        "end": 1335500,
+                        "content": "title=person=FORREST transcript=uuuhm", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=uuuhm", 
+    "title": "person=FORREST transcript=uuuhm"
+}
+                },
+
+                {
+                        "id": "a11229",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1390800,
+                        "end": 1391200,
+                        "content": "title=person=JENNY transcript=psht", 
+                        "parsed": {
+    "_all": "title=person=JENNY transcript=psht", 
+    "title": "person=JENNY transcript=psht"
+}
+                },
+
+                {
+                        "id": "a11230",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1466000,
+                        "end": 1466700,
+                        "content": "title=person=FORREST transcript=ooooh", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=ooooh", 
+    "title": "person=FORREST transcript=ooooh"
+}
+                },
+
+                {
+                        "id": "a11231",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1477400,
+                        "end": 1477700,
+                        "content": "title=person=FORREST transcript=ahhhohh", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=ahhhohh", 
+    "title": "person=FORREST transcript=ahhhohh"
+}
+                },
+
+                {
+                        "id": "a11232",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1478400,
+                        "end": 1478700,
+                        "content": "title=person=FORREST transcript=oooh", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=oooh", 
+    "title": "person=FORREST transcript=oooh"
+}
+                },
+
+                {
+                        "id": "a11233",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1487800,
+                        "end": 1488300,
+                        "content": "title=person=FORREST transcript=hupffff", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=hupffff", 
+    "title": "person=FORREST transcript=hupffff"
+}
+                },
+
+                {
+                        "id": "a11234",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1488900,
+                        "end": 1489100,
+                        "content": "title=person=FORREST transcript=oooh", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=oooh", 
+    "title": "person=FORREST transcript=oooh"
+}
+                },
+
+                {
+                        "id": "a11235",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1494000,
+                        "end": 1494700,
+                        "content": "title=person=FORREST transcript=hmmmmpf", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=hmmmmpf", 
+    "title": "person=FORREST transcript=hmmmmpf"
+}
+                },
+
+                {
+                        "id": "a11236",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1511200,
+                        "end": 1511400,
+                        "content": "title=person=FORREST transcript=pfff", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=pfff", 
+    "title": "person=FORREST transcript=pfff"
+}
+                },
+
+                {
+                        "id": "a11237",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1511800,
+                        "end": 1511900,
+                        "content": "title=person=JENNY transcript=mmmh", 
+                        "parsed": {
+    "_all": "title=person=JENNY transcript=mmmh", 
+    "title": "person=JENNY transcript=mmmh"
+}
+                },
+
+                {
+                        "id": "a11238",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1512000,
+                        "end": 1512100,
+                        "content": "title=person=FORREST transcript=hm", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=hm", 
+    "title": "person=FORREST transcript=hm"
+}
+                },
+
+                {
+                        "id": "a11239",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1512600,
+                        "end": 1512700,
+                        "content": "title=person=JENNY transcript=hö", 
+                        "parsed": {
+    "_all": "title=person=JENNY transcript=hö", 
+    "title": "person=JENNY transcript=hö"
+}
+                },
+
+                {
+                        "id": "a11240",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1522800,
+                        "end": 1525400,
+                        "content": "title=person=CROWD transcript=Background cheering", 
+                        "parsed": {
+    "_all": "title=person=CROWD transcript=Background cheering", 
+    "title": "person=CROWD transcript=Background cheering"
+}
+                },
+
+                {
+                        "id": "a11241",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1537400,
+                        "end": 1537900,
+                        "content": "title=person=FOOTBALL PLAYER transcript=uuuhwow", 
+                        "parsed": {
+    "_all": "title=person=FOOTBALL PLAYER transcript=uuuhwow", 
+    "title": "person=FOOTBALL PLAYER transcript=uuuhwow"
+}
+                },
+
+                {
+                        "id": "a11242",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1578200,
+                        "end": 1578800,
+                        "content": "title=person=FORREST transcript=bööörp", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=bööörp", 
+    "title": "person=FORREST transcript=bööörp"
+}
+                },
+
+                {
+                        "id": "a11243",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1599000,
+                        "end": 1599100,
+                        "content": "title=person=KENNEDY transcript=heh", 
+                        "parsed": {
+    "_all": "title=person=KENNEDY transcript=heh", 
+    "title": "person=KENNEDY transcript=heh"
+}
+                },
+
+                {
+                        "id": "a11244",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1916500,
+                        "end": 1933100,
+                        "content": "title=person=STRIP CLUB CROWD transcript=Background rambling", 
+                        "parsed": {
+    "_all": "title=person=STRIP CLUB CROWD transcript=Background rambling", 
+    "title": "person=STRIP CLUB CROWD transcript=Background rambling"
+}
+                },
+
+                {
+                        "id": "a11245",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1933100,
+                        "end": 1937100,
+                        "content": "title=person=STRIP CLUB CROWD transcript=Whoooo hahahahaha yea", 
+                        "parsed": {
+    "_all": "title=person=STRIP CLUB CROWD transcript=Whoooo hahahahaha yea", 
+    "title": "person=STRIP CLUB CROWD transcript=Whoooo hahahahaha yea"
+}
+                },
+
+                {
+                        "id": "a11246",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1948200,
+                        "end": 1948700,
+                        "content": "title=person=STRIP CLUB CROWD transcript=Yeaaaa", 
+                        "parsed": {
+    "_all": "title=person=STRIP CLUB CROWD transcript=Yeaaaa", 
+    "title": "person=STRIP CLUB CROWD transcript=Yeaaaa"
+}
+                },
+
+                {
+                        "id": "a11247",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1988700,
+                        "end": 1990600,
+                        "content": "title=person=STRIP CLUB CROWD transcript=Hahahahahaha", 
+                        "parsed": {
+    "_all": "title=person=STRIP CLUB CROWD transcript=Hahahahahaha", 
+    "title": "person=STRIP CLUB CROWD transcript=Hahahahahaha"
+}
+                },
+
+                {
+                        "id": "a11248",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1991800,
+                        "end": 1993500,
+                        "content": "title=person=STRIP CLUB CROWD transcript=Hahahaahaha", 
+                        "parsed": {
+    "_all": "title=person=STRIP CLUB CROWD transcript=Hahahaahaha", 
+    "title": "person=STRIP CLUB CROWD transcript=Hahahaahaha"
+}
+                },
+
+                {
+                        "id": "a11249",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1996700,
+                        "end": 1998700,
+                        "content": "title=person=STRIP CLUB CROWD transcript=Hahahahahaha", 
+                        "parsed": {
+    "_all": "title=person=STRIP CLUB CROWD transcript=Hahahahahaha", 
+    "title": "person=STRIP CLUB CROWD transcript=Hahahahahaha"
+}
+                },
+
+                {
+                        "id": "a11250",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 1999400,
+                        "end": 1999800,
+                        "content": "title=person=STRIP CLUB GUEST 1 transcript=Whoei", 
+                        "parsed": {
+    "_all": "title=person=STRIP CLUB GUEST 1 transcript=Whoei", 
+    "title": "person=STRIP CLUB GUEST 1 transcript=Whoei"
+}
+                },
+
+                {
+                        "id": "a11251",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 2000400,
+                        "end": 2001500,
+                        "content": "title=person=STRIP CLUB CROWD transcript=Whoooo Wöööh", 
+                        "parsed": {
+    "_all": "title=person=STRIP CLUB CROWD transcript=Whoooo Wöööh", 
+    "title": "person=STRIP CLUB CROWD transcript=Whoooo Wöööh"
+}
+                },
+
+                {
+                        "id": "a11252",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 2001400,
+                        "end": 2001700,
+                        "content": "title=person=JENNY transcript=Eyiiii", 
+                        "parsed": {
+    "_all": "title=person=JENNY transcript=Eyiiii", 
+    "title": "person=JENNY transcript=Eyiiii"
+}
+                },
+
+                {
+                        "id": "a11253",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 2002000,
+                        "end": 2006100,
+                        "content": "title=person=STRIP CLUB CROWD transcript=woooo eyyyyy", 
+                        "parsed": {
+    "_all": "title=person=STRIP CLUB CROWD transcript=woooo eyyyyy", 
+    "title": "person=STRIP CLUB CROWD transcript=woooo eyyyyy"
+}
+                },
+
+                {
+                        "id": "a11254",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 2005100,
+                        "end": 2005400,
+                        "content": "title=person=STRIP CLUB GUEST 2 transcript=Wauw", 
+                        "parsed": {
+    "_all": "title=person=STRIP CLUB GUEST 2 transcript=Wauw", 
+    "title": "person=STRIP CLUB GUEST 2 transcript=Wauw"
+}
+                },
+
+                {
+                        "id": "a11255",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 2005500,
+                        "end": 2007600,
+                        "content": "title=person=STRIP CLUB CROWD transcript=Hahahahaha", 
+                        "parsed": {
+    "_all": "title=person=STRIP CLUB CROWD transcript=Hahahahaha", 
+    "title": "person=STRIP CLUB CROWD transcript=Hahahahaha"
+}
+                },
+
+                {
+                        "id": "a11256",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 2007600,
+                        "end": 2008300,
+                        "content": "title=person=STRIP CLUB GUEST 3  transcript=Whoooo", 
+                        "parsed": {
+    "_all": "title=person=STRIP CLUB GUEST 3  transcript=Whoooo", 
+    "title": "person=STRIP CLUB GUEST 3  transcript=Whoooo"
+}
+                },
+
+                {
+                        "id": "a11257",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 2008600,
+                        "end": 2014200,
+                        "content": "title=person=STRIP CLUB CROWD transcript=Hahahahahaha", 
+                        "parsed": {
+    "_all": "title=person=STRIP CLUB CROWD transcript=Hahahahahaha", 
+    "title": "person=STRIP CLUB CROWD transcript=Hahahahahaha"
+}
+                },
+
+                {
+                        "id": "a11258",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 2014200,
+                        "end": 2014700,
+                        "content": "title=person=STRIP CLUB GUEST 1 transcript=Wuuuähuu", 
+                        "parsed": {
+    "_all": "title=person=STRIP CLUB GUEST 1 transcript=Wuuuähuu", 
+    "title": "person=STRIP CLUB GUEST 1 transcript=Wuuuähuu"
+}
+                },
+
+                {
+                        "id": "a11259",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 2019300,
+                        "end": 2021000,
+                        "content": "title=person=STRIP CLUB GUEST 3  transcript=Whooooo eyyyyyy", 
+                        "parsed": {
+    "_all": "title=person=STRIP CLUB GUEST 3  transcript=Whooooo eyyyyyy", 
+    "title": "person=STRIP CLUB GUEST 3  transcript=Whooooo eyyyyyy"
+}
+                },
+
+                {
+                        "id": "a11260",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 2021700,
+                        "end": 2024800,
+                        "content": "title=person=STRIP CLUB CROWD transcript=Background rambling", 
+                        "parsed": {
+    "_all": "title=person=STRIP CLUB CROWD transcript=Background rambling", 
+    "title": "person=STRIP CLUB CROWD transcript=Background rambling"
+}
+                },
+
+                {
+                        "id": "a11261",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 2025600,
+                        "end": 2027200,
+                        "content": "title=person=STRIP CLUB CROWD transcript=Ooooowwwwww hehe", 
+                        "parsed": {
+    "_all": "title=person=STRIP CLUB CROWD transcript=Ooooowwwwww hehe", 
+    "title": "person=STRIP CLUB CROWD transcript=Ooooowwwwww hehe"
+}
+                },
+
+                {
+                        "id": "a11262",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 2254400,
+                        "end": 2255500,
+                        "content": "title=person=LT. DAN transcript=pfff ha", 
+                        "parsed": {
+    "_all": "title=person=LT. DAN transcript=pfff ha", 
+    "title": "person=LT. DAN transcript=pfff ha"
+}
+                },
+
+                {
+                        "id": "a11263",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 2645800,
+                        "end": 2646000,
+                        "content": "title=person=SOLDIER 1 transcript=aaaah", 
+                        "parsed": {
+    "_all": "title=person=SOLDIER 1 transcript=aaaah", 
+    "title": "person=SOLDIER 1 transcript=aaaah"
+}
+                },
+
+                {
+                        "id": "a11264",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 2673900,
+                        "end": 2674200,
+                        "content": "title=person=LT. DAN transcript=hach", 
+                        "parsed": {
+    "_all": "title=person=LT. DAN transcript=hach", 
+    "title": "person=LT. DAN transcript=hach"
+}
+                },
+
+                {
+                        "id": "a11265",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 2719200,
+                        "end": 2719700,
+                        "content": "title=person=SOLIDER 2 transcript=aaaaah", 
+                        "parsed": {
+    "_all": "title=person=SOLIDER 2 transcript=aaaaah", 
+    "title": "person=SOLIDER 2 transcript=aaaaah"
+}
+                },
+
+                {
+                        "id": "a11266",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 2785100,
+                        "end": 2785700,
+                        "content": "title=person=TEX transcript=aaaah", 
+                        "parsed": {
+    "_all": "title=person=TEX transcript=aaaah", 
+    "title": "person=TEX transcript=aaaah"
+}
+                },
+
+                {
+                        "id": "a11267",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 2785800,
+                        "end": 2786700,
+                        "content": "title=person=TEX transcript=erraaah", 
+                        "parsed": {
+    "_all": "title=person=TEX transcript=erraaah", 
+    "title": "person=TEX transcript=erraaah"
+}
+                },
+
+                {
+                        "id": "a11268",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 2788200,
+                        "end": 2791400,
+                        "content": "title=person=TEX transcript=aaahörroohhööö", 
+                        "parsed": {
+    "_all": "title=person=TEX transcript=aaahörroohhööö", 
+    "title": "person=TEX transcript=aaahörroohhööö"
+}
+                },
+
+                {
+                        "id": "a11269",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 2796400,
+                        "end": 2797800,
+                        "content": "title=person=TEX transcript=errruuuh", 
+                        "parsed": {
+    "_all": "title=person=TEX transcript=errruuuh", 
+    "title": "person=TEX transcript=errruuuh"
+}
+                },
+
+                {
+                        "id": "a11270",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 2804000,
+                        "end": 2804100,
+                        "content": "title=person=TEX transcript=ooooiiiöööh", 
+                        "parsed": {
+    "_all": "title=person=TEX transcript=ooooiiiöööh", 
+    "title": "person=TEX transcript=ooooiiiöööh"
+}
+                },
+
+                {
+                        "id": "a11271",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 2812900,
+                        "end": 2814700,
+                        "content": "title=person=SOLDIER 3 transcript=iiiooo jiss", 
+                        "parsed": {
+    "_all": "title=person=SOLDIER 3 transcript=iiiooo jiss", 
+    "title": "person=SOLDIER 3 transcript=iiiooo jiss"
+}
+                },
+
+                {
+                        "id": "a11272",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 2820600,
+                        "end": 2821600,
+                        "content": "title=person=FORREST transcript=err hubb", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=err hubb", 
+    "title": "person=FORREST transcript=err hubb"
+}
+                },
+
+                {
+                        "id": "a11273",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 2832400,
+                        "end": 2832800,
+                        "content": "title=person=FORREST transcript=huubb", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=huubb", 
+    "title": "person=FORREST transcript=huubb"
+}
+                },
+
+                {
+                        "id": "a11274",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 2841700,
+                        "end": 2842000,
+                        "content": "title=person=LT. DAN transcript=haaaa", 
+                        "parsed": {
+    "_all": "title=person=LT. DAN transcript=haaaa", 
+    "title": "person=LT. DAN transcript=haaaa"
+}
+                },
+
+                {
+                        "id": "a11275",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 2847800,
+                        "end": 2848200,
+                        "content": "title=person=LT. DAN transcript=aah", 
+                        "parsed": {
+    "_all": "title=person=LT. DAN transcript=aah", 
+    "title": "person=LT. DAN transcript=aah"
+}
+                },
+
+                {
+                        "id": "a11276",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 2852700,
+                        "end": 2853300,
+                        "content": "title=person=FORREST transcript=äääh", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=äääh", 
+    "title": "person=FORREST transcript=äääh"
+}
+                },
+
+                {
+                        "id": "a11277",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 2868600,
+                        "end": 2868900,
+                        "content": "title=person=FORREST transcript=aaaah", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=aaaah", 
+    "title": "person=FORREST transcript=aaaah"
+}
+                },
+
+                {
+                        "id": "a11278",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 2875200,
+                        "end": 2876600,
+                        "content": "title=person=LT. DAN transcript=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah", 
+                        "parsed": {
+    "_all": "title=person=LT. DAN transcript=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah", 
+    "title": "person=LT. DAN transcript=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah"
+}
+                },
+
+                {
+                        "id": "a11279",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 2892800,
+                        "end": 2893200,
+                        "content": "title=person=LT. DAN  transcript=ech", 
+                        "parsed": {
+    "_all": "title=person=LT. DAN  transcript=ech", 
+    "title": "person=LT. DAN  transcript=ech"
+}
+                },
+
+                {
+                        "id": "a11280",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 2896200,
+                        "end": 2896800,
+                        "content": "title=person=LT. DAN transcript=erghh", 
+                        "parsed": {
+    "_all": "title=person=LT. DAN transcript=erghh", 
+    "title": "person=LT. DAN transcript=erghh"
+}
+                },
+
+                {
+                        "id": "a11281",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 2946200,
+                        "end": 2946900,
+                        "content": "title=person=BUBBA transcript=ouh", 
+                        "parsed": {
+    "_all": "title=person=BUBBA transcript=ouh", 
+    "title": "person=BUBBA transcript=ouh"
+}
+                },
+
+                {
+                        "id": "a11282",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 2948000,
+                        "end": 2948700,
+                        "content": "title=person=BUBBA transcript=ugha", 
+                        "parsed": {
+    "_all": "title=person=BUBBA transcript=ugha", 
+    "title": "person=BUBBA transcript=ugha"
+}
+                },
+
+                {
+                        "id": "a11283",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 2955600,
+                        "end": 2956300,
+                        "content": "title=person=BUBBA transcript=ughaaach", 
+                        "parsed": {
+    "_all": "title=person=BUBBA transcript=ughaaach", 
+    "title": "person=BUBBA transcript=ughaaach"
+}
+                },
+
+                {
+                        "id": "a11284",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 2960800,
+                        "end": 2961300,
+                        "content": "title=person=BUBBA transcript=uhuh", 
+                        "parsed": {
+    "_all": "title=person=BUBBA transcript=uhuh", 
+    "title": "person=BUBBA transcript=uhuh"
+}
+                },
+
+                {
+                        "id": "a11285",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 2961800,
+                        "end": 2422100,
+                        "content": "title=person=BUBBA transcript=ah", 
+                        "parsed": {
+    "_all": "title=person=BUBBA transcript=ah", 
+    "title": "person=BUBBA transcript=ah"
+}
+                },
+
+                {
+                        "id": "a11286",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 2962400,
+                        "end": 2962800,
+                        "content": "title=person=BUBBA transcript=ugh", 
+                        "parsed": {
+    "_all": "title=person=BUBBA transcript=ugh", 
+    "title": "person=BUBBA transcript=ugh"
+}
+                },
+
+                {
+                        "id": "a11287",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 2963800,
+                        "end": 2964100,
+                        "content": "title=person=BUBBA transcript=uuh", 
+                        "parsed": {
+    "_all": "title=person=BUBBA transcript=uuh", 
+    "title": "person=BUBBA transcript=uuh"
+}
+                },
+
+                {
+                        "id": "a11288",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 3013300,
+                        "end": 3013800,
+                        "content": "title=person=FORREST transcript=ehhuhhh", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=ehhuhhh", 
+    "title": "person=FORREST transcript=ehhuhhh"
+}
+                },
+
+                {
+                        "id": "a11289",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 3013400,
+                        "end": 3014200,
+                        "content": "title=person=BUBBA transcript=uuhaaah", 
+                        "parsed": {
+    "_all": "title=person=BUBBA transcript=uuhaaah", 
+    "title": "person=BUBBA transcript=uuhaaah"
+}
+                },
+
+                {
+                        "id": "a11290",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 3075900,
+                        "end": 3076000,
+                        "content": "title=person=FORREST transcript=oooh", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=oooh", 
+    "title": "person=FORREST transcript=oooh"
+}
+                },
+
+                {
+                        "id": "a11291",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 3187300,
+                        "end": 3187400,
+                        "content": "title=person=FORREST transcript=au", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=au", 
+    "title": "person=FORREST transcript=au"
+}
+                },
+
+                {
+                        "id": "a11292",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 3311600,
+                        "end": 3311700,
+                        "content": "title=person=JOHNSON transcript=ööh", 
+                        "parsed": {
+    "_all": "title=person=JOHNSON transcript=ööh", 
+    "title": "person=JOHNSON transcript=ööh"
+}
+                },
+
+                {
+                        "id": "a11293",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 3325400,
+                        "end": 3325700,
+                        "content": "title=person=MS. GUMP transcript=huuaaaah", 
+                        "parsed": {
+    "_all": "title=person=MS. GUMP transcript=huuaaaah", 
+    "title": "person=MS. GUMP transcript=huuaaaah"
+}
+                },
+
+                {
+                        "id": "a11294",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 3326000,
+                        "end": 3326600,
+                        "content": "title=person=CROWD IN WHITE HOUSE transcript=ooooaaah", 
+                        "parsed": {
+    "_all": "title=person=CROWD IN WHITE HOUSE transcript=ooooaaah", 
+    "title": "person=CROWD IN WHITE HOUSE transcript=ooooaaah"
+}
+                },
+
+                {
+                        "id": "a11295",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 3326700,
+                        "end": 3327400,
+                        "content": "title=person=JOHNSON transcript=hehehe", 
+                        "parsed": {
+    "_all": "title=person=JOHNSON transcript=hehehe", 
+    "title": "person=JOHNSON transcript=hehehe"
+}
+                },
+
+                {
+                        "id": "a11296",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 3327400,
+                        "end": 3329800,
+                        "content": "title=person=CROWD IN WHITE HOUSE transcript=Background mumbling", 
+                        "parsed": {
+    "_all": "title=person=CROWD IN WHITE HOUSE transcript=Background mumbling", 
+    "title": "person=CROWD IN WHITE HOUSE transcript=Background mumbling"
+}
+                },
+
+                {
+                        "id": "a11297",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 3332800,
+                        "end": 3332900,
+                        "content": "title=person=JOHNSON transcript=hum", 
+                        "parsed": {
+    "_all": "title=person=JOHNSON transcript=hum", 
+    "title": "person=JOHNSON transcript=hum"
+}
+                },
+
+                {
+                        "id": "a11298",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 3410000,
+                        "end": 3420000,
+                        "content": "title=person=CROWD AT SPEECH transcript=Cheering", 
+                        "parsed": {
+    "_all": "title=person=CROWD AT SPEECH transcript=Cheering", 
+    "title": "person=CROWD AT SPEECH transcript=Cheering"
+}
+                },
+
+                {
+                        "id": "a11299",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 3421100,
+                        "end": 3436500,
+                        "content": "title=person=CROWD AT SPEECH transcript=Cheering at Screaming", 
+                        "parsed": {
+    "_all": "title=person=CROWD AT SPEECH transcript=Cheering at Screaming", 
+    "title": "person=CROWD AT SPEECH transcript=Cheering at Screaming"
+}
+                },
+
+                {
+                        "id": "a11300",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 3443500,
+                        "end": 3457000,
+                        "content": "title=person=CROWD AT SPEECH transcript=Cheering", 
+                        "parsed": {
+    "_all": "title=person=CROWD AT SPEECH transcript=Cheering", 
+    "title": "person=CROWD AT SPEECH transcript=Cheering"
+}
+                },
+
+                {
+                        "id": "a11301",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 3468100,
+                        "end": 3468400,
+                        "content": "title=person=FORREST transcript=uhm", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=uhm", 
+    "title": "person=FORREST transcript=uhm"
+}
+                },
+
+                {
+                        "id": "a11302",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 3530900,
+                        "end": 3531200,
+                        "content": "title=person=FORREST transcript=ähm", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=ähm", 
+    "title": "person=FORREST transcript=ähm"
+}
+                },
+
+                {
+                        "id": "a11303",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 3567200,
+                        "end": 3578100,
+                        "content": "title=person=CROWD AT SPEECH transcript=Cheering", 
+                        "parsed": {
+    "_all": "title=person=CROWD AT SPEECH transcript=Cheering", 
+    "title": "person=CROWD AT SPEECH transcript=Cheering"
+}
+                },
+
+                {
+                        "id": "a11304",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 3666400,
+                        "end": 3666900,
+                        "content": "title=person=WESLEY transcript=Errch", 
+                        "parsed": {
+    "_all": "title=person=WESLEY transcript=Errch", 
+    "title": "person=WESLEY transcript=Errch"
+}
+                },
+
+                {
+                        "id": "a11305",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 3672100,
+                        "end": 3673000,
+                        "content": "title=person=WESLEY transcript=hoch", 
+                        "parsed": {
+    "_all": "title=person=WESLEY transcript=hoch", 
+    "title": "person=WESLEY transcript=hoch"
+}
+                },
+
+                {
+                        "id": "a11306",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 3732400,
+                        "end": 3733200,
+                        "content": "title=person=JENNY transcript=uhmpf", 
+                        "parsed": {
+    "_all": "title=person=JENNY transcript=uhmpf", 
+    "title": "person=JENNY transcript=uhmpf"
+}
+                },
+
+                {
+                        "id": "a11307",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 3853800,
+                        "end": 3853900,
+                        "content": "title=person=FORREST transcript=eh", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=eh", 
+    "title": "person=FORREST transcript=eh"
+}
+                },
+
+                {
+                        "id": "a11308",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 3984300,
+                        "end": 3984600,
+                        "content": "title=person=FORREST transcript=uhm", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=uhm", 
+    "title": "person=FORREST transcript=uhm"
+}
+                },
+
+                {
+                        "id": "a11309",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 3985300,
+                        "end": 3985400,
+                        "content": "title=person=FORREST transcript=eh", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=eh", 
+    "title": "person=FORREST transcript=eh"
+}
+                },
+
+                {
+                        "id": "a11310",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 3992700,
+                        "end": 3994100,
+                        "content": "title=person=STUDIO AUDIENCE transcript=hahahahahaha", 
+                        "parsed": {
+    "_all": "title=person=STUDIO AUDIENCE transcript=hahahahahaha", 
+    "title": "person=STUDIO AUDIENCE transcript=hahahahahaha"
+}
+                },
+
+                {
+                        "id": "a11311",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 4071800,
+                        "end": 4072100,
+                        "content": "title=person=LT. DAN transcript=ohhh", 
+                        "parsed": {
+    "_all": "title=person=LT. DAN transcript=ohhh", 
+    "title": "person=LT. DAN transcript=ohhh"
+}
+                },
+
+                {
+                        "id": "a11312",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 4072900,
+                        "end": 4073200,
+                        "content": "title=person=LT. DAN transcript=ahhhh", 
+                        "parsed": {
+    "_all": "title=person=LT. DAN transcript=ahhhh", 
+    "title": "person=LT. DAN transcript=ahhhh"
+}
+                },
+
+                {
+                        "id": "a11313",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 4094200,
+                        "end": 4096200,
+                        "content": "title=person=LT. DAN transcript=wäääääh", 
+                        "parsed": {
+    "_all": "title=person=LT. DAN transcript=wäääääh", 
+    "title": "person=LT. DAN transcript=wäääääh"
+}
+                },
+
+                {
+                        "id": "a11314",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 4138900,
+                        "end": 4138300,
+                        "content": "title=person=LT. DAN transcript=HAHA", 
+                        "parsed": {
+    "_all": "title=person=LT. DAN transcript=HAHA", 
+    "title": "person=LT. DAN transcript=HAHA"
+}
+                },
+
+                {
+                        "id": "a11315",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 4140400,
+                        "end": 4141600,
+                        "content": "title=person=LT. DAN transcript=hehehehöhö", 
+                        "parsed": {
+    "_all": "title=person=LT. DAN transcript=hehehehöhö", 
+    "title": "person=LT. DAN transcript=hehehehöhö"
+}
+                },
+
+                {
+                        "id": "a11316",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 4212900,
+                        "end": 4308900,
+                        "content": "title=person=CROWD AT  BAR transcript=Noise in Background", 
+                        "parsed": {
+    "_all": "title=person=CROWD AT  BAR transcript=Noise in Background", 
+    "title": "person=CROWD AT  BAR transcript=Noise in Background"
+}
+                },
+
+                {
+                        "id": "a11317",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 4246500,
+                        "end": 4248600,
+                        "content": "title=person=LT. DAN transcript=huahahahahahaha", 
+                        "parsed": {
+    "_all": "title=person=LT. DAN transcript=huahahahahahaha", 
+    "title": "person=LT. DAN transcript=huahahahahahaha"
+}
+                },
+
+                {
+                        "id": "a11318",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 4251400,
+                        "end": 4251800,
+                        "content": "title=person=LT. DAN transcript=HAHA", 
+                        "parsed": {
+    "_all": "title=person=LT. DAN transcript=HAHA", 
+    "title": "person=LT. DAN transcript=HAHA"
+}
+                },
+
+                {
+                        "id": "a11319",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 4255800,
+                        "end": 4256300,
+                        "content": "title=person=LT. DAN transcript=HAHA", 
+                        "parsed": {
+    "_all": "title=person=LT. DAN transcript=HAHA", 
+    "title": "person=LT. DAN transcript=HAHA"
+}
+                },
+
+                {
+                        "id": "a11320",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 4262700,
+                        "end": 4263600,
+                        "content": "title=person=LT. DAN transcript=HAHAHA", 
+                        "parsed": {
+    "_all": "title=person=LT. DAN transcript=HAHAHA", 
+    "title": "person=LT. DAN transcript=HAHAHA"
+}
+                },
+
+                {
+                        "id": "a11321",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 4268220,
+                        "end": 4270000,
+                        "content": "title=person=LT. DAN transcript=ööhhahahaha", 
+                        "parsed": {
+    "_all": "title=person=LT. DAN transcript=ööhhahahaha", 
+    "title": "person=LT. DAN transcript=ööhhahahaha"
+}
+                },
+
+                {
+                        "id": "a11322",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 4270000,
+                        "end": 4270600,
+                        "content": "title=person=LEONOR transcript=öhöhöha", 
+                        "parsed": {
+    "_all": "title=person=LEONOR transcript=öhöhöha", 
+    "title": "person=LEONOR transcript=öhöhöha"
+}
+                },
+
+                {
+                        "id": "a11323",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 4272800,
+                        "end": 4274000,
+                        "content": "title=person=CARLA transcript=heeehee", 
+                        "parsed": {
+    "_all": "title=person=CARLA transcript=heeehee", 
+    "title": "person=CARLA transcript=heeehee"
+}
+                },
+
+                {
+                        "id": "a11324",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 4277300,
+                        "end": 4278300,
+                        "content": "title=person=LEONOR transcript=ehehehe", 
+                        "parsed": {
+    "_all": "title=person=LEONOR transcript=ehehehe", 
+    "title": "person=LEONOR transcript=ehehehe"
+}
+                },
+
+                {
+                        "id": "a11325",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 4279600,
+                        "end": 4280100,
+                        "content": "title=person=CARLA transcript=eeeha", 
+                        "parsed": {
+    "_all": "title=person=CARLA transcript=eeeha", 
+    "title": "person=CARLA transcript=eeeha"
+}
+                },
+
+                {
+                        "id": "a11326",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 4281700,
+                        "end": 4283900,
+                        "content": "title=person=LT. DAN transcript=ehehehahaha", 
+                        "parsed": {
+    "_all": "title=person=LT. DAN transcript=ehehehahaha", 
+    "title": "person=LT. DAN transcript=ehehehahaha"
+}
+                },
+
+                {
+                        "id": "a11327",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 4282000,
+                        "end": 4282900,
+                        "content": "title=person=LEONAR transcript=ihihihi", 
+                        "parsed": {
+    "_all": "title=person=LEONAR transcript=ihihihi", 
+    "title": "person=LEONAR transcript=ihihihi"
+}
+                },
+
+                {
+                        "id": "a11328",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 4343900,
+                        "end": 4373900,
+                        "content": "title=person=CROWD AT BAR transcript=cheering in background", 
+                        "parsed": {
+    "_all": "title=person=CROWD AT BAR transcript=cheering in background", 
+    "title": "person=CROWD AT BAR transcript=cheering in background"
+}
+                },
+
+                {
+                        "id": "a11329",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 4409800,
+                        "end": 4410000,
+                        "content": "title=person=FORREST transcript=ehm", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=ehm", 
+    "title": "person=FORREST transcript=ehm"
+}
+                },
+
+                {
+                        "id": "a11330",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 4489100,
+                        "end": 4489600,
+                        "content": "title=person=MS. GUMP transcript=haaaa", 
+                        "parsed": {
+    "_all": "title=person=MS. GUMP transcript=haaaa", 
+    "title": "person=MS. GUMP transcript=haaaa"
+}
+                },
+
+                {
+                        "id": "a11331",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 4498000,
+                        "end": 4498400,
+                        "content": "title=person=MS. GUMP transcript=heeee", 
+                        "parsed": {
+    "_all": "title=person=MS. GUMP transcript=heeee", 
+    "title": "person=MS. GUMP transcript=heeee"
+}
+                },
+
+                {
+                        "id": "a11332",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 4527700,
+                        "end": 4527800,
+                        "content": "title=person=MS. GUMP transcript=uhm", 
+                        "parsed": {
+    "_all": "title=person=MS. GUMP transcript=uhm", 
+    "title": "person=MS. GUMP transcript=uhm"
+}
+                },
+
+                {
+                        "id": "a11333",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 4527900,
+                        "end": 4528000,
+                        "content": "title=person=FORREST transcript=äääh", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=äääh", 
+    "title": "person=FORREST transcript=äääh"
+}
+                },
+
+                {
+                        "id": "a11334",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 4529000,
+                        "end": 4530000,
+                        "content": "title=person=MS. GUMP transcript=häääähäää", 
+                        "parsed": {
+    "_all": "title=person=MS. GUMP transcript=häääähäää", 
+    "title": "person=MS. GUMP transcript=häääähäää"
+}
+                },
+
+                {
+                        "id": "a11335",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 4549100,
+                        "end": 4551400,
+                        "content": "title=person=KIDS IN BACKGROUND transcript=Background noise", 
+                        "parsed": {
+    "_all": "title=person=KIDS IN BACKGROUND transcript=Background noise", 
+    "title": "person=KIDS IN BACKGROUND transcript=Background noise"
+}
+                },
+
+                {
+                        "id": "a11336",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 4620100,
+                        "end": 4620700,
+                        "content": "title=person=FORREST transcript=chhhhhh", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=chhhhhh", 
+    "title": "person=FORREST transcript=chhhhhh"
+}
+                },
+
+                {
+                        "id": "a11337",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 4664700,
+                        "end": 4667000,
+                        "content": "title=person=OLD SHRIMPER transcript=ehahahahehehechh", 
+                        "parsed": {
+    "_all": "title=person=OLD SHRIMPER transcript=ehahahahehehechh", 
+    "title": "person=OLD SHRIMPER transcript=ehahahahehehechh"
+}
+                },
+
+                {
+                        "id": "a11338",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 4699100,
+                        "end": 4700000,
+                        "content": "title=person=JENNY transcript=aaahaha", 
+                        "parsed": {
+    "_all": "title=person=JENNY transcript=aaahaha", 
+    "title": "person=JENNY transcript=aaahaha"
+}
+                },
+
+                {
+                        "id": "a11339",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 4797800,
+                        "end": 4799300,
+                        "content": "title=person=JENNY transcript=eeeeehaaaaaa", 
+                        "parsed": {
+    "_all": "title=person=JENNY transcript=eeeeehaaaaaa", 
+    "title": "person=JENNY transcript=eeeeehaaaaaa"
+}
+                },
+
+                {
+                        "id": "a11340",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 4836100,
+                        "end": 4837200,
+                        "content": "title=person=FORREST transcript=chhhhhHA", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=chhhhhHA", 
+    "title": "person=FORREST transcript=chhhhhHA"
+}
+                },
+
+                {
+                        "id": "a11341",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 4864700,
+                        "end": 4865000,
+                        "content": "title=person=FORREST transcript=ha", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=ha", 
+    "title": "person=FORREST transcript=ha"
+}
+                },
+
+                {
+                        "id": "a11342",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 4866900,
+                        "end": 4867200,
+                        "content": "title=person=FORREST transcript=hö", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=hö", 
+    "title": "person=FORREST transcript=hö"
+}
+                },
+
+                {
+                        "id": "a11343",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 4869300,
+                        "end": 4870000,
+                        "content": "title=person=FORREST transcript=ehhaha", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=ehhaha", 
+    "title": "person=FORREST transcript=ehhaha"
+}
+                },
+
+                {
+                        "id": "a11344",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 4884700,
+                        "end": 4886700,
+                        "content": "title=person=FORREST transcript=heeehahahaha", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=heeehahahaha", 
+    "title": "person=FORREST transcript=heeehahahaha"
+}
+                },
+
+                {
+                        "id": "a11345",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 4947000,
+                        "end": 4947700,
+                        "content": "title=person=LT. DAN transcript=HAHA", 
+                        "parsed": {
+    "_all": "title=person=LT. DAN transcript=HAHA", 
+    "title": "person=LT. DAN transcript=HAHA"
+}
+                },
+
+                {
+                        "id": "a11346",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 4961500,
+                        "end": 4961800,
+                        "content": "title=person=FORREST transcript=huu", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=huu", 
+    "title": "person=FORREST transcript=huu"
+}
+                },
+
+                {
+                        "id": "a11347",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 4966700,
+                        "end": 4967100,
+                        "content": "title=person=FORREST transcript=hach", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=hach", 
+    "title": "person=FORREST transcript=hach"
+}
+                },
+
+                {
+                        "id": "a11348",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 5033700,
+                        "end": 5037100,
+                        "content": "title=person=LT. DAN transcript=YIHAHAHAHAHAWHOOOO", 
+                        "parsed": {
+    "_all": "title=person=LT. DAN transcript=YIHAHAHAHAHAWHOOOO", 
+    "title": "person=LT. DAN transcript=YIHAHAHAHAHAWHOOOO"
+}
+                },
+
+                {
+                        "id": "a11349",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 5055500,
+                        "end": 5057200,
+                        "content": "title=person=LT. DAN transcript=HAHAHAHAHA", 
+                        "parsed": {
+    "_all": "title=person=LT. DAN transcript=HAHAHAHAHA", 
+    "title": "person=LT. DAN transcript=HAHAHAHAHA"
+}
+                },
+
+                {
+                        "id": "a11350",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 5062700,
+                        "end": 5064600,
+                        "content": "title=person=LT. DAN transcript=EEHAHAHAHA", 
+                        "parsed": {
+    "_all": "title=person=LT. DAN transcript=EEHAHAHAHA", 
+    "title": "person=LT. DAN transcript=EEHAHAHAHA"
+}
+                },
+
+                {
+                        "id": "a11351",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 5125600,
+                        "end": 5127500,
+                        "content": "title=person=MAN IN SAVANNAH transcript=chhhhahahaha", 
+                        "parsed": {
+    "_all": "title=person=MAN IN SAVANNAH transcript=chhhhahahaha", 
+    "title": "person=MAN IN SAVANNAH transcript=chhhhahahaha"
+}
+                },
+
+                {
+                        "id": "a11352",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 5131500,
+                        "end": 5133300,
+                        "content": "title=person=MAN IN SAVANNAH transcript=ha ha ha ha", 
+                        "parsed": {
+    "_all": "title=person=MAN IN SAVANNAH transcript=ha ha ha ha", 
+    "title": "person=MAN IN SAVANNAH transcript=ha ha ha ha"
+}
+                },
+
+                {
+                        "id": "a11353",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 5136700,
+                        "end": 5139900,
+                        "content": "title=person=MAN IN SAVANNAH transcript=chahahaha heee ha", 
+                        "parsed": {
+    "_all": "title=person=MAN IN SAVANNAH transcript=chahahaha heee ha", 
+    "title": "person=MAN IN SAVANNAH transcript=chahahaha heee ha"
+}
+                },
+
+                {
+                        "id": "a11354",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 5163200,
+                        "end": 5163700,
+                        "content": "title=person=WOMAN IN SAVANNAH transcript=hooo", 
+                        "parsed": {
+    "_all": "title=person=WOMAN IN SAVANNAH transcript=hooo", 
+    "title": "person=WOMAN IN SAVANNAH transcript=hooo"
+}
+                },
+
+                {
+                        "id": "a11355",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 5190300,
+                        "end": 5190800,
+                        "content": "title=person=LT. DAN transcript=erghh", 
+                        "parsed": {
+    "_all": "title=person=LT. DAN transcript=erghh", 
+    "title": "person=LT. DAN transcript=erghh"
+}
+                },
+
+                {
+                        "id": "a11356",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 5276800,
+                        "end": 5279000,
+                        "content": "title=person=CROWD AT HOSPITAL transcript=cheering", 
+                        "parsed": {
+    "_all": "title=person=CROWD AT HOSPITAL transcript=cheering", 
+    "title": "person=CROWD AT HOSPITAL transcript=cheering"
+}
+                },
+
+                {
+                        "id": "a11357",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 5417900,
+                        "end": 5418900,
+                        "content": "title=person=JENNY transcript=ehe", 
+                        "parsed": {
+    "_all": "title=person=JENNY transcript=ehe", 
+    "title": "person=JENNY transcript=ehe"
+}
+                },
+
+                {
+                        "id": "a11358",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 5539200,
+                        "end": 5539600,
+                        "content": "title=person=FORREST transcript=mhm", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=mhm", 
+    "title": "person=FORREST transcript=mhm"
+}
+                },
+
+                {
+                        "id": "a11359",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 5922300,
+                        "end": 5938200,
+                        "content": "title=person=GROUP OF REPORTER transcript=rambling in the background", 
+                        "parsed": {
+    "_all": "title=person=GROUP OF REPORTER transcript=rambling in the background", 
+    "title": "person=GROUP OF REPORTER transcript=rambling in the background"
+}
+                },
+
+                {
+                        "id": "a11360",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 6134500,
+                        "end": 6139500,
+                        "content": "title=person=CROWD ON THE TV transcript=background noise", 
+                        "parsed": {
+    "_all": "title=person=CROWD ON THE TV transcript=background noise", 
+    "title": "person=CROWD ON THE TV transcript=background noise"
+}
+                },
+
+                {
+                        "id": "a11361",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 6140900,
+                        "end": 6147400,
+                        "content": "title=person=CROWD ON THE TV transcript=screaming", 
+                        "parsed": {
+    "_all": "title=person=CROWD ON THE TV transcript=screaming", 
+    "title": "person=CROWD ON THE TV transcript=screaming"
+}
+                },
+
+                {
+                        "id": "a11362",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 6159100,
+                        "end": 6160000,
+                        "content": "title=person=WOMAN IN SAVANNAH transcript=ehhmhmhm", 
+                        "parsed": {
+    "_all": "title=person=WOMAN IN SAVANNAH transcript=ehhmhmhm", 
+    "title": "person=WOMAN IN SAVANNAH transcript=ehhmhmhm"
+}
+                },
+
+                {
+                        "id": "a11363",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 6240100,
+                        "end": 6240400,
+                        "content": "title=person=FORREST transcript=ooh", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=ooh", 
+    "title": "person=FORREST transcript=ooh"
+}
+                },
+
+                {
+                        "id": "a11364",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 6258000,
+                        "end": 6258900,
+                        "content": "title=person=JENNY transcript=huuuch", 
+                        "parsed": {
+    "_all": "title=person=JENNY transcript=huuuch", 
+    "title": "person=JENNY transcript=huuuch"
+}
+                },
+
+                {
+                        "id": "a11365",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 6266600,
+                        "end": 6267100,
+                        "content": "title=person=JENNY transcript=äääh", 
+                        "parsed": {
+    "_all": "title=person=JENNY transcript=äääh", 
+    "title": "person=JENNY transcript=äääh"
+}
+                },
+
+                {
+                        "id": "a11366",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 6277600,
+                        "end": 6278200,
+                        "content": "title=person=JENNY'S FRIEND transcript=uhuh", 
+                        "parsed": {
+    "_all": "title=person=JENNY'S FRIEND transcript=uhuh", 
+    "title": "person=JENNY'S FRIEND transcript=uhuh"
+}
+                },
+
+                {
+                        "id": "a11367",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 6406800,
+                        "end": 6408300,
+                        "content": "title=person=JENNY transcript=haaa hmmm", 
+                        "parsed": {
+    "_all": "title=person=JENNY transcript=haaa hmmm", 
+    "title": "person=JENNY transcript=haaa hmmm"
+}
+                },
+
+                {
+                        "id": "a11368",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 6443100,
+                        "end": 6443800,
+                        "content": "title=person=GIRL IN BACKGROUND transcript=iiiiiiiigh", 
+                        "parsed": {
+    "_all": "title=person=GIRL IN BACKGROUND transcript=iiiiiiiigh", 
+    "title": "person=GIRL IN BACKGROUND transcript=iiiiiiiigh"
+}
+                },
+
+                {
+                        "id": "a11369",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 6474200,
+                        "end": 6480900,
+                        "content": "title=person=WEDDING GUESTS transcript=background noise", 
+                        "parsed": {
+    "_all": "title=person=WEDDING GUESTS transcript=background noise", 
+    "title": "person=WEDDING GUESTS transcript=background noise"
+}
+                },
+
+                {
+                        "id": "a11370",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 6495100,
+                        "end": 6508500,
+                        "content": "title=person=WEDDING GUESTS transcript=background noise", 
+                        "parsed": {
+    "_all": "title=person=WEDDING GUESTS transcript=background noise", 
+    "title": "person=WEDDING GUESTS transcript=background noise"
+}
+                },
+
+                {
+                        "id": "a11371",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 6539900,
+                        "end": 6540700,
+                        "content": "title=person=JENNY transcript=mmhmm", 
+                        "parsed": {
+    "_all": "title=person=JENNY transcript=mmhmm", 
+    "title": "person=JENNY transcript=mmhmm"
+}
+                },
+
+                {
+                        "id": "a11372",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 6582200,
+                        "end": 6582900,
+                        "content": "title=person=FORREST transcript=hach", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=hach", 
+    "title": "person=FORREST transcript=hach"
+}
+                },
+
+                {
+                        "id": "a11373",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 6796400,
+                        "end": 6798000,
+                        "content": "title=person=FORREST transcript=ehmaahm", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=ehmaahm", 
+    "title": "person=FORREST transcript=ehmaahm"
+}
+                },
+
+                {
+                        "id": "a11374",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 6806200,
+                        "end": 6806800,
+                        "content": "title=person=FORREST transcript=haeeeeh", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=haeeeeh", 
+    "title": "person=FORREST transcript=haeeeeh"
+}
+                },
+
+                {
+                        "id": "a11375",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 6859000,
+                        "end": 6860300,
+                        "content": "title=person=FORREST transcript=hhhhaaahhhhm", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=hhhhaaahhhhm", 
+    "title": "person=FORREST transcript=hhhhaaahhhhm"
+}
+                },
+
+                {
+                        "id": "a11376",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 6917500,
+                        "end": 6917800,
+                        "content": "title=person=FORREST transcript=mhm", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=mhm", 
+    "title": "person=FORREST transcript=mhm"
+}
+                },
+
+                {
+                        "id": "a11377",
+                        "type": "non_speech_vocalization",
+                        "media": "/home/mih/forrest/forrestgump_researchcut_ad_ger.mkv",
+                        "begin": 6953800,
+                        "end": 6954100,
+                        "content": "title=person=FORREST transcript=heh", 
+                        "parsed": {
+    "_all": "title=person=FORREST transcript=heh", 
+    "title": "person=FORREST transcript=heh"
+}
+                }
+
+] }
