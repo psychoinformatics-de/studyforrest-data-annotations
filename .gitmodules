@@ -10,3 +10,6 @@
 [submodule "src/faces"]
 	path = src/faces
 	url = https://github.com/psychoinformatics-de/studyforrest-paper-faceannotation.git
+[submodule "src/bodycontact"]
+	path = src/bodycontact
+	url = https://github.com/psychoinformatics-de/studyforrest-paper-bodycontactannotation.git
