@@ -1,0 +1,870 @@
+onset	duration	major_location	setting	locale	int_or_ext	flow_of_time	time_of_day
+0.0	17.0	Paramount	mountain logo	mountain logo	ext	0	day
+17.0	151.08	Savannah	sky over Savannah	sky over Savannah	ext	++	day
+168.08	104.12	Savannah	bench at bus stop	bench at bus stop	ext	0	day
+272.2	14.12	Greenbow Alabama	doctor's office	doctor's office	int	-	day
+286.32	14.24	Greenbow Alabama	doctor's office	doctor's office	int	0	day
+300.56	11.4	Greenbow Alabama	doctor's office	doctor's office	int	0	day
+311.96	6.32	Greenbow Alabama	main street	crossroads	ext	+	day
+318.28	24.76	United States	flashback countryside	flashback countryside	ext	-	day
+343.04	10.04	Greenbow Alabama	main street	in front of barbershop	ext	++	day
+353.08	5.0	Greenbow Alabama	main street	in front of barbershop	ext	0	day
+358.08	1.96	Greenbow Alabama	main street	in front of barbershop	ext	0	day
+360.04	1.8	Greenbow Alabama	main street	in front of barbershop	ext	0	day
+361.84	1.2	Greenbow Alabama	main street	in front of barbershop	ext	0	day
+363.04	22.6	Greenbow Alabama	main street	in front of barbershop	ext	0	day
+385.64	17.16	Gump property	access-road	at the mail boxes	ext	+	day
+402.8	22.8	Gump property	access-road	alley to Gump House	ext	+	day
+425.6	8.88	Gump property	Gump House	front of Gump House	ext	0	day
+434.48	4.08	Greenbow Alabama	school	Hancock's office	int	++	day
+438.56	4.88	Greenbow Alabama	school	Hancock's office	int	0	day
+443.44	4.32	Greenbow Alabama	school	Hancock's office	int	0	day
+447.76	14.68	Greenbow Alabama	school	school hallway	int	0	day
+462.44	4.4	Greenbow Alabama	school	Hancock's office	int	0	day
+466.84	4.52	Greenbow Alabama	school	Hancock's office	int	0	day
+471.36	4.16	Greenbow Alabama	school	Hancock's office	int	0	day
+475.52	17.16	Greenbow Alabama	school	Hancock's office	int	0	day
+492.68	3.4	Greenbow Alabama	school	Hancock's office	int	0	day
+496.08	4.08	Greenbow Alabama	school	Hancock's office	int	0	day
+500.16	7.52	Greenbow Alabama	school	school hallway	int	0	day
+507.68	4.64	Greenbow Alabama	school	Hancock's office	int	0	day
+512.32	4.56	Greenbow Alabama	school	Hancock's office	int	0	day
+516.88	5.36	Gump property	Gump House	front of Gump House	ext	++	night
+522.24	4.52	Gump property	Gump House	front of Gump House	ext	0	night
+526.76	28.96	Gump property	Gump House	front of Gump House	ext	+	night
+555.72	30.76	Gump property	Gump House	Forrest's bedroom	int	+	night
+586.48	8.36	Gump property	Gump House	front of Gump House	ext	++	day
+594.84	17.24	Gump property	Gump House	corridor downstairs	int	0	day
+612.08	18.32	Gump property	Gump House	corridor upstairs	int	+	day
+630.4	2.08	Gump property	Gump House	Jenny's bedroom	int	0	day
+632.48	1.16	Gump property	Gump House	Jenny's bedroom	int	0	day
+633.64	2.72	Gump property	Gump House	Jenny's bedroom	int	0	day
+636.36	20.52	Gump property	Gump House	Jenny's bedroom	int	0	day
+656.88	2.56	Gump property	Gump House	Jenny's bedroom	int	0	day
+659.44	10.12	Gump property	Gump House	Jenny's bedroom	int	0	day
+669.56	5.44	Greenbow Alabama	main street	in front of electronic store	ext	++	night
+675.0	4.8	Greenbow Alabama	main street	in front of electronic store	ext	0	night
+679.8	1.76	Greenbow Alabama	main street	in front of electronic store	ext	0	night
+681.56	4.64	Greenbow Alabama	main street	in front of electronic store	ext	0	night
+686.2	6.32	Greenbow Alabama	main street	in front of electronic store	ext	0	night
+692.52	10.04	Greenbow Alabama	main street	in front of electronic store	ext	0	night
+702.56	10.12	Savannah	bench at bus stop	bench at bus stop	ext	++	day
+712.68	8.68	Gump property	access-road	at the mail boxes	ext	-	day
+721.36	6.08	Gump property	access-road	at the mail boxes	ext	0	day
+727.44	2.64	Gump property	access-road	at the mail boxes	ext	0	day
+730.08	2.8	Gump property	access-road	at the mail boxes	ext	0	day
+732.88	5.56	Gump property	access-road	at the mail boxes	ext	0	day
+738.44	2.24	Gump property	access-road	at the mail boxes	ext	0	day
+740.68	2.4	Gump property	access-road	at the mail boxes	ext	0	day
+743.08	2.08	Gump property	access-road	at the mail boxes	ext	0	day
+745.16	7.08	Gump property	access-road	at the mail boxes	ext	0	day
+752.24	3.0	Greenbow Alabama	school bus	inside driving bus	int	0	day
+755.24	2.64	Greenbow Alabama	school bus	inside driving bus	int	0	day
+757.88	1.44	Greenbow Alabama	school bus	inside driving bus	int	0	day
+759.32	1.32	Greenbow Alabama	school bus	inside driving bus	int	0	day
+760.64	1.0	Greenbow Alabama	school bus	inside driving bus	int	0	day
+761.64	8.6	Greenbow Alabama	school bus	inside driving bus	int	0	day
+770.24	1.04	Greenbow Alabama	school bus	inside driving bus	int	0	day
+771.28	7.24	Greenbow Alabama	school bus	inside driving bus	int	0	day
+778.52	12.52	Savannah	bench at bus stop	bench at bus stop	ext	++	day
+791.04	8.52	Greenbow Alabama	school bus	inside driving bus	int	-	day
+799.56	2.2	Greenbow Alabama	school bus	inside driving bus	int	0	day
+801.76	4.52	Greenbow Alabama	school bus	inside driving bus	int	0	day
+806.28	1.72	Greenbow Alabama	school bus	inside driving bus	int	0	day
+808.0	5.44	Greenbow Alabama	school bus	inside driving bus	int	0	day
+813.44	15.88	Greenbow Alabama	school bus	inside driving bus	int	0	day
+829.32	4.16	Greenbow Alabama	school bus	inside driving bus	int	0	day
+833.48	3.48	Greenbow Alabama	school bus	inside driving bus	int	0	day
+836.96	2.92	Greenbow Alabama	school bus	inside driving bus	int	0	day
+839.88	7.44	Greenbow Alabama	school bus	inside driving bus	int	0	day
+847.32	4.8	Greenbow Alabama	tree on a field	tree on a field	ext	++	day
+852.12	5.08	Greenbow Alabama	tree on a field	tree on a field	ext	+	day
+857.2	3.96	Greenbow Alabama	tree on a field	tree on a field	ext	++	day
+861.16	4.04	Greenbow Alabama	tree on a field	tree on a field	ext	+	day
+865.2	7.12	Greenbow Alabama	tree on a field	tree on a field	ext	++	day
+872.32	13.76	Greenbow Alabama	tree on a field	tree on a field	ext	0	day
+886.08	5.08	Savannah	bench at bus stop	bench at bus stop	ext	++	day
+891.16	8.64	Savannah	bench at bus stop	bench at bus stop	ext	0	day
+899.8	2.0	Gump property	access-road	alley to Gump House	ext	-	day
+901.8	1.16	Gump property	access-road	alley to Gump House	ext	0	day
+902.96	1.92	Gump property	access-road	alley to Gump House	ext	0	day
+904.88	1.12	Gump property	access-road	alley to Gump House	ext	0	day
+906.0	1.96	Gump property	access-road	alley to Gump House	ext	0	day
+907.96	1.08	Gump property	access-road	alley to Gump House	ext	0	day
+909.04	1.44	Gump property	access-road	alley to Gump House	ext	0	day
+910.48	0.8	Gump property	access-road	alley to Gump House	ext	0	day
+911.28	1.44	Gump property	access-road	alley to Gump House	ext	0	day
+912.72	2.08	Gump property	access-road	alley to Gump House	ext	0	day
+914.8	1.6	Gump property	access-road	alley to Gump House	ext	0	day
+916.4	3.56	Gump property	access-road	alley to Gump House	ext	0	day
+919.96	4.92	Gump property	access-road	alley to Gump House	ext	0	day
+924.88	3.28	Gump property	access-road	alley to Gump House	ext	0	day
+928.16	3.0	Gump property	access-road	alley to Gump House	ext	0	day
+931.16	1.4	Gump property	access-road	alley to Gump House	ext	0	day
+932.56	1.36	Gump property	access-road	alley to Gump House	ext	0	day
+933.92	1.64	Gump property	access-road	alley to Gump House	ext	0	day
+935.56	1.76	Gump property	access-road	alley to Gump House	ext	0	day
+937.32	6.0	Gump property	access-road	alley to Gump House	ext	0	day
+943.32	2.32	Gump property	access-road	alley to Gump House	ext	0	day
+945.64	2.52	Gump property	access-road	alley to Gump House	ext	0	day
+948.16	2.92	Gump property	access-road	alley to Gump House	ext	0	day
+951.08	2.76	Gump property	access-road	alley to Gump House	ext	0	day
+953.84	5.76	Gump property	access-road	alley to Gump House	ext	0	day
+959.6	1.84	Gump property	access-road	alley to Gump House	ext	0	day
+961.44	1.8	Gump property	access-road	alley to Gump House	ext	0	day
+963.24	1.64	Gump property	access-road	alley to Gump House	ext	0	day
+964.88	3.84	Gump property	access-road	alley to Gump House	ext	0	day
+968.72	3.84	Gump property	access-road	alley to Gump House	ext	0	day
+972.56	2.52	Gump property	access-road	alley to Gump House	ext	0	day
+975.08	4.92	Gump property	access-road	alley to Gump House	ext	0	day
+980.0	3.28	Savannah	bench at bus stop	bench at bus stop	ext	++	day
+983.28	1.6	Savannah	bench at bus stop	bench at bus stop	ext	0	day
+984.88	6.36	Savannah	bench at bus stop	bench at bus stop	ext	0	day
+991.24	9.36	Gump property	access-road	alley to Gump House	ext	-	day
+1000.6	8.36	Gump property	access-road	meadow near Gump House	ext	0	day
+1008.96	6.52	Greenbow Alabama	road with bridge	road with bridge	ext	+	day
+1015.48	3.24	Greenbow Alabama	road between trees	road between trees	ext	+	day
+1018.72	8.04	Greenbow Alabama	main street	in front of barbershop	ext	+	day
+1026.76	13.52	Greenbow Alabama	Jenny's house	front of Jenny's house	ext	+	day
+1040.28	20.92	Greenbow Alabama	Jenny's house	front of Jenny's house	ext	0	day
+1061.2	11.72	Greenbow Alabama	Jenny's house	front of Jenny's house	ext	0	day
+1072.92	2.04	Greenbow Alabama	Jenny's house	field near Jenny's house	ext	0	day
+1074.96	3.68	Greenbow Alabama	Jenny's house	field near Jenny's house	ext	0	day
+1078.64	4.68	Greenbow Alabama	Jenny's house	field near Jenny's house	ext	0	day
+1083.32	1.4	Greenbow Alabama	Jenny's house	field near Jenny's house	ext	0	day
+1084.72	2.12	Greenbow Alabama	Jenny's house	field near Jenny's house	ext	0	day
+1086.84	7.84	Greenbow Alabama	Jenny's house	field near Jenny's house	ext	0	day
+1094.68	15.6	Greenbow Alabama	Jenny's house	field near Jenny's house	ext	0	day
+1110.28	13.6	Greenbow Alabama	Jenny's grandma's trailer	Jenny's grandma's trailer	ext	++	day
+1123.88	11.92	Gump property	Gump House	front of Gump House	ext	++	night
+1135.8	8.6	Gump property	Gump House	Forrest's bedroom	int	+	night
+1144.4	4.96	Gump property	access-road	alley to Gump House	ext	++	day
+1149.36	0.84	Gump property	access-road	alley to Gump House	ext	0	day
+1150.2	2.84	Gump property	access-road	alley to Gump House	ext	0	day
+1153.04	1.32	Gump property	access-road	alley to Gump House	ext	0	day
+1154.36	0.72	Gump property	access-road	alley to Gump House	ext	0	day
+1155.08	2.28	Gump property	access-road	alley to Gump House	ext	0	day
+1157.36	3.28	Gump property	access-road	alley to Gump House	ext	0	day
+1160.64	1.36	Gump property	access-road	alley to Gump House	ext	0	day
+1162.0	1.16	Gump property	access-road	alley to Gump House	ext	0	day
+1163.16	0.92	Gump property	access-road	alley to Gump House	ext	0	day
+1164.08	0.96	Gump property	access-road	alley to Gump House	ext	0	day
+1165.04	1.32	Gump property	access-road	alley to Gump House	ext	0	day
+1166.36	1.28	Gump property	access-road	alley to Gump House	ext	0	day
+1167.64	2.16	Gump property	access-road	alley to Gump House	ext	0	day
+1169.8	1.84	Gump property	access-road	alley to Gump House	ext	0	day
+1171.64	1.36	Gump property	access-road	inside the pursuing car	int	0	day
+1173.0	1.44	Gump property	access-road	alley to Gump House	ext	0	day
+1174.44	1.04	Gump property	access-road	alley to Gump House	ext	0	day
+1175.48	2.32	Gump property	access-road	alley to Gump House	ext	0	day
+1177.8	0.88	Gump property	access-road	alley to Gump House	ext	0	day
+1178.68	1.72	Gump property	access-road	alley to Gump House	ext	0	day
+1180.4	9.16	Gump property	access-road	alley to Gump House	ext	0	day
+1189.56	2.56	Gump property	access-road	alley to Gump House	ext	0	day
+1192.12	1.88	Gump property	access-road	meadow near Gump House	ext	0	day
+1194.0	7.8	Savannah	bench at bus stop	bench at bus stop	ext	++	day
+1201.8	8.96	Greenbow Alabama	football field	road next to football field	ext	-	day
+1210.76	7.48	Greenbow Alabama	football field	road next to football field	ext	0	day
+1218.24	0.88	Greenbow Alabama	football field	stands	ext	0	day
+1219.12	0.84	Greenbow Alabama	football field	on the football field	ext	0	day
+1219.96	2.52	Greenbow Alabama	football field	stands	ext	0	day
+1222.48	4.2	Greenbow Alabama	football field	on the football field	ext	0	day
+1226.68	4.44	Greenbow Alabama	football field	stands	ext	0	day
+1231.12	1.72	Greenbow Alabama	football field	stands	ext	0	day
+1232.84	3.04	Greenbow Alabama	football field	stands	ext	0	day
+1235.88	5.16	Greenbow Alabama	football field	on the football field	ext	0	day
+1241.04	0.88	University of Alabama	football stadium	football field in stadium	ext	++	day
+1241.92	2.92	University of Alabama	football stadium	stands	ext	0	day
+1244.84	6.0	University of Alabama	football stadium	football field in stadium	ext	0	day
+1250.84	2.88	University of Alabama	football stadium	technical area	ext	0	day
+1253.72	4.68	University of Alabama	football stadium	football field in stadium	ext	0	day
+1258.4	2.88	University of Alabama	football stadium	football field in stadium	ext	0	day
+1261.28	4.6	University of Alabama	football stadium	stands	ext	0	day
+1265.88	2.96	University of Alabama	football stadium	technical area	ext	0	day
+1268.84	1.92	University of Alabama	football stadium	football field in stadium	ext	0	day
+1270.76	2.76	University of Alabama	football stadium	football field in stadium	ext	0	day
+1273.52	3.56	University of Alabama	football stadium	football field in stadium	ext	0	day
+1277.08	2.2	University of Alabama	football stadium	football field in stadium	ext	0	day
+1279.28	5.0	University of Alabama	football stadium	end zone	ext	0	day
+1284.28	8.28	University of Alabama	football stadium	technical area	ext	0	day
+1292.56	5.28	University of Alabama	Margaret Mitchell Hall	Margaret Mitchell Hall	ext	++	night
+1297.84	2.8	University of Alabama	Margaret Mitchell Hall	Margaret Mitchell Hall	ext	0	night
+1300.64	2.24	University of Alabama	Margaret Mitchell Hall	Margaret Mitchell Hall	ext	0	night
+1302.88	3.36	University of Alabama	Margaret Mitchell Hall	Margaret Mitchell Hall	ext	0	night
+1306.24	4.56	University of Alabama	Margaret Mitchell Hall	Margaret Mitchell Hall	ext	0	night
+1310.8	3.64	University of Alabama	Margaret Mitchell Hall	Margaret Mitchell Hall	ext	0	night
+1314.44	5.4	University of Alabama	Margaret Mitchell Hall	Margaret Mitchell Hall	ext	0	night
+1319.84	3.36	University of Alabama	Margaret Mitchell Hall	Margaret Mitchell Hall	ext	0	night
+1323.2	0.96	University of Alabama	Margaret Mitchell Hall	Margaret Mitchell Hall	ext	0	night
+1324.16	5.4	University of Alabama	Margaret Mitchell Hall	Margaret Mitchell Hall	ext	0	night
+1329.56	55.24	University of Alabama	Margaret Mitchell Hall	Margaret Mitchell Hall	ext	0	night
+1384.8	12.92	University of Alabama	girl's dormitory	corrridor	int	+	night
+1397.72	42.36	University of Alabama	girl's dormitory	Jenny's room	int	+	night
+1440.08	6.84	University of Alabama	girl's dormitory	Jenny's room	int	0	night
+1446.92	5.68	University of Alabama	girl's dormitory	Jenny's room	int	0	night
+1452.6	5.16	University of Alabama	girl's dormitory	Jenny's room	int	0	night
+1457.76	24.84	University of Alabama	girl's dormitory	Jenny's room	int	0	night
+1482.6	9.36	University of Alabama	girl's dormitory	Jenny's room	int	0	night
+1491.96	23.48	University of Alabama	girl's dormitory	Jenny's room	int	0	night
+1515.44	9.84	University of Alabama	girl's dormitory	Jenny's room	int	0	night
+1525.28	3.32	University of Alabama	football stadium	stands	ext	++	day
+1528.6	3.36	University of Alabama	football stadium	football field in stadium	ext	0	day
+1531.96	1.36	University of Alabama	football stadium	end zone	ext	0	day
+1533.32	1.36	University of Alabama	football stadium	football field in stadium	ext	0	day
+1534.68	5.48	University of Alabama	football stadium	end zone	ext	0	day
+1540.16	5.04	University of Alabama	football stadium	end zone	ext	0	day
+1545.2	4.4	Washington D.C.	White House	front of White House (broadcast)	ext	++	day
+1549.6	6.8	Washington D.C.	White House	unknown_1 (broadcast)	int	0	day
+1556.4	19.84	Washington D.C.	White House	room with buffet	int	+	day
+1576.24	3.8	Washington D.C.	White House	room with buffet	int	+	day
+1580.04	8.36	Washington D.C.	White House	Oval Office (broadcast)	int	+	day
+1588.4	5.92	Washington D.C.	White House	Oval Office (broadcast)	int	0	day
+1594.32	4.88	Washington D.C.	White House	Oval Office (broadcast)	int	0	day
+1599.2	19.88	Washington D.C.	White House	president's bathroom	int	+	day
+1619.08	4.2	Dallas	downtown Dallas	Dealey Plaza (broadcast)	ext	++	day
+1623.28	4.72	Los Angeles	Ambassador Hotel	ballroom (broadcast)	int	++	day
+1628.0	6.12	Savannah	bench at bus stop	bench at bus stop	ext	++	day
+1634.12	9.28	University of Alabama	college graduation	stage and audience	ext	-	day
+1643.4	2.12	University of Alabama	college graduation	stage and audience	ext	0	day
+1645.52	13.0	University of Alabama	college graduation	in front of statue	ext	+	day
+1658.52	2.64	University of Alabama	college graduation	in front of statue	ext	0	day
+1661.16	6.32	United States	army bus	inside army bus	int	++	day
+1667.48	14.36	United States	army bus	inside army bus	int	0	day
+1681.84	1.92	United States	army bus	inside army bus	int	0	day
+1683.76	2.04	United States	army bus	inside army bus	int	0	day
+1685.8	4.32	United States	army bus	inside army bus	int	0	day
+1690.12	2.36	United States	army bus	inside army bus	int	0	day
+1692.48	42.96	United States	army bus	inside army bus	int	0	day
+1735.44	4.08	Bayou La Batre	fine house	fine house's dining room	int	-	day
+1739.52	5.28	Bayou La Batre	fine house	fine house's dining room	int	-	day
+1744.8	14.32	United States	army bus	inside army bus	int	++	day
+1759.12	37.28	United States	barracks	dormitory	int	++	day
+1796.4	49.12	United States	barracks	dormitory	int	++	day
+1845.52	10.84	United States	barracks	dormitory	int	++	day
+1856.36	15.44	United States	barracks	dormitory	int	++	day
+1871.8	4.8	United States	barracks	dormitory	int	++	night
+1876.6	21.8	United States	barracks	dormitory	int	0	night
+1898.4	3.28	United States	barracks	dormitory	int	0	night
+1901.68	5.64	United States	barracks	dormitory	int	0	night
+1907.32	8.48	United States	barracks	dormitory	int	0	night
+1915.8	35.64	Memphis	night club	inside the night club	int	++	night
+1951.44	1.12	Memphis	night club	inside the night club	int	0	night
+1952.56	14.2	Memphis	night club	inside the night club	int	0	night
+1966.76	11.68	Memphis	night club	inside the night club	int	0	night
+1978.44	6.04	Memphis	night club	inside the night club	int	0	night
+1984.48	5.84	Memphis	night club	inside the night club	int	0	night
+1990.32	3.16	Memphis	night club	inside the night club	int	0	night
+1993.48	5.32	Memphis	night club	inside the night club	int	0	night
+1998.8	2.64	Memphis	night club	inside the night club	int	0	night
+2001.44	1.44	Memphis	night club	inside the night club	int	0	night
+2002.88	1.92	Memphis	night club	inside the night club	int	0	night
+2004.8	0.64	Memphis	night club	inside the night club	int	0	night
+2005.44	8.2	Memphis	night club	inside the night club	int	0	night
+2013.64	3.52	Memphis	night club	inside the night club	int	0	night
+2017.16	3.12	Memphis	night club	inside the night club	int	0	night
+2020.28	4.72	Memphis	night club	inside the night club	int	0	night
+2025.0	3.96	Memphis	night club	inside the night club	int	0	night
+2028.96	9.0	Memphis	bridge near club	bridge near club	ext	+	night
+2037.96	3.92	Memphis	bridge near club	bridge near club	ext	0	night
+2041.88	3.44	Memphis	bridge near club	bridge near club	ext	0	night
+2045.32	4.2	Memphis	bridge near club	bridge near club	ext	0	night
+2049.52	23.72	Memphis	bridge near club	bridge near club	ext	0	night
+2073.24	9.88	Memphis	bridge near club	bridge near club	ext	0	night
+2083.12	6.48	Memphis	bridge near club	bridge near club	ext	0	night
+2089.6	13.68	Memphis	bridge near club	bridge near club	ext	0	night
+2103.28	2.4	Memphis	bridge near club	bridge near club	ext	0	night
+2105.68	1.6	Memphis	bridge near club	bridge near club	ext	0	night
+2107.28	4.08	Memphis	bridge near club	bridge near club	ext	0	night
+2111.36	1.56	Memphis	bridge near club	bridge near club	ext	0	night
+2112.92	2.8	Memphis	bridge near club	bridge near club	ext	0	night
+2115.72	11.68	Memphis	bridge near club	bridge near club	ext	0	night
+2127.4	4.24	Memphis	bridge near club	bridge near club	ext	0	night
+2131.64	4.0	Memphis	bridge near club	bridge near club	ext	0	night
+2135.64	1.48	Memphis	bridge near club	bridge near club	ext	0	night
+2137.12	1.4	Memphis	bridge near club	bridge near club	ext	0	night
+2138.52	3.84	Memphis	bridge near club	bridge near club	ext	0	night
+2142.36	3.76	Memphis	bridge near club	bridge near club	ext	0	night
+2146.12	1.52	Memphis	bridge near club	bridge near club	ext	0	night
+2147.64	2.96	Memphis	bridge near club	bridge near club	ext	0	night
+2150.6	15.88	Vietnam	Military Base	helicopter	ext	++	day
+2166.48	26.68	Vietnam	Military Base	helicopter	ext	+	day
+2193.16	24.52	Vietnam	Military Base	barbecue near river	ext	0	day
+2217.68	39.16	Vietnam	Military Base	at Dan's tent	ext	0	day
+2256.84	4.64	Vietnam	Military Base	at Dan's tent	ext	0	day
+2261.48	4.56	Vietnam	Military Base	at Dan's tent	ext	0	day
+2266.04	13.24	Vietnam	Military Base	at Dan's tent	ext	0	day
+2279.28	2.0	Vietnam	Military Base	at Dan's tent	ext	0	day
+2281.28	5.44	Vietnam	Military Base	at Dan's tent	ext	0	day
+2286.72	19.76	Vietnam	Military Base	at Dan's tent	ext	0	day
+2306.48	2.48	Vietnam	Military Base	at Dan's tent	ext	0	day
+2308.96	1.48	United States	battlefield in Revolutionary War	battlefield in Revolutionary War	ext	-	day
+2310.44	1.6	United States	battlefield in American Zivil War	battlefield in American Zivil War	ext	++	day
+2312.04	1.16	Europe	battlefield in World War 1	battlefield in World War 1	ext	++	day
+2313.2	2.08	Europe	battlefield in World War 2	battlefield in World War 2	ext	++	day
+2315.28	44.28	Vietnam	Military Base	at Dan's tent	ext	++	day
+2359.56	8.32	Vietnam	rice field in front of mountains	rice field in front of mountains	ext	++	day
+2367.88	7.48	Vietnam	rice field in front of mountains	rice field in front of mountains	ext	0	day
+2375.36	11.36	Vietnam	road betweeen rice fields	road betweeen rice fields	ext	++	day
+2386.72	9.96	Vietnam	road betweeen rice fields	road betweeen rice fields	ext	0	day
+2396.68	2.04	Vietnam	road betweeen rice fields	road betweeen rice fields	ext	0	day
+2398.72	7.16	Vietnam	road betweeen rice fields	road betweeen rice fields	ext	0	day
+2405.88	15.28	Vietnam	road betweeen rice fields	road betweeen rice fields	ext	0	day
+2421.16	1.88	Vietnam	road betweeen rice fields	road betweeen rice fields	ext	0	day
+2423.04	8.04	Vietnam	road betweeen rice fields	road betweeen rice fields	ext	0	day
+2431.08	3.2	Vietnam	road betweeen rice fields	road betweeen rice fields	ext	0	day
+2434.28	7.0	Vietnam	road betweeen rice fields	road betweeen rice fields	ext	0	day
+2441.28	1.6	Vietnam	road betweeen rice fields	road betweeen rice fields	ext	0	day
+2442.88	3.04	Vietnam	road betweeen rice fields	road betweeen rice fields	ext	0	day
+2445.92	1.52	Vietnam	road betweeen rice fields	road betweeen rice fields	ext	0	day
+2447.44	1.6	Vietnam	road betweeen rice fields	road betweeen rice fields	ext	0	day
+2449.04	2.16	Vietnam	road betweeen rice fields	road betweeen rice fields	ext	0	day
+2451.2	4.12	Vietnam	road betweeen rice fields	road betweeen rice fields	ext	0	day
+2455.32	5.68	Vietnam	road betweeen rice fields	road betweeen rice fields	ext	0	day
+2461.0	2.84	Vietnam	road betweeen rice fields	road betweeen rice fields	ext	0	day
+2463.84	13.04	Vietnam	road betweeen rice fields	road betweeen rice fields	ext	0	day
+2476.88	11.72	Vietnam	field with NLF tunnel	field with NLF tunnel	ext	++	day
+2488.6	10.6	Vietnam	flooded rice field	flooded rice field	ext	++	day
+2499.2	5.96	Vietnam	foxhole in jungle	foxhole in jungle	ext	++	day
+2505.16	3.8	Vietnam	random rainy jungle	random rainy jungle	ext	++	day
+2508.96	2.72	Vietnam	rainy field	rainy field	ext	++	day
+2511.68	5.04	Vietnam	flooded jungle	flooded jungle	ext	++	day
+2516.72	66.28	Vietnam	rain-swept camp	rain-swept camp	ext	++	night
+2583.0	17.84	Vietnam	rain-swept camp	rain-swept camp	ext	+	night
+2600.84	10.72	Greenbow Alabama	Jenny's grandma's trailer	Jenny's grandma's trailer	ext	0	day
+2611.56	7.2	Vietnam	rain-swept camp	rain-swept camp	ext	0	night
+2618.76	41.56	Vietnam	embattled jungle	embattled embankment	ext	++	day
+2660.32	5.8	Vietnam	embattled jungle	embattled embankment	ext	0	day
+2666.12	1.72	Vietnam	embattled jungle	embattled embankment	ext	0	day
+2667.84	1.36	Vietnam	embattled jungle	embattled embankment	ext	0	day
+2669.2	1.4	Vietnam	embattled jungle	embattled embankment	ext	0	day
+2670.6	8.12	Vietnam	embattled jungle	embattled embankment	ext	0	day
+2678.72	2.32	Vietnam	embattled jungle	embattled embankment	ext	0	day
+2681.04	3.8	Vietnam	embattled jungle	embattled embankment	ext	0	day
+2684.84	1.8	Vietnam	embattled jungle	embattled embankment	ext	0	day
+2686.64	0.8	Vietnam	embattled jungle	embattled embankment	ext	0	day
+2687.44	1.56	Vietnam	embattled jungle	embattled embankment	ext	0	day
+2689.0	2.16	Vietnam	embattled jungle	embattled embankment	ext	0	day
+2691.16	1.48	Vietnam	embattled jungle	embattled embankment	ext	0	day
+2692.64	0.96	Vietnam	embattled jungle	embattled embankment	ext	0	day
+2693.6	6.0	Vietnam	embattled jungle	embattled embankment	ext	0	day
+2699.6	1.68	Vietnam	embattled jungle	embattled embankment	ext	0	day
+2701.28	1.16	Vietnam	embattled jungle	embattled embankment	ext	0	day
+2702.44	0.84	Vietnam	embattled jungle	embattled embankment	ext	0	day
+2703.28	1.16	Vietnam	embattled jungle	embattled embankment	ext	0	day
+2704.44	1.76	Vietnam	embattled jungle	embattled embankment	ext	0	day
+2706.2	0.68	Vietnam	embattled jungle	embattled embankment	ext	0	day
+2706.88	1.44	Vietnam	embattled jungle	embattled embankment	ext	0	day
+2708.32	0.8	Vietnam	embattled jungle	embattled embankment	ext	0	day
+2709.12	1.6	Vietnam	embattled jungle	embattled embankment	ext	0	day
+2710.72	1.44	Vietnam	embattled jungle	embattled embankment	ext	0	day
+2712.16	3.12	Vietnam	embattled jungle	embattled embankment	ext	0	day
+2715.28	7.72	Vietnam	embattled jungle	embattled embankment	ext	0	day
+2723.0	3.92	Vietnam	embattled jungle	in the embattled jungle	ext	0	day
+2726.92	8.24	Vietnam	embattled jungle	in the embattled jungle	ext	0	day
+2735.16	8.84	Vietnam	embattled jungle	in the embattled jungle	ext	0	day
+2744.0	17.76	Vietnam	embattled jungle	in front of embattled jungle	ext	0	day
+2761.76	4.8	Vietnam	embattled jungle	in the embattled jungle	ext	0	day
+2766.56	13.92	Vietnam	embattled jungle	finding place of Tex	ext	0	day
+2780.48	1.8	Vietnam	embattled jungle	finding place of Tex	ext	0	day
+2782.28	1.08	Vietnam	embattled jungle	finding place of Tex	ext	0	day
+2783.36	6.12	Vietnam	embattled jungle	finding place of Tex	ext	0	day
+2789.48	1.72	Vietnam	embattled jungle	finding place of Tex	ext	0	day
+2791.2	6.44	Vietnam	embattled jungle	in the embattled jungle	ext	0	day
+2797.64	10.8	Vietnam	embattled jungle	glade at river	ext	+	day
+2808.44	4.32	Vietnam	embattled jungle	in the embattled jungle	ext	+	day
+2812.76	5.48	Vietnam	embattled jungle	glade at river	ext	+	day
+2818.24	2.88	Vietnam	embattled jungle	finding place of Dallas	ext	+	day
+2821.12	2.16	Vietnam	embattled jungle	glade at river	ext	+	day
+2823.28	2.92	Vietnam	embattled jungle	glade at river	ext	0	day
+2826.2	4.72	Vietnam	embattled jungle	in the embattled jungle	ext	+	day
+2830.92	25.32	Vietnam	embattled jungle	finding place of Dan	ext	0	day
+2856.24	9.16	Vietnam	embattled jungle	finding place of Dan	ext	0	day
+2865.4	6.2	Vietnam	embattled jungle	glade in embattled jungle	ext	+	day
+2871.6	4.64	Vietnam	embattled jungle	glade in embattled jungle	ext	0	day
+2876.24	1.68	Vietnam	embattled jungle	glade in embattled jungle	ext	0	day
+2877.92	3.32	Vietnam	embattled jungle	glade in embattled jungle	ext	0	day
+2881.24	2.68	Vietnam	embattled jungle	in the embattled jungle	ext	+	day
+2883.92	5.12	Vietnam	embattled jungle	in the embattled jungle	ext	0	day
+2889.04	7.2	Vietnam	embattled jungle	in front of embattled jungle	ext	0	day
+2896.24	4.84	Vietnam	embattled jungle	glade at river	ext	0	day
+2901.08	7.12	Vietnam	embattled jungle	glade at river	ext	0	day
+2908.2	6.04	Vietnam	embattled jungle	glade at river	ext	0	day
+2914.24	7.28	Vietnam	embattled jungle	in the embattled jungle	ext	+	day
+2921.52	8.4	Vietnam	embattled jungle	finding place of Bubba	ext	0	day
+2929.92	8.2	Vietnam	embattled jungle	finding place of Bubba	ext	0	day
+2938.12	1.84	Vietnam	embattled jungle	finding place of Bubba	ext	0	day
+2939.96	25.08	Vietnam	embattled jungle	finding place of Bubba	ext	0	day
+2965.04	5.44	Vietnam	embattled jungle	in the embattled jungle	ext	+	day
+2970.48	6.24	Vietnam	embattled jungle	in the embattled jungle	ext	0	day
+2976.72	25.08	Vietnam	embattled jungle	in front of embattled jungle	ext	0	day
+3001.8	11.32	Vietnam	embattled jungle	glade at river	ext	+	day
+3013.12	14.72	Vietnam	embattled jungle	glade at river	ext	0	day
+3027.84	13.6	Vietnam	embattled jungle	glade at river	ext	0	day
+3041.44	18.36	Vietnam	embattled jungle	glade at river	ext	0	day
+3059.8	13.92	Savannah	bench at bus stop	bench at bus stop	ext	++	day
+3073.72	20.2	Savannah	bench at bus stop	bench at bus stop	ext	0	day
+3093.92	31.72	Vietnam	hospital dormitory	hospital dormitory	int	-	day
+3125.64	15.04	Vietnam	hospital dormitory	hospital dormitory	int	0	day
+3140.68	15.24	Vietnam	hospital dormitory	hospital dormitory	int	0	day
+3155.92	8.68	Vietnam	hospital dormitory	hospital dormitory	int	0	day
+3164.6	6.64	Vietnam	hospital dormitory	hospital dormitory	int	0	day
+3171.24	54.32	Vietnam	hospital lounge	hospital lounge	int	++	day
+3225.56	5.92	Vietnam	hospital lounge	hospital lounge	int	++	day
+3231.48	3.48	Vietnam	hospital lounge	hospital lounge	int	0	day
+3234.96	16.84	Vietnam	hospital lounge	hospital lounge	int	++	day
+3251.8	15.96	Vietnam	hospital lounge	hospital lounge	int	++	day
+3267.76	8.76	Vietnam	hospital dormitory	hospital dormitory	int	++	day
+3276.52	17.48	Vietnam	hospital dormitory	hospital dormitory	int	0	day
+3294.0	3.56	Washington D.C.	White House	front of White House (broadcast)	ext	++	day
+3297.56	4.84	Greenbow Alabama	main street	in the barbershop	int	0	day
+3302.4	3.36	Greenbow Alabama	main street	in the barbershop	int	0	day
+3305.76	1.96	Washington D.C.	White House	room in White House (broadcast)	int	0	day
+3307.72	1.68	Washington D.C.	White House	room in White House (broadcast)	int	0	day
+3309.4	5.44	Washington D.C.	White House	room in White House (broadcast)	int	0	day
+3314.84	1.92	Washington D.C.	White House	room in White House (broadcast)	int	0	day
+3316.76	6.8	Washington D.C.	White House	room in White House (broadcast)	int	0	day
+3323.56	3.76	Greenbow Alabama	main street	in the barbershop	int	0	day
+3327.32	1.36	Greenbow Alabama	main street	in the barbershop	int	0	day
+3328.68	0.92	Washington D.C.	White House	room in White House (broadcast)	int	0	day
+3329.6	1.0	Washington D.C.	White House	room in White House (broadcast)	int	0	day
+3330.6	4.04	Washington D.C.	White House	room in White House (broadcast)	int	0	day
+3334.64	13.48	Washington D.C.	Lincoln Memorial	bus stop near Lincoln Memorial	ext	++	day
+3348.12	10.4	Washington D.C.	Lincoln Memorial	bus stop near Lincoln Memorial	ext	0	day
+3358.52	1.72	Washington D.C.	Lincoln Memorial	bus stop near Lincoln Memorial	ext	0	day
+3360.24	9.08	Washington D.C.	Lincoln Memorial	bus stop near Lincoln Memorial	ext	0	day
+3369.32	28.36	Washington D.C.	Lincoln Memorial	behind the stage	ext	0	day
+3397.68	5.6	Washington D.C.	Lincoln Memorial	behind the stage	ext	0	day
+3403.28	7.28	Washington D.C.	Lincoln Memorial	behind the stage	ext	0	day
+3410.56	3.04	Washington D.C.	Lincoln Memorial	behind the stage	ext	0	day
+3413.6	3.0	Washington D.C.	Lincoln Memorial	behind the stage	ext	0	day
+3416.6	1.4	Washington D.C.	Lincoln Memorial	behind the stage	ext	0	day
+3418.0	20.4	Washington D.C.	Lincoln Memorial	behind the stage	ext	0	day
+3438.4	4.68	Washington D.C.	Lincoln Memorial	between Lincoln Memorial and Reflecting Pool	ext	0	day
+3443.08	2.36	Washington D.C.	Lincoln Memorial	between Lincoln Memorial and Reflecting Pool	ext	0	day
+3445.44	3.76	Washington D.C.	Lincoln Memorial	between Lincoln Memorial and Reflecting Pool	ext	0	day
+3449.2	5.76	Washington D.C.	Lincoln Memorial	between Lincoln Memorial and Reflecting Pool	ext	0	day
+3454.96	3.64	Washington D.C.	Lincoln Memorial	between Lincoln Memorial and Reflecting Pool	ext	0	day
+3458.6	19.28	Washington D.C.	Lincoln Memorial	between Lincoln Memorial and Reflecting Pool	ext	0	day
+3477.88	9.92	Washington D.C.	Lincoln Memorial	between Lincoln Memorial and Reflecting Pool	ext	0	day
+3487.8	2.48	Washington D.C.	Lincoln Memorial	between Lincoln Memorial and Reflecting Pool	ext	0	day
+3490.28	10.48	Washington D.C.	Lincoln Memorial	between Lincoln Memorial and Reflecting Pool	ext	0	day
+3500.76	3.44	Washington D.C.	Lincoln Memorial	between Lincoln Memorial and Reflecting Pool	ext	0	day
+3504.2	3.2	Washington D.C.	Lincoln Memorial	between Lincoln Memorial and Reflecting Pool	ext	0	day
+3507.4	1.88	Washington D.C.	Lincoln Memorial	between Lincoln Memorial and Reflecting Pool	ext	0	day
+3509.28	2.56	Washington D.C.	Lincoln Memorial	between Lincoln Memorial and Reflecting Pool	ext	0	day
+3511.84	4.12	Washington D.C.	Lincoln Memorial	between Lincoln Memorial and Reflecting Pool	ext	0	day
+3515.96	3.88	Washington D.C.	Lincoln Memorial	between Lincoln Memorial and Reflecting Pool	ext	0	day
+3519.84	6.08	Washington D.C.	Lincoln Memorial	between Lincoln Memorial and Reflecting Pool	ext	0	day
+3525.92	9.92	Washington D.C.	Lincoln Memorial	between Lincoln Memorial and Reflecting Pool	ext	0	day
+3535.84	7.2	Washington D.C.	Lincoln Memorial	between Lincoln Memorial and Reflecting Pool	ext	0	day
+3543.04	1.16	Washington D.C.	Lincoln Memorial	between Lincoln Memorial and Reflecting Pool	ext	0	day
+3544.2	1.96	Washington D.C.	Lincoln Memorial	between Lincoln Memorial and Reflecting Pool	ext	0	day
+3546.16	1.88	Washington D.C.	Lincoln Memorial	between Lincoln Memorial and Reflecting Pool	ext	0	day
+3548.04	1.64	Washington D.C.	Lincoln Memorial	between Lincoln Memorial and Reflecting Pool	ext	0	day
+3549.68	2.4	Washington D.C.	Lincoln Memorial	between Lincoln Memorial and Reflecting Pool	ext	0	day
+3552.08	2.16	Washington D.C.	Lincoln Memorial	between Lincoln Memorial and Reflecting Pool	ext	0	day
+3554.24	1.92	Washington D.C.	Lincoln Memorial	between Lincoln Memorial and Reflecting Pool	ext	0	day
+3556.16	1.92	Washington D.C.	Lincoln Memorial	between Lincoln Memorial and Reflecting Pool	ext	0	day
+3558.08	1.16	Washington D.C.	Lincoln Memorial	between Lincoln Memorial and Reflecting Pool	ext	0	day
+3559.24	4.64	Washington D.C.	Lincoln Memorial	between Lincoln Memorial and Reflecting Pool	ext	0	day
+3563.88	3.68	Washington D.C.	Lincoln Memorial	between Lincoln Memorial and Reflecting Pool	ext	0	day
+3567.56	10.84	Washington D.C.	Lincoln Memorial	between Lincoln Memorial and Reflecting Pool	ext	0	day
+3578.4	8.68	Washington D.C.	protester's camp	protester's camp	ext	++	night
+3587.08	6.44	Washington D.C.	Black Panther's HQ	Black Panther's HQ	int	++	night
+3593.52	45.92	Washington D.C.	Black Panther's HQ	Black Panther's HQ	int	0	night
+3639.44	3.72	Washington D.C.	Black Panther's HQ	Black Panther's HQ	int	0	night
+3643.16	2.04	Washington D.C.	Black Panther's HQ	Black Panther's HQ	int	0	night
+3645.2	0.68	Washington D.C.	Black Panther's HQ	Black Panther's HQ	int	0	night
+3645.88	1.08	Washington D.C.	Black Panther's HQ	Black Panther's HQ	int	0	night
+3646.96	5.64	Washington D.C.	Black Panther's HQ	Black Panther's HQ	int	0	night
+3652.6	1.2	Washington D.C.	Black Panther's HQ	Black Panther's HQ	int	0	night
+3653.8	0.48	Washington D.C.	Black Panther's HQ	Black Panther's HQ	int	0	night
+3654.28	0.64	Washington D.C.	Black Panther's HQ	Black Panther's HQ	int	0	night
+3654.92	0.68	Washington D.C.	Black Panther's HQ	Black Panther's HQ	int	0	night
+3655.6	0.56	Washington D.C.	Black Panther's HQ	Black Panther's HQ	int	0	night
+3656.16	1.52	Washington D.C.	Black Panther's HQ	Black Panther's HQ	int	0	night
+3657.68	1.2	Washington D.C.	Black Panther's HQ	Black Panther's HQ	int	0	night
+3658.88	2.44	Washington D.C.	Black Panther's HQ	Black Panther's HQ	int	0	night
+3661.32	1.28	Washington D.C.	Black Panther's HQ	Black Panther's HQ	int	0	night
+3662.6	1.2	Washington D.C.	Black Panther's HQ	Black Panther's HQ	int	0	night
+3663.8	16.52	Washington D.C.	Black Panther's HQ	Black Panther's HQ	int	0	night
+3680.32	2.64	Washington D.C.	Black Panther's HQ	Black Panther's HQ	int	0	night
+3682.96	9.88	Washington D.C.	Black Panther's HQ	Black Panther's HQ	int	0	night
+3692.84	1.6	Washington D.C.	Black Panther's HQ	Black Panther's HQ	int	0	night
+3694.44	3.56	Washington D.C.	Black Panther's HQ	Black Panther's HQ	int	0	night
+3698.0	2.6	Washington D.C.	Black Panther's HQ	Black Panther's HQ	int	0	night
+3700.6	51.48	Washington D.C.	White House	front of White House	ext	+	night
+3752.08	2.28	United States	flashback highway	flashback highway	ext	-	day
+3754.36	2.36	United States	flashback highway	flashback highway	ext	0	day
+3756.72	7.24	United States	hippie camp	turn on tune in drop out	ext	++	night
+3763.96	8.72	Hollywood	Walk of Fame	in front of cinema	ext	++	day
+3772.68	2.24	Hollywood	Walk of Fame	in front of cinema	ext	0	day
+3774.92	1.44	Hollywood	Walk of Fame	in front of cinema	ext	0	day
+3776.36	1.36	Hollywood	Walk of Fame	in front of cinema	ext	0	day
+3777.72	7.72	Washington D.C.	Tidal Basin with Jefferson Memorial	Tidal Basin with Jefferson Memorial	ext	++	day
+3785.44	20.6	Washington D.C.	bus stop	bus stop	ext	+	day
+3806.04	11.84	Washington D.C.	bus stop	bus stop	ext	0	day
+3817.88	14.52	Washington D.C.	bus stop	bus stop	ext	0	day
+3832.4	12.4	Washington D.C.	bus stop	bus stop	ext	0	day
+3844.8	5.64	Washington D.C.	bus stop	bus stop	ext	0	day
+3850.44	6.56	Washington D.C.	bus stop	bus stop	ext	0	day
+3857.0	3.04	Washington D.C.	bus stop	bus stop	ext	0	day
+3860.04	3.52	Washington D.C.	bus stop	bus stop	ext	0	day
+3863.56	4.84	Washington D.C.	bus stop	bus stop	ext	0	day
+3868.4	3.52	Washington D.C.	bus stop	bus stop	ext	0	day
+3871.92	8.12	Washington D.C.	bus stop	bus stop	ext	0	day
+3880.04	1.4	Washington D.C.	bus stop	bus stop	ext	0	day
+3881.44	1.36	Washington D.C.	bus stop	bus stop	ext	0	day
+3882.8	1.28	Washington D.C.	bus stop	bus stop	ext	0	day
+3884.08	1.96	Washington D.C.	bus stop	bus stop	ext	0	day
+3886.04	1.36	Washington D.C.	bus stop	bus stop	ext	0	day
+3887.4	1.12	Washington D.C.	bus stop	bus stop	ext	0	day
+3888.52	5.4	Washington D.C.	bus stop	bus stop	ext	0	day
+3893.92	0.88	Washington D.C.	bus stop	bus stop	ext	0	day
+3894.8	1.48	Washington D.C.	bus stop	bus stop	ext	0	day
+3896.28	1.56	Washington D.C.	bus stop	bus stop	ext	0	day
+3897.84	2.4	Washington D.C.	bus stop	bus stop	ext	0	day
+3900.24	4.84	Washington D.C.	bus stop	bus stop	ext	0	day
+3905.08	6.72	Washington D.C.	bus stop	bus stop	ext	0	day
+3911.8	26.6	United States	veteran's hospital	veteran's hospital lounge	int	++	day
+3938.4	3.04	Savannah	bench at bus stop	bench at bus stop	ext	++	day
+3941.44	5.52	China	Ping Pong Tournament	inside stadium	int	-	day
+3946.96	3.2	China	Ping Pong Tournament	inside stadium	int	0	day
+3950.16	2.32	China	Ping Pong Tournament	inside stadium	int	0	day
+3952.48	5.56	China	Ping Pong Tournament	inside stadium	int	0	day
+3958.04	1.92	Savannah	bench at bus stop	bench at bus stop	ext	++	day
+3959.96	2.92	Savannah	bench at bus stop	bench at bus stop	ext	0	day
+3962.88	3.4	New York	TV studio	TV studio (broadcast)	int	-	day
+3966.28	8.36	New York	TV studio	TV studio (broadcast)	int	0	day
+3974.64	11.68	New York	TV studio	TV studio (broadcast)	int	0	day
+3986.32	6.24	New York	TV studio	TV studio (broadcast)	int	0	day
+3992.56	2.2	New York	TV studio	TV studio (broadcast)	int	0	day
+3994.76	6.12	New York	TV studio	TV studio (broadcast)	int	0	day
+4000.88	3.52	New York	TV studio	TV studio (broadcast)	int	0	day
+4004.4	16.2	New York	TV studio	TV studio (broadcast)	int	0	day
+4020.6	10.56	New York	outside the TV studio	outside the TV studio	ext	+	day
+4031.16	2.6	New York	outside the TV studio	outside the TV studio	ext	0	day
+4033.76	4.92	New York	outside the TV studio	outside the TV studio	ext	0	day
+4038.68	4.72	New York	outside the TV studio	outside the TV studio	ext	0	day
+4043.4	11.2	New York	outside the TV studio	outside the TV studio	ext	0	day
+4054.6	2.28	New York	outside the TV studio	outside the TV studio	ext	0	day
+4056.88	6.4	New York	outside the TV studio	outside the TV studio	ext	0	day
+4063.28	2.44	New York	outside the TV studio	outside the TV studio	ext	0	day
+4065.72	3.36	New York	outside the TV studio	outside the TV studio	ext	0	day
+4069.08	1.36	New York	outside the TV studio	outside the TV studio	ext	0	day
+4070.44	1.08	New York	outside the TV studio	outside the TV studio	ext	0	day
+4071.52	1.36	New York	outside the TV studio	outside the TV studio	ext	0	day
+4072.88	2.24	New York	outside the TV studio	outside the TV studio	ext	0	day
+4075.12	0.88	New York	outside the TV studio	outside the TV studio	ext	0	day
+4076.0	2.44	New York	outside the TV studio	outside the TV studio	ext	0	day
+4078.44	10.64	New York	red light district	red light district	ext	++	night
+4089.08	22.92	New York	red light district	red light district	ext	0	night
+4112.0	5.32	New York	Dan's apartment	Dan's apartment	int	+	night
+4117.32	6.72	New York	Dan's apartment	Dan's apartment	int	0	night
+4124.04	7.72	New York	Dan's apartment	Dan's apartment	int	0	night
+4131.76	3.2	New York	Dan's apartment	Dan's apartment	int	0	night
+4134.96	3.56	New York	Dan's apartment	Dan's apartment	int	0	night
+4138.52	5.6	New York	Dan's apartment	Dan's apartment	int	0	night
+4144.12	15.8	New York	Dan's apartment	Dan's apartment	int	0	night
+4159.92	3.36	New York	Dan's apartment	Dan's apartment	int	0	night
+4163.28	26.72	New York	Dan's apartment	Dan's apartment	int	0	night
+4190.0	5.24	New York	Dan's apartment	Dan's apartment	int	0	night
+4195.24	5.44	New York	Dan's apartment	Dan's apartment	int	0	night
+4200.68	7.28	New York	Dan's apartment	Dan's apartment	int	0	night
+4207.96	2.44	New York	Dan's apartment	Dan's apartment	int	0	night
+4210.4	1.68	New York	Dan's apartment	Dan's apartment	int	0	night
+4212.08	1.08	New York	Dan's apartment	Dan's apartment	int	0	night
+4213.16	96.92	New York	bar in New York	bar in New York	int	++	night
+4310.08	32.8	California	apartment with mirrored wall	apartment with mirrored wall	int	0	night
+4342.88	31.32	New York	bar in New York	bar in New York	int	0	night
+4374.2	4.64	Washington D.C.	White House	front of White House (broadcast)	ext	++	day
+4378.84	12.28	Savannah	bench at bus stop	bench at bus stop	ext	++	day
+4391.12	17.4	Washington D.C.	White House	unknown_2 (broadcast)	int	-	day
+4408.52	22.88	Washington D.C.	Watergate Hotel	room in Watergate Hotel	int	++	night
+4431.4	21.32	United States	gymnasium	gymnasium	int	++	day
+4452.72	35.2	United States	gymnasium	gymnasium	int	0	day
+4487.92	16.12	Gump property	Gump House	front of Gump House	ext	++	day
+4504.04	3.56	Gump property	Gump House	front of Gump House	ext	0	day
+4507.6	36.72	Gump property	Gump House	corridor downstairs	int	0	day
+4544.32	10.64	Bayou La Batre	Bubba's Home	Bubba's Home	ext	++	day
+4554.96	4.36	Bayou La Batre	Bubba's Home	Bubba's Home	ext	+	day
+4559.32	2.24	Bayou La Batre	Bubba's Home	Bubba's Home	ext	0	day
+4561.56	1.84	Bayou La Batre	Bubba's Home	Bubba's Home	ext	0	day
+4563.4	3.48	Bayou La Batre	Bubba's Grave	Bubba's Grave	ext	+	day
+4566.88	4.8	Bayou La Batre	Bubba's Grave	Bubba's Grave	ext	0	day
+4571.68	16.92	Bayou La Batre	Bubba's Grave	Bubba's Grave	ext	0	day
+4588.6	9.12	Bayou La Batre	harbor	gangplank to ships	ext	+	day
+4597.72	6.96	Bayou La Batre	harbor	stall	ext	+	day
+4604.68	9.8	Bayou La Batre	Bubba's Grave	Bubba's Grave	ext	+	day
+4614.48	14.56	Bayou La Batre	Bubba's Grave	Bubba's Grave	ext	0	day
+4629.04	15.92	Bayou La Batre	on the boat	on the boat	ext	++	day
+4644.96	13.92	Bayou La Batre	on the boat	on the boat	ext	0	day
+4658.88	22.32	Bayou La Batre	harbor	landing stages	ext	++	day
+4681.2	7.84	Bayou La Batre	harbor	landing stages	ext	0	day
+4689.04	19.32	California	Disco	Disco	int	+	night
+4708.36	5.44	Bayou La Batre	on the boat	on the boat	ext	+	day
+4713.8	23.4	California	apartment with balcony	bedroom	int	+	night
+4737.2	5.08	California	apartment with balcony	bedroom	int	0	night
+4742.28	7.12	California	apartment with balcony	balcony	ext	0	night
+4749.4	12.56	California	apartment with balcony	balcony	ext	0	night
+4761.96	2.48	California	apartment with balcony	balcony	ext	0	night
+4764.44	3.56	California	apartment with balcony	balcony	ext	0	night
+4768.0	2.96	California	apartment with balcony	balcony	ext	0	night
+4770.96	1.76	California	apartment with balcony	balcony	ext	0	night
+4772.72	2.08	California	apartment with balcony	balcony	ext	0	night
+4774.8	1.36	California	apartment with balcony	balcony	ext	0	night
+4776.16	6.36	California	apartment with balcony	balcony	ext	0	night
+4782.52	18.08	California	apartment with balcony	balcony	ext	0	night
+4800.6	18.16	Bayou La Batre	on the boat	on the boat	ext	0	night
+4818.76	11.6	Bayou La Batre	harbor	jetty	ext	++	day
+4830.36	2.44	Bayou La Batre	harbor	jetty	ext	0	day
+4832.8	4.92	Bayou La Batre	harbor	jetty	ext	0	day
+4837.72	1.72	Bayou La Batre	harbor	jetty	ext	0	day
+4839.44	1.52	Bayou La Batre	harbor	jetty	ext	0	day
+4840.96	3.04	Bayou La Batre	harbor	jetty	ext	0	day
+4844.0	6.0	Bayou La Batre	harbor	jetty	ext	0	day
+4850.0	21.0	Bayou La Batre	harbor	jetty	ext	0	day
+4871.0	2.32	Bayou La Batre	harbor	jetty	ext	0	day
+4873.32	2.08	Bayou La Batre	harbor	jetty	ext	0	day
+4875.4	8.68	Bayou La Batre	harbor	jetty	ext	0	day
+4884.08	5.48	Bayou La Batre	harbor	jetty	ext	0	day
+4889.56	7.88	Bayou La Batre	harbor	jetty	ext	0	day
+4897.44	3.0	Bayou La Batre	harbor	jetty	ext	0	day
+4900.44	2.12	Bayou La Batre	harbor	jetty	ext	0	day
+4902.56	14.4	Bayou La Batre	harbor	jetty	ext	0	day
+4916.96	5.72	Bayou La Batre	on the boat	on the boat	ext	++	day
+4922.68	12.72	Bayou La Batre	on the boat	on the boat	ext	0	day
+4935.4	8.08	Bayou La Batre	on the boat	on the boat	ext	0	day
+4943.48	7.68	Bayou La Batre	on the boat	on the boat	ext	0	day
+4951.16	22.4	Bayou La Batre	on the boat	on the boat	ext	+	day
+4973.56	8.6	Bayou La Batre	Foursquare Church	Foursquare Church	int	++	day
+4982.16	7.0	Bayou La Batre	Foursquare Church	Foursquare Church	int	0	day
+4989.16	25.28	Bayou La Batre	on the boat	on the boat	ext	++	day
+5014.44	17.28	Bayou La Batre	on the boat	on the boat	ext	++	day
+5031.72	12.24	Bayou La Batre	on the boat	on the boat	ext	0	day
+5043.96	3.84	Bayou La Batre	on the boat	on the boat	ext	0	day
+5047.8	5.44	Bayou La Batre	on the boat	on the boat	ext	0	day
+5053.24	5.52	Bayou La Batre	on the boat	on the boat	ext	0	day
+5058.76	5.8	Bayou La Batre	on the boat	on the boat	ext	0	day
+5064.56	2.04	Gump property	Gump House	living room	int	++	day
+5066.6	7.56	Bayou La Batre	harbor	yet another jetty	ext	0	day
+5074.16	10.44	Gump property	Gump House	living room	int	0	day
+5084.6	2.44	Gump property	Gump House	living room	int	0	day
+5087.04	3.04	Gump property	Gump House	living room	int	0	day
+5090.08	1.28	Bayou La Batre	on the boat	on the boat	ext	++	day
+5091.36	1.44	Bayou La Batre	on the boat	on the boat	ext	++	day
+5092.8	6.88	Bayou La Batre	on the boat	on the boat	ext	++	day
+5099.68	18.96	Savannah	bench at bus stop	bench at bus stop	ext	++	day
+5118.64	4.6	Savannah	bench at bus stop	bench at bus stop	ext	0	day
+5123.24	18.08	Savannah	bench at bus stop	bench at bus stop	ext	0	day
+5141.32	3.52	Savannah	bench at bus stop	bench at bus stop	ext	0	day
+5144.84	17.12	Savannah	bench at bus stop	bench at bus stop	ext	0	day
+5161.96	1.92	Savannah	bench at bus stop	bench at bus stop	ext	0	day
+5163.88	2.88	Savannah	bench at bus stop	bench at bus stop	ext	0	day
+5166.76	1.72	Bayou La Batre	on the boat	on the boat	ext	-	day
+5168.48	2.6	Bayou La Batre	on the boat	on the boat	ext	0	day
+5171.08	6.32	Bayou La Batre	on the boat	on the boat	ext	0	day
+5177.4	1.36	Bayou La Batre	on the boat	on the boat	ext	0	day
+5178.76	2.64	Bayou La Batre	on the boat	on the boat	ext	0	day
+5181.4	1.28	Bayou La Batre	on the boat	on the boat	ext	0	day
+5182.68	10.4	Bayou La Batre	on the boat	on the boat	ext	0	day
+5193.08	4.88	Bayou La Batre	on the boat	on the boat	ext	0	day
+5197.96	9.88	Bayou La Batre	on the boat	on the boat	ext	0	day
+5207.84	29.92	Savannah	bench at bus stop	bench at bus stop	ext	++	day
+5237.76	4.6	Greenbow Alabama	football field	on the football field	ext	-	day
+5242.36	10.68	Gump property	access-road	at the mail boxes	ext	++	day
+5253.04	4.28	Savannah	bench at bus stop	bench at bus stop	ext	++	day
+5257.32	5.84	Bayou La Batre	Foursquare Church	Foursquare Church	int	-	day
+5263.16	9.36	Bayou La Batre	Foursquare Church	in front of Foursquare Church	ext	++	day
+5272.52	6.28	Bayou La Batre	Gump Medical Center	Gump Medical Center	ext	++	day
+5278.8	11.6	Bayou La Batre	Bubba's Home	Bubba's Home	ext	++	day
+5290.4	1.68	Savannah	bench at bus stop	bench at bus stop	ext	++	day
+5292.08	6.4	Bayou La Batre	Bubba's mother's dining room	Bubba's mother's dining room	int	-	day
+5298.48	8.72	Greenbow Alabama	football field	on the football field	ext	++	day
+5307.2	10.84	Gump property	Gump House	front of Gump House	ext	++	night
+5318.04	8.96	Gump property	Gump House	front of Gump House	ext	0	night
+5327.0	22.12	Gump property	Gump House	front of Gump House	ext	0	night
+5349.12	18.92	Gump property	Gump House	garden	ext	+	day
+5368.04	13.72	Gump property	Gump House	front of Gump House	ext	0	day
+5381.76	5.72	Gump property	Gump House	garden	ext	0	day
+5387.48	2.76	Gump property	Gump House	garden	ext	0	day
+5390.24	9.4	Gump property	Gump House	garden	ext	0	day
+5399.64	2.24	Gump property	Gump House	garden	ext	0	day
+5401.88	2.32	Gump property	Gump House	garden	ext	0	day
+5404.2	5.12	Gump property	Gump House	garden	ext	0	day
+5409.32	2.04	Gump property	Gump House	garden	ext	0	day
+5411.36	3.0	Gump property	Gump House	garden	ext	0	day
+5414.36	3.12	Gump property	Gump House	garden	ext	0	day
+5417.48	5.36	Gump property	Gump House	garden	ext	0	day
+5422.84	7.08	Gump property	Gump House	garden	ext	0	day
+5429.92	15.92	Gump property	Gump House	Jenny's bedroom	int	++	day
+5445.84	17.88	Greenbow Alabama	random meadow	random meadow	ext	++	day
+5463.72	10.28	Greenbow Alabama	tree on a field	tree on a field	ext	++	day
+5474.0	7.4	Gump property	Gump House	unknown_1	int	++	day
+5481.4	7.28	Gump property	Gump House	front of Gump House	ext	++	day
+5488.68	19.36	Gump property	Gump House	front of Gump House	ext	++	day
+5508.04	12.96	Greenbow Alabama	riverside	riverside	ext	++	day
+5521.0	27.56	Gump property	Gump House	living room	int	++	night
+5548.56	12.4	Gump property	Gump House	corridor downstairs	int	0	night
+5560.96	4.36	Gump property	Gump House	corridor downstairs	int	0	night
+5565.32	4.04	Gump property	Gump House	corridor downstairs	int	0	night
+5569.36	4.6	Gump property	Gump House	corridor downstairs	int	0	night
+5573.96	5.28	Gump property	Gump House	corridor downstairs	int	0	night
+5579.24	2.28	Gump property	Gump House	corridor downstairs	int	0	night
+5581.52	11.16	Gump property	Gump House	corridor downstairs	int	0	night
+5592.68	1.96	Gump property	Gump House	corridor downstairs	int	0	night
+5594.64	3.44	Gump property	Gump House	corridor downstairs	int	0	night
+5598.08	3.64	Gump property	Gump House	corridor downstairs	int	0	night
+5601.72	3.32	Gump property	Gump House	corridor downstairs	int	0	night
+5605.04	4.0	Gump property	Gump House	front of Gump House	ext	+	night
+5609.04	20.96	Gump property	Gump House	Forrest's bedroom	int	+	night
+5630.0	21.48	Gump property	Gump House	Forrest's bedroom	int	0	night
+5651.48	11.16	Gump property	Gump House	Forrest's bedroom	int	0	night
+5662.64	17.0	Gump property	Gump House	front of Gump House	ext	++	day
+5679.64	9.76	Gump property	Gump House	front of Gump House	ext	0	day
+5689.4	17.16	Gump property	Gump House	Forrest's bedroom	int	0	day
+5706.56	13.48	Gump property	Gump House	unknown_2	int	++	day
+5720.04	8.64	Gump property	Gump House	Jenny's bedroom	int	++	day
+5728.68	8.32	Gump property	Gump House	living room	int	++	day
+5737.0	19.4	Gump property	Gump House	front of Gump House	ext	++	day
+5756.4	16.32	Gump property	Gump House	front of Gump House	ext	0	day
+5772.72	6.56	Gump property	access-road	alley to Gump House	ext	0	day
+5779.28	6.64	Gump property	access-road	at the mail boxes	ext	+	day
+5785.92	4.6	Greenbow Alabama	main street	in the barbershop	int	+	day
+5790.52	8.32	Greenbow Alabama	road with bridge	road with bridge	ext	+	day
+5798.84	5.6	Mississippi	road with Mississippi sign	road with Mississippi sign	ext	++	day
+5804.44	6.36	Savannah	bench at bus stop	bench at bus stop	ext	++	day
+5810.8	4.2	Santa Monica	yacht harbor	yacht harbor	ext	-	day
+5815.0	9.72	Santa Monica	yacht harbor	yacht harbor's jetty	ext	+	day
+5824.72	11.52	Atlantic Ocean	beacon	beacon	ext	++	day
+5836.24	5.36	Atlantic Ocean	beacon	beacon	ext	0	day
+5841.6	5.64	Savannah	bench at bus stop	bench at bus stop	ext	++	day
+5847.24	3.28	Savannah	bench at bus stop	bench at bus stop	ext	0	day
+5850.52	3.04	Savannah	bench at bus stop	bench at bus stop	ext	0	day
+5853.56	9.4	United States	road at a river	road at a river	ext	-	day
+5862.96	6.92	United States	road between wheat fields	road between wheat fields	ext	++	day
+5869.88	7.48	Rocky Mountains	stone bridge	stone bridge	ext	++	day
+5877.36	6.92	United States	road between fences	road between fences	ext	++	day
+5884.28	10.04	United States	autumn forrest	autumn forrest with houses	ext	++	day
+5894.32	6.04	United States	autumn forrest	road trough autumn forrest	ext	+	day
+5900.36	6.28	Greenbow Alabama	main street	in the barbershop	int	+	day
+5906.64	2.24	Greenbow Alabama	main street	in the barbershop	int	+	day
+5908.88	13.44	Savannah	restaurant	restaurant	int	+	day
+5922.32	16.64	Mississippi	bridge at mississippi river	bridge at mississippi river	ext	0	day
+5938.96	1.64	Savannah	bench at bus stop	bench at bus stop	ext	++	day
+5940.6	4.48	United States	street with houses	street with houses	ext	-	day
+5945.08	5.36	Savannah	bench at bus stop	bench at bus stop	ext	++	day
+5950.44	12.04	United States	street with houses	street with houses	ext	-	day
+5962.48	5.36	United States	street in mountains	street in mountains	ext	++	day
+5967.84	5.52	United States	street in desert	street in desert	ext	++	day
+5973.36	6.8	Savannah	bench at bus stop	bench at bus stop	ext	++	day
+5980.16	32.04	United States	street with sidewalk	street with sidewalk	ext	-	day
+6012.2	3.2	United States	street with crashing cars	street with crashing cars	ext	++	day
+6015.4	21.36	United States	truck stop	truck stop	ext	-	day
+6036.76	4.96	United States	truck stop	truck stop	ext	0	day
+6041.72	3.92	United States	truck stop	truck stop	ext	0	day
+6045.64	32.6	Monument Valley	road through Monument Valley	road through Monument Valley	ext	++	day
+6078.24	9.76	Monument Valley	road through Monument Valley	road through Monument Valley	ext	0	day
+6088.0	18.76	Monument Valley	road through Monument Valley	road through Monument Valley	ext	0	day
+6106.76	27.92	Monument Valley	road through Monument Valley	road through Monument Valley	ext	0	day
+6134.68	6.44	Washington D.C.	Hilton Hotel	Ronald Reagon (broadcast)	ext	++	day
+6141.12	12.56	Gump property	Gump House	living room	int	0	day
+6153.68	36.32	Savannah	bench at bus stop	bench at bus stop	ext	++	day
+6190.0	10.12	Savannah	bench at bus stop	bench at bus stop	ext	0	day
+6200.12	2.2	Savannah	Jenny's apartment	Jenny's apartment's front door	int	+	day
+6202.32	3.12	Savannah	Jenny's apartment	Jenny's apartment	int	0	day
+6205.44	1.72	Savannah	Jenny's apartment	Jenny's apartment	int	0	day
+6207.16	21.32	Savannah	Jenny's apartment	Jenny's apartment	int	0	day
+6228.48	3.76	Savannah	Jenny's apartment	Jenny's apartment	int	0	day
+6232.24	5.8	Savannah	Jenny's apartment	Jenny's apartment	int	0	day
+6238.04	7.48	Savannah	Jenny's apartment	Jenny's apartment	int	0	day
+6245.52	39.04	Savannah	Jenny's apartment	Jenny's apartment	int	0	day
+6284.56	3.4	Savannah	Jenny's apartment	Jenny's apartment	int	0	day
+6287.96	11.0	Savannah	Jenny's apartment	Jenny's apartment	int	0	day
+6298.96	3.12	Savannah	Jenny's apartment	Jenny's apartment	int	0	day
+6302.08	1.84	Savannah	Jenny's apartment	Jenny's apartment	int	0	day
+6303.92	7.44	Savannah	Jenny's apartment	Jenny's apartment	int	0	day
+6311.36	27.64	Savannah	Jenny's apartment	Jenny's apartment	int	0	day
+6339.0	4.2	Savannah	Jenny's apartment	Jenny's apartment	int	0	day
+6343.2	12.0	Savannah	Jenny's apartment	Jenny's apartment	int	0	day
+6355.2	4.12	Savannah	Jenny's apartment	Jenny's apartment	int	0	day
+6359.32	31.76	Savannah	Jenny's apartment	Jenny's apartment	int	0	day
+6391.08	14.76	Savannah	Jenny's apartment	Jenny's apartment	int	0	day
+6405.84	6.08	Savannah	Jenny's apartment	Jenny's apartment	int	0	day
+6411.92	6.12	Savannah	Jenny's apartment	Jenny's apartment	int	0	day
+6418.04	23.64	Savannah	park with playground	park with playground	ext	+	day
+6441.68	20.64	Savannah	park with playground	park with playground	ext	0	day
+6462.32	4.16	Savannah	park with playground	park with playground	ext	0	day
+6466.48	7.56	Savannah	park with playground	park with playground	ext	0	day
+6474.04	37.96	Gump property	Gump House	front of Gump House	ext	++	day
+6512.0	3.72	Gump property	Gump House	front of Gump House	ext	0	day
+6515.72	2.28	Gump property	Gump House	front of Gump House	ext	0	day
+6518.0	3.16	Gump property	Gump House	front of Gump House	ext	0	day
+6521.16	4.4	Gump property	Gump House	front of Gump House	ext	0	day
+6525.56	8.2	Gump property	Gump House	front of Gump House	ext	0	day
+6533.76	2.56	Gump property	Gump House	front of Gump House	ext	0	day
+6536.32	7.44	Gump property	Gump House	front of Gump House	ext	0	day
+6543.76	7.52	Gump property	Gump House	front of Gump House	ext	0	day
+6551.28	3.12	Gump property	Gump House	front of Gump House	ext	0	day
+6554.4	6.12	Gump property	Gump House	front of Gump House	ext	0	day
+6560.52	4.8	Gump property	Gump House	front of Gump House	ext	0	day
+6565.32	2.08	Gump property	Gump House	front of Gump House	ext	0	day
+6567.4	8.24	Gump property	Gump House	front of Gump House	ext	0	day
+6575.64	4.4	Gump property	Gump House	front of Gump House	ext	0	day
+6580.04	2.04	Gump property	Gump House	front of Gump House	ext	0	day
+6582.08	2.36	Gump property	Gump House	front of Gump House	ext	0	day
+6584.44	14.96	Gump property	Gump House	garden	ext	+	day
+6599.4	14.24	Gump property	access-road	alley to Gump House	ext	++	day
+6613.64	8.76	Gump property	Gump House	Forrest's mother's bedroom	int	++	day
+6622.4	7.12	Gump property	Gump House	Forrest's mother's bedroom	int	0	day
+6629.52	2.88	Gump property	Gump House	Forrest's mother's bedroom	int	0	day
+6632.4	19.68	Gump property	Gump House	Forrest's mother's bedroom	int	0	day
+6652.08	6.68	Gump property	Gump House	Forrest's mother's bedroom	int	0	day
+6658.76	11.64	Vietnam	yet another jungle	yet another jungle	ext	-	night
+6670.4	1.48	Gump property	Gump House	Forrest's mother's bedroom	int	++	day
+6671.88	4.4	Gump property	Gump House	Forrest's mother's bedroom	int	0	day
+6676.28	8.4	Bayou La Batre	on the boat	on the boat	ext	-	day
+6684.68	8.28	Rocky Mountains	street at a lake	street at a lake	ext	++	day
+6692.96	3.32	Gump property	Gump House	Forrest's mother's bedroom	int	++	day
+6696.28	12.72	Monument Valley	road through Monument Valley	road through Monument Valley	ext	-	day
+6709.0	2.84	Gump property	Gump House	Forrest's mother's bedroom	int	++	day
+6711.84	3.96	Gump property	Gump House	Forrest's mother's bedroom	int	0	day
+6715.8	5.04	Gump property	Gump House	Forrest's mother's bedroom	int	0	day
+6720.84	3.44	Gump property	Gump House	Forrest's mother's bedroom	int	0	day
+6724.28	3.08	Gump property	Gump House	Forrest's mother's bedroom	int	0	day
+6727.36	2.2	Gump property	Gump House	Forrest's mother's bedroom	int	0	day
+6729.56	2.72	Gump property	Gump House	Forrest's mother's bedroom	int	0	day
+6732.28	6.92	Gump property	Gump House	Forrest's mother's bedroom	int	0	day
+6739.2	6.92	Greenbow Alabama	tree on a field	Jenny's Grave	ext	++	day
+6746.12	8.56	Greenbow Alabama	tree on a field	Jenny's Grave	ext	0	day
+6754.68	5.24	Greenbow Alabama	Jenny's house	front of Jenny's house	ext	-	day
+6759.92	5.96	Greenbow Alabama	tree on a field	Jenny's Grave	ext	++	day
+6765.88	5.36	Greenbow Alabama	tree on a field	Jenny's Grave	ext	0	day
+6771.24	7.0	Greenbow Alabama	tree on a field	Jenny's Grave	ext	0	day
+6778.24	8.56	Gump property	Gump House	Forrest's bedroom	int	-	night
+6786.8	13.76	Greenbow Alabama	tree on a field	Jenny's Grave	ext	++	day
+6800.56	6.72	Gump property	Gump House	front of Gump House	ext	-	night
+6807.28	6.32	Greenbow Alabama	riverside	riverside	ext	++	day
+6813.6	25.48	Greenbow Alabama	tree on a field	Jenny's Grave	ext	++	day
+6839.08	4.88	Greenbow Alabama	tree on a field	Jenny's Grave	ext	0	day
+6843.96	11.52	Greenbow Alabama	tree on a field	Jenny's Grave	ext	0	day
+6855.48	63.76	Greenbow Alabama	tree on a field	Jenny's Grave	ext	0	day
+6919.24	25.6	Greenbow Alabama	tree on a field	Jenny's Grave	ext	0	day
+6944.84	7.32	Gump property	access-road	at the mail boxes	ext	++	day
+6952.16	9.4	Gump property	access-road	at the mail boxes	ext	0	day
+6961.56	4.12	Gump property	access-road	at the mail boxes	ext	0	day
+6965.68	2.64	Gump property	access-road	at the mail boxes	ext	0	day
+6968.32	6.36	Gump property	access-road	at the mail boxes	ext	0	day
+6974.68	3.08	Gump property	access-road	at the mail boxes	ext	0	day
+6977.76	1.56	Gump property	access-road	at the mail boxes	ext	0	day
+6979.32	1.52	Gump property	access-road	at the mail boxes	ext	0	day
+6980.84	5.08	Gump property	access-road	at the mail boxes	ext	0	day
+6985.92	1.96	Gump property	access-road	at the mail boxes	ext	0	day
+6987.88	3.84	Gump property	access-road	at the mail boxes	ext	0	day
+6991.72	1.4	Gump property	access-road	at the mail boxes	ext	0	day
+6993.12	11.2	Gump property	access-road	at the mail boxes	ext	0	day
+7004.32	1.56	Gump property	access-road	at the mail boxes	ext	0	day
+7005.88	2.12	Gump property	access-road	at the mail boxes	ext	0	day
+7008.0	5.0	Gump property	access-road	at the mail boxes	ext	0	day
+7013.0	9.0	Gump property	access-road	at the mail boxes	ext	0	day
+7022.0	60.2	Gump property	access-road	at the mail boxes	ext	0	day
