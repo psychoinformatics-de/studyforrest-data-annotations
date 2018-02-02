@@ -8,8 +8,6 @@ To Do:
 """
 from __future__ import print_function
 from collections import defaultdict
-from glob import glob
-from pprint import pprint
 from datetime import datetime
 import csv
 import os
@@ -25,15 +23,16 @@ INPUT_FILES = ['structure.csv',
                'speech_google_narrator.csv'] # sys.argv[1]
 OUT_DIR = './annos_segmented/output'
 
-SEGMENTS_OFFSETS =   ((0.00, 0.00),
-                   ( 886.00, 0.00),
-                   (1752.08, 0.08),  # third segment's start
-                   (2612.16, 0.16),
-                   (3572.20, 0.20),
-                   (4480.28, 0.28),
-                   (5342.36, 0.36),
-                   (6410.44, 0.44),  # last segment's start
-                   (7086.00, 0.00))  # movie's last time point
+SEGMENTS_OFFSETS = (
+    (0.00, 0.00),
+    (886.00, 0.00),
+    (1752.08, 0.08),  # third segment's start
+    (2612.16, 0.16),
+    (3572.20, 0.20),
+    (4480.28, 0.28),
+    (5342.36, 0.36),
+    (6410.44, 0.44),  # last segment's start
+    (7086.00, 0.00))  # movie's last time point
 
 
 # functions #
@@ -65,8 +64,8 @@ def read_anno(anno):
         # check if time info is given as a time stamp in column 0
         # and if the time stamp does not contain a commentary ('#')
         if re.match(regex, row[0]):
-            if not '#' in row[0]:
-              row[0] = time_stamp_to_msec(row[0]) / 1000.0
+            if '#' not in row[0]:
+                row[0] = time_stamp_to_msec(row[0]) / 1000.0
             else:
                 print('skipping', row)
                 continue
@@ -78,7 +77,7 @@ def read_anno(anno):
         # check if it is given as a time stamp (hh:mm:ss:ff)
         # and if the time stamp contains a commentary
         if re.match(regex, row[1]):
-            if not '#' in row[1]:
+            if '#' not in row[1]:
                 row[1] = time_stamp_to_msec(row[1]) / 1000.0
             else:
                 print('skipping', row)
@@ -94,6 +93,7 @@ def read_anno(anno):
 
     return cleaned
 
+
 def time_stamp_to_msec(t_stamp='01:50:34:01'):
     '''
     Input:
@@ -104,9 +104,9 @@ def time_stamp_to_msec(t_stamp='01:50:34:01'):
     '''
     splitted_stamp = t_stamp.split(':')
     milliseconds = (int(splitted_stamp[0]) * 60 * 60 * 1000) +\
-                        (int(splitted_stamp[1]) * 60 * 1000) +\
-                        (int(splitted_stamp[2]) * 1000) +\
-                        (int(splitted_stamp[3]) * 40)
+                   (int(splitted_stamp[1]) * 60 * 1000) +\
+                   (int(splitted_stamp[2]) * 1000) +\
+                   (int(splitted_stamp[3]) * 40)
 
     return milliseconds
 
@@ -121,12 +121,12 @@ def msec_to_time_stamp(milliseconds=6634040):
     '''
     # convert in case function was called from the command line with the
     # timing given as a string
-    millisseconds = int(milliseconds)
+    milliseconds = int(milliseconds)
 
-    hours = (milliseconds / (60*60*1000))
-    minutes = (milliseconds % (60*60*1000) / (60*1000))
-    seconds = (milliseconds % (60*60*1000) % (60*1000) / 1000)
-    frame = (milliseconds % (60*60*1000) % (60*1000) % (1000) // 40)
+    hours = (milliseconds / (60 * 60 * 1000))
+    minutes = (milliseconds % (60 * 60 * 1000) / (60 * 1000))
+    seconds = (milliseconds % (60 * 60 * 1000) % (60 * 1000) / 1000)
+    frame = (milliseconds % (60 * 60 * 1000) % (60 * 1000) % (1000) // 40)
     time_stamp = '%02d:%02d:%02d:%02d' % (hours, minutes, seconds, frame)
 
     return time_stamp
@@ -192,7 +192,7 @@ def anno_time_to_seg_time(seg_starts, run_nr, anno_time, cropped_time):
 def write_segmented_annos(source_anno, movie, cropped, run_dict, out_dir, ):
     '''
     '''
-    if MOVIE == True:
+    if MOVIE is True:
         stimulus = 'movie'
     else:
         stimulus = 'audio'
@@ -218,7 +218,6 @@ def write_segmented_annos(source_anno, movie, cropped, run_dict, out_dir, ):
         with open(out_path, 'w') as csv_file:
             writer = csv.writer(csv_file)
             writer.writerows(run_dict[run])
-
 
 
 #### main program #####
@@ -250,11 +249,11 @@ if __name__ == "__main__":
             # AUDIO TIMING (MOVIE) correction
             # Dialoge im Film kommen 1/2 frame spater als das Hoerspiel,
             # das einem frame (40ms) nach vorn gezogen wurde
-            if MOVIE == True:
+            if MOVIE is True:
                 pass
 
             # AUDIO TIMING (AUDIOBOOK) correction
-            if MOVIE == False:
+            if MOVIE is False:
                 pass
 
             # append that shit
