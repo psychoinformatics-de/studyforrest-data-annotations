@@ -8,20 +8,20 @@ To Do:
 """
 from __future__ import print_function
 from collections import defaultdict
-from datetime import datetime
-import csv
 import os
+from os.path import basename
+from os.path import join as opj
+from os.path import exists
 import re
 import sys
+import pandas as pd
 
 
 # constants #
 MOVIE = True
 CROPPED = 0 # in sec; is a concatenated time series with cropped volumes used?
-INPUT_FILES = ['structure.csv',
-               'speech_vocalization.csv',
-               'speech_google_narrator.csv'] # sys.argv[1]
-OUT_DIR = './annos_segmented/output'
+INPUT_FILES = sys.argv[1:]
+OUT_DIR = 'segments'
 
 SEGMENTS_OFFSETS = (
     (0.00, 0.00),
@@ -189,35 +189,30 @@ def anno_time_to_seg_time(seg_starts, run_nr, anno_time, cropped_time):
     return seg_time
 
 
-def write_segmented_annos(source_anno, movie, cropped, run_dict, out_dir, ):
+def write_segmented_annos(infilename, movie, cropped, run_dict, out_dir, ):
     '''
     '''
     if MOVIE is True:
-        stimulus = 'movie'
+        stimulus = 'avmovie'
     else:
-        stimulus = 'audio'
+        stimulus = 'aomovie'
 
-    old_anno_name = os.path.splitext(os.path.basename(source_anno))[0]
-    new_anno_name = '%s_%s_%scr' % ((old_anno_name, stimulus, cropped))
-
-    print('Writing results to %s' % new_anno_name)
+    basefilename = basename(infilename)[:-4]
+    outdir = opj(out_dir, stimulus)
+    if not exists(outdir):
+        os.makedirs(outdir)
 
     for run in sorted(run_dict.keys()):
-        print(run)
+        outname = opj(out_dir, stimulus, '{}_run-{}_events.tsv'.format(
+            basefilename,
+            run + 1))
 
-        tnow = datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
-        out_fname = '%s_%s_run_%s.csv' % (new_anno_name, tnow, run + 1)
-        out_path = os.path.join(out_dir, out_fname)
-        print(out_path)
-
-        # in case the OUT_DIR changes to a directory incl. subdirectories
-        path = os.path.dirname(out_path)
-        if not os.path.exists(path):
-            os.makedirs(path)
-
-        with open(out_path, 'w') as csv_file:
-            writer = csv.writer(csv_file)
-            writer.writerows(run_dict[run])
+        pd.DataFrame.from_records(
+            run_dict[run],
+            columns=run_dict[run][0].dtype.names).to_csv(
+                outname,
+                sep='\t',
+                index=False)
 
 
 #### main program #####
@@ -225,13 +220,13 @@ if __name__ == "__main__":
 
     # read the annotation file
     for input_file in INPUT_FILES[:1]:
-        anno = read_anno(input_file)
+        anno = pd.read_csv(input_file, sep='\t').to_records(index=False)
         segment_starts = [start for start, offset in SEGMENTS_OFFSETS]
 
         run_events = defaultdict(list)
         for row in anno:
-        # get the run number
-            run = get_run_number(segment_starts, row[0])
+            # get the run number
+            run = get_run_number(segment_starts, row['onset'])
 
             # SEGMENT SHIFT correction
             # is now implicitly done by func 'anno_time_to_seg_time'
@@ -242,9 +237,12 @@ if __name__ == "__main__":
 
             # finally convert the timings of the continouos annotation
             # to timings in respect to the start of the corresponding segment
-            row[0] = anno_time_to_seg_time(segment_starts, run, row[0], CROPPED)
-            if type(row[1]) == float:
-                row[1] = anno_time_to_seg_time(segment_starts, run, row[1], CROPPED)
+            onset = anno_time_to_seg_time(
+                segment_starts,
+                run,
+                float(row['onset']),
+                CROPPED)
+            row['onset'] = onset
 
             # AUDIO TIMING (MOVIE) correction
             # Dialoge im Film kommen 1/2 frame spater als das Hoerspiel,
