@@ -35,65 +35,6 @@ SEGMENTS_OFFSETS = (
     (7086.00, 0.00))  # movie's last time point
 
 
-# functions #
-def read_anno(anno):
-    '''not pretty but works with different kind of annoation formats
-    '''
-    with open(anno, 'r') as txt_file:
-        rows = txt_file.readlines()
-
-    print('\nReading:', os.path.basename(anno))
-
-    cleaned = []
-    for row in rows:
-        row = row.strip()
-        row = row.split(',')
-
-        # skip the header
-        if row[0] in ['time', 'start']:
-            continue
-
-        # skip column 1 if it cointains '???' (s.speech_google_narrator.csv)
-        if '???' in row[1]:
-            continue
-
-        # in column 0 and (maybe) column 1, convert time stamps (hh:mm:ss:ff)
-        # to seconds (s. structure.csv and speech_vocalization.csv)
-        regex = r'[\d#]+:[\d#]+:[\d#]+:[\d#]+'
-
-        # check if time info is given as a time stamp in column 0
-        # and if the time stamp does not contain a commentary ('#')
-        if re.match(regex, row[0]):
-            if '#' not in row[0]:
-                row[0] = time_stamp_to_msec(row[0]) / 1000.0
-            else:
-                print('skipping', row)
-                continue
-        # else time must be given in seconds already
-        else:
-            row[0] = float(row[0])
-
-        # check if column 1 gives time info, too ('end')
-        # check if it is given as a time stamp (hh:mm:ss:ff)
-        # and if the time stamp contains a commentary
-        if re.match(regex, row[1]):
-            if '#' not in row[1]:
-                row[1] = time_stamp_to_msec(row[1]) / 1000.0
-            else:
-                print('skipping', row)
-        # if it is not a time stamp it must be in seconds
-        # or the column does not provide time info at all
-        else:
-            try:
-                row[1] = float(row[1])
-            except ValueError as e:
-                pass
-
-        cleaned.append(row)
-
-    return cleaned
-
-
 def time_stamp_to_msec(t_stamp='01:50:34:01'):
     '''
     Input:
