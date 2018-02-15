@@ -13,3 +13,6 @@
 [submodule "src/bodycontact"]
 	path = src/bodycontact
 	url = https://github.com/psychoinformatics-de/studyforrest-paper-bodycontactannotation.git
+[submodule "src/voice"]
+	path = src/voice
+	url = /home/chris/psyinfo/forrest_gump/anno_speech

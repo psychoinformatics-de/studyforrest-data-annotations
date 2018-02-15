@@ -17,5 +17,6 @@ df.insert(1, 'duration', shot_durations)
 
 df.to_csv(
     opj('researchcut', 'locations.tsv'),
+    index=False,
     sep='\t',
-    index=False)
+    float_format='%.3f')
