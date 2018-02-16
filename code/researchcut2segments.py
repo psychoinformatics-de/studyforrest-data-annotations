@@ -18,10 +18,9 @@ import pandas as pd
 
 
 # constants #
-MOVIE = True
-CROPPED = 0 # in sec; is a concatenated time series with cropped volumes used?
-INPUT_FILES = sys.argv[1:]
-OUT_DIR = 'segments'
+MOVIE = False
+INPUT_FILES = ['researchcut/speech_narrator.tsv'] # sys.argv[1:]
+OUT_DIR = 'segments/'
 
 SEGMENTS_OFFSETS = (
     (0.00, 0.00),
@@ -33,6 +32,37 @@ SEGMENTS_OFFSETS = (
     (5342.36, 0.36),
     (6410.44, 0.44),  # last segment's start
     (7086.00, 0.00))  # movie's last time point
+
+AUDIO_AV_OFFSETS = {
+    0: (  0,  21.33),
+    1:((  0,  37.33),
+       (408,  21.33)),
+    2:((  0,  69.33),
+       (199,  61.33)),
+    3:((  0,  93.33),
+       (320, 101.33)),
+    4:((  0, 109.33),
+       (401, 101.33)),
+    5: (  0, 141.33),
+    6:((  0, 189.31),
+       ( 61, 181.31)),
+    7: (  0, 205.33)}
+
+AUDIO_AO_OFFSETS = {
+    0: (  0,   47.02),
+    1:((  0,   36.35),
+       (203,   47.02)),
+    2:((  0,   87.02),
+       (199,   92.35)),
+    3:((  0,  124.35),
+       (320,  132.35)),
+    4:((  0,  105.69),
+       (401,   92.35)),
+    5:((  0,  137.69),
+       (364,  167.02)),
+    6:((  0,  201.67),
+       ( 61,  543.00)),
+    7: (  0,-1422.31)}
 
 
 def time_stamp_to_msec(t_stamp='01:50:34:01'):
@@ -115,22 +145,19 @@ def fix_audio_timing(uncorrected_audio):
     return corrected_audio
 
 
-def anno_time_to_seg_time(seg_starts, run_nr, anno_time, cropped_time):
+def anno_time_to_seg_time(seg_starts, run_nr, anno_time):
     '''
     "The position of an event from a movie annotation with respect to the
     cropped fMRI time series can now be determined by substracting the
     start time of the respective segment as listed in Table 1"
     http://studyforrest.org/annotation_timing.html
-
-    events occur earlier in the cropped stimulus segments.
-    hence the cropped ammount is additionally substracted from the anno timing
     '''
-    seg_time = round(anno_time - (seg_starts[run_nr] + cropped_time), 2)
+    seg_time = anno_time - seg_starts[run_nr]
 
     return seg_time
 
 
-def write_segmented_annos(infilename, movie, cropped, run_dict, out_dir, ):
+def write_segmented_annos(infilename, movie, run_dict, out_dir, ):
     '''
     '''
     if MOVIE is True:
@@ -140,6 +167,7 @@ def write_segmented_annos(infilename, movie, cropped, run_dict, out_dir, ):
 
     basefilename = basename(infilename)[:-4]
     outdir = opj(out_dir, stimulus)
+    print(outdir)
     if not exists(outdir):
         os.makedirs(outdir)
 
@@ -166,36 +194,46 @@ if __name__ == "__main__":
 
         run_events = defaultdict(list)
         for row in anno:
+#            print(row)
             # get the run number
             run = get_run_number(segment_starts, row['onset'])
 
-            # SEGMENT SHIFT correction
-            # is now implicitly done by func 'anno_time_to_seg_time'
-            # using the adjusted segment starts (s. SEGMENTS_OFFSETS)
-#             row[0] = fix_segment_shift(row[0], CROPPED)
-#             if type(row[1]) == float:
-#                 row[1] = fix_segment_shift(row[1], CROPPED)
-
-            # finally convert the timings of the continouos annotation
+            # convert the timings of a continuous annotation
             # to timings in respect to the start of the corresponding segment
-            onset = anno_time_to_seg_time(
+            onset_in_seg = anno_time_to_seg_time(
                 segment_starts,
                 run,
-                float(row['onset']),
-                CROPPED)
-            row['onset'] = onset
+                float(row['onset']))
 
-            # AUDIO TIMING (MOVIE) correction
-            # Dialoge im Film kommen 1/2 frame spater als das Hoerspiel,
-            # das einem frame (40ms) nach vorn gezogen wurde
-            if MOVIE is True:
+
+            row['onset'] = onset_in_seg
+
+
+            # correct for the stimulus used to annotate
+            # correct for annotated speech
+            audiobooks = ['speech_narrator.tsv', 'speech_vocalization']
+            if basename(input_file) in audiobooks:
+                # in respect to
+                # forrestgump_researchcut_ger.mkv
+                # (containing no audio description)
+                # the files
+                # forrestgump_researchcut_ad_ger.flac and
+                # german_dvd_5.1_48000hz_488kb_research_cut_aligned_cutted_narrator_muted_48000Hz.flac
+                # (containing an audio description) were originally lagging
+                # behind for XYZ msec and were shiftet forward
+                # by one frame (40ms)
+                # SEE HISTOGRAMMOF OFFSETS MOVIE VS. AUDIOBOOK
+                if row['onset'] > 0.1:
+                    row['onset'] = row['onset'] - 0.020
+
+
+            elif basename(input_file) == 'locations.tsv':
                 pass
 
-            # AUDIO TIMING (AUDIOBOOK) correction
-            if MOVIE is False:
-                pass
+            else:
+                print('%s is an unknown annotation' % basename(input_fil))
 
             # append that shit
             run_events[run].append(row)
 
-        write_segmented_annos(input_file, MOVIE, CROPPED, run_events, OUT_DIR)
+        write_segmented_annos(input_file, MOVIE, run_events, OUT_DIR)
