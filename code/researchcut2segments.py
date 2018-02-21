@@ -20,7 +20,7 @@ import pandas as pd
 
 # constants #
 MOVIE = False
-INPUT_FILES = ['researchcut/speech_vocalization.tsv'] # sys.argv[1:]
+INPUT_FILES = ['researchcut/speech_narrator.tsv'] # sys.argv[1:]
 OUT_DIR = 'segments/'
 
 SEGMENTS_OFFSETS = (
@@ -221,7 +221,7 @@ if __name__ == "__main__":
 
                 # 2nd, correct for the offset between the (unshifted) audio
                 # description and the audiovisual movie
-                onset_in_seg -= 0.000
+                onset_in_seg -= 0.020
 
                 # 3rd, correct for the offset between whole stimulus
                 # (audiovisual or audio-only) and its segments
