@@ -20,7 +20,7 @@ import pandas as pd
 
 # constants #
 MOVIE = False
-INPUT_FILES = ['researchcut/speech_narrator.tsv'] # sys.argv[1:]
+INPUT_FILE = 'researchcut/speech_narrator' # sys.argv[1:]
 OUT_DIR = 'segments/'
 
 SEGMENTS_OFFSETS = (
@@ -187,67 +187,66 @@ def write_segmented_annos(infilename, movie, run_dict, out_dir, ):
 if __name__ == "__main__":
 #     with launch_ipdb_on_exception():
     # read the annotation file
-    for input_file in INPUT_FILES[:1]:
-        anno = pd.read_csv(input_file, sep='\t', encoding='utf-8').to_records(index=False)
-        segment_starts = [start for start, offset in SEGMENTS_OFFSETS]
+    anno = pd.read_csv(INPUT_FILE, sep='\t', encoding='utf-8').to_records(index=False)
+    segment_starts = [start for start, offset in SEGMENTS_OFFSETS]
 
-        run_events = defaultdict(list)
-        for row in anno:
-            # get the run number
-            run = get_run_number(segment_starts, row['onset'])
+    run_events = defaultdict(list)
+    for row in anno:
+        # get the run number
+        run = get_run_number(segment_starts, row['onset'])
 
-            # convert the timings of a continuous annotation
-            # to timings in respect to the start of the corresponding segment
-            onset_in_seg = whole_anno_to_segments(
-                segment_starts,
-                run,
-                float(row['onset']))
-
-
-            # correct for the stimulus used to annotate the audiotrack
-            audiobooks = ['speech_narrator.tsv', 'speech_vocalization.tsv']
-            if basename(input_file) in audiobooks:
-                # the files
-                # forrestgump_researchcut_ad_ger.flac and
-                # german_dvd_5.1_48000hz_488kb_research_cut_aligned_cutted_narrator_muted_48000Hz.flac
-                # (that contain the audio description) were originally lagging
-                # behind for XYZ msec and were shiftet forward
-                # by one frame (40ms) in respect to the reference file
-                # forrestgump_researchcut_ger.mkv
-
-                # 1st, correct for shifting the narrator (incl. dialogue) 40ms
-                # to the front before annotating the narrator/dialogue
-                onset_in_seg += 0.040
-
-                # 2nd, correct for the offset between the (unshifted) audio
-                # description and the audiovisual movie
-                # -> the offset is varying +/- one frame (40 ms) around 0
-                onset_in_seg -= 0.000
-
-                # 3rd, correct for the offset between whole stimulus
-                # (audiovisual or audio-only) and its segments
-                if MOVIE == True:
-                    onset_in_seg = fix_audio_movie_segments(
-                        AUDIO_AV_OFFSETS,
-                        run,
-                        onset_in_seg)
-
-                elif MOVIE == False:
-                    onset_in_seg = fix_audio_descr_segments(
-                        AUDIO_AO_OFFSETS,
-                        run,
-                        onset_in_seg)
+        # convert the timings of a continuous annotation
+        # to timings in respect to the start of the corresponding segment
+        onset_in_seg = whole_anno_to_segments(
+            segment_starts,
+            run,
+            float(row['onset']))
 
 
-            elif basename(input_file) == 'locations.tsv':
-                pass
+        # correct for the stimulus used to annotate the audiotrack
+        audiobooks = ['speech_narrator.tsv', 'speech_vocalization.tsv']
+        if basename(INPUT_FILE) in audiobooks:
+            # the files
+            # forrestgump_researchcut_ad_ger.flac and
+            # german_dvd_5.1_48000hz_488kb_research_cut_aligned_cutted_narrator_muted_48000Hz.flac
+            # (that contain the audio description) were originally lagging
+            # behind for XYZ msec and were shiftet forward
+            # by one frame (40ms) in respect to the reference file
+            # forrestgump_researchcut_ger.mkv
 
-            else:
-                print('%s is an unknown annotation' % basename(input_file))
+            # 1st, correct for shifting the narrator (incl. dialogue) 40ms
+            # to the front before annotating the narrator/dialogue
+            onset_in_seg += 0.040
 
-            row['onset'] = round(onset_in_seg, 3)
+            # 2nd, correct for the offset between the (unshifted) audio
+            # description and the audiovisual movie
+            # -> the offset is varying +/- one frame (40 ms) around 0
+            onset_in_seg -= 0.000
 
-            # append that shit
-            run_events[run].append(row)
+            # 3rd, correct for the offset between whole stimulus
+            # (audiovisual or audio-only) and its segments
+            if MOVIE == True:
+                onset_in_seg = fix_audio_movie_segments(
+                    AUDIO_AV_OFFSETS,
+                    run,
+                    onset_in_seg)
 
-        write_segmented_annos(input_file, MOVIE, run_events, OUT_DIR)
+            elif MOVIE == False:
+                onset_in_seg = fix_audio_descr_segments(
+                    AUDIO_AO_OFFSETS,
+                    run,
+                    onset_in_seg)
+
+
+        elif basename(input_file) == 'locations.tsv':
+            pass
+
+        else:
+            print('%s is an unknown annotation' % basename(input_file))
+
+        row['onset'] = round(onset_in_seg, 3)
+
+        # append that shit
+        run_events[run].append(row)
+
+    write_segmented_annos(INPUT_FILE, MOVIE, run_events, OUT_DIR)
