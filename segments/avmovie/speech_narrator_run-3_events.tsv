@@ -1,514 +1,514 @@
 onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
-14.82	0.5	Schlafsaal		setting_new		NN		
-19.52	5.0	die				ART		
-24.52	0.2	Männer		male		NN		
-24.72	0.1	sind				VAFIN		
-24.82	0.2	in				APPR		
-25.02	0.5	Unterwäsche		body		NN		
-25.52	18.1	jeder#setzt		#	#	#		
-43.62	0.2	sei#n		#	#	#		
-43.82	0.2	Gewehr		object		NN		
-44.02	0.4	zusammen				PTKVZ		
-79.52	15.9	Sie				PPER		
-95.42	0.3	putzen				VVFIN		
-95.72	0.4	Stiefel		object		NN		
-96.32	10.5	Sie				PPER		
-106.82	0.1	scheuern				VVFIN		
-106.92	0.3	den				ART		
-107.22	0.3	Boden		roomgeo		NN		
-107.52	0.1	mit				APPR		
-107.62	0.4	Zahnbürsten		object		NN		
-108.02	11.4	es				PPER		
-119.42	0.2	ist				VAFIN		
-119.62	0.2	dunkel		++		ADJD		
-119.82	0.4	Bubba		mname		NE		
-120.22	0.2	liegt				VVFIN		
-120.42	0.2	wach				ADJD		
-120.62	0.0	im				APPRART		
-120.62	0.2	Bett		furniture		NN		
-120.82	10.8	Forrest		mname		NN		
-131.62	0.4	liegt				VVFIN		
-132.02	0.3	oben				ADV		
-132.32	0.1	im				APPRART		
-132.42	0.5	Etagenbett		furniture		NN		
-132.92	0.4	sein				PPOSAT		
-133.32	0.2	Nachbar		person		NN		
-133.52	0.3	wirft				VVFIN		
-133.82	0.2	ihm				PPER		
-134.02	0.2	einem				ART		
-134.22	0.2	Playboy		object		NN		
-134.42	0.4	zu				PTKVZ		
-139.52	1.3	Forrest#schaut		#	#	#		
-140.82	0.3	in				APPR		
-141.12	0.0	die				ART		
-141.12	0.4	Zeitschrift		object		NN		
-141.52	0.4	und				KON		
-141.92	0.4	blättert				VVFIN		
-142.32	0.2	um				PTKVZ		
-142.52	2.2	auf				APPR		
-144.72	0.3	einem				ART		
-145.02	0.3	Bild		object		NN		
-145.32	0.4	kniet				VVFIN		
-145.72	0.5	Jenny		fname		NE		
-146.22	0.4	nur				ADV		
-146.62	0.1	in				APPR		
-146.72	0.2	weit				ADJD		
-146.92	0.4	aufgeknöpfter				ADJA		
-147.72	0.6	College-Jacke		body		NN		
-148.32	1.6	ungläubig				ADJD		
-149.92	0.4	starrt				VVFIN		
-150.32	0.5	Forrest		mname		NN		
-150.82	0.2	auf				APPR		
-151.02	0.1	das				ART		
-151.12	0.3	Foto		object		NN		
-151.42	10.0	Bab#y		#	#	#		
-161.42	1.0	Er				PPER		
-162.42	1.2	kommt				VVFIN		
-163.62	0.1	in				APPR		
-163.72	0.2	einem				ART		
-163.92	0.2	Club		setting_new		NN		
-164.12	10.0	zwischen				APPR		
-174.12	0.5	Portraits		object		NN		
-174.62	0.2	eines				ART		
-174.82	0.4	von				APPR		
-175.22	0.2	Jenny		fname		NN		
-175.42	19.8	der				ART		
-195.22	0.4	Vorhang		roomgeo		NN		
-195.62	0.1	öffnet				VVFIN		
-195.72	0.4	sich				PRF		
-196.12	1.1	Jenny		fname		NE		
-197.22	0.3	sitzt				VVFIN		
-197.52	0.2	mit				APPR		
-197.72	0.1	einer				ART		
-197.82	0.4	großen				ADJA		
-198.22	0.4	Gitarre		object		NN		
-198.62	0.1	auf				APPR		
-198.72	0.1	einem				ART		
-198.82	0.3	Barhocker		furniture		NN		
-199.42	2.9	das				ART		
-202.32	0.3	Instrument		object		NN		
-202.62	0.5	verdeckt				VVFIN		
-203.12	0.3	Brust		body		NN		
-203.42	0.2	und				KON		
-203.62	0.2	Schoß		body		NN		
-203.82	3.9	sie				PPER		
-207.72	0.3	trägt				VVFIN		
-208.02	0.2	nur				ADV		
-208.22	0.2	einen				ART		
-208.42	0.4	hautfarbenen				ADJA		
-208.82	0.6	Slip		body		NN		
-209.42	18.9	Männer		male		NN		
-228.32	13.2	ein				ART		
-241.52	0.2	Mann		male		NN		
-241.72	0.4	will				VMFIN		
-242.12	0.1	ihr				PPER		
-242.22	0.3	einen				ART		
-242.52	0.3	Geldschein		object		NN		
-242.82	0.2	in				APPR		
-243.02	0.2	den				ART		
-243.22	0.2	Pumps		object		NN		
-243.42	0.2	stecken				VVINF		
-243.62	2.5	Sie				PPER		
-246.12	0.2	tritt				VVFIN		
-246.32	0.2	seine				PPOSAT		
-246.52	0.2	Hand		bodypart		NN		
-246.72	2.9	weg#er#schüttet		#	#	#		
-249.62	0.2	sein				PPOSAT		
-249.82	0.2	Bier		object		NN		
-250.02	0.3	über				APPR		
-250.32	0.2	ihre				PPOSAT		
-250.52	0.3	Füße		bodypart		NN		
-250.82	6.1	Forrest		mname		NN		
-256.92	0.4	marschiert				VVFIN		
-257.32	0.1	mit				APPR		
-257.42	0.5	grimmiger				ADJA		
-257.92	0.1	Miene		face		NN		
-258.02	0.6	nach#vorn		#	#	#		
-259.42	0.3	Er				PPER		
-259.72	0.2	packt				VVFIN		
-259.92	0.2	den				ART		
-260.12	0.1	Mann		male		NN		
-260.22	0.2	von				APPR		
-260.42	0.1	hinten				ADV		
-260.52	0.4	und				KON		
-260.92	0.3	stößt				VVFIN		
-261.22	0.1	ihn				PPER		
-261.32	0.1	zu				APPR		
-261.42	0.2	Boden				NN		
-261.62	2.1	er				PPER		
-263.72	0.3	schubst				ADV		
-264.02	0.1	noch				ADV		
-264.12	0.3	einen				PIS		
-264.42	0.1	um				PTKVZ		
-264.52	2.0	er				PPER		
-266.52	0.2	steigt				VVFIN		
-266.72	0.1	auf				APPR		
-266.82	0.2	die				ART		
-267.02	0.2	Bühne		roomgeo		NN		
-267.22	1.9	und				KON		
-269.12	0.2	hebt				VVFIN		
-269.32	0.1	sie				PPER		
-269.42	0.1	hoch				PTKVZ		
-269.52	2.7	er				PPER		
-272.22	0.2	tut				VVFIN		
-272.42	0.1	es				PPER		
-272.52	1.1	sie				PPER		
-273.62	0.3	drückt				VVFIN		
-273.92	0.1	ihm				PPER		
-274.02	0.1	die				ART		
-274.12	0.4	Gitarre		object		NN		
-274.52	0.1	in				APPR		
-274.62	0.0	die				ART		
-274.62	0.3	Hand		bodypart		NN		
-274.92	0.0	und				KON		
-274.92	0.4	eilt				VVFIN		
-275.32	0.1	von				APPR		
-275.42	0.1	der				ART		
-275.52	0.3	Bühne		roomgeo		NN		
-275.82	0.6	Forrest		mname		NN		
-276.42	0.3	hetzt				VVFIN		
-276.72	0.1	ihr				PPER		
-276.82	0.2	nach				PTKVZ		
-277.02	0.9	später		++		ADJD		
-277.92	0.1	auf				APPR		
-278.02	0.2	einer				ART		
-278.22	0.1	Brücke		setting_new;geo		NN		
-278.32	20.3	Jenny		fname		NE		
-298.62	0.4	schaut				VVFIN		
-299.02	0.3	nachdenklich				ADJD		
-299.32	0.5	aus				APPR		
-299.82	0.3	Wasser		geo		NN		
-301.12	0.7	Forrest		mname		NN		
-301.82	0.1	betrachtet				VVFIN		
-301.92	0.4	sie				PPER		
-302.32	19.6	Sie				PPER		
-321.92	0.4	steigt				VVFIN		
-322.32	0.1	auf				APPR		
-322.42	0.3	eine				ART		
-322.72	0.4	niedrige				ADJA		
-323.12	0.7	Querstrebe		object		NN		
-323.82	0.1	des				ART		
-323.92	0.4	Geländers		furniture		NN		
-324.32	1.2	beunruhigt				ADJD		
-325.52	0.1	sieht				VVFIN		
-325.62	0.4	Forrest		mname		NN		
-326.02	0.1	sie				PPER		
-326.12	0.2	von				APPR		
-326.32	0.3	unten				ADV		
-326.62	0.1	nach				APPR		
-326.72	0.1	oben				ADV		
-326.82	0.4	an				PTKVZ		
-327.22	0.3	und				KON		
-327.52	0.3	kommt				VVFIN		
-327.82	0.2	etwas				ADV		
-328.02	0.2	näher				ADJD		
-328.22	7.5	ein				ART		
-335.72	0.5	Autoscheinwerfer		object		NN		
-336.22	0.8	streift				VVFIN		
-337.02	0.1	ihr				PPOSAT		
-337.12	0.4	Gesicht		face		NN		
-337.52	2.8	sie				PPER		
-340.32	0.3	stellt				VVFIN		
-340.62	0.0	sich				PRF		
-340.62	0.1	auf				APPR		
-340.72	0.2	die				ART		
-340.92	0.4	Fahrbahn		geo		NN		
-341.32	0.3	und				KON		
-341.62	0.3	winkt				VVFIN		
-341.92	12.5	sie				PPER		
-354.42	0.3	bleibt				VVFIN		
-354.72	0.3	stehen				VVINF		
-355.02	0.1	und				KON		
-355.12	0.2	sieht				VVFIN		
-355.32	0.3	zu				APPR		
-355.62	0.2	ihm				PPER		
-356.32	24.1	Jenny		fname		NE		
-380.42	0.2	geht				VVFIN		
-380.62	0.2	zur				APPRART		
-380.82	0.8	Beifahrerseite				NN		
-384.22	1.7	Sie				PPER		
-385.92	0.4	stoppt				VVFIN		
-398.12	1.7	der				ART		
-399.82	0.4	Schatten				NN		
-400.22	0.1	eines				ART		
-400.32	0.6	Hubschraubers		object		NN		
-400.92	0.4	gleitet				VVFIN		
-401.32	0.1	über				APPR		
-401.42	0.6	Reisfelder		setting_new;geo		NN		
-402.02	0.0	in				APPR		
-402.02	0.5	der				ART		
-402.52	0.3	offenen				ADJA		
-402.82	0.1	Tür		roomgeo		NN		
-402.92	0.3	sitzt				VVFIN		
-403.22	0.1	ein				ART		
-403.32	0.6	Bordschütze		male		NN		
-403.92	0.2	am				APPRART		
-404.12	0.0	Maschinengewehr		object		NN		
-404.12	3.5	er				PPER		
-407.62	0.1	schaut				VVFIN		
-407.72	0.2	zu				APPR		
-407.92	0.3	Forrest		mname		NN		
-408.22	0.1	und				KON		
-408.32	0.3	Bubba		fname		NE		
-408.62	0.4	neben				APPR		
-409.02	0.1	ihm				PPER		
-409.12	0.3	die				ART		
-409.42	0.4	beiden				PIAT		
-409.82	0.3	weichen				VVFIN		
-410.12	0.2	seinem				PPOSAT		
-410.32	0.2	Blick		###		NN		
-410.52	0.7	eingeschüchtert				VVPP		
-411.22	0.1	aus				PTKVZ		
-411.32	7.1	der				ART		
-418.42	0.4	Hubschrauber		object		NN		
-418.82	0.3	landet				VVFIN		
-419.12	0.1	auf				APPR		
-419.22	0.1	einem				ART		
-419.32	0.7	Stützpunkt		setting_new;geo		NN		
-420.02	0.3	neben				APPR		
-420.32	0.2	einem				ART		
-420.52	0.4	anderen				ADJA		
-420.92	0.5	Helikopter		object		NN		
-421.42	0.5	zwei				CARD		
-421.92	0.5	Soldaten		male		NN		
-422.42	0.6	erwarten				VVFIN		
-423.02	0.1	ihn				PPER		
-423.12	0.7	Bubba		mname		NE		
-423.82	0.1	und				KON		
-423.92	0.4	Forrest		mname		NN		
-424.32	0.3	springen				VVFIN		
-424.62	0.2	mit				APPR		
-424.82	0.3	ihren				PPOSAT		
-425.12	0.6	Gepäcksäcken		object		NN		
-425.72	0.2	aus				PTKVZ		
-425.92	20.8	an				APPR		
-446.72	0.2	einem				ART		
-446.92	0.2	Fluss		geo		NN		
-447.12	0.5	grillen				ADJA		
-447.62	0.5	Soldaten		male		NN		
-448.12	0.2	zwischen				APPR		
-448.32	0.4	Palmen		geo		NN		
-448.72	0.3	und				KON		
-449.02	0.3	trinken				VVFIN		
-449.32	0.1	Bier		object		NN		
-449.42	0.8	einige				PIAT		
-450.22	0.2	spielen				ADJA		
-450.42	0.4	Karten		object		NN		
-450.82	0.4	im				APPRART		
-451.22	0.6	Hintergrund				NN		
-451.82	0.2	fliegt				VVFIN		
-452.02	0.1	eine				ART		
-452.12	0.6	Hubschrauberstaffel		object		NN		
-452.72	0.3	den				ART		
-453.02	0.2	Fluss		geo		NN		
-453.22	0.4	entlang				PTKVZ		
-453.62	0.8	Forrest		mname		NN		
-454.42	0.1	und				KON		
-454.52	0.0	Bubba		mname		NE		
-454.52	0.5	gehen				VVFIN		
-455.02	0.1	mit				APPR		
-455.12	0.2	ihrem				PPOSAT		
-455.32	0.1	Gepäck		object		NN		
-455.42	0.4	darauf				PROAV		
-455.82	0.2	zu				PTKVZ		
-458.12	14.3	ein				ART		
-472.42	0.3	Soldat		male		NN		
-472.72	0.1	mit				APPR		
-472.82	0.4	nacktem				ADJA		
-473.22	0.5	Oberkörper		body		NN		
-473.72	24.0	Bubba		male		NE		
-497.72	0.2	zieht				VVFIN		
-497.92	0.1	die				ART		
-498.02	0.4	Unterlippe		face		NE		
-498.42	0.2	ein				PTKVZ		
-498.62	6.4	Forrest		mname		NN		
-505.02	0.2	und				KON		
-505.22	0.2	Bubba		mname		NE		
-505.42	0.4	mustern				VVFIN		
-505.82	0.2	sich				PRF		
-506.02	0.3	und				KON		
-506.32	0.1	schüttelt				VVFIN		
-506.42	0.3	den				ART		
-506.72	0.1	Kopf		head		NN		
-506.82	7.4	sie				PPER		
-514.22	0.5	folgen#Dan		#	#	#		
-518.12	40.8	Soldaten		male		NN		
-558.92	0.2	die				ART		
-559.12	0.2	genau				ADJD		
-559.32	0.2	wie				KOKOM		
-559.52	0.2	Dan		male		NE		
-559.72	0.5	aussehen				VVINF		
-560.22	0.5	sterben				VVFIN		
-560.72	0.2	in				APPR		
-560.92	0.3	vier				CARD		
-561.22	0.2	historischen				ADJA		
-561.42	0.9	Kriegen		setting_new		NN		
-578.02	6.0	er				PPER		
-584.02	0.2	geht				VVFIN		
-584.22	0.1	in				APPR		
-584.32	0.1	eine				ART		
-584.42	0.2	Latrine		furniture		NN		
-584.62	15.2	sein				PPOSAT		
-599.82	0.2	Kopf		head		NN		
-600.02	0.6	verschwindet				VVFIN		
-600.62	0.2	hinter				APPR		
-600.82	0.2	der				ART		
-601.02	0.5	brusthohen				ADJA		
-601.52	0.5	Latrinentür		roomgeo		NN		
-604.22	4.9	auf				APPR		
-609.12	0.2	Patrouille				NN		
-609.32	0.4	gehen				VVFIN		
-609.72	0.5	Forrest		mname		NN		
-610.22	0.1	und				KON		
-610.32	0.1	Bubba		mname		NE		
-610.42	0.3	mit				APPR		
-610.72	0.4	anderen				PIS		
-611.12	0.2	durch				APPR		
-611.32	0.1	ein				ART		
-611.42	0.4	Reisfeld		setting_new;geo		NN		
-611.82	0.3	sie				PPER		
-612.12	0.3	tragen				VVFIN		
-612.42	0.7	tarnfarbene				ADJA		
-613.12	0.3	Helme		object		NN		
-613.42	0.7	olivgrüne				ADJA		
-614.12	0.6	Uniformen		body		NN		
-614.72	0.1	und				KON		
-614.82	0.5	Rucksäcke		object		NN		
-615.32	0.5	ihre				PPOSAT		
-615.82	0.4	Gewehre		object		NN		
-616.22	0.3	halten				VVFIN		
-616.52	0.1	sie				PPER		
-616.62	0.2	quer				ADJD		
-616.82	0.2	vor				APPR		
-617.02	0.2	sich				PRF		
-617.22	6.1	zwischen				APPR		
-623.32	0.3	Feldern		geo		NN		
-623.62	0.3	gehen				VVFIN		
-623.92	0.1	sie				PPER		
-624.02	0.1	eine				ART		
-624.12	0.3	Sandpiste		geo		NN		
-624.42	0.6	entlang				PTKVZ		
-625.02	11.2	Forrest#Gesicht		#	#	#		
-636.22	0.4	ist				VAFIN		
-636.62	0.4	schmutzig				ADJD		
-637.02	0.2	unter				APPR		
-637.22	0.4	einem				ART		
-637.62	0.3	Riemen		object		NN		
-637.92	0.2	an				APPR		
-638.12	0.2	seinem				PPOSAT		
-638.32	0.2	Helm		head		NN		
-638.52	0.3	klemmt				VVFIN		
-638.82	0.1	ein				ART		
-638.92	0.6	Plastikfläschchen		object		NN		
-639.52	1.0	ein				ART		
-640.52	0.4	vorn				ADV		
-640.92	0.3	gehender				ADJA		
-641.22	0.3	Soldat		male		NN		
-641.52	0.2	hebt				VVFIN		
-641.72	0.1	die				ART		
-641.82	0.1	Faust		bodypart		NN		
-641.92	2.7	der				ART		
-644.62	0.2	Trupp		males		NE		
-644.82	0.2	hockt				VVFIN		
-645.02	0.2	sich				PRF		
-645.22	0.3	links				ADV		
-645.52	0.1	und				KON		
-645.62	0.3	rechts				ADV		
-645.92	0.1	der				ART		
-646.02	0.3	Piste		geo		NN		
-646.32	0.1	an				APPR		
-646.42	0.1	die				ART		
-646.52	0.2	Böschung		geo		NN		
-646.72	16.4	Dan		mname		NE		
-663.12	0.2	geht				VVFIN		
-663.32	0.2	nach				APPR		
-663.52	0.3	vorn				ADV		
-666.92	0.4	er				PPER		
-667.32	0.2	hockt				VVFIN		
-667.52	0.1	sich				PRF		
-667.62	0.2	hin				ADV		
-667.82	0.6	dreht				VVFIN		
-668.42	0.2	sich				PRF		
-668.62	0.2	zu				APPR		
-668.82	0.2	seinen				PPOSAT		
-669.02	0.3	Männern		males		NN		
-669.32	0.1	um				PTKVZ		
-669.42	0.3	und				KON		
-669.72	0.2	zeigt				VVFIN		
-669.92	0.1	mit				APPR		
-670.02	0.2	zwei				CARD		
-670.22	0.5	Fingern		bodypart		NN		
-670.72	0.1	auf				APPR		
-670.82	0.2	seine				PPOSAT		
-671.02	0.3	Augen		face		NN		
-671.32	3.5	Dan		male		NE		
-674.82	0.4	legt				VVFIN		
-675.22	0.1	sich				PRF		
-675.32	0.1	flach				ADJD		
-675.42	0.2	auf				APPR		
-675.62	0.2	die				ART		
-675.82	0.3	Piste		geo		NN		
-676.12	0.1	und				KON		
-676.22	0.3	späht				VVFIN		
-676.52	0.2	über				APPR		
-676.72	0.2	den				ART		
-676.92	0.3	Boden		geo		NN		
-677.22	0.4	direkt				ADJD		
-677.62	0.0	vor				APPR		
-677.62	0.3	ihm				PPER		
-677.92	0.2	ein				ART		
-678.12	10.6	Soldat		male		NN		
-688.72	0.1	mit				APPR		
-688.82	0.4	Hornbrille		object		NE		
-689.22	3.1	ein				ART		
-692.32	0.5	Schwarzer		male		NN		
-692.82	10.6	vorne				ADV		
-703.42	0.2	steht				VVFIN		
-703.62	0.5	Lieutenant				NN		
-704.12	0.1	Dan		mname		NE		
-704.22	0.3	wieder				ADV		
-704.52	0.1	auf				PTKVZ		
-704.62	21.9	hinter				APPR		
-726.52	0.3	Da#n		#	#	#		
-726.92	0.6	fliegt				VVFIN		
-727.52	0.3	Erde				NN		
-727.82	0.2	hoch		setting_new		PTKVZ		
-728.02	8.3	bis				APPR		
-736.32	0.2	zur				APPRART		
-736.52	0.2	Brust		bodypart		NN		
-736.72	0.1	in				APPR		
-736.82	0.3	trübem				ADJA		
-737.12	0.1	Wasser		geo		NN		
-737.22	0.6	wartet				VVFIN		
-737.82	0.3	der				ART		
-738.12	0.1	Trupp		males		NE		
-738.22	0.2	durch				APPR		
-738.42	0.2	ein				ART		
-738.62	0.4	Reisfeld		setting_new;geo		NN		
-739.02	25.2	sie				PPER		
-764.22	0.2	gehen				VVFIN		
-764.42	0.1	durch				APPR		
-764.52	0.2	einen				ART		
-764.72	0.2	Fluss		setting_new;geo		NN		
-786.82	44.6	liegt				VVFIN		
-831.42	0.2	unter				APPR		
-831.62	0.1	einer				ART		
-831.72	0.2	Plane		locale		NN		
-831.92	0.5	und				KON		
-832.42	0.4	schreibt				VVFIN		
-833.32	15.1	Jenny		fname		NE		
-848.42	0.3	kommt				VVFIN		
-848.72	0.0	aus				APPR		
-848.72	0.2	dem				ART		
-848.92	0.3	Wohnwagen		object		NN		
-849.22	0.4	ihrer				PPOSAT		
-849.62	0.2	Oma		setting_new;female		NN		
-849.82	0.1	sie				PPER		
-849.92	5.2	steigt				VVFIN		
-855.12	0.2	zu				APPR		
-855.32	0.4	anderen				ADJA		
-855.72	0.3	Hippies		persons		NN		
-856.02	0.1	in				APPR		
-856.12	0.2	einen				ART		
-856.32	0.3	VW-Bus		object		NN		
-856.62	10.7	auf				APPR		
+14.929	0.5	Schlafsaal		setting_new		NN		
+19.629	5.0	die				ART		
+24.629	0.2	Männer		male		NN		
+24.829	0.1	sind				VAFIN		
+24.929	0.2	in				APPR		
+25.129	0.5	Unterwäsche		body		NN		
+25.629	18.1	jeder#setzt		#	#	#		
+43.729	0.2	sei#n		#	#	#		
+43.929	0.2	Gewehr		object		NN		
+44.129	0.4	zusammen				PTKVZ		
+79.629	15.9	Sie				PPER		
+95.529	0.3	putzen				VVFIN		
+95.829	0.4	Stiefel		object		NN		
+96.429	10.5	Sie				PPER		
+106.929	0.1	scheuern				VVFIN		
+107.029	0.3	den				ART		
+107.329	0.3	Boden		roomgeo		NN		
+107.629	0.1	mit				APPR		
+107.729	0.4	Zahnbürsten		object		NN		
+108.129	11.4	es				PPER		
+119.529	0.2	ist				VAFIN		
+119.729	0.2	dunkel		++		ADJD		
+119.929	0.4	Bubba		mname		NE		
+120.329	0.2	liegt				VVFIN		
+120.529	0.2	wach				ADJD		
+120.729	0.0	im				APPRART		
+120.729	0.2	Bett		furniture		NN		
+120.929	10.8	Forrest		mname		NN		
+131.729	0.4	liegt				VVFIN		
+132.129	0.3	oben				ADV		
+132.429	0.1	im				APPRART		
+132.529	0.5	Etagenbett		furniture		NN		
+133.029	0.4	sein				PPOSAT		
+133.429	0.2	Nachbar		person		NN		
+133.629	0.3	wirft				VVFIN		
+133.929	0.2	ihm				PPER		
+134.129	0.2	einem				ART		
+134.329	0.2	Playboy		object		NN		
+134.529	0.4	zu				PTKVZ		
+139.629	1.3	Forrest#schaut		#	#	#		
+140.929	0.3	in				APPR		
+141.229	0.0	die				ART		
+141.229	0.4	Zeitschrift		object		NN		
+141.629	0.4	und				KON		
+142.029	0.4	blättert				VVFIN		
+142.429	0.2	um				PTKVZ		
+142.629	2.2	auf				APPR		
+144.829	0.3	einem				ART		
+145.129	0.3	Bild		object		NN		
+145.429	0.4	kniet				VVFIN		
+145.829	0.5	Jenny		fname		NE		
+146.329	0.4	nur				ADV		
+146.729	0.1	in				APPR		
+146.829	0.2	weit				ADJD		
+147.029	0.4	aufgeknöpfter				ADJA		
+147.829	0.6	College-Jacke		body		NN		
+148.429	1.6	ungläubig				ADJD		
+150.029	0.4	starrt				VVFIN		
+150.429	0.5	Forrest		mname		NN		
+150.929	0.2	auf				APPR		
+151.129	0.1	das				ART		
+151.229	0.3	Foto		object		NN		
+151.529	10.0	Bab#y		#	#	#		
+161.529	1.0	Er				PPER		
+162.529	1.2	kommt				VVFIN		
+163.729	0.1	in				APPR		
+163.829	0.2	einem				ART		
+164.029	0.2	Club		setting_new		NN		
+164.229	10.0	zwischen				APPR		
+174.229	0.5	Portraits		object		NN		
+174.729	0.2	eines				ART		
+174.929	0.4	von				APPR		
+175.329	0.2	Jenny		fname		NN		
+175.529	19.8	der				ART		
+195.329	0.4	Vorhang		roomgeo		NN		
+195.729	0.1	öffnet				VVFIN		
+195.829	0.4	sich				PRF		
+196.229	1.1	Jenny		fname		NE		
+197.329	0.3	sitzt				VVFIN		
+197.629	0.2	mit				APPR		
+197.829	0.1	einer				ART		
+197.929	0.4	großen				ADJA		
+198.329	0.4	Gitarre		object		NN		
+198.729	0.1	auf				APPR		
+198.829	0.1	einem				ART		
+198.929	0.3	Barhocker		furniture		NN		
+199.529	2.9	das				ART		
+202.429	0.3	Instrument		object		NN		
+202.729	0.5	verdeckt				VVFIN		
+203.229	0.3	Brust		body		NN		
+203.529	0.2	und				KON		
+203.729	0.2	Schoß		body		NN		
+203.929	3.9	sie				PPER		
+207.829	0.3	trägt				VVFIN		
+208.129	0.2	nur				ADV		
+208.329	0.2	einen				ART		
+208.529	0.4	hautfarbenen				ADJA		
+208.929	0.6	Slip		body		NN		
+209.529	18.9	Männer		male		NN		
+228.429	13.2	ein				ART		
+241.629	0.2	Mann		male		NN		
+241.829	0.4	will				VMFIN		
+242.229	0.1	ihr				PPER		
+242.329	0.3	einen				ART		
+242.629	0.3	Geldschein		object		NN		
+242.929	0.2	in				APPR		
+243.129	0.2	den				ART		
+243.329	0.2	Pumps		object		NN		
+243.529	0.2	stecken				VVINF		
+243.729	2.5	Sie				PPER		
+246.229	0.2	tritt				VVFIN		
+246.429	0.2	seine				PPOSAT		
+246.629	0.2	Hand		bodypart		NN		
+246.829	2.9	weg#er#schüttet		#	#	#		
+249.729	0.2	sein				PPOSAT		
+249.929	0.2	Bier		object		NN		
+250.129	0.3	über				APPR		
+250.429	0.2	ihre				PPOSAT		
+250.629	0.3	Füße		bodypart		NN		
+250.929	6.1	Forrest		mname		NN		
+257.029	0.4	marschiert				VVFIN		
+257.429	0.1	mit				APPR		
+257.529	0.5	grimmiger				ADJA		
+258.029	0.1	Miene		face		NN		
+258.129	0.6	nach#vorn		#	#	#		
+259.529	0.3	Er				PPER		
+259.829	0.2	packt				VVFIN		
+260.029	0.2	den				ART		
+260.229	0.1	Mann		male		NN		
+260.329	0.2	von				APPR		
+260.529	0.1	hinten				ADV		
+260.629	0.4	und				KON		
+261.029	0.3	stößt				VVFIN		
+261.329	0.1	ihn				PPER		
+261.429	0.1	zu				APPR		
+261.529	0.2	Boden				NN		
+261.729	2.1	er				PPER		
+263.829	0.3	schubst				ADV		
+264.129	0.1	noch				ADV		
+264.229	0.3	einen				PIS		
+264.529	0.1	um				PTKVZ		
+264.629	2.0	er				PPER		
+266.629	0.2	steigt				VVFIN		
+266.829	0.1	auf				APPR		
+266.929	0.2	die				ART		
+267.129	0.2	Bühne		roomgeo		NN		
+267.329	1.9	und				KON		
+269.229	0.2	hebt				VVFIN		
+269.429	0.1	sie				PPER		
+269.529	0.1	hoch				PTKVZ		
+269.629	2.7	er				PPER		
+272.329	0.2	tut				VVFIN		
+272.529	0.1	es				PPER		
+272.629	1.1	sie				PPER		
+273.729	0.3	drückt				VVFIN		
+274.029	0.1	ihm				PPER		
+274.129	0.1	die				ART		
+274.229	0.4	Gitarre		object		NN		
+274.629	0.1	in				APPR		
+274.729	0.0	die				ART		
+274.729	0.3	Hand		bodypart		NN		
+275.029	0.0	und				KON		
+275.029	0.4	eilt				VVFIN		
+275.429	0.1	von				APPR		
+275.529	0.1	der				ART		
+275.629	0.3	Bühne		roomgeo		NN		
+275.929	0.6	Forrest		mname		NN		
+276.529	0.3	hetzt				VVFIN		
+276.829	0.1	ihr				PPER		
+276.929	0.2	nach				PTKVZ		
+277.129	0.9	später		++		ADJD		
+278.029	0.1	auf				APPR		
+278.129	0.2	einer				ART		
+278.329	0.1	Brücke		setting_new;geo		NN		
+278.429	20.3	Jenny		fname		NE		
+298.729	0.4	schaut				VVFIN		
+299.129	0.3	nachdenklich				ADJD		
+299.429	0.5	aus				APPR		
+299.929	0.3	Wasser		geo		NN		
+301.229	0.7	Forrest		mname		NN		
+301.929	0.1	betrachtet				VVFIN		
+302.029	0.4	sie				PPER		
+302.429	19.6	Sie				PPER		
+322.029	0.4	steigt				VVFIN		
+322.429	0.1	auf				APPR		
+322.529	0.3	eine				ART		
+322.829	0.4	niedrige				ADJA		
+323.229	0.7	Querstrebe		object		NN		
+323.929	0.1	des				ART		
+324.029	0.4	Geländers		furniture		NN		
+324.429	1.2	beunruhigt				ADJD		
+325.629	0.1	sieht				VVFIN		
+325.729	0.4	Forrest		mname		NN		
+326.129	0.1	sie				PPER		
+326.229	0.2	von				APPR		
+326.429	0.3	unten				ADV		
+326.729	0.1	nach				APPR		
+326.829	0.1	oben				ADV		
+326.929	0.4	an				PTKVZ		
+327.329	0.3	und				KON		
+327.629	0.3	kommt				VVFIN		
+327.929	0.2	etwas				ADV		
+328.129	0.2	näher				ADJD		
+328.329	7.5	ein				ART		
+335.829	0.5	Autoscheinwerfer		object		NN		
+336.329	0.8	streift				VVFIN		
+337.129	0.1	ihr				PPOSAT		
+337.229	0.4	Gesicht		face		NN		
+337.629	2.8	sie				PPER		
+340.429	0.3	stellt				VVFIN		
+340.729	0.0	sich				PRF		
+340.729	0.1	auf				APPR		
+340.829	0.2	die				ART		
+341.029	0.4	Fahrbahn		geo		NN		
+341.429	0.3	und				KON		
+341.729	0.3	winkt				VVFIN		
+342.029	12.5	sie				PPER		
+354.529	0.3	bleibt				VVFIN		
+354.829	0.3	stehen				VVINF		
+355.129	0.1	und				KON		
+355.229	0.2	sieht				VVFIN		
+355.429	0.3	zu				APPR		
+355.729	0.2	ihm				PPER		
+356.429	24.1	Jenny		fname		NE		
+380.529	0.2	geht				VVFIN		
+380.729	0.2	zur				APPRART		
+380.929	0.8	Beifahrerseite				NN		
+384.329	1.7	Sie				PPER		
+386.029	0.4	stoppt				VVFIN		
+398.221	1.7	der				ART		
+399.921	0.4	Schatten				NN		
+400.321	0.1	eines				ART		
+400.421	0.6	Hubschraubers		object		NN		
+401.021	0.4	gleitet				VVFIN		
+401.421	0.1	über				APPR		
+401.521	0.6	Reisfelder		setting_new;geo		NN		
+402.121	0.0	in				APPR		
+402.121	0.5	der				ART		
+402.621	0.3	offenen				ADJA		
+402.921	0.1	Tür		roomgeo		NN		
+403.021	0.3	sitzt				VVFIN		
+403.321	0.1	ein				ART		
+403.421	0.6	Bordschütze		male		NN		
+404.021	0.2	am				APPRART		
+404.221	0.0	Maschinengewehr		object		NN		
+404.221	3.5	er				PPER		
+407.721	0.1	schaut				VVFIN		
+407.821	0.2	zu				APPR		
+408.021	0.3	Forrest		mname		NN		
+408.321	0.1	und				KON		
+408.421	0.3	Bubba		fname		NE		
+408.721	0.4	neben				APPR		
+409.121	0.1	ihm				PPER		
+409.221	0.3	die				ART		
+409.521	0.4	beiden				PIAT		
+409.921	0.3	weichen				VVFIN		
+410.221	0.2	seinem				PPOSAT		
+410.421	0.2	Blick		###		NN		
+410.621	0.7	eingeschüchtert				VVPP		
+411.321	0.1	aus				PTKVZ		
+411.421	7.1	der				ART		
+418.521	0.4	Hubschrauber		object		NN		
+418.921	0.3	landet				VVFIN		
+419.221	0.1	auf				APPR		
+419.321	0.1	einem				ART		
+419.421	0.7	Stützpunkt		setting_new;geo		NN		
+420.121	0.3	neben				APPR		
+420.421	0.2	einem				ART		
+420.621	0.4	anderen				ADJA		
+421.021	0.5	Helikopter		object		NN		
+421.521	0.5	zwei				CARD		
+422.021	0.5	Soldaten		male		NN		
+422.521	0.6	erwarten				VVFIN		
+423.121	0.1	ihn				PPER		
+423.221	0.7	Bubba		mname		NE		
+423.921	0.1	und				KON		
+424.021	0.4	Forrest		mname		NN		
+424.421	0.3	springen				VVFIN		
+424.721	0.2	mit				APPR		
+424.921	0.3	ihren				PPOSAT		
+425.221	0.6	Gepäcksäcken		object		NN		
+425.821	0.2	aus				PTKVZ		
+426.021	20.8	an				APPR		
+446.821	0.2	einem				ART		
+447.021	0.2	Fluss		geo		NN		
+447.221	0.5	grillen				ADJA		
+447.721	0.5	Soldaten		male		NN		
+448.221	0.2	zwischen				APPR		
+448.421	0.4	Palmen		geo		NN		
+448.821	0.3	und				KON		
+449.121	0.3	trinken				VVFIN		
+449.421	0.1	Bier		object		NN		
+449.521	0.8	einige				PIAT		
+450.321	0.2	spielen				ADJA		
+450.521	0.4	Karten		object		NN		
+450.921	0.4	im				APPRART		
+451.321	0.6	Hintergrund				NN		
+451.921	0.2	fliegt				VVFIN		
+452.121	0.1	eine				ART		
+452.221	0.6	Hubschrauberstaffel		object		NN		
+452.821	0.3	den				ART		
+453.121	0.2	Fluss		geo		NN		
+453.321	0.4	entlang				PTKVZ		
+453.721	0.8	Forrest		mname		NN		
+454.521	0.1	und				KON		
+454.621	0.0	Bubba		mname		NE		
+454.621	0.5	gehen				VVFIN		
+455.121	0.1	mit				APPR		
+455.221	0.2	ihrem				PPOSAT		
+455.421	0.1	Gepäck		object		NN		
+455.521	0.4	darauf				PROAV		
+455.921	0.2	zu				PTKVZ		
+458.221	14.3	ein				ART		
+472.521	0.3	Soldat		male		NN		
+472.821	0.1	mit				APPR		
+472.921	0.4	nacktem				ADJA		
+473.321	0.5	Oberkörper		body		NN		
+473.821	24.0	Bubba		male		NE		
+497.821	0.2	zieht				VVFIN		
+498.021	0.1	die				ART		
+498.121	0.4	Unterlippe		face		NE		
+498.521	0.2	ein				PTKVZ		
+498.721	6.4	Forrest		mname		NN		
+505.121	0.2	und				KON		
+505.321	0.2	Bubba		mname		NE		
+505.521	0.4	mustern				VVFIN		
+505.921	0.2	sich				PRF		
+506.121	0.3	und				KON		
+506.421	0.1	schüttelt				VVFIN		
+506.521	0.3	den				ART		
+506.821	0.1	Kopf		head		NN		
+506.921	7.4	sie				PPER		
+514.321	0.5	folgen#Dan		#	#	#		
+518.221	40.8	Soldaten		male		NN		
+559.021	0.2	die				ART		
+559.221	0.2	genau				ADJD		
+559.421	0.2	wie				KOKOM		
+559.621	0.2	Dan		male		NE		
+559.821	0.5	aussehen				VVINF		
+560.321	0.5	sterben				VVFIN		
+560.821	0.2	in				APPR		
+561.021	0.3	vier				CARD		
+561.321	0.2	historischen				ADJA		
+561.521	0.9	Kriegen		setting_new		NN		
+578.121	6.0	er				PPER		
+584.121	0.2	geht				VVFIN		
+584.321	0.1	in				APPR		
+584.421	0.1	eine				ART		
+584.521	0.2	Latrine		furniture		NN		
+584.721	15.2	sein				PPOSAT		
+599.921	0.2	Kopf		head		NN		
+600.121	0.6	verschwindet				VVFIN		
+600.721	0.2	hinter				APPR		
+600.921	0.2	der				ART		
+601.121	0.5	brusthohen				ADJA		
+601.621	0.5	Latrinentür		roomgeo		NN		
+604.321	4.9	auf				APPR		
+609.221	0.2	Patrouille				NN		
+609.421	0.4	gehen				VVFIN		
+609.821	0.5	Forrest		mname		NN		
+610.321	0.1	und				KON		
+610.421	0.1	Bubba		mname		NE		
+610.521	0.3	mit				APPR		
+610.821	0.4	anderen				PIS		
+611.221	0.2	durch				APPR		
+611.421	0.1	ein				ART		
+611.521	0.4	Reisfeld		setting_new;geo		NN		
+611.921	0.3	sie				PPER		
+612.221	0.3	tragen				VVFIN		
+612.521	0.7	tarnfarbene				ADJA		
+613.221	0.3	Helme		object		NN		
+613.521	0.7	olivgrüne				ADJA		
+614.221	0.6	Uniformen		body		NN		
+614.821	0.1	und				KON		
+614.921	0.5	Rucksäcke		object		NN		
+615.421	0.5	ihre				PPOSAT		
+615.921	0.4	Gewehre		object		NN		
+616.321	0.3	halten				VVFIN		
+616.621	0.1	sie				PPER		
+616.721	0.2	quer				ADJD		
+616.921	0.2	vor				APPR		
+617.121	0.2	sich				PRF		
+617.321	6.1	zwischen				APPR		
+623.421	0.3	Feldern		geo		NN		
+623.721	0.3	gehen				VVFIN		
+624.021	0.1	sie				PPER		
+624.121	0.1	eine				ART		
+624.221	0.3	Sandpiste		geo		NN		
+624.521	0.6	entlang				PTKVZ		
+625.121	11.2	Forrest#Gesicht		#	#	#		
+636.321	0.4	ist				VAFIN		
+636.721	0.4	schmutzig				ADJD		
+637.121	0.2	unter				APPR		
+637.321	0.4	einem				ART		
+637.721	0.3	Riemen		object		NN		
+638.021	0.2	an				APPR		
+638.221	0.2	seinem				PPOSAT		
+638.421	0.2	Helm		head		NN		
+638.621	0.3	klemmt				VVFIN		
+638.921	0.1	ein				ART		
+639.021	0.6	Plastikfläschchen		object		NN		
+639.621	1.0	ein				ART		
+640.621	0.4	vorn				ADV		
+641.021	0.3	gehender				ADJA		
+641.321	0.3	Soldat		male		NN		
+641.621	0.2	hebt				VVFIN		
+641.821	0.1	die				ART		
+641.921	0.1	Faust		bodypart		NN		
+642.021	2.7	der				ART		
+644.721	0.2	Trupp		males		NE		
+644.921	0.2	hockt				VVFIN		
+645.121	0.2	sich				PRF		
+645.321	0.3	links				ADV		
+645.621	0.1	und				KON		
+645.721	0.3	rechts				ADV		
+646.021	0.1	der				ART		
+646.121	0.3	Piste		geo		NN		
+646.421	0.1	an				APPR		
+646.521	0.1	die				ART		
+646.621	0.2	Böschung		geo		NN		
+646.821	16.4	Dan		mname		NE		
+663.221	0.2	geht				VVFIN		
+663.421	0.2	nach				APPR		
+663.621	0.3	vorn				ADV		
+667.021	0.4	er				PPER		
+667.421	0.2	hockt				VVFIN		
+667.621	0.1	sich				PRF		
+667.721	0.2	hin				ADV		
+667.921	0.6	dreht				VVFIN		
+668.521	0.2	sich				PRF		
+668.721	0.2	zu				APPR		
+668.921	0.2	seinen				PPOSAT		
+669.121	0.3	Männern		males		NN		
+669.421	0.1	um				PTKVZ		
+669.521	0.3	und				KON		
+669.821	0.2	zeigt				VVFIN		
+670.021	0.1	mit				APPR		
+670.121	0.2	zwei				CARD		
+670.321	0.5	Fingern		bodypart		NN		
+670.821	0.1	auf				APPR		
+670.921	0.2	seine				PPOSAT		
+671.121	0.3	Augen		face		NN		
+671.421	3.5	Dan		male		NE		
+674.921	0.4	legt				VVFIN		
+675.321	0.1	sich				PRF		
+675.421	0.1	flach				ADJD		
+675.521	0.2	auf				APPR		
+675.721	0.2	die				ART		
+675.921	0.3	Piste		geo		NN		
+676.221	0.1	und				KON		
+676.321	0.3	späht				VVFIN		
+676.621	0.2	über				APPR		
+676.821	0.2	den				ART		
+677.021	0.3	Boden		geo		NN		
+677.321	0.4	direkt				ADJD		
+677.721	0.0	vor				APPR		
+677.721	0.3	ihm				PPER		
+678.021	0.2	ein				ART		
+678.221	10.6	Soldat		male		NN		
+688.821	0.1	mit				APPR		
+688.921	0.4	Hornbrille		object		NE		
+689.321	3.1	ein				ART		
+692.421	0.5	Schwarzer		male		NN		
+692.921	10.6	vorne				ADV		
+703.521	0.2	steht				VVFIN		
+703.721	0.5	Lieutenant				NN		
+704.221	0.1	Dan		mname		NE		
+704.321	0.3	wieder				ADV		
+704.621	0.1	auf				PTKVZ		
+704.721	21.9	hinter				APPR		
+726.621	0.3	Da#n		#	#	#		
+727.021	0.6	fliegt				VVFIN		
+727.621	0.3	Erde				NN		
+727.921	0.2	hoch		setting_new		PTKVZ		
+728.121	8.3	bis				APPR		
+736.421	0.2	zur				APPRART		
+736.621	0.2	Brust		bodypart		NN		
+736.821	0.1	in				APPR		
+736.921	0.3	trübem				ADJA		
+737.221	0.1	Wasser		geo		NN		
+737.321	0.6	wartet				VVFIN		
+737.921	0.3	der				ART		
+738.221	0.1	Trupp		males		NE		
+738.321	0.2	durch				APPR		
+738.521	0.2	ein				ART		
+738.721	0.4	Reisfeld		setting_new;geo		NN		
+739.121	25.2	sie				PPER		
+764.321	0.2	gehen				VVFIN		
+764.521	0.1	durch				APPR		
+764.621	0.2	einen				ART		
+764.821	0.2	Fluss		setting_new;geo		NN		
+786.921	44.6	liegt				VVFIN		
+831.521	0.2	unter				APPR		
+831.721	0.1	einer				ART		
+831.821	0.2	Plane		locale		NN		
+832.021	0.5	und				KON		
+832.521	0.4	schreibt				VVFIN		
+833.421	15.1	Jenny		fname		NE		
+848.521	0.3	kommt				VVFIN		
+848.821	0.0	aus				APPR		
+848.821	0.2	dem				ART		
+849.021	0.3	Wohnwagen		object		NN		
+849.321	0.4	ihrer				PPOSAT		
+849.721	0.2	Oma		setting_new;female		NN		
+849.921	0.1	sie				PPER		
+850.021	5.2	steigt				VVFIN		
+855.221	0.2	zu				APPR		
+855.421	0.4	anderen				ADJA		
+855.821	0.3	Hippies		persons		NN		
+856.121	0.1	in				APPR		
+856.221	0.2	einen				ART		
+856.421	0.3	VW-Bus		object		NN		
+856.721	10.7	auf				APPR		

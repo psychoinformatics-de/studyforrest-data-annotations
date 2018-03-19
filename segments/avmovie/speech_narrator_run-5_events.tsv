@@ -1,554 +1,554 @@
 onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
-6.0	0.1	in				APPR		
-6.1	0.2	einem				ART		
-6.3	0.3	Camp		setting_new		NN		
-6.6	29.4	bei				APPR		
-36.0	0.4	Jenny		fname		NE		
-36.4	0.2	steht				VVFIN		
-36.6	0.1	ein				ART		
-36.7	0.3	Weißer		male		NN		
-37.0	0.3	mit				APPR		
-37.3	0.2	roter				ADJA		
-37.5	0.4	Armbinde		object		NN		
-50.7	13.3	Forrest#starrt		#	#	#		
-64.0	0.4	zu				APPR		
-64.4	0.3	Jenny		fname		NE		
-64.7	0.1	und				KON		
-64.8	0.4	Wesley		mname		NE		
-65.2	0.1	die				ART		
-65.3	0.1	sich				PRF		
-65.4	0.4	streiten				VVINF		
-65.8	5.8	Wesley		male		NE		
-71.6	0.2	ohrfeigt				VVFIN		
-71.8	0.5	Jenny		fname		NE		
-72.3	2.9	in				APPR		
-75.2	0.5	Zeitlupe				NN		
-75.7	0.6	Forrest		mname		NN		
-76.3	0.5	Augen		face		NN		
-76.8	0.3	weiten				VVFIN		
-77.1	0.2	sich				PRF		
-77.3	0.3	er				PPER		
-77.6	0.4	maschiert				VVFIN		
-78.0	0.1	auf				APPR		
-78.1	0.4	Wesley		male		NE		
-78.5	0.2	zu				PTKZU		
-78.7	0.6	stürzt				VVFIN		
-79.3	0.2	sich				PRF		
-79.5	0.1	auf				APPR		
-79.6	0.3	ihn				PPER		
-79.9	0.2	und				KON		
-80.1	0.2	fällt				VVFIN		
-80.3	0.2	mit				APPR		
-80.5	0.1	ihm				PPER		
-80.6	0.2	über				APPR		
-80.8	0.2	einen				ART		
-81.0	0.2	Tisch		furniture		NN		
-81.2	6.2	er				PPER		
-87.4	0.4	prügelt				VVFIN		
-87.8	0.1	auf				APPR		
-87.9	0.3	Wesley		mname		NE		
-88.2	0.2	ein				PTKVZ		
-88.4	4.6	sie				PPER		
-93.0	0.3	zieht				VVFIN		
-93.3	0.1	ihn				PPER		
-93.4	0.2	weg				PTKVZ		
-93.6	1.8	Wesley		mname		NE		
-95.4	0.3	rappelt				VVFIN		
-95.7	0.1	sich				PRF		
-95.8	0.3	hoch				ADJD		
-96.1	0.6	fasst				VVFIN		
-96.7	0.1	sich				PRF		
-96.8	0.2	ins				APPRART		
-97.0	0.2	Gesicht		face		NN		
-97.2	0.2	und				KON		
-97.4	0.3	sieht				VVFIN		
-97.7	0.1	auf				APPR		
-97.8	0.2	seine				PPOSAT		
-98.0	0.5	blutigen				ADJA		
-98.5	0.3	Hände		bodypart		NN		
-110.7	0.7	ein				ART		
-111.4	0.5	Schwarzer		male		NN		
-111.9	0.3	hält				VVFIN		
-112.2	0.0	die				ART		
-112.2	0.3	Tür		roomgeo		NN		
-112.5	0.1	auf				PTKVZ		
-112.6	0.7	andere		persons		PIS		
-113.3	0.3	haben				VAFIN		
-113.6	0.2	ihre				PPOSAT		
-113.8	0.3	Waffen		object		NN		
-114.1	0.3	gezogen				VVPP		
-114.4	2.7	er				PPER		
-117.1	0.2	sieht				VVFIN		
-117.3	0.2	zum				APPRART		
-117.5	0.5	Anführer		male		NN		
-118.0	0.5	der				PDS		
-118.5	0.4	klopft				VVFIN		
-118.9	0.0	sich				PRF		
-118.9	0.3	mit				APPR		
-119.2	0.0	dem				ART		
-119.2	0.2	Revolver		object		NN		
-119.4	0.4	auf				APPR		
-119.8	0.1	die				ART		
-119.9	0.4	schwarze				ADJA		
-120.3	0.5	Lederjacke		body		NN		
-120.8	5.4	vor				APPR		
-126.2	0.1	dem				ART		
-126.3	0.3	Weißen				ADJA		
-126.6	0.1	Haus		setting_new;geo		NN		
-126.7	0.4	geht				VVFIN		
-127.1	0.2	Jenny		fname		NE		
-127.3	0.2	mit				APPR		
-127.5	0.1	ihm				PPER		
-127.6	0.1	an				APPR		
-127.7	0.2	einem				ART		
-127.9	0.6	Friedensmarsch		###persons?###		NN		
-128.5	0.2	vorbei				PTKVZ		
-128.7	8.5	die				ART		
-137.2	0.7	Demonstranten		persons		NN		
-137.9	0.4	halten				VVFIN		
-138.3	0.3	Kerzen		object		NN		
-138.6	0.2	in				APPR		
-138.8	0.1	den				ART		
-138.9	0.3	Händen		bodypart		NN		
-139.2	4.9	im				APPRART		
-144.1	0.3	Gehen				NN		
-144.4	0.3	sehen				VVFIN		
-144.7	0.0	sie				PPER		
-144.7	0.2	sich				PRF		
-144.9	0.1	kurz				ADJD		
-145.0	0.3	in				APPR		
-145.3	0.1	die				ART		
-145.4	0.3	Augen		face		NN		
-145.7	0.5	Jenny		fname		NE		
-146.2	0.3	senkt				VVFIN		
-146.5	0.3	den				ART		
-146.8	0.2	Blick		###		NN		
-149.3	0.4	Sie				PPER		
-149.7	0.2	wischt				VVFIN		
-149.9	0.0	über				APPR		
-149.9	0.5	Forrests		mname		NE		
-150.4	0.6	Ärmel		bodypart		NE		
-151.0	20.2	Jenny		fname		NE		
-171.2	0.3	harkt				VVFIN		
-171.5	0.2	sich				PRF		
-171.7	0.2	bei#ihm		#	#	#		
-171.9	0.4	unter				PTKVZ		
-172.3	7.7	Jenny		fname		NN		
-180.0	0.2	beim				APPRART		
-180.2	0.5	Trampen		setting_new		NN		
-180.7	7.4	sie		female		PPER		
-188.1	0.2	nimmt				VVFIN		
-188.3	0.2	LSD				NE		
-188.5	8.1	als				APPR		
-196.6	0.8	Straßenmusikant		person		NN		
-197.4	0.1	auf				APPR		
-197.5	0.1	dem				ART		
-197.6	0.5	Walk-of-Fame				NN		
-198.1	0.3	in				APPR		
-198.4	0.1	Hollywood		setting_new		NE		
-198.5	0.9	ein				ART		
-199.4	0.5	Langhaariger		male		NN		
-199.9	0.2	mit				APPR		
-200.1	0.3	VW-Käfer		object		NN		
-209.3	4.0	morgens		++		ADV		
-213.3	2.3	an				APPR		
-215.6	0.3	einem				ART		
-215.9	0.2	alten				ADJA		
-216.1	0.2	Bus		setting_new;object		NN		
-216.3	2.4	z#ö		#	#	#		
-218.7	0.4	n#ä		#	#	#		
-219.1	0.2	h#er#t		#	#	#		
-219.3	0.1	sich				PRF		
-219.4	0.5	Wesley		mname		NE		
-219.9	9.2	Jenny		fname		NE		
-229.1	0.2	hat				VAFIN		
-229.3	0.2	den				ART		
-229.5	0.2	Blick		###		NN		
-229.7	0.5	gesenkt				VVPP		
-230.2	3.7	sie				PPER		
-233.9	0.2	blickt				VVFIN		
-234.1	0.1	ihn				PPER		
-234.2	0.3	grimmig			face	ADJD		
-234.5	0.3	an				PTKVZ		
-236.5	9.6	er				PPER		
-246.1	0.3	starrt				VVFIN		
-246.4	0.5	Wesley		mname		NE		
-246.9	0.3	böse				ADJD		
-247.2	0.2	an				PTKVZ		
-247.4	0.6	der				PDS		
-248.0	0.2	geht				VVFIN		
-248.2	0.2	ein				ART		
-248.4	0.1	paar				PIAT		
-248.5	0.1	Schritte				NN		
-248.6	0.5	rückwärts				ADV		
-249.1	0.3	und				KON		
-249.4	0.2	wendet				VVFIN		
-249.6	0.1	sich				PRF		
-249.7	0.5	kurz#ab		#	#	#		
-262.8	1.1	Forrest		mname		NN		
-263.9	0.4	öffnet				VVFIN		
-264.3	0.2	das				ART		
-264.5	0.2	blaue				ADJA		
-264.7	0.3	Band		object		NN		
-265.0	0.3	seiner				PPOSAT		
-265.3	0.2	goldenen				ADJA		
-265.5	0.9	Tapferkeitsmedaille		object		NN		
-266.4	0.6	mit				APPR		
-267.0	0.7	fünfzackigen				ADJA		
-267.7	0.3	Stern		object		NN		
-268.0	4.5	er				PPER		
-272.5	0.3	legt				VVFIN		
-272.8	0.1	sie				PPER		
-272.9	0.1	in				APPR		
-273.0	0.4	ihre				PPOSAT		
-273.4	0.3	Hand		bodypart		NN		
-275.7	19.6	sie				PPER		
-295.3	0.2	umarmt				ADJD		
-295.5	0.4	ihn				PPER		
-300.5	0.6	Jenny		fname		NE		
-301.1	0.2	geht				VVFIN		
-301.3	0.1	mit				APPR		
-301.4	0.4	Wesley		mname		NE		
-301.8	0.3	zur				APPRART		
-302.1	0.4	Bustür		object		NN		
-302.5	5.0	beim				APPRART		
-307.5	0.5	Einsteigen				NN		
-308.0	0.6	lächelt				VVFIN		
-308.6	0.1	sie				PPER		
-308.7	0.5	Forrest		mname		NN		
-309.2	0.6	er				PPER		
-309.8	0.5	lächelt				VVFIN		
-310.3	0.1	zurück				PTKVZ		
-310.4	1.0	Wesley		mname		NE		
-311.4	0.2	sieht				VVFIN		
-311.6	0.2	noch				ADV		
-311.8	0.0	mal				ADV		
-311.8	0.4	ernst				ADJD		
-312.2	0.2	zu				PTKVZ		
-312.4	1.1	Forrest		mname		NN		
-313.5	0.4	kneift				VVFIN		
-313.9	0.3	finster				ADJD		
-314.2	0.1	die				ART		
-314.3	0.3	Augen		face		NN		
-314.6	0.4	zusammen				PTKVZ		
-315.0	8.3	Jenny		fname		NN		
-323.3	0.4	klopft				VVFIN		
-323.7	0.0	gegen				APPR		
-323.7	0.2	die				ART		
-323.9	0.5	Heckscheibe		roomgeo		NN		
-324.4	0.2	und				KON		
-324.6	0.3	winkt				VVFIN		
-324.9	0.3	Forrest		mname		NN		
-325.2	0.2	zu				PTKVZ		
-329.2	0.4	sie				PPER		
-329.6	0.2	macht				VVFIN		
-329.8	0.1	das				ART		
-329.9	0.4	v-förmige				NN		
-330.3	0.7	Peace-Zeichen				NN		
-331.0	0.5	er				PPER		
-331.5	0.6	erwidert				VVFIN		
-332.1	0.2	es				PPER		
-332.3	6.4	die				ART		
-338.7	0.4	Mondlandung				NN		
-339.1	0.4	im				APPRART		
-339.5	0.6	Fernsehen		setting_new		NN		
-340.1	2.4	das				ART		
-342.5	0.3	Gerät		object		NN		
-342.8	0.2	steht				VVFIN		
-343.0	0.1	in				APPR		
-343.1	0.2	einem				ART		
-343.3	0.9	Klinikaufenthaltsraum		setting_new		NN		
-344.2	2.7	die				ART		
-346.9	0.3	Stühle		furniture		NN		
-347.2	0.3	davor				PROAV		
-347.5	0.1	sind				VAFIN		
-347.6	0.2	leer				ADJD		
-347.8	0.6	Personal		###persons###		NN		
-348.4	0.2	und				KON		
-348.6	0.4	Patienten		persons		NN		
-349.0	0.3	gucken				VVFIN		
-349.3	0.4	Forrest		mname		NN		
-349.7	0.1	zu				APPR		
-349.8	0.2	der				ART		
-350.0	0.2	allein				ADV		
-350.2	0.3	mit				APPR		
-350.5	0.1	zwei				CARD		
-350.6	0.4	Schlägern		object		NN		
-351.0	0.1	und				KON		
-351.1	0.2	drei				CARD		
-351.3	0.4	Bällen		object		NN		
-351.7	0.3	PingPong				NE		
-352.0	0.2	spielt				VVFIN		
-389.2	3.9	der				ART		
-393.1	0.4	Talkmaster		male		NN		
-393.5	0.5	Dick				NE		
-394.0	0.3	Cavett		mname		NE		
-394.3	0.2	steht				VVFIN		
-394.5	0.2	auf		setting_new		PTKVZ		
-394.7	0.6	Forrest		mname		NN		
-395.3	0.3	kommt				VVFIN		
-395.6	0.2	in				APPR		
-395.8	0.1	einem				ART		
-395.9	0.5	dunkelblauen				ADJA		
-396.4	0.6	Zweireiher		body		NN		
-397.0	0.2	mit				APPR		
-397.2	1.3	Nationalmannschaftemblem		object		NN		
-398.5	0.1	zu				APPR		
-398.6	0.2	ihm				PPER		
-398.8	12.7	John				NE		
-411.5	0.3	Lennon		mname		NE		
-411.8	0.4	raucht				VVFIN		
-412.2	8.5	Forrest				NN		
-420.7	0.4	guckt		mname		VVFIN		
-421.1	0.2	John				NE		
-421.3	0.2	Lennon		mname		NE		
-421.5	0.4	irritiert				ADJD		
-421.9	0.2	an				PTKVZ		
-422.1	26.0	Forrest		mname		NN		
-448.1	0.5	verlässt				VVFIN		
-448.6	0.2	das				ART		
-448.8	0.1	Gebäude		setting_new;geo		NN		
-449.1	0.5	hinter				APPR		
-449.6	0.2	ihm				PPER		
-449.8	7.7	er				PPER		
-457.5	0.4	sitzt				VVFIN		
-457.9	0.1	im				APPRART		
-458.0	0.2	Rollstuhl		furniture		NN		
-458.2	0.3	und				KON		
-458.5	0.2	hat				VAFIN		
-458.7	0.2	lange				ADJA		
-458.9	0.2	Haare		head		NN		
-459.1	30.9	er				PPER		
-490.0	0.2	rollt				VVFIN		
-490.2	0.2	eine				ART		
-490.4	0.3	Rampe		roomgeo		NN		
-490.7	0.0	runter				PTKVZ		
-490.7	5.6	auf				APPR		
-496.3	0.2	der				ART		
-496.5	0.3	vereisten				ADJA		
-496.8	0.5	Schräge		roomgeo		NN		
-497.3	0.2	kommt				VVFIN		
-497.5	0.1	er				PPER		
-497.6	0.2	ins				APPRART		
-497.8	0.3	Schlittern				NN		
-498.1	3.3	der				ART		
-501.4	0.4	Rollstuhl		furniture		NN		
-501.8	0.2	fährt				VVFIN		
-502.0	0.2	rückwärts				ADV		
-502.2	3.5	abends		++		ADV		
-505.7	0.3	er				PPER		
-506.0	0.2	schiebt				VVFIN		
-506.2	0.3	Dan		mname		NE		
-509.1	6.2	Dan		mname		NE		
-515.3	0.3	hebt				VVFIN		
-515.6	0.2	eine				ART		
-515.8	0.3	Schnapsflasche		object		NN		
-516.1	0.4	in				APPR		
-516.5	0.2	einer				ART		
-516.7	0.2	Tüte		object		NN		
-516.9	0.3	zum				APPRART		
-517.2	0.3	Mund		face		NN		
-517.5	2.5	im				APPRART		
-520.0	0.5	Rotlichtviertel		###		NN		
-520.5	0.5	schiebt				VVFIN		
-521.0	0.1	er				PPER		
-521.1	0.1	Dan		mname		NE		
-521.2	0.3	durch				APPR		
-521.5	0.1	einen				ART		
-521.6	0.5	Verkehrsstau		setting_new		NN		
-522.1	7.6	ein				ART		
-529.7	0.4	Taxi		object		NN		
-530.1	0.5	bremst#dicht		#	#	#		
-530.6	0.3	vor#ihnen		#	#	#		
-530.9	12.1	im				APPRART		
-543.0	0.6	Fernsehen		setting_new		NN		
-543.6	0.6	mitsingende				ADJA		
-544.2	0.5	Soldaten		males		NN		
-544.7	0.2	in				APPR		
-544.9	0.4	Vietnam				NE		
-545.3	4.6	die				ART		
-549.9	0.3	beiden		males		PIS		
-550.2	0.3	schauen				VVFIN		
-550.5	0.1	die				ART		
-550.6	0.6	Übertragung				NN		
-551.2	0.1	der				ART		
-551.3	0.6	Weihnachtsfeier				NN		
-551.9	0.1	mit				APPR		
-552.0	0.3	Bob				NE		
-552.3	4.7	tausende				VVFIN		
-557.0	0.1	die				ART		
-557.1	0.2	Gis		persons		NN		
-557.3	0.3	stehen				VVFIN		
-557.6	0.2	auf				PTKVZ		
-569.1	0.6	Dan		mname		NE		
-569.7	0.4	wirft				VVFIN		
-570.1	0.2	seine				PPOSAT		
-570.3	0.6	ausgetrunkene				ADJA		
-570.9	0.3	Flasche		object		NN		
-571.2	0.1	weg				PTKVZ		
-571.3	8.1	er				PPER		
-579.4	0.2	sieht				VVFIN		
-579.6	0.1	in				APPR		
-579.7	0.2	eine				ART		
-579.9	0.1	leere				ADJA		
-580.0	0.2	Flasche		object		NN		
-580.2	16.1	er#öffnet		#	#	#		
-596.3	0.2	einen				ART		
-596.5	0.3	leeren				ADJA		
-596.8	0.4	Flachmann		object		NN		
-597.2	26.1	er				PPER		
-623.3	0.3	nimmt				VVFIN		
-623.6	0.2	eine				ART		
-623.8	0.2	leere				ADJA		
-624.0	0.1	Flasche		object		NN		
-624.1	0.3	aus				APPR		
-624.4	0.3	einer				ART		
-624.7	0.2	Schublade		furniture		NN		
-624.9	1.4	lässt				VVFIN		
-626.3	0.1	sie				PPER		
-626.4	0.2	wieder				ADV		
-626.6	0.4	einfallen				VVINF		
-629.0	2.7	Dan		mname		NE		
-631.7	0.4	rollt#zu		#	#	#		
-632.1	0.5	Forrest		mname		NN		
-632.6	0.2	der				ART		
-632.8	0.1	auf				APPR		
-632.9	0.1	dem				ART		
-633.0	0.3	Sofa		furniture		NN		
-633.3	0.3	sitzt				VVFIN		
-633.6	6.8	in				APPR		
-640.4	0.2	einer				ART		
-640.6	0.0	Bar		setting_new		NN		
-689.0	36.3	Sie#zeigt		#	#	#		
-725.3	0.2	zum				APPRART		
-725.5	0.3	Fernseher		object		NN		
-725.8	12.0	die				PDS		
-737.8	0.2	geht				VVFIN		
-738.0	0.1	durch				APPR		
-738.1	0.1	ein				ART		
-738.2	0.6	Apartment		setting_new		NN		
-738.8	4.5	auch				ADV		
-743.3	0.4	dort				ADV		
-743.7	0.2	läuft				VVFIN		
-743.9	0.1	die				ART		
-744.0	0.5	Übertragung				NN		
-744.5	0.2	aus				APPR		
-744.7	0.1	New				NE		
-744.8	0.3	York				NE		
-745.1	0.5	Jenny		female		NE		
-745.6	0.6	packt#eilig		#	#	#		
-746.2	0.3	Sachen		###		NN		
-746.5	0.1	in				APPR		
-746.6	0.2	ihre				PPOSAT		
-746.8	0.3	Handtasche		object		NN		
-749.0	0.1	sie				PPER		
-749.1	0.1	zieht				VVFIN		
-749.2	0.1	ein				ART		
-749.3	0.5	Kleidungsstück		object		NN		
-749.8	0.3	unter				APPR		
-750.1	0.1	dem				ART		
-750.2	0.2	Fuß		bodypart		NN		
-750.4	0.3	eines				ART		
-750.7	0.3	schlafenden				ADJA		
-751.0	0.8	halbnackten				ADJA		
-751.8	0.3	Mannes		male		NN		
-752.1	0.3	hervor				PTKVZ		
-752.4	0.9	in				APPR		
-753.3	0.4	einem				ART		
-753.7	0.2	Spiegel		object		NN		
-753.9	0.4	hinter				APPR		
-754.3	0.1	dem				ART		
-754.4	0.2	Bett		furniture		NN		
-754.6	0.6	betrachtet				VVFIN		
-755.2	0.1	sie				PPER		
-755.3	0.9	ihr				PPOSAT		
-756.2	0.1	blaues				ADJA		
-756.3	0.5	Auge		face		NN		
-756.8	0.7	sie				PPER		
-757.5	0.3	verlässt				VVFIN		
-757.8	0.1	das				ART		
-757.9	0.6	Apartment			locale	NN		
-758.5	0.2	durch				APPR		
-758.7	0.1	die				ART		
-758.8	0.5	Terrassentür		roomgeo		NN		
-760.4	9.5	in				APPR		
-769.9	0.2	der				ART		
-770.1	0.2	Bar		setting_rec		NN		
-770.3	3.5	im				APPRART		
-773.8	0.5	Fernseher		object		NN		
-774.3	0.2	leuchtet				VVFIN		
-774.5	1.7	1972		time		CARD		
-776.2	1.0	Forrest#trägt		#	#	#		
-777.2	0.1	ein				ART		
-777.3	0.5	Partyhütchen		object		NN		
-777.8	0.7	Leute		persons		NN		
-778.5	0.2	werfen				VVFIN		
-778.7	0.5	Konfetti		object		NE		
-779.2	1.0	Carla		fname		NE		
-780.2	0.2	und				KON		
-780.4	0.3	Lenore		fname		NE		
-780.7	0.2	küssen				VVFIN		
-780.9	0.6	Forrest		mname		NN		
-781.5	0.1	auf				APPR		
-781.6	0.1	die				ART		
-781.7	0.3	Wangen		face		NN		
-782.0	0.3	Dan		mname		NE		
-782.3	0.4	schaut				VVFIN		
-782.7	0.5	deprimiert				ADJD		
-783.2	0.3	vor				APPR		
-783.5	0.2	sich				PRF		
-783.7	0.1	hin				ADV		
-783.8	9.1	der				PDS		
-792.9	0.6	reagiert				VVFIN		
-793.5	0.2	nicht				PTKNEG		
-793.7	17.9	auf				APPR		
-811.6	0.1	der				ART		
-811.7	0.5	Wartebank		setting_rec;furniture		NN		
-820.3	7.1	Nixon				NE		
-827.4	0.1	hält				VVFIN		
-827.5	0.2	eine				ART		
-827.7	0.3	Ehrentafel		setting_new;object		NN		
-828.0	8.1	im				APPRART		
-836.1	0.4	Hotel		setting_new;geo		NN		
-836.5	17.7	beim				APPRART		
-854.2	0.4	Telefon		object		NN		
-854.6	0.2	ein				ART		
-854.8	0.4	Ständer		object		NN		
-855.2	0.0	mit				APPR		
-855.2	0.2	der				ART		
-855.4	0.4	Aufschrift				NN		
-855.8	0.8	Watergate				NE		
-856.6	0.1	Hotel				NE		
-856.7	1.9	Nixon				NN		
-858.6	0.1	im				APPRART		
-858.7	0.5	Fernsehen		setting_rec		NN		
-859.2	11.1	in				APPR		
-870.3	0.2	einer				ART		
-870.5	0.4	Sporthalle		setting_new;geo		NN		
-870.9	0.4	geht				VVFIN		
-871.3	0.1	ein				ART		
-871.4	0.4	schwarzer				ADJA		
-871.8	0.5	Offizier		male		NN		
-872.3	0.2	am				APPRART		
-872.5	0.4	Fernseher		object		NN		
-872.9	0.3	vorbei				ADV		
-873.2	0.3	und				KON		
-873.5	0.3	steuert				VVFIN		
-873.8	0.2	auf				APPR		
-874.0	0.4	Forrest		mname		NN		
-874.4	0.2	zu				APPR		
-874.6	0.2	der				ART		
-874.8	0.7	allein				ADV		
-875.5	0.4	spielt				VVFIN		
-880.3	8.5	er#gibt		#	#	#		
-888.8	0.5	Forrest		mname		NN		
-889.3	0.1	einen				ART		
-889.4	0.4	Umschlag		object		NN		
-889.8	0.3	und				KON		
-890.1	0.2	geht				VVFIN		
-890.3	6.4	verwirrt				ADJD		
-896.7	0.1	sieht				VVFIN		
-896.8	0.4	Forrest		mname		NN		
-897.2	0.2	zur				APPRART		
-897.4	0.2	Tür		roomgeo		NN		
-897.6	12.0	er				PPER		
+6.149	0.1	in				APPR		
+6.249	0.2	einem				ART		
+6.449	0.3	Camp		setting_new		NN		
+6.749	29.4	bei				APPR		
+36.149	0.4	Jenny		fname		NE		
+36.549	0.2	steht				VVFIN		
+36.749	0.1	ein				ART		
+36.849	0.3	Weißer		male		NN		
+37.149	0.3	mit				APPR		
+37.449	0.2	roter				ADJA		
+37.649	0.4	Armbinde		object		NN		
+50.849	13.3	Forrest#starrt		#	#	#		
+64.149	0.4	zu				APPR		
+64.549	0.3	Jenny		fname		NE		
+64.849	0.1	und				KON		
+64.949	0.4	Wesley		mname		NE		
+65.349	0.1	die				ART		
+65.449	0.1	sich				PRF		
+65.549	0.4	streiten				VVINF		
+65.949	5.8	Wesley		male		NE		
+71.749	0.2	ohrfeigt				VVFIN		
+71.949	0.5	Jenny		fname		NE		
+72.449	2.9	in				APPR		
+75.349	0.5	Zeitlupe				NN		
+75.849	0.6	Forrest		mname		NN		
+76.449	0.5	Augen		face		NN		
+76.949	0.3	weiten				VVFIN		
+77.249	0.2	sich				PRF		
+77.449	0.3	er				PPER		
+77.749	0.4	maschiert				VVFIN		
+78.149	0.1	auf				APPR		
+78.249	0.4	Wesley		male		NE		
+78.649	0.2	zu				PTKZU		
+78.849	0.6	stürzt				VVFIN		
+79.449	0.2	sich				PRF		
+79.649	0.1	auf				APPR		
+79.749	0.3	ihn				PPER		
+80.049	0.2	und				KON		
+80.249	0.2	fällt				VVFIN		
+80.449	0.2	mit				APPR		
+80.649	0.1	ihm				PPER		
+80.749	0.2	über				APPR		
+80.949	0.2	einen				ART		
+81.149	0.2	Tisch		furniture		NN		
+81.349	6.2	er				PPER		
+87.549	0.4	prügelt				VVFIN		
+87.949	0.1	auf				APPR		
+88.049	0.3	Wesley		mname		NE		
+88.349	0.2	ein				PTKVZ		
+88.549	4.6	sie				PPER		
+93.149	0.3	zieht				VVFIN		
+93.449	0.1	ihn				PPER		
+93.549	0.2	weg				PTKVZ		
+93.749	1.8	Wesley		mname		NE		
+95.549	0.3	rappelt				VVFIN		
+95.849	0.1	sich				PRF		
+95.949	0.3	hoch				ADJD		
+96.249	0.6	fasst				VVFIN		
+96.849	0.1	sich				PRF		
+96.949	0.2	ins				APPRART		
+97.149	0.2	Gesicht		face		NN		
+97.349	0.2	und				KON		
+97.549	0.3	sieht				VVFIN		
+97.849	0.1	auf				APPR		
+97.949	0.2	seine				PPOSAT		
+98.149	0.5	blutigen				ADJA		
+98.649	0.3	Hände		bodypart		NN		
+110.849	0.7	ein				ART		
+111.549	0.5	Schwarzer		male		NN		
+112.049	0.3	hält				VVFIN		
+112.349	0.0	die				ART		
+112.349	0.3	Tür		roomgeo		NN		
+112.649	0.1	auf				PTKVZ		
+112.749	0.7	andere		persons		PIS		
+113.449	0.3	haben				VAFIN		
+113.749	0.2	ihre				PPOSAT		
+113.949	0.3	Waffen		object		NN		
+114.249	0.3	gezogen				VVPP		
+114.549	2.7	er				PPER		
+117.249	0.2	sieht				VVFIN		
+117.449	0.2	zum				APPRART		
+117.649	0.5	Anführer		male		NN		
+118.149	0.5	der				PDS		
+118.649	0.4	klopft				VVFIN		
+119.049	0.0	sich				PRF		
+119.049	0.3	mit				APPR		
+119.349	0.0	dem				ART		
+119.349	0.2	Revolver		object		NN		
+119.549	0.4	auf				APPR		
+119.949	0.1	die				ART		
+120.049	0.4	schwarze				ADJA		
+120.449	0.5	Lederjacke		body		NN		
+120.949	5.4	vor				APPR		
+126.349	0.1	dem				ART		
+126.449	0.3	Weißen				ADJA		
+126.749	0.1	Haus		setting_new;geo		NN		
+126.849	0.4	geht				VVFIN		
+127.249	0.2	Jenny		fname		NE		
+127.449	0.2	mit				APPR		
+127.649	0.1	ihm				PPER		
+127.749	0.1	an				APPR		
+127.849	0.2	einem				ART		
+128.049	0.6	Friedensmarsch		###persons?###		NN		
+128.649	0.2	vorbei				PTKVZ		
+128.849	8.5	die				ART		
+137.349	0.7	Demonstranten		persons		NN		
+138.049	0.4	halten				VVFIN		
+138.449	0.3	Kerzen		object		NN		
+138.749	0.2	in				APPR		
+138.949	0.1	den				ART		
+139.049	0.3	Händen		bodypart		NN		
+139.349	4.9	im				APPRART		
+144.249	0.3	Gehen				NN		
+144.549	0.3	sehen				VVFIN		
+144.849	0.0	sie				PPER		
+144.849	0.2	sich				PRF		
+145.049	0.1	kurz				ADJD		
+145.149	0.3	in				APPR		
+145.449	0.1	die				ART		
+145.549	0.3	Augen		face		NN		
+145.849	0.5	Jenny		fname		NE		
+146.349	0.3	senkt				VVFIN		
+146.649	0.3	den				ART		
+146.949	0.2	Blick		###		NN		
+149.449	0.4	Sie				PPER		
+149.849	0.2	wischt				VVFIN		
+150.049	0.0	über				APPR		
+150.049	0.5	Forrests		mname		NE		
+150.549	0.6	Ärmel		bodypart		NE		
+151.149	20.2	Jenny		fname		NE		
+171.349	0.3	harkt				VVFIN		
+171.649	0.2	sich				PRF		
+171.849	0.2	bei#ihm		#	#	#		
+172.049	0.4	unter				PTKVZ		
+172.449	7.7	Jenny		fname		NN		
+180.149	0.2	beim				APPRART		
+180.349	0.5	Trampen		setting_new		NN		
+180.849	7.4	sie		female		PPER		
+188.249	0.2	nimmt				VVFIN		
+188.449	0.2	LSD				NE		
+188.649	8.1	als				APPR		
+196.749	0.8	Straßenmusikant		person		NN		
+197.549	0.1	auf				APPR		
+197.649	0.1	dem				ART		
+197.749	0.5	Walk-of-Fame				NN		
+198.249	0.3	in				APPR		
+198.549	0.1	Hollywood		setting_new		NE		
+198.649	0.9	ein				ART		
+199.549	0.5	Langhaariger		male		NN		
+200.049	0.2	mit				APPR		
+200.249	0.3	VW-Käfer		object		NN		
+209.449	4.0	morgens		++		ADV		
+213.449	2.3	an				APPR		
+215.749	0.3	einem				ART		
+216.049	0.2	alten				ADJA		
+216.249	0.2	Bus		setting_new;object		NN		
+216.449	2.4	z#ö		#	#	#		
+218.849	0.4	n#ä		#	#	#		
+219.249	0.2	h#er#t		#	#	#		
+219.449	0.1	sich				PRF		
+219.549	0.5	Wesley		mname		NE		
+220.049	9.2	Jenny		fname		NE		
+229.249	0.2	hat				VAFIN		
+229.449	0.2	den				ART		
+229.649	0.2	Blick		###		NN		
+229.849	0.5	gesenkt				VVPP		
+230.349	3.7	sie				PPER		
+234.049	0.2	blickt				VVFIN		
+234.249	0.1	ihn				PPER		
+234.349	0.3	grimmig			face	ADJD		
+234.649	0.3	an				PTKVZ		
+236.649	9.6	er				PPER		
+246.249	0.3	starrt				VVFIN		
+246.549	0.5	Wesley		mname		NE		
+247.049	0.3	böse				ADJD		
+247.349	0.2	an				PTKVZ		
+247.549	0.6	der				PDS		
+248.149	0.2	geht				VVFIN		
+248.349	0.2	ein				ART		
+248.549	0.1	paar				PIAT		
+248.649	0.1	Schritte				NN		
+248.749	0.5	rückwärts				ADV		
+249.249	0.3	und				KON		
+249.549	0.2	wendet				VVFIN		
+249.749	0.1	sich				PRF		
+249.849	0.5	kurz#ab		#	#	#		
+262.949	1.1	Forrest		mname		NN		
+264.049	0.4	öffnet				VVFIN		
+264.449	0.2	das				ART		
+264.649	0.2	blaue				ADJA		
+264.849	0.3	Band		object		NN		
+265.149	0.3	seiner				PPOSAT		
+265.449	0.2	goldenen				ADJA		
+265.649	0.9	Tapferkeitsmedaille		object		NN		
+266.549	0.6	mit				APPR		
+267.149	0.7	fünfzackigen				ADJA		
+267.849	0.3	Stern		object		NN		
+268.149	4.5	er				PPER		
+272.649	0.3	legt				VVFIN		
+272.949	0.1	sie				PPER		
+273.049	0.1	in				APPR		
+273.149	0.4	ihre				PPOSAT		
+273.549	0.3	Hand		bodypart		NN		
+275.849	19.6	sie				PPER		
+295.449	0.2	umarmt				ADJD		
+295.649	0.4	ihn				PPER		
+300.649	0.6	Jenny		fname		NE		
+301.249	0.2	geht				VVFIN		
+301.449	0.1	mit				APPR		
+301.549	0.4	Wesley		mname		NE		
+301.949	0.3	zur				APPRART		
+302.249	0.4	Bustür		object		NN		
+302.649	5.0	beim				APPRART		
+307.649	0.5	Einsteigen				NN		
+308.149	0.6	lächelt				VVFIN		
+308.749	0.1	sie				PPER		
+308.849	0.5	Forrest		mname		NN		
+309.349	0.6	er				PPER		
+309.949	0.5	lächelt				VVFIN		
+310.449	0.1	zurück				PTKVZ		
+310.549	1.0	Wesley		mname		NE		
+311.549	0.2	sieht				VVFIN		
+311.749	0.2	noch				ADV		
+311.949	0.0	mal				ADV		
+311.949	0.4	ernst				ADJD		
+312.349	0.2	zu				PTKVZ		
+312.549	1.1	Forrest		mname		NN		
+313.649	0.4	kneift				VVFIN		
+314.049	0.3	finster				ADJD		
+314.349	0.1	die				ART		
+314.449	0.3	Augen		face		NN		
+314.749	0.4	zusammen				PTKVZ		
+315.149	8.3	Jenny		fname		NN		
+323.449	0.4	klopft				VVFIN		
+323.849	0.0	gegen				APPR		
+323.849	0.2	die				ART		
+324.049	0.5	Heckscheibe		roomgeo		NN		
+324.549	0.2	und				KON		
+324.749	0.3	winkt				VVFIN		
+325.049	0.3	Forrest		mname		NN		
+325.349	0.2	zu				PTKVZ		
+329.349	0.4	sie				PPER		
+329.749	0.2	macht				VVFIN		
+329.949	0.1	das				ART		
+330.049	0.4	v-förmige				NN		
+330.449	0.7	Peace-Zeichen				NN		
+331.149	0.5	er				PPER		
+331.649	0.6	erwidert				VVFIN		
+332.249	0.2	es				PPER		
+332.449	6.4	die				ART		
+338.849	0.4	Mondlandung				NN		
+339.249	0.4	im				APPRART		
+339.649	0.6	Fernsehen		setting_new		NN		
+340.249	2.4	das				ART		
+342.649	0.3	Gerät		object		NN		
+342.949	0.2	steht				VVFIN		
+343.149	0.1	in				APPR		
+343.249	0.2	einem				ART		
+343.449	0.9	Klinikaufenthaltsraum		setting_new		NN		
+344.349	2.7	die				ART		
+347.049	0.3	Stühle		furniture		NN		
+347.349	0.3	davor				PROAV		
+347.649	0.1	sind				VAFIN		
+347.749	0.2	leer				ADJD		
+347.949	0.6	Personal		###persons###		NN		
+348.549	0.2	und				KON		
+348.749	0.4	Patienten		persons		NN		
+349.149	0.3	gucken				VVFIN		
+349.449	0.4	Forrest		mname		NN		
+349.849	0.1	zu				APPR		
+349.949	0.2	der				ART		
+350.149	0.2	allein				ADV		
+350.349	0.3	mit				APPR		
+350.649	0.1	zwei				CARD		
+350.749	0.4	Schlägern		object		NN		
+351.149	0.1	und				KON		
+351.249	0.2	drei				CARD		
+351.449	0.4	Bällen		object		NN		
+351.849	0.3	PingPong				NE		
+352.149	0.2	spielt				VVFIN		
+389.349	3.9	der				ART		
+393.249	0.4	Talkmaster		male		NN		
+393.649	0.5	Dick				NE		
+394.149	0.3	Cavett		mname		NE		
+394.449	0.2	steht				VVFIN		
+394.649	0.2	auf		setting_new		PTKVZ		
+394.849	0.6	Forrest		mname		NN		
+395.449	0.3	kommt				VVFIN		
+395.749	0.2	in				APPR		
+395.949	0.1	einem				ART		
+396.049	0.5	dunkelblauen				ADJA		
+396.549	0.6	Zweireiher		body		NN		
+397.149	0.2	mit				APPR		
+397.349	1.3	Nationalmannschaftemblem		object		NN		
+398.649	0.1	zu				APPR		
+398.749	0.2	ihm				PPER		
+398.949	12.7	John				NE		
+411.649	0.3	Lennon		mname		NE		
+411.949	0.4	raucht				VVFIN		
+412.349	8.5	Forrest				NN		
+420.849	0.4	guckt		mname		VVFIN		
+421.249	0.2	John				NE		
+421.449	0.2	Lennon		mname		NE		
+421.649	0.4	irritiert				ADJD		
+422.049	0.2	an				PTKVZ		
+422.249	26.0	Forrest		mname		NN		
+448.249	0.5	verlässt				VVFIN		
+448.749	0.2	das				ART		
+448.949	0.1	Gebäude		setting_new;geo		NN		
+449.249	0.5	hinter				APPR		
+449.749	0.2	ihm				PPER		
+449.949	7.7	er				PPER		
+457.649	0.4	sitzt				VVFIN		
+458.049	0.1	im				APPRART		
+458.149	0.2	Rollstuhl		furniture		NN		
+458.349	0.3	und				KON		
+458.649	0.2	hat				VAFIN		
+458.849	0.2	lange				ADJA		
+459.049	0.2	Haare		head		NN		
+459.249	30.9	er				PPER		
+490.149	0.2	rollt				VVFIN		
+490.349	0.2	eine				ART		
+490.549	0.3	Rampe		roomgeo		NN		
+490.849	0.0	runter				PTKVZ		
+490.849	5.6	auf				APPR		
+496.449	0.2	der				ART		
+496.649	0.3	vereisten				ADJA		
+496.949	0.5	Schräge		roomgeo		NN		
+497.449	0.2	kommt				VVFIN		
+497.649	0.1	er				PPER		
+497.749	0.2	ins				APPRART		
+497.949	0.3	Schlittern				NN		
+498.249	3.3	der				ART		
+501.549	0.4	Rollstuhl		furniture		NN		
+501.949	0.2	fährt				VVFIN		
+502.149	0.2	rückwärts				ADV		
+502.349	3.5	abends		++		ADV		
+505.849	0.3	er				PPER		
+506.149	0.2	schiebt				VVFIN		
+506.349	0.3	Dan		mname		NE		
+509.249	6.2	Dan		mname		NE		
+515.449	0.3	hebt				VVFIN		
+515.749	0.2	eine				ART		
+515.949	0.3	Schnapsflasche		object		NN		
+516.249	0.4	in				APPR		
+516.649	0.2	einer				ART		
+516.849	0.2	Tüte		object		NN		
+517.049	0.3	zum				APPRART		
+517.349	0.3	Mund		face		NN		
+517.649	2.5	im				APPRART		
+520.149	0.5	Rotlichtviertel		###		NN		
+520.649	0.5	schiebt				VVFIN		
+521.149	0.1	er				PPER		
+521.249	0.1	Dan		mname		NE		
+521.349	0.3	durch				APPR		
+521.649	0.1	einen				ART		
+521.749	0.5	Verkehrsstau		setting_new		NN		
+522.249	7.6	ein				ART		
+529.849	0.4	Taxi		object		NN		
+530.249	0.5	bremst#dicht		#	#	#		
+530.749	0.3	vor#ihnen		#	#	#		
+531.049	12.1	im				APPRART		
+543.149	0.6	Fernsehen		setting_new		NN		
+543.749	0.6	mitsingende				ADJA		
+544.349	0.5	Soldaten		males		NN		
+544.849	0.2	in				APPR		
+545.049	0.4	Vietnam				NE		
+545.449	4.6	die				ART		
+550.049	0.3	beiden		males		PIS		
+550.349	0.3	schauen				VVFIN		
+550.649	0.1	die				ART		
+550.749	0.6	Übertragung				NN		
+551.349	0.1	der				ART		
+551.449	0.6	Weihnachtsfeier				NN		
+552.049	0.1	mit				APPR		
+552.149	0.3	Bob				NE		
+552.449	4.7	tausende				VVFIN		
+557.149	0.1	die				ART		
+557.249	0.2	Gis		persons		NN		
+557.449	0.3	stehen				VVFIN		
+557.749	0.2	auf				PTKVZ		
+569.249	0.6	Dan		mname		NE		
+569.849	0.4	wirft				VVFIN		
+570.249	0.2	seine				PPOSAT		
+570.449	0.6	ausgetrunkene				ADJA		
+571.049	0.3	Flasche		object		NN		
+571.349	0.1	weg				PTKVZ		
+571.449	8.1	er				PPER		
+579.549	0.2	sieht				VVFIN		
+579.749	0.1	in				APPR		
+579.849	0.2	eine				ART		
+580.049	0.1	leere				ADJA		
+580.149	0.2	Flasche		object		NN		
+580.349	16.1	er#öffnet		#	#	#		
+596.449	0.2	einen				ART		
+596.649	0.3	leeren				ADJA		
+596.949	0.4	Flachmann		object		NN		
+597.349	26.1	er				PPER		
+623.449	0.3	nimmt				VVFIN		
+623.749	0.2	eine				ART		
+623.949	0.2	leere				ADJA		
+624.149	0.1	Flasche		object		NN		
+624.249	0.3	aus				APPR		
+624.549	0.3	einer				ART		
+624.849	0.2	Schublade		furniture		NN		
+625.049	1.4	lässt				VVFIN		
+626.449	0.1	sie				PPER		
+626.549	0.2	wieder				ADV		
+626.749	0.4	einfallen				VVINF		
+629.149	2.7	Dan		mname		NE		
+631.849	0.4	rollt#zu		#	#	#		
+632.249	0.5	Forrest		mname		NN		
+632.749	0.2	der				ART		
+632.949	0.1	auf				APPR		
+633.049	0.1	dem				ART		
+633.149	0.3	Sofa		furniture		NN		
+633.449	0.3	sitzt				VVFIN		
+633.749	6.8	in				APPR		
+640.549	0.2	einer				ART		
+640.749	0.0	Bar		setting_new		NN		
+689.149	36.3	Sie#zeigt		#	#	#		
+725.449	0.2	zum				APPRART		
+725.649	0.3	Fernseher		object		NN		
+725.949	12.0	die				PDS		
+737.949	0.2	geht				VVFIN		
+738.149	0.1	durch				APPR		
+738.249	0.1	ein				ART		
+738.349	0.6	Apartment		setting_new		NN		
+738.949	4.5	auch				ADV		
+743.449	0.4	dort				ADV		
+743.849	0.2	läuft				VVFIN		
+744.049	0.1	die				ART		
+744.149	0.5	Übertragung				NN		
+744.649	0.2	aus				APPR		
+744.849	0.1	New				NE		
+744.949	0.3	York				NE		
+745.249	0.5	Jenny		female		NE		
+745.749	0.6	packt#eilig		#	#	#		
+746.349	0.3	Sachen		###		NN		
+746.649	0.1	in				APPR		
+746.749	0.2	ihre				PPOSAT		
+746.949	0.3	Handtasche		object		NN		
+749.149	0.1	sie				PPER		
+749.249	0.1	zieht				VVFIN		
+749.349	0.1	ein				ART		
+749.449	0.5	Kleidungsstück		object		NN		
+749.949	0.3	unter				APPR		
+750.249	0.1	dem				ART		
+750.349	0.2	Fuß		bodypart		NN		
+750.549	0.3	eines				ART		
+750.849	0.3	schlafenden				ADJA		
+751.149	0.8	halbnackten				ADJA		
+751.949	0.3	Mannes		male		NN		
+752.249	0.3	hervor				PTKVZ		
+752.549	0.9	in				APPR		
+753.449	0.4	einem				ART		
+753.849	0.2	Spiegel		object		NN		
+754.049	0.4	hinter				APPR		
+754.449	0.1	dem				ART		
+754.549	0.2	Bett		furniture		NN		
+754.749	0.6	betrachtet				VVFIN		
+755.349	0.1	sie				PPER		
+755.449	0.9	ihr				PPOSAT		
+756.349	0.1	blaues				ADJA		
+756.449	0.5	Auge		face		NN		
+756.949	0.7	sie				PPER		
+757.649	0.3	verlässt				VVFIN		
+757.949	0.1	das				ART		
+758.049	0.6	Apartment			locale	NN		
+758.649	0.2	durch				APPR		
+758.849	0.1	die				ART		
+758.949	0.5	Terrassentür		roomgeo		NN		
+760.549	9.5	in				APPR		
+770.049	0.2	der				ART		
+770.249	0.2	Bar		setting_rec		NN		
+770.449	3.5	im				APPRART		
+773.949	0.5	Fernseher		object		NN		
+774.449	0.2	leuchtet				VVFIN		
+774.649	1.7	1972		time		CARD		
+776.349	1.0	Forrest#trägt		#	#	#		
+777.349	0.1	ein				ART		
+777.449	0.5	Partyhütchen		object		NN		
+777.949	0.7	Leute		persons		NN		
+778.649	0.2	werfen				VVFIN		
+778.849	0.5	Konfetti		object		NE		
+779.349	1.0	Carla		fname		NE		
+780.349	0.2	und				KON		
+780.549	0.3	Lenore		fname		NE		
+780.849	0.2	küssen				VVFIN		
+781.049	0.6	Forrest		mname		NN		
+781.649	0.1	auf				APPR		
+781.749	0.1	die				ART		
+781.849	0.3	Wangen		face		NN		
+782.149	0.3	Dan		mname		NE		
+782.449	0.4	schaut				VVFIN		
+782.849	0.5	deprimiert				ADJD		
+783.349	0.3	vor				APPR		
+783.649	0.2	sich				PRF		
+783.849	0.1	hin				ADV		
+783.949	9.1	der				PDS		
+793.049	0.6	reagiert				VVFIN		
+793.649	0.2	nicht				PTKNEG		
+793.849	17.9	auf				APPR		
+811.741	0.1	der				ART		
+811.841	0.5	Wartebank		setting_rec;furniture		NN		
+820.441	7.1	Nixon				NE		
+827.541	0.1	hält				VVFIN		
+827.641	0.2	eine				ART		
+827.841	0.3	Ehrentafel		setting_new;object		NN		
+828.141	8.1	im				APPRART		
+836.241	0.4	Hotel		setting_new;geo		NN		
+836.641	17.7	beim				APPRART		
+854.341	0.4	Telefon		object		NN		
+854.741	0.2	ein				ART		
+854.941	0.4	Ständer		object		NN		
+855.341	0.0	mit				APPR		
+855.341	0.2	der				ART		
+855.541	0.4	Aufschrift				NN		
+855.941	0.8	Watergate				NE		
+856.741	0.1	Hotel				NE		
+856.841	1.9	Nixon				NN		
+858.741	0.1	im				APPRART		
+858.841	0.5	Fernsehen		setting_rec		NN		
+859.341	11.1	in				APPR		
+870.441	0.2	einer				ART		
+870.641	0.4	Sporthalle		setting_new;geo		NN		
+871.041	0.4	geht				VVFIN		
+871.441	0.1	ein				ART		
+871.541	0.4	schwarzer				ADJA		
+871.941	0.5	Offizier		male		NN		
+872.441	0.2	am				APPRART		
+872.641	0.4	Fernseher		object		NN		
+873.041	0.3	vorbei				ADV		
+873.341	0.3	und				KON		
+873.641	0.3	steuert				VVFIN		
+873.941	0.2	auf				APPR		
+874.141	0.4	Forrest		mname		NN		
+874.541	0.2	zu				APPR		
+874.741	0.2	der				ART		
+874.941	0.7	allein				ADV		
+875.641	0.4	spielt				VVFIN		
+880.441	8.5	er#gibt		#	#	#		
+888.941	0.5	Forrest		mname		NN		
+889.441	0.1	einen				ART		
+889.541	0.4	Umschlag		object		NN		
+889.941	0.3	und				KON		
+890.241	0.2	geht				VVFIN		
+890.441	6.4	verwirrt				ADJD		
+896.841	0.1	sieht				VVFIN		
+896.941	0.4	Forrest		mname		NN		
+897.341	0.2	zur				APPRART		
+897.541	0.2	Tür		roomgeo		NN		
+897.741	12.0	er				PPER		
