@@ -1,0 +1,766 @@
+onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
+0.0	1.3	eine				ART		
+1.3	0.7	Computeranimation		setting_new		NN		
+2.0	1.1	auf				APPR		
+3.1	0.3	einen				ART		
+3.4	0.2	schroffen				ADJA		
+3.6	0.5	Berg		geo		NN		
+4.1	0.2	mit				APPR		
+4.3	0.6	schneebedeckter				ADJA		
+4.9	0.4	Flanke		geo		NN		
+5.3	0.5	fliegt				VVFIN		
+5.8	0.2	eine				ART		
+6.0	0.2	Reihe				NN		
+6.2	0.4	Sterne		object		NE		
+6.6	0.2	zu				PTKVZ		
+6.8	0.6	sie				PPER		
+7.4	0.2	bilden				VVFIN		
+7.6	0.2	einen				ART		
+7.8	0.2	Kranz		object		NN		
+8.0	0.3	um				APPR		
+8.3	0.0	den				ART		
+8.3	0.3	Gipfel		geo		NN		
+8.6	1.3	Paramount				NE		
+15.6	0.6	vor				APPR		
+16.2	0.6	bewölktem				ADJA		
+16.8	0.0	Himmel		setting_new		NN		
+16.8	0.8	schwebt				VVFIN		
+17.6	0.2	eine				ART		
+17.8	0.6	grau-weiße				ADJA		
+18.4	0.4	Feder		object		NN		
+18.8	0.2	durch				APPR		
+19.0	0.1	die				ART		
+19.1	0.2	Luft				NN		
+21.0	1.9	in				APPR		
+22.9	0.2	einer				ART		
+23.1	0.2	Stadt		setting_new		NN		
+23.3	0.7	segelt				VVFIN		
+24.0	0.1	sie				PPER		
+24.1	0.2	über				APPR		
+24.3	0.1	die				ART		
+24.4	0.6	Baumkronen		geo		NN		
+25.0	0.2	eines				ART		
+25.2	0.4	Parks		geo		NN		
+31.5	0.4	ein				ART		
+31.9	0.4	Robert				NE		
+32.3	0.5	Zemeckis			mname	NE		
+32.8	0.3	Film			object	NN		
+33.9	0.5	Tom				NE		
+34.4	0.3	Hanks			mname	NE		
+34.7	0.9	als				APPR		
+35.6	0.6	Forrest				NN		
+36.2	0.4	Gump			mname	NN		
+40.4	0.4	die				ART		
+40.8	0.3	Feder		object		NN		
+41.1	0.2	fliegt				VVFIN		
+41.3	0.2	ein				ART		
+41.5	0.2	paar				PIAT		
+41.7	0.3	Meter				NN		
+42.0	0.3	über				APPR		
+42.3	0.1	den				ART		
+42.4	0.2	Wipfeln		geo		NN		
+42.6	1.4	Robin				NE		
+44.0	0.1	Wright			fname	NE		
+44.1	0.3	als				APPR		
+44.4	0.4	Jenny			fname	NE		
+44.8	0.9	Gary#Sinise		#	#	#		
+45.7	0.4	als				APPR		
+46.1	0.2	Lieutenant				NN		
+46.3	0.4	Dan			mname	NE		
+46.7	0.8	Kelly				NE		
+47.5	0.6	Williamson			mname	NE		
+48.1	0.3	als				APPR		
+48.4	0.3	Bubba			mname	NE		
+48.7	0.6	und				KON		
+49.3	0.3	Sally				NE		
+49.6	0.3	Field			fname	NE		
+49.9	0.1	als				APPR		
+50.0	0.4	Misses				NE		
+50.4	0.2	Gump			fname	NN		
+50.6	1.0	Musik				NN		
+51.6	0.4	Alan				NE		
+52.0	0.3	Silvestri			mname	NE		
+52.3	1.2	Buch			object	NE		
+53.5	0.4	Eric				NE		
+53.9	0.2	Ross			mname	NE		
+54.1	0.9	nach				APPR		
+55.0	0.2	dem				ART		
+55.2	0.3	gleichnamigen				ADJA		
+55.5	0.4	Roman			object	NN		
+55.9	0.4	von				APPR		
+56.3	0.4	Winston				NE		
+56.7	0.3	Groom			mname	NN		
+57.0	1.7	Regie				NN		
+58.7	0.4	Robert				NE		
+59.1	0.5	Zemeckis			mname	NE		
+68.5	0.3	in				APPR		
+68.8	0.1	der				ART		
+68.9	0.2	Nähe				NN		
+69.1	0.3	eines				ART		
+69.4	0.6	Kirchturms		geo		NN		
+70.0	0.4	sinkt				VVFIN		
+70.4	0.1	die				ART		
+70.5	0.4	Feder		object		NN		
+70.9	0.2	vor				APPR		
+71.1	0.1	einem				ART		
+71.2	0.2	weißen				ADJA		
+71.4	0.6	Gebäude		geo		NN		
+72.0	0.4	langsam				ADJD		
+72.4	0.4	tiefer				ADJD		
+76.3	1.2	die				ART		
+77.5	0.5	Hörfilmfassung				NN		
+78.0	0.6	wurde				VAFIN		
+78.6	0.1	produziert				VVPP		
+78.7	0.6	vom				APPRART		
+79.3	0.4	Bayerischen				ADJA		
+79.7	0.4	Rundfunk				NN		
+80.1	0.2	im				APPRART		
+80.3	0.4	Auftrag				NN		
+80.7	0.2	des				ART		
+80.9	0.4	Schweizer				ADJA		
+81.3	0.2	Fernsehens				NN		
+81.5	1.0	Text				NN		
+82.5	0.4	Kopp				NE		
+82.9	0.6	Michalski			mname	NE		
+83.5	0.3	und				KON		
+83.8	0.4	Weckmann			mname	NE		
+84.2	0.7	Hörfilm				NN		
+84.9	0.1	ev				APPR		
+85.0	1.3	Redaktion				NN		
+86.3	0.4	Elmar				NE		
+86.7	0.2	Dosch			mname	NE		
+86.9	0.3	und				KON		
+87.2	0.3	Bernd				NE		
+87.5	0.3	Benecke			mname	NE		
+87.8	1.1	Tonmischung				NN		
+88.9	0.5	Herbert				NE		
+89.4	0.2	Glaser			mname	NE		
+89.6	0.9	Sprecher				NN		
+90.5	0.3	Thomas				NE		
+90.8	0.6	Meinhardt			mname	NE		
+92.7	0.4	die				ART		
+93.1	0.3	Feder		object		NN		
+93.4	0.4	trudelt				VVFIN		
+93.8	0.1	zu				APPR		
+93.9	0.2	einer				ART		
+94.1	0.4	Straße		geo		NN		
+94.5	0.5	hinunter				ADJD		
+95.0	0.2	die				ART		
+95.2	0.2	durch				APPR		
+95.4	0.0	den				ART		
+95.4	0.3	Park		geo		NN		
+95.7	0.2	führt				VVFIN		
+95.9	0.8	ein				ART		
+96.7	0.2	Mann		male		NN		
+96.9	0.4	bleibt				VVFIN		
+97.3	0.3	kurz				ADJD		
+97.6	0.1	am				APPRART		
+97.7	0.3	Bordstein		object		NN		
+98.0	0.4	stehen				VVFIN		
+98.4	0.7	die				ART		
+99.1	0.3	Feder		object		NN		
+99.4	0.3	landet				VVFIN		
+99.7	0.1	sanft				ADJD		
+99.8	0.4	auf				APPR		
+100.2	0.3	seiner				PPOSAT		
+100.5	0.4	Schulter		body		NN		
+105.4	0.4	der				ART		
+105.8	0.1	Mann		male		NN		
+105.9	0.6	überquert				VVFIN		
+106.5	0.2	die				ART		
+106.7	0.4	Fahrbahn		geo		NN		
+107.1	0.7	die				ART		
+107.8	0.3	Feder		object		NN		
+108.1	0.3	schwebt				VVFIN		
+108.4	0.4	weiter				ADV		
+108.8	0.2	über				APPR		
+109.0	0.1	die				ART		
+109.1	0.7	Windschutzscheibe		object		NN		
+109.8	0.2	eines				ART		
+110.0	0.4	Chevrolet		object		NN		
+110.4	1.0	sie				PPER		
+111.4	0.3	sinkt				VVFIN		
+111.7	0.3	bis				APPR		
+112.0	0.2	dicht				ADJD		
+112.2	0.3	über				APPR		
+112.5	0.1	den				ART		
+112.6	0.2	Asphalt				NN		
+112.8	0.7	und				KON		
+113.5	0.2	fliegt				VVFIN		
+113.7	0.3	unter				APPR		
+114.0	0.1	einem				ART		
+114.1	0.3	Wagen		object		NN		
+114.4	0.5	hindurch				PROAV		
+114.9	0.2	der				ART		
+115.1	0.0	an				APPR		
+115.1	0.2	einer				ART		
+115.3	0.3	Bushaltestelle		geo		NN		
+115.6	0.7	vorbei				ADV		
+116.3	0.4	fährt				VVFIN		
+117.2	0.4	die				ART		
+117.6	0.2	Feder		object		NN		
+117.8	0.2	wird				VAFIN		
+118.0	0.2	wieder				ADV		
+118.2	0.7	hochgewirbelt				VVPP		
+118.9	0.1	und				KON		
+119.0	0.7	trudelt				VVFIN		
+119.7	0.1	zu				APPR		
+119.8	0.3	einem				ART		
+120.1	0.2	Mann		male		NN		
+120.3	0.2	auf				APPR		
+120.5	0.2	einer				ART		
+120.7	0.5	Wartebank		furniture		NN		
+121.2	1.3	Sie#landet		#	#	#		
+122.5	0.2	an				APPR		
+122.7	0.3	einem				PIS		
+123.0	0.2	seiner				PPOSAT		
+123.2	0.7	abgewetzten				ADJA		
+123.9	0.9	Nike-Laufschuhe		object		NN		
+124.8	1.5	der				ART		
+126.3	0.2	Mann		male		NN		
+126.5	0.2	hebt				VVFIN		
+126.7	0.2	sie				PPER		
+126.9	0.0	auf				PTKVZ		
+126.9	0.7	und				KON		
+127.6	0.3	betrachtet#e		#	#	#		
+127.9	0.3	er				PPER		
+128.2	1.3	ist				VAFIN		
+129.5	0.2	etwa				ADV		
+129.7	0.5	vierzig				CARD		
+130.2	0.6	schlank			###	ADJD		
+130.8	0.2	und				KON		
+131.0	0.3	braun				ADJD		
+131.3	0.4	gebrannt				VVPP		
+131.7	0.1	und				KON		
+131.8	0.6	hat				VAFIN		
+132.4	0.3	kleine				ADJA		
+132.7	0.4	dunkle				ADJA		
+133.1	0.3	Augen		face		NN		
+133.4	0.9	sein				PPOSAT		
+134.3	0.3	kurzes				ADJA		
+134.6	0.4	dunkles				ADJA		
+135.0	0.3	Haar		head		NN		
+135.3	0.2	mit				APPR		
+135.5	0.4	Geheimratsecken		head		NN		
+135.9	0.6	ist				VAFIN		
+136.5	0.2	über				APPR		
+136.7	0.1	den				ART		
+136.8	0.3	Ohren		head		NN		
+137.1	0.7	ausrasiert				VVPP		
+137.8	0.7	er				PPER		
+138.5	0.3	trägt				VVFIN		
+138.8	0.2	einen				ART		
+139.0	0.1	hellen				ADJA		
+139.1	0.5	Anzug		object		NN		
+139.6	0.3	und				KON		
+139.9	0.1	ein				ART		
+140.0	0.2	blau				ADJD		
+140.2	0.6	kariertes				ADJA		
+140.8	0.3	Hemd		object		NN		
+141.1	0.8	der				ART		
+141.9	0.2	Mann		male		NN		
+142.1	0.4	nimmt				VVFIN		
+142.5	0.2	eine				ART		
+142.7	0.4	Pralinenschachtel		object		NN		
+143.1	0.6	von				APPR		
+143.7	0.2	einem				ART		
+143.9	0.5	kleinen				ADJA		
+144.4	0.3	Koffer		object		NN		
+144.7	0.3	und				KON		
+145.0	0.5	öffnet#ihn		#	#	#		
+145.5	1.8	zwischen				APPR		
+147.3	0.2	den				ART		
+147.5	0.4	akkurat				ADJD		
+147.9	0.5	gepackten				ADJA		
+148.4	0.0	Sachen			###	NN		
+148.4	0.5	liegen				VVFIN		
+148.9	0.2	auch				ADV		
+149.1	0.2	ein				ART		
+149.3	0.3	rotes				ADJA		
+149.6	0.3	Cappy		object		NN		
+149.9	0.1	und				KON		
+150.0	0.4	ein				ART		
+150.4	0.6	Tischtennisschläger		object		NN		
+151.0	1.0	aus				APPR		
+152.0	0.2	dem				ART		
+152.2	0.5	Kofferdeckel		object		NN		
+152.7	0.5	zieht				VVFIN		
+153.2	0.1	der				ART		
+153.3	0.2	Mann		male		NN		
+153.5	0.2	das				ART		
+153.7	0.5	Kinderbuch		object		NN		
+154.2	0.7	Curious				NE		
+154.9	0.2	George			mname	NE		
+156.7	0.7	electiv#e		#	#	#		
+157.4	0.2	wieder				ADV		
+157.6	0.4	hinein				ADV		
+158.0	0.5	schließt				VVFIN		
+158.5	0.2	den				ART		
+158.7	0.3	Koffer		object		NN		
+159.0	0.0	und				KON		
+159.0	0.3	stellt				VVFIN		
+159.3	0.3	ihn				PPER		
+159.6	0.1	neben				APPR		
+159.7	0.3	sich				PRF		
+160.0	2.1	der				ART		
+162.1	0.1	Mann		male		NN		
+162.2	0.3	schaut				VVFIN		
+162.5	0.2	mit				APPR		
+162.7	0.4	ernstem				ADJA		
+163.1	0.1	Gesicht		face		NN		
+163.2	0.6	ins				APPRART		
+163.8	0.4	Leere				NN		
+165.8	0.3	ein				ART		
+166.1	0.6	Linienbus		object		NN		
+166.7	0.1	hält				VVFIN		
+171.2	0.6	darauf				PROAV		
+171.8	0.2	eine				ART		
+172.0	0.3	Werbung				NN		
+172.3	0.2	für				APPR		
+172.5	0.2	ein				ART		
+172.7	0.3	neues				ADJA		
+173.0	0.4	Automodell		object		NN		
+173.4	0.4	von				APPR		
+173.8	1.1	1981			time	CARD		
+178.4	0.4	der				ART		
+178.8	0.1	Mann		male		NN		
+178.9	0.5	öffnet				VVFIN		
+179.4	0.2	die				ART		
+179.6	0.5	Pralinenschachtel		object		NN		
+180.1	0.9	eine				ART		
+181.0	0.3	schwarze				ADJA		
+181.3	0.2	Frau		female		NN		
+181.5	0.3	in				APPR		
+181.8	0.8	Schwesterntracht		body		NN		
+182.6	0.4	setzt				VVFIN		
+183.0	0.2	sich				PRF		
+183.2	0.2	zu				APPR		
+183.4	0.2	ihm				PPER		
+183.6	0.1	auf				APPR		
+183.7	0.2	die				ART		
+183.9	0.2	Bank		furniture		NN		
+184.1	0.8	schnell				ADJD		
+184.9	0.4	macht				VVFIN		
+185.3	0.1	der				ART		
+185.4	0.1	Mann		male		NN		
+185.5	0.2	die				ART		
+185.7	0.3	Schachtel		object		NN		
+186.0	0.2	wieder				ADV		
+186.2	0.1	zu				PTKVZ		
+186.3	0.8	die				ART		
+187.1	0.8	Krankenschwester		female		NN		
+187.9	0.3	blickt				VVFIN		
+188.2	0.1	in				APPR		
+188.3	0.2	eine				ART		
+188.5	0.3	Zeitschrift		object		NN		
+188.8	5.7	die				ART		
+194.5	0.1	Schwester		female		NN		
+194.6	0.5	sieht				VVFIN		
+195.1	0.2	kurz				ADJD		
+195.3	0.2	hoch				ADJD		
+195.5	0.4	nickt				VVFIN		
+195.9	0.3	und				KON		
+196.2	0.2	liest				VVFIN		
+196.4	0.2	weiter				PTKVZ		
+196.6	0.9	Forrest		mname		NN		
+197.5	0.3	hält				VVFIN		
+197.8	0.1	ihr				PPER		
+197.9	0.1	die				ART		
+198.0	0.5	geöffnete				ADJA		
+198.5	0.8	Pralinenschachtel		object		NN		
+199.3	0.1	hin				PTKVZ		
+199.4	14.9	er				PPER		
+214.3	0.3	steckt				VVFIN		
+214.6	0.1	sich				PRF		
+214.7	0.2	eine				ART		
+214.9	0.1	in				APPR		
+215.0	0.2	den				ART		
+215.2	0.2	Mund		face		NN		
+215.4	2.7	die				ART		
+218.1	0.4	Schwester		female		NN		
+218.5	0.2	reagiert				VVFIN		
+218.7	0.5	nicht				PTKNEG		
+220.9	0.5	Forrest		mname		NN		
+221.4	0.5	zeigt				VVFIN		
+221.9	0.1	auf				APPR		
+222.0	0.2	ihre				PPOSAT		
+222.2	0.4	strahlend				ADJD		
+222.6	0.3	weißen				ADJA		
+222.9	0.4	Halbschuhe		object		NN		
+251.5	0.8	interessiert				ADJD		
+252.3	0.1	sieht				VVFIN		
+252.4	0.1	die				ART		
+252.5	0.2	Schwester		female		NN		
+252.7	0.4	von				APPR		
+253.1	0.2	ihrem				PPOSAT		
+253.3	0.5	People-Magazine		object		NN		
+253.8	0.5	zu				APPR		
+254.3	0.2	ihm				PPER		
+255.4	11.2	er				PPER		
+266.6	0.2	kneift				VVFIN		
+266.8	0.3	die				ART		
+267.1	0.0	Augen		face		NN		
+267.1	0.6	fest				ADJD		
+267.7	0.3	zu				PTKVZ		
+268.0	8.2	ein				ART		
+276.2	0.2	Arzt		setting_new;male		NN		
+276.4	2.1	der				ART		
+278.5	0.1	etwa				ADV		
+278.6	0.6	10-jährige		male		NN		
+279.2	0.3	sitzt				VVFIN		
+279.5	0.1	auf				APPR		
+279.6	0.2	einer				ART		
+279.8	0.2	Liege		furniture		NN		
+280.0	0.1	und				KON		
+280.1	0.4	starrt				VVFIN		
+280.5	0.1	auf				APPR		
+280.6	0.3	seine				PPOSAT		
+280.9	0.0	Beine		bodypart		NN		
+280.9	0.5	an				APPR		
+281.4	0.2	die				ART		
+281.6	0.6	Metallschienen		object		NN		
+282.2	0.4	geschnallt				VVPP		
+282.6	0.2	sind				VAFIN		
+282.8	0.7	der				ART		
+283.5	0.2	Dicke				ADJA		
+283.7	0.3	Arzt		male		NN		
+284.0	0.2	hebt				VVFIN		
+284.2	0.1	ihn				PPER		
+284.3	0.3	runter				PTKVZ		
+287.3	1.5	mit				APPR		
+288.8	0.4	steifen				ADJA		
+289.2	0.3	Knien		bodypart		NN		
+289.5	0.2	stakst				VVFIN		
+289.7	0.3	der				ART		
+290.0	0.2	Junge		male		NN		
+290.2	0.2	an				APPR		
+290.4	0.2	einer				ART		
+290.6	0.7	Dunkelhaarigen		female		NN		
+291.3	0.3	vorbei				ADV		
+291.6	0.2	die				ART		
+291.8	0.1	auf				APPR		
+291.9	0.2	einem				ART		
+292.1	0.2	Stuhl		furniture		NN		
+292.3	0.3	sitzt				VVFIN		
+292.6	3.2	der				ART		
+295.8	0.4	Arzt		male		NN		
+296.2	0.1	hat				VAFIN		
+296.3	0.2	eine				ART		
+296.5	0.2	brennende				ADJA		
+296.7	0.1	Zigarette		object		NN		
+296.8	0.6	im				APPRART		
+297.4	0.3	Mundwinkel		face		NN		
+297.7	13.2	der				PDS		
+310.9	0.9	kippt				VVFIN		
+311.8	0.2	um				PTKVZ		
+312.0	9.8	ein				ART		
+321.8	0.3	alter				ADJA		
+322.1	0.2	Film		setting_new		NN		
+322.3	0.2	vom				APPRART		
+322.5	0.2	General		male		NN		
+322.7	0.3	der				ART		
+323.0	0.4	aussieht				VVFIN		
+323.4	0.0	wie				KOKOM		
+323.4	0.2	Forrest		mname		NN		
+347.3	3.4	auf				APPR		
+350.7	0.3	einer				ART		
+351.0	0.1	Straße		setting_new;geo		NN		
+351.1	0.5	an				APPR		
+351.6	0.2	der				ART		
+351.8	0.1	Hand		bodypart		NN		
+351.9	0.2	seiner				PPOSAT		
+352.1	0.3	Mutter		female		NN		
+352.4	0.3	bleibt				VVFIN		
+352.7	0.1	der				ART		
+352.8	0.1	kleine				ADJA		
+352.9	0.6	Forrest		mname		NN		
+353.5	0.1	mit				APPR		
+353.6	0.3	einer				ART		
+353.9	0.3	Schiene		object		NN		
+354.2	0.1	in				APPR		
+354.3	0.3	einem				ART		
+354.6	0.4	Gully-Gitter		object		NN		
+355.0	0.3	stecken				VVINF		
+355.3	8.5	zu				APPR		
+363.8	0.2	zwei				CARD		
+364.0	0.3	Männern		males		NN		
+364.3	0.2	vor				APPR		
+364.5	0.1	einem				ART		
+364.6	0.4	Friseurladen		geo		NN		
+372.9	43.9	sie				PPER		
+416.8	0.3	steuern				VVFIN		
+417.1	0.1	aufs				APPRART		
+417.2	0.3	Haus		geo		NN		
+417.5	0.3	zu		setting_new		PTKVZ		
+417.8	7.5	vor				APPR		
+425.3	0.1	der				ART		
+425.4	0.3	breiten				ADJA		
+425.7	0.4	Veranda		locale		NN		
+426.1	0.3	bleiben				VVFIN		
+426.4	0.1	sie				PPER		
+426.5	0.2	stehen				VVINF		
+427.3	6.9	ein				ART		
+434.2	0.2	Büro		setting_new		NN		
+434.4	11.7	Forrest		mname		NN		
+446.1	0.2	sitzt				VVFIN		
+446.3	0.3	neben				APPR		
+446.6	0.1	der				ART		
+446.7	0.3	offenen				ADJA		
+447.0	0.1	Tür		roomgeo		NN		
+447.1	0.1	im				APPRART		
+447.2	0.4	Schulflur		locale		NN		
+487.3	25.2	Hancock		mname		NN		
+512.5	0.4	mustert				VVFIN		
+512.9	0.4	sie				PPER		
+513.3	0.4	lüstern				VVINF		
+513.7	3.6	abends		++		ADV		
+517.3	2.1	Forrest		mname		NN		
+519.4	0.5	sitzt				VVFIN		
+519.9	0.2	vor				APPR		
+520.1	0.2	dem				ART		
+520.3	0.1	Haus		setting_rec;geo		NN		
+520.4	0.2	auf				APPR		
+520.6	0.2	einer				ART		
+520.8	0.3	Schaukel		object		NN		
+521.1	0.3	und				KON		
+521.4	0.3	blickt				VVFIN		
+521.7	0.2	zu				APPR		
+521.9	0.1	Boden			###	NN		
+522.0	0.7	im				APPRART		
+522.7	0.5	ersten				ADJA		
+523.2	0.1	Stock		locale		NN		
+523.3	0.3	brennt				ADJD		
+523.6	0.3	Licht				NN		
+525.9	2.5	verschwitzt				VVPP		
+528.4	0.2	kommt				VVFIN		
+528.6	0.3	Hancock		mname		NN		
+528.9	0.2	aus				APPR		
+529.1	0.1	dem				ART		
+529.2	0.2	Haus		geo		NN		
+529.4	0.2	auf				APPR		
+529.6	0.1	die				ART		
+529.7	0.4	Veranda		locale_recur		NN		
+530.1	0.5	dort				ADV		
+530.6	0.2	sitzt				VVFIN		
+530.8	0.4	Forrest		mname		NN		
+531.2	0.6	teilnahmslos				ADJD		
+531.8	0.1	in				APPR		
+531.9	0.3	einem				ART		
+532.2	0.3	Schaukelstuhl		furniture		NN		
+532.5	5.1	mit				APPR		
+537.6	0.3	einem				ART		
+537.9	0.2	Taschentuch		object		NN		
+538.1	0.6	wischt				VVFIN		
+538.7	0.1	er				PPER		
+538.8	0.1	sich				PRF		
+538.9	0.2	über				APPR		
+539.1	0.2	den				ART		
+539.3	0.2	Hals		head		NN		
+539.5	0.3	und				KON		
+539.8	0.1	sieht				VVFIN		
+539.9	0.5	z#u		#	#	#		
+540.4	0.2	F#orrest		#	#	#		
+540.6	0.5	der				PDS		
+541.1	0.4	starrt				VVFIN		
+541.5	0.2	ins				APPRART		
+541.7	0.3	Leere				NN		
+542.0	3.6	Forrest		mname		NN		
+545.6	0.2	schaut				VVFIN		
+545.8	0.4	Hancock		mname		NN		
+546.2	0.2	an				PTKVZ		
+548.0	2.9	Hancock		mname		NN		
+550.9	0.5	marschiert				VVFIN		
+551.4	0.3	davon				PROAV		
+551.7	0.8	die				ART		
+552.5	0.2	Mutter		female		NN		
+552.7	0.2	sitzt				VVFIN		
+552.9	0.1	mit				APPR		
+553.0	0.1	dem				ART		
+553.1	0.3	Buch		object		NN		
+553.4	0.4	Curious				NE		
+553.8	0.3	George			mname	NE		
+554.1	0.2	auf				APPR		
+554.3	0.2	dem				ART		
+554.5	0.1	Bett		furniture		NN		
+554.6	0.2	von				APPR		
+554.8	0.4	Forrest		mname		NN		
+555.2	23.2	er#blickt		#	#	#		
+578.4	1.0	gedankenverloren				VVFIN		
+579.4	0.1	zur				APPRART		
+579.5	0.4	Zimmerdecke		roomgeo		NN		
+582.5	4.5	es				PPER		
+587.0	0.2	ist				VAFIN		
+587.2	0.2	Tag		++		NN		
+587.4	32.7	Misses				NE		
+620.1	0.3	Gump		fname		NN		
+620.4	0.2	geht				VVFIN		
+620.6	0.5	neugierig				ADJD		
+621.1	0.2	zu				APPR		
+621.3	0.2	einer				ART		
+621.5	0.5	geschlossenen				ADJA		
+622.0	0.2	Zimmertür		locale		NN		
+624.0	0.6	Forrest		mname		NN		
+624.6	0.4	schwingt				VVFIN		
+625.0	0.2	mit				APPR		
+625.2	0.5	gebeugten				ADJA		
+625.7	0.3	Knien		bodypart		NN		
+626.0	0.1	die				ART		
+626.1	0.4	Hüften		bodypart		NN		
+626.5	0.1	und				KON		
+626.6	0.4	hält				VVFIN		
+627.0	0.1	sich				PRF		
+627.1	0.2	an				APPR		
+627.3	0.2	einem				ART		
+627.5	0.5	Besen#fest		#	#	#		
+628.0	0.4	der				ART		
+628.4	0.4	Gitarrist		male		NN		
+628.8	0.1	hat				VAFIN		
+628.9	0.2	eine				ART		
+629.1	0.2	Tolle		head		NN		
+629.3	16.4	sie				PPER		
+645.7	0.2	geht				VVFIN		
+645.9	29.9	im				APPRART		
+675.8	0.4	Fernsehen		setting_new		NN		
+676.2	0.3	Elvis				NE		
+676.5	0.5	Presley		mname		NE		
+680.6	3.4	er				PPER		
+684.0	0.3	tanzt				VVFIN		
+684.3	0.1	wie				KOKOM		
+684.4	0.4	Forrest		mname		NN		
+684.8	0.5	dabei				PROAV		
+685.3	0.4	schwingt				VVFIN		
+685.7	0.1	er				PPER		
+685.8	0.5	lasziv				VVFIN		
+686.3	0.2	die				ART		
+686.5	0.4	Hüften		bodypart		NN		
+686.9	3.3	sie				PPER		
+690.2	0.2	geht				VVFIN		
+690.4	0.7	Forrest		mname		NN		
+691.1	0.3	sieht				VVFIN		
+691.4	0.3	weiter				ADV		
+691.7	0.7	fasziniert				ADJD		
+692.4	0.1	zu				APPR		
+692.5	0.3	Elvis		mname		NE		
+692.8	9.7	an				APPR		
+702.5	0.2	der				ART		
+702.7	0.4	Haltestelle		setting_rec;geo		NN		
+703.1	3.3	die				ART		
+706.4	0.7	Krankenschwester		female		NN		
+707.1	0.2	sieht				VVFIN		
+707.3	0.2	wieder				ADV		
+707.5	0.1	in				APPR		
+707.6	0.2	ihre				PPOSAT		
+707.8	0.5	Zeitschrift		object		NN		
+709.0	8.1	an				APPR		
+717.1	0.1	einer				ART		
+717.2	0.4	Straße		setting_new;geo		NN		
+717.6	0.3	hält				VVFIN		
+717.9	0.1	ein				ART		
+718.0	0.1	Schulbus		object		NN		
+718.1	5.9	die				ART		
+724.0	0.5	rauchende				ADJA		
+724.5	0.6	Busfahrerin		female		NN		
+725.1	0.2	sieht				VVFIN		
+725.3	0.4	Forrest		mname		NN		
+725.7	0.1	an				PTKVZ		
+725.8	8.2	Forrest#bleibt		#	#	#		
+734.0	0.5	unschlüssig				ADJD		
+734.5	0.2	vor				APPR		
+734.7	0.1	der				ART		
+734.8	0.2	Tür		roomgeo		NN		
+735.0	0.3	stehen				VVINF		
+735.3	10.4	Dorothy#schmunzelt#Forrest#steigt		#	#	#		
+745.7	0.2	etwas				ADV		
+745.9	0.5	mühsam				ADJD		
+746.4	0.1	mit				APPR		
+746.5	0.3	seinem				PPOSAT		
+746.8	0.6	Beinschienen		bodypart		NN		
+747.4	0.1	ein				PTKVZ		
+750.1	2.1	er				PPER		
+752.2	0.2	geht				VVFIN		
+752.4	0.1	durch				APPR		
+752.5	0.2	den				ART		
+752.7	0.3	fast				ADV		
+753.0	0.3	vollbesetzten				ADJA		
+753.3	0.5	Bus		locale		NN		
+753.8	0.3	und				KON		
+754.1	0.2	blickt				VVFIN		
+754.3	0.1	auf				APPR		
+754.4	0.3	zwei				CARD		
+754.7	0.3	Jungs		males		NN		
+755.0	0.1	in				APPR		
+755.1	0.2	einer				ART		
+755.3	0.1	Bank		furniture		NN		
+755.4	5.3	der				ART		
+760.7	0.2	Platz		object		NN		
+760.9	0.2	neben				APPR		
+761.1	0.3	ihm				PPER		
+761.4	0.1	ist				VAFIN		
+761.5	0.3	leer				ADJD		
+761.8	0.9	Forrest		mname		NN		
+762.7	0.2	sieht				VVFIN		
+762.9	0.2	ein				ART		
+763.1	0.2	Mädchen		female		NN		
+763.3	0.3	an				APPR		
+763.6	0.1	das				ART		
+763.7	0.3	neben				APPR		
+764.0	0.2	einem				ART		
+764.2	0.3	anderen				PIS		
+764.5	0.4	sitzt				VVFIN		
+764.9	0.2	es				PPER		
+765.1	0.3	schüttelt				VVFIN		
+765.4	0.1	den				ART		
+765.5	0.1	Kopf		head		NN		
+765.6	0.8	weit				ADJD		
+766.4	0.3	hinten				ADV		
+766.7	0.2	sitzt				VVFIN		
+766.9	0.1	ein				ART		
+767.0	0.3	Junge		male		NN		
+767.3	0.1	auch				ADV		
+767.4	0.4	allein				ADV		
+767.8	0.1	in				APPR		
+767.9	0.2	einer				ART		
+768.1	0.2	Bank		furniture		NN		
+768.3	27.3	ein				ART		
+795.6	0.5	zierliches				ADJA		
+796.1	0.4	blondes				ADJA		
+796.5	0.4	Mädchen		female		NN		
+796.9	0.2	schaut				VVFIN		
+797.1	0.2	ihn				PPER		
+797.3	0.1	an				PTKVZ		
+797.4	11.0	Forrest		male		NN		
+808.4	0.8	setzt#sich		#	#	#		
+809.2	0.3	und				KON		
+809.5	0.6	senkt#verlegen		#	#	#		
+810.1	0.3	den				ART		
+810.4	0.2	Blick				NN		
+810.6	28.7	sie				PPER		
+839.3	0.2	gibt				VVFIN		
+839.5	0.1	ihm				PPER		
+839.6	0.1	die				ART		
+839.7	0.3	Hand		bodypart		NN		
+840.0	8.5	sie				PPER		
+848.5	0.3	laufen				VVFIN		
+848.8	0.2	zu				APPR		
+849.0	0.1	einer				ART		
+849.1	0.4	Eiche		geo		NN		
+849.5	7.2	er				PPER		
+856.7	0.2	hängt				VVFIN		
+856.9	0.1	mit				APPR		
+857.0	0.3	einer				ART		
+857.3	0.2	Hand		bodypart		NN		
+857.5	0.1	am				APPRART		
+857.6	0.3	Ast		object		NN		
+857.9	6.7	hängt				VVFIN		
+864.6	0.4	kopfüber				PTKVZ		
+865.0	0.4	im				APPRART		
+865.4	0.2	Baum		geo		NN		
+870.1	4.5	auf				APPR		
+874.6	0.2	dem				ART		
+874.8	0.1	Baum		geo		NN		
+874.9	0.3	nimmt				VVFIN		
+875.2	0.1	sie				PPER		
+875.3	0.3	seine				PPOSAT		
+875.6	0.2	Hand		bodypart		NN		
+875.8	0.1	auf				APPR		
+875.9	10.2	der				ART		
