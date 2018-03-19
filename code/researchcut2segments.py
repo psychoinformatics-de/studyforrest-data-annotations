@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 """
 created on Wed Jan 30 2018
 author: Christian Olaf Haeusler
@@ -7,7 +7,6 @@ To Do:
     argparser
     Erzaehler Filtern wennn MOVIE = True
 """
-from __future__ import print_function
 from collections import defaultdict
 import os
 from os.path import basename
@@ -17,11 +16,6 @@ import re
 import sys
 import pandas as pd
 
-
-# constants #
-MOVIE = True
-INPUT_FILE = 'researchcut/speech_vocalization.tsv' # sys.argv[1:]
-OUT_DIR = 'segments/'
 
 SEGMENTS_OFFSETS = (
     (0.00, 0.00),
@@ -155,17 +149,11 @@ def fix_audio_descr_segments(AUDIO_AO_OFFSETS, run, uncorrected):
     return corrected
 
 
-def write_segmented_annos(infilename, movie, run_dict, out_dir, ):
+def write_segmented_annos(infilename, stimulus, run_dict, out_dir):
     '''
     '''
-    if MOVIE is True:
-        stimulus = 'avmovie'
-    else:
-        stimulus = 'aomovie'
-
     basefilename = basename(infilename)[:-4]
     outdir = opj(out_dir, stimulus)
-    print(outdir)
     if not exists(outdir):
         os.makedirs(outdir)
 
@@ -185,9 +173,15 @@ def write_segmented_annos(infilename, movie, run_dict, out_dir, ):
 
 #### main program #####
 if __name__ == "__main__":
+    # constants #
+    infile = sys.argv[1]
+    annotated_time = sys.argv[2]
+    target_time = sys.argv[3]
+    outdir = sys.argv[4]
+
 #     with launch_ipdb_on_exception():
     # read the annotation file
-    anno = pd.read_csv(INPUT_FILE, sep='\t', encoding='utf-8').to_records(index=False)
+    anno = pd.read_csv(infile, sep='\t', encoding='utf-8').to_records(index=False)
     segment_starts = [start for start, offset in SEGMENTS_OFFSETS]
 
     run_events = defaultdict(list)
@@ -204,8 +198,7 @@ if __name__ == "__main__":
 
 
         # correct for the stimulus used to annotate the audiotrack
-        audiobooks = ['speech_narrator.tsv', 'speech_vocalization.tsv']
-        if basename(INPUT_FILE) in audiobooks:
+        if annotated_time == 'aomovie':
             # the files
             # forrestgump_researchcut_ad_ger.flac and
             # german_dvd_5.1_48000hz_488kb_research_cut_aligned_cutted_narrator_muted_48000Hz.flac
@@ -225,28 +218,31 @@ if __name__ == "__main__":
 
             # 3rd, correct for the offset between whole stimulus
             # (audiovisual or audio-only) and its segments
-            if MOVIE == True:
+            if target_time == 'avmovie':
                 onset_in_seg = fix_audio_movie_segments(
                     AUDIO_AV_OFFSETS,
                     run,
                     onset_in_seg)
 
-            elif MOVIE == False:
+            elif target_time == 'aomovie':
                 onset_in_seg = fix_audio_descr_segments(
                     AUDIO_AO_OFFSETS,
                     run,
                     onset_in_seg)
 
+            else:
+                raise ValueError('Unknown time label %s', target_time)
 
-        elif basename(input_file) == 'locations.tsv':
+        elif annotated_time == 'avmovie':
+            # all splendid for now
             pass
 
         else:
-            print('%s is an unknown annotation' % basename(input_file))
+            raise ValueError('%s is an unknown annotation', basename(input_file))
 
         row['onset'] = round(onset_in_seg, 3)
 
         # append that shit
         run_events[run].append(row)
 
-    write_segmented_annos(INPUT_FILE, MOVIE, run_events, OUT_DIR)
+    write_segmented_annos(infile, target_time, run_events, outdir)
