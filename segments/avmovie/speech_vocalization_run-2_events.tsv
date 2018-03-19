@@ -1,0 +1,440 @@
+onset	duration	person	FG	kind	prosody	sentence_grammar	text	commentary
+2.597	1.36	FORREST	1	speech	regular;addendum	none	Meine einzige Freundin.	
+4.197	2.28	ERZAEHLER	1	speech	regular	HS	Die Krankenschwester sieht ungerührt in ihre Zeitschrift.	
+7.717	0.96	FORREST	1	speech	regular	HS	Meine Mama sagte immer:	
+8.717	1.52	FORREST	1	speech	regular	HS	Wunder passieren an jedem Tag.	direkte Rede
+10.357	0.92	ERZAEHLER	1	speech	regular	HS	Die Schwester blickt hoch.	
+11.317	2.6	FORREST	1	speech	regular	HS;NS;NS	Es gibt Leute, die glauben nicht daran, aber es ist so.	
+14.237	2.64	ERZAEHLER	1	speech	regular	none	Forrest und Jenny auf einem Weg.	
+15.837	0.92	ERZAEHLER	1	speech	regular	HS	Etwas trifft ihm am Kopf.	
+16.797	0.8	BOY #1	1	speech	regular	address	Hey, Blödmann	
+17.877	0.92	ERZAEHLER	1	speech	regular	HS	Forrest kippt um.	
+18.997	2.0	BOY #2	1	speech	regular	question	Bist du zurückgeblieben oder einfach nur blöd?	
+21.477	1.4	BOY #3	1	speech	regular	HS	Nein, ich bin Forrest Gump.	direkte Rede
+22.997	1.56	JENNY (child)	1	speech	commanding	imperative;NS	Hör gar nicht auf das, was sie sagen!	
+25.877	2.28	JENNY (child)	1	speech	commanding	imperative;address;imperative;address;imperative	Lauf, Forrest, lauf, Forrest, lauf	
+28.917	0.8	BOY #2	1	speech	commanding	none	Auf die Räder	
+29.757	0.72	BOY #3	1	speech	commanding	imperative	Macht schnell!	
+32.037	0.8	BOY #3	1	speech	exclamation	HS	Los gehts!	
+32.797	1.08	BOY #2	1	speech	regular	HS	Wir kriegen ihn schon.	
+34.677	0.84	BOY #2	1	speech	exclamation	HS	Den greifen wir uns.	
+35.957	1.36	ERZAEHLER	1	speech	regular	HS	Die Drei jagen an Jenny vorbei.	
+37.357	1.68	JENNY (child)	1	speech	regular	imperative;address;imperative	Lauf, Forrest, Lauf	
+39.677	1.08	JENNY (child)	1	speech	regular	imperative;address	Lauf, Forrest	
+40.837	1.24	ERZAEHLER	1	speech	regular	HS	Er stakst den Weg entlang.	
+42.637	1.16	BOY #1	1	speech	regular	HS	Wir kriegen dich schon.	
+41.317	121.96	OST	0	song	instrumental	instrumental		
+45.517	0.88	ERZAEHLER	1	speech	regular	HS	Forrest wird schneller.	
+47.477	1.8	ERZAEHLER	1	speech	regular	HS	Die Jungs auf ihren Rädern holen langsam auf.	
+51.157	2.28	ERZAEHLER	1	speech	regular	HS	Behindert durch die Schienen hastet Forrest weiter.	
+53.677	0.72	ERZAEHLER	1	speech	regular	none	In Zeitlupe	
+55.077	2.24	ERZAEHLER	1	speech	regular	HS	Mit seinen steifen Beinen macht er ungelenke Schritte.	
+57.597	2.68	JENNY (child)	1	speech	regular	imperative;address;imperative	Lauf, Forrest, Lauf	
+60.837	1.96	ERZAEHLER	1	speech	regular	HS	Die Verfolger treten verbissen in die Pedale.	
+62.997	1.6	ERZAEHLER	1	speech	regular	HS	Gehetzt sieht sich Forrest zu ihnen um.	
+64.997	1.32	ERZAEHLER	1	speech	regular	HS	Er hat eine Platzwunde an der Stirn.	
+67.997	2.92	ERZAEHLER	1	speech	regular	HS;NS	Im Laufen beginnt Forrest plötzlich, die Knie zu beugen.	
+72.037	1.6	ERZAEHLER	1	speech	regular	HS	Die Halterungen der Schienen reißen ab.	
+74.517	1.52	ERZAEHLER	1	speech	regular	HS	Einzelteile fliegen durch die Luft.	
+81.037	1.56	ERZAEHLER	1	speech	regular	HS	Die letzten Teile fallen ab.	
+84.597	1.6	ERZAEHLER	1	speech	regular	HS	Forrest starrt entschlossen nach vorn.	
+86.517	1.68	ERZAEHLER	1	speech	regular	HS	Die Jungs fahren durch die Reste der Schienen.	
+90.637	3.04	FORREST (V.O.)	1	speech	regular	HS;NS	Sie werden mir das wahrscheinlich nicht glauben, wenn ich Ihnen das erzähle.	
+93.797	0.76	ERZAEHLER	1	speech	regular	none	Auf der Wartebank	
+95.077	1.92	FORREST	1	speech	regular;addendum	HS	Aber ich kann laufen so schnell wie der Wind.	
+97.517	2.72	ERZAEHLER	1	speech	regular	HS	Die Krankenschwester nickt ohne von ihrer Zeitschrift aufzuschauen.	
+100.557	0.96	FORREST	1	speech	regular	incomplete	Von dem Tag an...	
+102.157	1.32	FORREST	1	speech	regular;addendum	completion	...bin ich nirgendwo mehr hingegangen.	
+104.317	1.64	FORREST	1	speech	exclamation	HS	Ich bin nur noch gelaufen.	
+106.197	0.64	BOY #2	1	speech	regular	HS	Er haut ab.	
+107.397	0.96	ERZAEHLER	1	speech	regular	HS	Die drei Jungs stoppen.	
+108.717	2.56	ERZAEHLER	1	speech	regular	HS	Verblüfft sehen sie dem davonrasenden Forrest nach.	
+111.677	1.96	ERZAEHLER	1	speech	regular;addendum	relativ	...der eine Staubwolke hinter sich her zieht.	
+113.757	0.52	BOY #2	1	speech	exclamation	none	So ein Mist	
+115.277	3.96	ERZAEHLER	1	speech	regular	AND	Forrest biegt vom Weg ab und flitzt über eine große Wiese auf eine Baumreihe zu.	
+121.397	2.36	ERZAEHLER	1	speech	regular	HS;relativ	Und überquert eine kleine Brücke, auf der Angler sitzen.	
+127.957	3.64	ERZAEHLER	1	speech	regular	HS;relativ	Er rennt an Sträflingen vorbei, die den Grünstreifen am Straßenrand bearbeiten.	
+132.637	3.64	ERZAEHLER	1	speech	regular	AND	In Greenbow jagt er am Friseurladen vorbei und wirbelt dabei eine Zeitung hoch.	
+136.557	1.6	ERZAEHLER	1	speech	regular	HS	Drei Männer im Laden glotzen ihm nach.	
+138.117	0.56	MAN	1	speech	exclamation	imperative	Sieh mal an!	
+138.757	1.92	MAN	1	speech	regular	HS	Jetzt läuft er auch noch wie'n Verrückter.	
+141.357	2.68	ERZAEHLER	1	speech	regular	HS	Forrest rast auf ein kleines, ärmliches Farmhaus zu.	
+144.197	2.96	FORREST (V.O.)	1	speech	regular	HS;NS	Vorhin hab ich Ihnen doch erzählt, dass Jenny nie nach Hause wollte.	
+147.717	3.8	FORREST (V.O.)	1	speech	regular	HS;NS	Sie wohnte in einem Haus, das war ungefähr so alt wie Alabama.	
+152.157	2.76	FORREST (V.O.)	1	speech	regular	HS;NS	Ihre Mama war in den Himmel gekommen, als Jenny 5 war.	###HS;NS?###
+155.077	1.8	FORREST (V.O.)	1	speech	regular;addendum	HS	Und ihr Daddy war sowas wie ein...	
+157.277	0.44	FORREST (V.O.)	1	speech	regular;addendum	none	...Farmer.	
+159.637	0.72	FORREST (child)	1	speech	asking	address	Jenny?	
+160.837	1.84	FORREST (V.O.)	1	speech	regular	HS	Er war ein sehr liebevoller Mann.	
+163.197	3.84	FORREST (V.O.)	1	speech	regular	AND	Dauernd hat er sie und ihre Schwestern gestreichelt und geküsst.	
+167.117	2.0	ERZAEHLER	1	speech	regular	HS;relativ	Er entdeckt Jenny, die bei einem Tabakfeld steht.	
+169.277	1.04	FORREST (V.O.)	1	speech	regular	incomplete	An diesem einen Tag...	
+170.717	2.0	FORREST (V.O.)	1	speech	regular	completion;HS	...war Jenny nicht im Schulbus gewesen.	
+173.557	0.44	FORREST (child)	1	speech	regular	address	Jenny	
+174.077	1.96	FORREST (child)	1	speech	asking	question	Warum bist du heute nicht in der Schule gewesen?	
+176.037	0.36	JENNY (child)	1	non	commanding	none	Psst!	
+176.757	1.48	JENNY (child)	1	speech	regular	HS	Daddy ist gerade eingeschlafen.	
+178.917	0.72	JENNY'S DAD	1	speech	regular	address	Jenny	
+179.957	0.6	JENNY (child)	1	speech	commanding	imperative	Komm schnell!	
+180.757	1.2	ERZAEHLER	1	speech	regular	HS	Sie zieht Forrest ins Feld.	
+182.117	0.76	JENNY'S DAD	1	speech	regular	address	Jenny	
+183.237	1.0	JENNY'S DAD	1	speech	asking	question	Wo rennst du denn hin?	
+185.757	1.84	JENNY'S DAD	1	speech	commanding	imperative;NS;address	Mach, dass du ins Haus kommst, Mädchen!	
+187.717	1.84	ERZAEHLER	1	speech	regular	HS	Ihr Vater stapft durch die brusthohen Pflanzen.	
+189.637	0.72	JENNY'S DAD	1	speech	asking	question	Wo bist du?	
+191.277	1.16	ERZAEHLER	1	speech	regular	none	In seiner Hand ein Flachmann	
+192.637	1.76	ERZAEHLER	1	speech	regular	HS	Jenny zieht Forrest in ein hohes Maisfeld.	
+194.637	0.56	JENNY'S DAD	1	speech	regular	address	Jenny	
+195.437	39.76	OST	0	song	instrumental	instrumental		
+195.877	0.64	JENNY'S DAD	1	speech	regular	address	Jenny	
+196.957	0.84	JENNY'S DAD	1	speech	asking	question	Wo bist du?	
+198.037	2.0	ERZAEHLER	1	speech	regular	HS	Zwischen den Pflanzen knien sich die Kinder hin.	
+200.517	0.64	JENNY'S DAD	1	speech	regular	address	Jenny	
+201.957	1.2	JENNY (child)	1	speech	regular	imperative;address	Bete mit mir, Forrest!	
+203.477	0.88	JENNY (child)	1	speech	regular	imperative	Bete mit mir!	
+204.677	0.88	JENNY'S DAD	1	speech	regular	address	Jenny	
+205.637	0.6	JENNY (child)	1	speech	regular	address	Lieber Gott	
+206.557	4.16	JENNY (child)	1	speech	regular	imperative;NS;NS2	Mach, dass ich ein Vogel werde, damit ich von hier wegfliegen kann, weit weit weg.	
+211.037	0.6	JENNY (child)	1	speech	regular	address	Lieber Gott	
+211.957	2.52	JENNY (child)	1	speech	regular	imperative;NS;NS2	Mach, dass ich ein Vogel werde, damit ich weit, weit..	
+215.917	1.44	FORREST (V.O.)	1	speech	regular	HS	Mama hat immer sagt:	
+217.557	1.56	FORREST (V.O.)	1	speech	regular	HS	Gottes Wege sind rätselhaft.	direkte Rede
+219.157	0.72	JENNY'S DAD	1	speech	regular	address	Jenny	
+220.077	2.92	FORREST (V.O.)	1	speech	regular	HS	Er hat an dem Tag keinen Vogel aus Jenny gemacht.	
+222.357	1.12	JENNY'S DAD	0	speech	regular	undistinguishable	Komm sofort zurück!	
+223.597	3.56	FORREST (V.O.)	1	speech	regular	incomplete	Aber dafür hat er dafür gesorgt, dass die Polizei gesagt hat:	###
+227.317	2.4	FORREST (V.O.)	1	speech	regular	HS	Jenny braucht nie mehr in das Haus zurück zu gehen.	direkte Rede
+230.157	4.96	FORREST (V.O.)	1	speech	regular	HS	Von da an wohnte sie bei ihrere Großmutter gleich drüben, an der Creekmore Avenue.	
+235.197	1.52	FORREST (V.O.)	1	speech	regular	HS	Das hat mich sehr glücklich gemacht.	
+236.797	1.0	FORREST (V.O.)	1	speech	regular;addendum	HS	Denn es war so nah.	
+238.517	22.48	OST	0	song	instrumental	instrumental		
+239.397	3.8	FORREST (V.O.)	1	speech	regular	AND	Machmal schlich Jenny sich nachts heimlich davon und kam rüber zu mir.	
+243.677	1.48	FORREST (V.O.)	1	speech	regular	HS;NS	Das war, weil sie Angst hatte.	
+245.277	0.6	FORREST (V.O.)	1	speech	regular;addendum	HS	...sagte sie.	
+245.917	1.12	ERZAEHLER	1	speech	regular	none	Die Zwei im Bett	
+246.877	1.24	FORREST (V.O.)	1	speech	regular	incomplete	Wovor sie Angst hatte,...	
+248.477	0.6	FORREST (V.O.)	1	speech	regular;addendum	completion;HS	...weiß ich nicht.	
+249.797	62.36	FORREST (V.O.)	1	speech	regular	HS;NS	Ich glaube, es war der Hund von ihrer Großmutter.	
+252.477	1.56	FORREST (V.O.)	1	speech	regular	HS	Es war ein sehr böser Hund.	
+254.957	0.56	FORREST (V.O.)	1	speech	regular	none	Na, egal	
+255.757	4.28	FORREST (V.O.)	1	speech	regular	AND	Jenny und ich, wir waren die besten Freunde und das blieb auch so bis zur High School.	
+260.077	0.96	ERZAEHLER	1	speech	regular	HS	Etwas trifft ihn.	
+261.397	1.08	OLDER BOY #1	1	speech	regular	address	Hey, Blödmann	
+262.557	0.84	JENNY	1	speech	commanding	imperative	Verzieh dich!	
+263.437	0.96	ERZAEHLER	1	speech	regular	none	Jenny als Teenager	
+264.637	1.16	JENNY	1	speech	regular	imperative;address	Lauf, Forrest, Lauf!	
+265.877	1.08	OLDER BOY #1	1	speech	regular	address	Hey, Blödmann	
+265.677	88.08	DUANE EDDY	0	song	instrumental	instrumental	“Rebel Rouser”	
+267.357	1.44	OLDER BOY #1	1	speech	asking	question	Hast du nicht gehört?	
+268.277	0.44	OLDER BOY #1	1	speech	regular	address	Blödmann	
+268.797	0.8	JENNY	1	speech	regular	imperative;address	Lauf, Forrest	
+269.677	2.24	ERZAEHLER	1	speech	regular	HS	Der Werfer springt zu den zwei anderen auf einen Pickup.	
+272.077	1.36	OLDER BOY #2	1	speech	regular	imperative;address	Bleib stehen, du Trottel!	
+274.837	0.96	JENNY	1	speech	regular	imperative;address	Lauf, Forrest!	
+276.037	0.88	JENNY	1	speech	regular	imperative	Lauf!	
+276.877	3.6	OLDER BOY #1	1	speech	asking	question;NS	Du glaubst du bist schneller als wir?	
+278.997	1.16	OLDER BOY #1	1	speech	regular	imperative	Na, los, dann zeigs uns!	###
+280.677	2.48	MAN IN TRUCK 1	1	non	regular	none	Ahahahaaaahahaha	###
+282.277	3.0	OLDER BOY #1	1	speech	regular	imperative;imperative;imperative	Lauf! Lauf! Mach schon!	###
+283.277	0.48	OLDER BOY #2	1	speech	regular	imperative	Nun Lauf!	###
+285.197	2.16	OLDER BOY #1	1	speech	regular;addendum	HS;NS	Aber so schnell bist du nicht, dass wir dich nicht kriegen.	
+287.557	1.2	MAN IN TRUCK 2	1	non	regular	none	Ahahaaaaahahaha	
+288.797	0.96	OLDER BOY #1	1	speech	regular	imperative;address	Na, lauf, du Blödmann!	
+291.077	1.68	ERZAEHLER	1	speech	regular	HS	Der Pickup fährt dicht hinter Forrest.	
+292.917	1.36	ERZAEHLER	1	speech	regular	HS	Der biegt wieder auf die Wiese.	
+294.557	3.72	PEOPLE IN TRUCK	1	non	regular	none	hahahahah	
+295.037	0.92	ERZAEHLER	1	speech	regular;addendum	none	...der Pickup hinterher	
+298.477	1.68	PEOPLE IN TRUCK	1	non	regular	none	huhuhuhuhuhuhu	
+300.277	0.48	MAN IN TRUCK 3	1	non	regular	none	whooo	
+301.077	2.4	MAN IN TRUCK 1	1	non	regular	none	ahahahahahahaha	
+301.357	0.8	MAN IN TRUCK 3	1	non	regular	none	whooo whooo	
+303.837	0.6	JENNY	1	speech	regular	imperative	Lauf!	
+304.557	0.88	JENNY	1	speech	regular	address	Forrest	
+305.517	1.04	ERZAEHLER	1	speech	regular	HS	Er springt über einen Zaun.	
+306.157	0.0	PEOPLE IN TRUCK	1	non	regular	none	ieaaaaah	
+306.677	0.4	MAN IN TRUCK 3	1	non	regular	none	whooo	
+307.477	0.76	ERZAEHLER	1	speech	regular	none	Auf der Wartebank	
+308.357	1.04	FORREST	1	speech	regular	HS	Es wurde ganz normal.	
+309.677	1.92	FORREST	1	speech	regular	NS;HS	Da, wo ich hinwollte, bin ich hingelaufen.	
+313.397	2.0	FORREST	1	speech	regular	HS;NS	Ich hätte nie gedacht, dass mir das mal was bringt.	
+315.717	1.28	ERZAEHLER	1	speech	regular	HS	Forrest rennt auf einer Straße.	
+317.197	0.88	ERZAEHLER	1	speech	regular	HS	Der Pickup folgt ihm.	
+317.557	4.4	OLDER BOY	1	non	regular	none	Hahahahaha whoohooo	
+318.277	7.88	PEOPLE IN TRUCK	1	non	regular	none	ieeeaaahahahahahahahahaha	
+326.197	3.48	ERZAEHLER	1	speech	regular	AND;relativ	Forrest biegt ab und rast auf ein Football-Feld, auf dem ein Spiel stattfindet.	
+331.637	1.4	ERZAEHLER	1	speech	regular	HS	Ein Quarterback wirft einen Pass.	
+333.157	0.88	ERZAEHLER	1	speech	regular	HS	Sein Coach sieht zu.	
+334.997	1.08	FOOTBALL PLAYER	0	speech	regular	none	Na, also	
+336.597	1.16	ERZAEHLER	1	speech	regular	HS	Forrest überholt den Fänger.	
+337.877	0.72	ERZAEHLER	1	speech	regular	HS	Der guckt baff.	
+338.837	1.08	ERZAEHLER	1	speech	regular;addendum	HS	Und wird vom Gegner umgerannt.	
+340.317	0.48	FOOTBALL PLAYER	1	non	regular	none	bwuaaaah	
+341.157	2.2	ERZAEHLER	1	speech	regular	HS	Der Coach und seine Assistenten glotzen Forrest nach.	
+343.797	0.68	FOOTBALL COACH	1	speech	exclamation	none	Großer Gott	
+344.517	0.72	FOOTBALL COACH	1	speech	asking	question	Wer ist das?	
+345.397	1.2	ASSISTANT COACH	1	speech	regular	HS	Das ist Forrest Gump.	
+346.917	0.56	ASSISTANT COACH	1	speech	regular	address	Coach	
+347.877	0.4	ASSISTANT COACH	1	non	regular	none	hehehehe	
+348.517	1.08	ASSISTANT COACH	1	speech	regular;addendum	none	Unser Dorftrottel	
+350.037	1.52	FORREST (V.O.)	1	speech	regular	HS	Und ob sies glauben oder nicht...	
+352.037	1.92	FORREST (V.O.)	1	speech	regular	HS	Ich bin dann auch noch aufs College gekommen.	
+355.077	51.6	CROWD	1	non	regular	none		
+355.077	51.56	OST	0	song	instrumental	instrumental		
+356.397	1.44	ERZAEHLER	1	speech	regular	none	In einem vollen Football-Stadion.	
+357.997	1.76	ERZAEHLER	1	speech	regular	HS	Forrest als Spieler träumt vor sich hin.	
+359.997	1.52	ERZAEHLER	1	speech	regular	HS	Ein Mitspieler läuft mit dem Ball zu ihm.	
+362.077	0.72	FOOTBALL PLAYER	1	speech	regular	address	Forrest	
+362.917	0.52	FOOTBALL PLAYER	1	speech	regular	imperative	Lauf!	
+363.277	0.68	FORREST	1	speech	regular	none	okay	
+364.157	0.64	FOOTBALL PLAYER	1	speech	regular	imperative	Lauf!	
+364.917	2.64	FOOTBALL COACH	1	speech	commanding	imperative;address;address	Lauf doch, Du dämlicher Schwachkopf! Lauf!	
+368.397	1.6	ERZAEHLER	1	speech	regular	HS	Forrest hängt mehrere Gegner ab.	
+373.757	0.6	FOOTBALL PLAYER	1	non	regular	none	bwuoooh	
+375.157	4.36	ERZAEHLER	1	speech	regular	HS	In einem Tribünenblock formen die Zuschauer mit roten Tafeln die Worte 'Go Alabama'.	
+379.677	0.44	ERZAEHLER	1	speech	regular	none	Der Coach:	
+379.557	3.6	FOOTBALL COACH	1	speech	regular	imperative;address;imperative	Mach schon, du Schwachkopf, los lauf!	#wtf#;direkte Rede
+382.517	1.4	ERZAEHLER	1	speech	regular	HS	Forrest weicht einem Gegner aus.	
+384.757	1.4	FOOTBALL COACH	0	speech	commanding	imperative	Halt, Halt! Da lang!	###movie only und ggf. Da auch BG###
+384.037	1.48	ERZAEHLER	1	speech	regular	HS	Der stößt mit einem Mitspieler zusammen.	
+385.957	1.4	ERZAEHLER	1	speech	regular	HS	Forrest rennt zur Seitenlinie.	
+388.237	1.56	ERZAEHLER	1	speech	regular	HS	Er biegt Richtung Touchdown-Linie ab.	
+389.997	1.68	ERZAEHLER	1	speech	regular	HS	Zwei Gegner hechten ihm vergeblich nach.	
+392.797	3.28	ERZAEHLER	1	speech	regular	HS;HS	Forrest durchquert die Touchdown-Zone mit dem Ball, rennt Musiker einer Kapelle um,...	
+396.597	2.16	ERZAEHLER	1	speech	regular;addendum	HS	...und stürmt mit dem Ball durch ein Stadiontor hinaus.	
+398.477	2.92	FOOTBALL COACH	1	speech	regular	HS;relativ	Das ist wahrscheinlich der blödeste Kerl, den die Welt je gesehen hat.	#timing, ist durch Erzahler verdeckt#
+401.917	1.44	FOOTBALL COACH	1	speech	regular;addendum	HS	Aber dafür ist er auch der Schnellste.	
+403.277	1.28	ASSISTANT COACH	1	non	regular	none	bwaaaaaaah	
+403.277	3.4	FOOTBALL COACH	1	non	regular	none	ahahahahahahahahahaha	
+406.957	0.64	ERZAEHLER	1	speech	regular	HS	Es ist dunkel.	
+408.237	4.6	ERZAEHLER	1	speech	regular	AND	Im strömenden Regen sitzt Forrest vor einem Hauseingang und hält eine Pralinenschachtel auf dem Schoß. 	
+413.037	61.88	CLARENCE 'FROGMAN' HENRY	0	song	regular	foreign	“I Don't Know Why”	(I Don't Know Why) But I Do
+413.517	3.0	ERZAEHLER	1	speech	regular	HS;relativ	Er sieht zu einem näher kommenden Auto, das etwas entfernt parkt.	
+416.957	1.36	ERZAEHLER	1	speech	regular	HS	Darin sitzen zwei Personen.	
+418.677	1.44	ERZAEHLER	1	speech	regular	HS	Forrest blickt aufmerksam hin.	
+426.077	1.64	ERZAEHLER	1	speech	regular	HS	Die beiden im Auto umarmen sich.	
+428.077	1.0	ERZAEHLER	1	speech	regular	HS	Forrest steht auf.	
+429.317	4.56	ERZAEHLER	1	speech	regular	AND	Die blonde Frau lehnt den Rücken an die Beifahrertür und stützt sich mit den Händen an den Scheiben ab.	
+435.597	0.36	JENNY	1	non	regular	none	auuuh 	
+436.077	1.0	JENNY	0	speech	regular	HS	Das tut weh.	
+437.557	1.48	ERZAEHLER	1	speech	regular	HS	Entschlossen rennt Forrest hin.	
+442.237	3.08	ERZAEHLER	1	speech	regular	AND	Sieht durch die beschlagene Windschutzscheibe und reißt die Fahrertür auf.	
+446.677	1.12	ERZAEHLER	1	speech	regular	HS	Er schlägt auf den Fahrer ein.	
+448.157	0.32	BILLY	1	non	regular	none	uuäh	
+448.397	0.56	JENNY	0	speech	exclamation	address	Forrest	
+449.277	0.28	FORREST	1	non	regular	none	uuuhm	
+449.677	0.64	JENNY	1	speech	exclamation	address	Forrest	
+450.437	1.56	ERZAEHLER	1	speech	regular	AND	Jenny steigt aus und rennt zu ihm.	
+452.557	0.36	JENNY	1	speech	exclamation	address	Forrest	
+452.997	0.4	JENNY	1	speech	commanding	imperative	Hör auf!	
+453.517	0.68	ERZAEHLER	1	speech	regular	HS	Sie zieht ihn weg.	
+455.677	1.08	BILLY	0	speech	asking	question	Was ist denn hier los?	
+455.357	1.12	JENNY	1	speech	asking	question	Was machst du denn da?	
+456.277	2.04	FORREST	1	speech	exclamation	HS	Aber er hat dir weh getan.	
+456.557	1.92	BILLY	1	speech	asking	question	Scheisse, was ist denn hier los?	
+458.277	0.88	JENNY	1	speech	exclamation	HS	Nein, hat er nicht	
+458.557	2.12	BILLY	1	speech	asking	question	Wer ist das?	
+459.637	0.72	JENNY	1	speech	commanding	imperative	Geh da rüber!	
+460.077	0.76	BILLY	1	speech	asking	question	Wer ist das?	
+461.597	1.04	BILLY	0	speech	asking	question	Wer verdammt noch mal…?	
+461.877	1.08	JENNY	0	speech	exclamation	address;HS	Billy, es tut mir leid.	
+462.797	0.6	BILLY	1	speech	commanding	imperative	Fass mich nicht an!	
+463.677	0.36	JENNY	1	speech	exclamation	none	Nicht	
+464.357	1.52	BILLY	1	speech	regular	HS	Du sollst mich nicht anfassen.	
+464.757	0.64	JENNY	0	speech	commanding	imperative	Warte doch!	
+465.597	1.08	JENNY	1	speech	regular	incomplete	Du kannst doch jetzt nicht...	
+466.717	0.28	JENNY	1	speech	regular	address	Billy	
+467.037	0.68	JENNY	1	speech	commanding	imperative	Warte doch!	
+468.437	1.44	JENNY	1	speech	regular	HS	Er weiß es doch nicht besser.	
+472.357	0.6	JENNY	1	speech	regular	address	Forrest	
+473.557	1.24	JENNY	1	speech	asking	question	Warum hast du das gemacht?	
+477.717	1.2	FORREST	1	speech	regular	HS	Ich hab Pralinen für dich.	
+478.997	1.0	ERZAEHLER	1	speech	regular	HS	Sie nimmt sie wütend.	
+480.797	1.0	FORREST	1	speech	regular	HS	Es tut mir so Leid.	
+484.717	1.72	FORREST	1	speech	regular	HS	Ich geh jetzt wieder in mein College.	
+487.077	0.52	JENNY	1	speech	asking	address	Forrest	
+488.517	0.72	ERZAEHLER	1	speech	regular	HS	Er bleibt stehen.	
+491.517	0.88	JENNY	1	speech	exclamation	imperative	Sieh dich doch an!	
+492.637	1.08	ERZAEHLER	1	speech	regular	HS	Er schaut an sich runter.	
+494.877	0.48	JENNY	1	speech	regular	imperative	Komm mit!	
+496.237	0.32	JENNY	1	speech	regular	imperative	Komm!	
+496.837	2.44	ERZAEHLER	1	speech	regular	AND	Sie greift nach seiner Hand und zieht ihn hinter sich her.	
+500.077	3.84	ERZAEHLER	1	speech	regular	HS;HS;HS	In einem Flur späht Jenny um eine Ecke, schleicht mit Forrest zu einem Zimmer und schließt auf.	
+504.117	1.12	FORREST	1	speech	asking	question	Ist das Dein Zimmer?	
+504.677	0.48	JENNY	1	non	commanding	none	Shh!	
+506.037	0.4	ERZAEHLER	1	speech	regular	none	Später	
+506.637	3.2	ERZAEHLER	1	speech	regular	HS	Jenny, im Unterkleid, nimmt den Bademantel ihrer schlafenden Mitbewohnerin.	
+508.677	54.52	THE ROOFTOP SINGERS	1	song	regular	foreign	“Walk Right In”	
+510.237	1.2	JENNY	1	speech	asking	question	Träumst du manchmal davon,...	
+511.557	1.56	ERZAEHLER	1	speech	regular;addendum	HS	Und legt ihn um seine nackten Beine.	
+513.397	1.16	FORREST	1	speech	asking	NS	...wer du einmal sein wirst?	
+514.757	1.36	ERZAEHLER	1	speech	regular	HS	Auch sein Oberkörper ist nackt.	
+516.317	1.04	FORREST	1	speech	asking	question	Wer ich mal sein werde?	
+517.437	0.36	JENNY	1	speech	regular	none	Ja	
+518.197	1.48	FORREST	1	speech	asking	question	Werd' ich später nicht mehr ich sein?	
+519.877	1.72	JENNY	1	speech	regular	HS	Natürlich wirst du immer du sein.	
+522.037	1.6	JENNY	1	speech	regular	HS	Trotzdem wirst Du ein anderer sein.	
+524.277	0.56	JENNY	1	speech	asking	question	Weißt Du was?	
+526.197	1.24	JENNY	1	speech	regular	HS	Ich möchte mal berühmt werden.	
+529.037	2.0	JENNY	1	speech	regular	HS	Ich möchte Sängerin werden wie Joan Baez.	
+531.237	1.32	ERZAEHLER	1	speech	regular	HS	Jenny trocknet ihre Haare.	
+532.717	1.04	JENNY	1	speech	regular	incomplete	Ich möchte auf...	
+534.357	3.48	JENNY	1	speech	regular;addendum	completion	...einer leeren Bühne stehen. Nur meine Gitarre, meine Stimme,	
+540.157	0.6	JENNY	1	speech	regular;addendum	none	nicht mehr.	
+541.117	1.32	ERZAEHLER	1	speech	regular	HS	Sie zieht ihr Unterkleid aus.	
+542.717	2.44	JENNY	1	speech	regular	HS	Ich möchte in den Menschen etwas bewegen.	
+545.477	2.68	ERZAEHLER	1	speech	regular	HS	In BH und Unterhose setzt sie sich neben Forrest aufs Bett.	
+548.517	1.48	JENNY	1	speech	regular	HS	Ich möchte Inhalte vermitteln.	
+550.197	1.04	JENNY	1	speech	regular;addendum	none	Von Mensch zu Mensch.	
+551.477	1.84	ERZAEHLER	1	speech	regular	HS	Schüchtern sieht Forrest auf ihren Busen.	
+553.517	0.88	ERZAEHLER	1	speech	regular	HS	Jenny ist schlank.	
+554.597	2.84	ERZAEHLER	1	speech	regular	HS	Sie hat ein schmales ebenmäßiges Gesicht und glattes langes Haar. 	
+557.717	0.92	ERZAEHLER	1	speech	regular	HS	Sie bemerkt seinen Blick.	
+559.037	1.8	JENNY	1	speech	asking	question	Bist du schonmal mit einem Mädchen zusammen gewesen?	
+563.157	3.2	FORREST	1	speech	regular	AND	Im Kurs für Hauswirtschaftslehre sind Mädchen und ich sitze daneben.	
+568.477	1.2	ERZAEHLER	1	speech	regular	HS	Jenny sieht ihn ruhig an.	
+570.117	1.12	ERZAEHLER	1	speech	regular	HS	Sie öffnet ihren BH...	
+572.637	0.76	ERZAEHLER	1	speech	regular;addendum	HS	und streift ihn ab.	
+573.917	1.44	ERZAEHLER	1	speech	regular	HS	Forrests Augen weiten sich.	
+575.637	1.08	ERZAEHLER	1	speech	regular	HS	Verlegen schaut er weg.	
+579.597	2.48	ERZAEHLER	1	speech	regular	AND	Jenny nimmt seine Hand und legt sie sich auf die Brust.	
+586.157	2.12	ERZAEHLER	1	speech	regular	HS	Forrest linst aus den Augenwinkeln rüber.	
+589.517	0.8	ERZAEHLER	1	speech	regular	HS	Er zuckt zusammen.	
+591.477	0.28	FORREST	1	non	regular	none	ahhohh	
+592.397	0.36	FORREST	1	speech	regular	none	Oooouuuh	
+594.637	0.84	FORREST	1	speech	regular	HS	Das tut mir Leid.	
+595.397	0.8	JENNY	1	speech	regular	HS	Macht doch nichts.	
+595.797	0.8	FORREST	1	speech	exclamation	imperative	Entschuldige!	
+600.077	0.6	FORREST	1	non	regular	none	oooh	
+601.917	0.36	FORREST	1	non	regular	none	hupffff	
+602.997	0.16	FORREST	1	non	regular	none	oooh	
+603.157	0.0	RADIO	1	speech	regular	###		###
+603.517	1.52	ERZAEHLER	1	speech	regular	HS	Er schaut aufgewühlt vor sich hin.	
+605.237	0.68	JENNY	1	speech	regular	HS	Ist ja gut.	
+605.277	0.28	RADIO	1	speech	regular	###		###
+606.397	1.32	ERZAEHLER	1	speech	regular	HS	Jenny zieht den BH wieder an.	
+608.077	0.68	FORREST	1	speech	regular		hmmmmpf	
+609.517	0.8	JENNY	1	speech	regular	HS	Ist ja gut.	
+610.557	1.28	FORREST	1	speech	regular		Ohh, ist mir schwindelig.	
+613.117	2.92	ERZAEHLER	1	speech	regular	AND	Sie schmiegt ihren Kopf an seine Schulter und streicht ihm über die Wange.	
+616.077	20.44	JIMMY GILMER & THE FIREBALLS	1	song	regular		“Sugar Shack”	
+619.637	2.12	JENNY	1	speech	asking	question	Im Hauswirtschaftskurs ist dir das nie passiert, he?	
+625.157	0.24	FORREST	1	speech	regular	none	pfff	
+625.757	0.2	JENNY	1	speech	regular	none	mmmh	
+626.037	0.12	FORREST	1	speech	regular	none	hm	
+626.637	0.16	JENNY	1	speech	regular	none	hö	
+627.237	0.4	FORREST	1	speech	regular	none	Nein	
+628.037	1.04	ERZAEHLER	1	speech	regular	HS	Sie küsst ihn auf die Wange.	
+629.517	0.08	JENNY	1	non	regular	none	knutsch	
+630.197	2.28	ERZAEHLER	1	speech	regular	HS	Die Mitbewohnerin liegt von ihnen abgewandt im Bett.	
+632.677	1.04	ERZAEHLER	1	speech	regular;addendum	HS	und schaut angewidert.	
+633.957	3.36	FORREST	1	speech	regular	HS	Ich hab den Bademantel von deiner Freundin schmutzig gemacht.	
+637.357	1.8	JENNY	1	speech	regular	HS;HS	Ist egal, ich kann sie sowieso nicht leiden.	
+639.357	2.72	MAN IN STADIUM CROWD	1	speech	regular	imperative;imperative;imperative;imperative	Lauf! Lauf! Lauf! Lauf!	
+640.037	3.28	ERZAEHLER	1	speech	regular	HS	Im Stadion formen die Zuschauer mit den Tafeln 'Go Forrest'.	
+643.517	1.16	ERZAEHLER	1	speech	regular	HS	Der hängt alle Gegner ab.	
+645.677	2.32	ERZAEHLER	1	speech	regular;addendum	HS	Und erreicht die Touchdown-Zone.	
+648.197	1.36	ERZAEHLER	1	speech	regular	HS	Die Tafeln formen ein 'Stop'.	
+649.757	1.68	ERZAEHLER	1	speech	regular	HS	Die Kapelle stellt sich Forrest in den Weg.	
+651.717	0.76	ERZAEHLER	1	speech	regular	HS	Er bleibt stehen.	
+652.717	1.4	ERZAEHLER	1	speech	regular	HS	Die Gegner stürzen übereinander.	
+651.477	0.48	FOOTBALL PLAYER	1	speech	regular	none	uuuhwow	
+654.317	2.16	FORREST (V.O.)	1	speech	regular	HS	Die Zeit auf dem College ging richtig schnell vorbei.	
+656.637	1.68	FORREST (V.O.)	1	speech	regular	HS	Ich spielte nämlich unheimlich viel Football.	
+658.517	2.72	FORREST (V.O.)	1	speech	regular	HS	Die haben mich dann sogar in das All-American Team gesteckt.	
+661.317	3.84	FORREST (V.O.)	1	speech	regular	NS;HS	Wenn man da drin ist, kann man den Presidenten der Vereinigten Staaten kennenlernen.	
+659.677	83.4	OST	0	song	instrumental	instrumental		
+665.677	3.68	ANNOUNCER	1	broadcast	regular	HS	Präsident Kennedy empfing heute im weißen Haus das All-American Football Team.	
+669.597	1.08	ERZAEHLER	1	speech	regular	none	Forrest an einem Buffet.	
+670.997	4.84	FORREST (V.O.)	1	speech	regular	complex	Das, was richtig gut darin ist, wenn man den Präsidenten der Vereinigten Staaten kennenlernt, ist, das Essen.	
+676.197	4.92	FORREST (V.O.)	1	speech	regular	AND	Sie stecken einen in einen kleinen Raum und da gibt es fast alles zu Essen und zu Trinken, was man sich wünscht.	
+681.197	1.48	ERZAEHLER	1	speech	regular	HS	Ein Kellner öffnet ihm eine Cola.	
+682.477	8.72	FORREST (V.O.)	1	speech	regular	complex	Und weil ich ersten keinen Hunger hatte, sondern nur Durst und zweitens alles umsonst war, habe ich so ungefähr 15 Doktor Peppers Cola getrunken.	###movie only###
+682.837	8.36	FORREST (V.O.)	1	speech	regular	complex	Weil ich ersten keinen Hunger hatte, sondern nur Durst und zweitens alles umsonst war, habe ich so ungefähr 15 Doktor Peppers Cola getrunken.	###audio only###
+692.237	0.64	FORREST	1	non	regular	none	bööörp	
+693.597	0.4	ERZAEHLER	1	speech	regular	none	Kennedy	
+694.117	2.4	PRESIDENT KENNEDY	1	speech	regular	complex	Ich gratuliere. Was ist das für ein Gefühl ein All-American zu sein?	
+696.157	1.04	1ST PLAYER	1	speech	regular	HS;address	Es ist mir eine Ehre, Sir.	
+697.757	0.72	ERZAEHLER	1	speech	regular	none	Schwarzweißaufnahmen	
+698.957	3.48	ERZAEHLER	1	speech	regular	AND	In der Spielerschlange trippelt Forrest unruhig hin und her und hält sich den Bauch.	
+694.077	6.24	PRESIDENT KENNEDY	1	speech	regular	complex	Ich gratuliere. Was ist das für ein Gefühl ein All-American zu sein?	###movie only###
+700.357	0.72	2ND PLAYER	1	speech	regular	none;address	Eine große Ehre, Sir.	###movie only###
+702.757	0.76	PRESIDENT KENNEDY	1	speech	regular	HS	Ich gratuliere.	
+703.597	1.72	PRESIDENT KENNEDY	1	speech	regular	question	Was ist das für ein Gefühl ein All-American zu sein?	
+705.037	1.16	3RD PLAYER	1	speech	regular	none;address	Ein sehr gutes Gefühl, Sir.	
+706.277	0.56	ERZAEHLER	1	speech	regular	none	Zu Forrest	
+706.877	0.88	PRESIDENT KENNEDY	1	speech	regular	HS	Ich gratuliere.	
+707.837	0.76	PRESIDENT KENNEDY	1	speech	asking	question	Wie fühlen Sie sich denn?	
+708.437	0.48	FORREST	1	speech	regular	incomplete	I, ich...	
+708.957	0.2	FORREST	1	none	regular	filler	äh	
+709.237	0.64	FORREST	1	speech	regular	completion	...muss mal pinkeln.	
+710.757	1.84	PRESIDENT KENNEDY	1	speech	regular	HS;NS;NS2	Ich glaube, er hat gesagt, er muss pinkeln.	indirekte Rede
+713.077	0.08	KENNEDY	1	non	regular	none	heh	
+714.437	4.96	ERZAEHLER	1	speech	regular	none	In der Präsidententoilette mit vielen Privatfotos sowie rotem und schwarzem Telefon neben dem Klo	
+719.877	2.12	ERZAEHLER	1	speech	regular	AND	Forrest schließt seine Hose und geht zum Waschtisch.	
+722.637	4.96	ERZAEHLER	1	speech	regular	HS	Dort stehen ein gerahmtes Bild von Marilyn Monroe mit Widmung und ein Bild von John F. und Robert Kennedy.	
+727.877	7.0	FORREST (V.O.)	1	speech	regular	complex	Nicht lange danach hat jemand, ohne irgendeinen Grund, den netten jungen Präsidenten erschossen als er mit seinem Auto unterwegs war.	
+735.597	3.4	FORREST (V.O.)	1	speech	regular;addendum	HS	Und ein paar Jahre danach hat jemand auch seinen kleinen Bruder erschossen.	
+739.677	2.08	FORREST (V.O.)	1	speech	regular	HS	Das war allerdings in einer Hotelküche.	
+743.477	1.56	FORREST	1	speech	regular	HS;NS	Muss schwer sein, wenn man Brüder hat.	
+746.757	0.96	FORREST	1	speech	regular	HS	Ich weiß nichts davon.	
+747.877	0.72	ERZAEHLER	1	speech	regular	none	Auf dem Campus	
+748.237	26.92	OST	0	song	instrumental	instrumental		
+748.837	0.72	DEAN	1	broadcast	regular	address	Forrest Gump	
+749.717	1.2	FORREST (V.O.)	1	speech	asking	question	Wer hätte das gedacht?	
+751.357	4.4	FORREST (V.O.)	1	speech	regular	AND	Da hab ich nur 5 Jahre Football gespielt und kriege einen College Abschluss.	
+754.477	1.2	DEAN	1	speech	regular	HS	Ich gratuliere Ihnen.	
+755.917	0.68	DEAN	1	speech	regular	address	Mein Sohn	
+757.037	2.24	FORREST (V.O.)	1	speech	regular	HS	Mama war so stolz.	
+759.437	1.44	ERZAEHLER	1	speech	regular	HS	Ein Offizier kommt zu ihnen.	
+761.037	1.88	MRS. GUMP	1	speech	regular	address;HS	Forrest, ich bin so stolz auf dich.	
+763.277	0.32	MRS. GUMP	1	speech	commanding	imperative	Na, komm!	
+763.677	0.72	MRS. GUMP	1	speech	asking	imperative	Gib mir das bitte, ja?	
+764.717	1.44	MILITARY RECRUITER	1	speech	regular	HS;address	Ich gratuliere Ihnen, mein Sohn.	
+766.677	2.04	MILITARY RECRUITER	1	speech	asking	question	Haben Sie schon über ihre Zukunft nachgedacht?	
+768.757	1.64	ERZAEHLER	1	speech	regular	HS	Er gibt ihm eine Army-Werbebroschüre.	
+771.357	0.84	FORREST	1	speech	asking	none	Gedanken?	
+772.277	1.36	ERZAEHLER	1	speech	regular	none	In einem Army-Bus zum Fahrer	
+773.837	0.32	FORREST (V.O.)	1	speech	regular	address	Hallo	
+774.317	0.84	FORREST (V.O.)	1	speech	regular	HS	Ich bin Forrest.	
+775.277	0.68	FORREST	1	speech	regular;addendum	none	Forrest Gump	
+775.997	0.88	ARMY BUS DRIVER	1	speech	asking	question	Soll ich dir was sagen?	
+776.957	1.8	ARMY BUS DRIVER	1	speech	regular	HS;address	Das ist mir scheissegal, du blöder Wichser.	
+778.997	2.92	ARMY BUS DRIVER	1	speech	regular	complex	Du bist das letzte, mit dir kann man nichtmal die Scheisse aufwischen.	
+782.037	1.4	ARMY BUS DRIVER	1	speech	commanding	imperative;HS	Schieb deinen schwulen Arsch in den Bus!	
+783.517	1.04	ARMY BUS DRIVER	1	speech	regular	HS	Du bist jetzt in der Army.	
+785.677	0.88	RECRUIT #1	1	speech	regular	HS	Hier sitzt schon einer.	
+786.997	2.24	ERZAEHLER	1	speech	regular	HS	Ein Schwarzer versperrt den leeren Platz neben sich.	
+789.317	0.48	RECRUIT #2	1	speech	regular	none	Hier auch	
+790.397	1.48	ERZAEHLER	1	speech	regular	HS	Eingeschüchtert geht Forrest weiter.	
+793.517	2.4	FORREST (V.O.)	1	speech	regular	HS;NS	Ich hab zuerst gedacht, ich hab einen Fehler gemacht.	
+795.957	1.84	FORREST (V.O.)	1	speech	regular	HS	Es war doch der Tag meiner Einberufung.	
+798.237	0.88	FORREST (V.O.)	1	speech	regular;addendum	HS	Und schon wurde ich angebrüllt.	
+799.957	2.16	ERZAEHLER	1	speech	regular	HS	Er sieht zu einem Schwarzen mit vorstehender Unterlippe.	
+802.317	1.28	ERZAEHLER	1	speech	regular	HS	Der nimmt einen Koffer vom Sitz.	
+803.797	1.0	BUBBA	1	speech	regular	imperative;NS	Setz dich, wenn du willst.	
+805.717	3.6	FORREST (V.O.)	1	speech	regular	HS;NS;NS	Ich hatte ja keine Ahnung, wen ich so kennen lerne und was die mich so fragen.	
+809.837	1.8	BUBBA	1	speech	asking	question	Warst du schonmal auf nem richtigen Shrimpkutter?	
+811.757	1.04	ERZAEHLER	1	speech	regular	HS	Er gibt ihm ein Taschentuch.	
+812.837	0.48	FORREST	1	speech	regular	none	Nein	
+814.077	1.84	FORREST	1	speech	regular;addendum	HS	Aber ich hab mal ne Dampferfahrt gemacht.	
+816.861	2.16	BUBBA	1	speech	regular	HS;relativ	Ich meine ein Boot, mit dem man Shrimps fischen geht.	
+819.901	1.96	BUBBA	1	speech	regular	HS	Ich hab schon immer aufm Shrimpkutter gearbeitet.	
+822.181	2.64	BUBBA	1	speech	regular	HS;HS	Erst auf aufm Boot von meinem Onkel, das ist der Bruder von meiner Mutter.	
+825.181	1.28	BUBBA	1	speech	regular;addendum	HS	Da war ich ungefähr neun.	
+827.141	3.32	BUBBA	1	speech	regular	complex	Und jetzt hatt ich vor, mir selbst ein Boot zu kaufen, da haben sie mich eingezogen.	
+831.781	0.88	BUBBA	1	speech	regular	HS	Getauft bin ich auf...	
+833.061	1.4	BUBBA	1	speech	regular	none	...Benjamin Buford Blue.	
+835.061	1.28	BUBBA	1	speech	regular;addendum	HS	Aber alle nennen mich Bubba.	
+837.141	1.92	BUBBA	1	speech	regular	HS	So wie die weißen Arbeiter sich begrüßen.	
+839.461	0.88	BUBBA	1	speech	regular	question	Wie findest du das?	
+840.701	1.52	FORREST	1	speech	regular	HS	Mein Name ist Forrest Gump.	
+842.701	1.48	FORREST	1	speech	regular	HS	Mich nennen alle Forrest Gump.	
+845.101	4.36	FORREST (V.O.)	1	speech	regular	complex	Also Bubba kam aus Bayou La Batre, Alabama und seine Mama kochte Shrimps.	
+849.821	1.76	ERZAEHLER	1	speech	regular	HS	Eine schwarze Köchin bedient einen Weißen.	
+851.621	2.88	ERZAEHLER	1	speech	regular	HS	Im gleichen Haus bedient auch die schwarze Großmutter ihren weißen Herrn.	
+851.421	2.12	FORREST (V.O.)	1	speech	regular	HS	Und die Mama von ihrer Mama kochte Shrimps.	#movie#
+854.341	2.56	FORREST (V.O.)	1	speech	regular	HS	Und die Mama von der Mama von der Mama kochte Shrimps.	
+857.221	3.64	FORREST (V.O.)	1	speech	regular	HS;NS	Bubbas Familie wusste alles, was man übers Shrimpgeschäft wissen muss.	
+861.101	2.56	FORREST (V.O.)	1	speech	regular	HS;NS	Ich weiß alles, was man über das Shrimpgeschäft wissen muss.	
+864.261	0.6	BUBBA	1	speech	asking	question	Weißt du was?	
+864.941	2.12	BUBBA	1	speech	regular	HS	Eines Tages werde ich meine eigenen Shrimps fangen.	

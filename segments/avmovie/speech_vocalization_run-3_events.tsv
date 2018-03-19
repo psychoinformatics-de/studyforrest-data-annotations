@@ -1,0 +1,393 @@
+onset	duration	person	FG	kind	prosody	sentence_grammar	text	commentary
+1.429	1.32	BUBBA	1	speech	regular;addendum	NS	Wenn das alles hier vorbei ist.	
+6.349	0.56	FORREST	1	speech	regular	none	Okay	
+7.389	0.44	DRILL SERGEANT	1	speech	regular	address	Gump	
+8.349	2.72	DRILL SERGEANT	1	speech	asking	question	Wozu sind Sie einzig und allein in der Army?	
+11.149	1.48	FORREST	1	speech	regular	NS;NS2	Um das zu tun, was sie mir sagen.	
+12.669	0.96	FORREST	1	speech	regular	address	Drill Seargent	
+13.709	0.72	DRILL SERGEANT	1	speech	exclamation	none	Gottverdammt	
+14.509	0.28	DRILL SERGEANT	1	speech	regular	address	Gump	
+14.869	0.68	ERZAEHLER	1	speech	regular	none	Im Schlafsaal	###locale###
+15.589	1.28	DRILL SERGEANT	1	speech	regular	HS	Sie sind ein verfluchtes Genie.	
+17.029	1.96	DRILL SERGEANT	1	speech	regular	HS	Das war eine hochintelligente Antwort.	
+19.229	2.64	DRILL SERGEANT	1	speech	regular	HS	Sie haben wohl einen Intelligenzquotienten von 160.	
+21.189	2.44	DRILL SERGEANT	1	speech	regular	HS	Sie sind eine außergewöhnliche Begabung.	
+23.669	0.68	DRILL SERGEANT	1	speech	regular	address	Private Gump	
+24.549	1.12	ERZAEHLER	1	speech	regular	none	Die Männer sind in Unterwäsche.	
+26.029	1.2	DRILL SERGEANT	1	speech	regular	imperative;address	Alle mal herhören, Männer!	
+28.069	5.2	FORREST (V.O.)	1	speech	regular	complex	Es gibt keinen besonderen Grund, aber ich hab in die Army gepasst wie der Deckel auf den Topf. Es ist gar nicht schwer. 	
+28.309	3.4	DRILL SERGEANT	0	speech	regular	complex	Haltet euch an diesen Mann, dann werdet ihr es weit bringen.	
+33.829	4.8	FORREST (V.O.)	1	speech	regular	complex	Man muss sein Bett richtig machen und immer dran denken, schön stramm zu stehen und jedes Mal antworten:	
+38.869	0.72	FORREST (V.O.)	1	speech	exclamation	none	Zu Befehl	
+39.709	0.96	FORREST (V.O.)	1	speech	regular	address	Drill Sergeant	
+40.989	0.92	DRILL SERGEANT	1	speech	regular	question	Ist das klar?	
+42.229	0.8	FORREST & RECRUITS	1	speech	exclamation	none	Zu Befehl	
+43.069	1.04	FORREST & RECRUITS	1	speech	regular	address	Drill Sergeant	#movie#
+43.109	1.44	ERZAEHLER	1	speech	regular	HS	Jeder setzt sein Gewehr zusammen.	
+44.869	2.64	BUBBA	1	speech	regular	HS;NS	Du musst nichts tun, nur die Netze übern Meeresgrund ziehen.	
+47.989	2.8	BUBBA	1	speech	regular	HS	An nem guten Tag kannst du über 100 Pfund Shrimps fangen.	
+51.229	6.2	BUBBA	1	speech	regular	complex	Wenn alles richtig hinhaut, verdienen zwei Mann, die zehn Stunden fischen, abzüglich das, was du für den Sprit brauchst, so ungefähr...	
+57.589	1.0	FORREST	1	speech	regular	address	Fertig, Drill Sergeant	
+59.389	0.36	DRILL SERGEANT	1	speech	regular	address	Gump	
+59.749	2.36	MAN	0	speech	asking	question	wer schneidet den gelben die Eier ab?	
+62.509	2.16	DRILL SERGEANT	1	speech	asking	question	Wieso haben sie das Gewehr so schnell zusammengesetzt?	
+65.429	2.92	FORREST	1	speech	regular	NS	Weil sie es mir gesagt haben.	
+66.389	0.64	FORREST	1	speech	regular	address	Drill Sergeant	
+67.149	1.16	DRILL SERGEANT	1	speech	exclamation	none	Ach, du heiliger Strohsack	
+68.589	1.52	DRILL SERGEANT	1	speech	exclamation	none	Das ist ein neuer Kompanierekord.	
+70.549	4.56	DRILL SERGEANT	1	speech	regular	NS;HS	Wenn das nicht den Verlust eines verdammt guten Soldaten bedeuten würde, würde ich sie für die Offizierslaufbahn vorschlagen.	
+75.229	3.72	DRILL SERGEANT	1	speech	commanding	complex	Sie werden nochmal General Private Gump und jetzt Waffe auseinandernehmen und weitermachen!	
+82.109	0.16	BUBBA	1	non	regular	none	äh	
+82.349	1.32	BUBBA	1	speech	regular	NS	Was ich dir gerade sagen wollte.	
+83.829	1.56	BUBBA	1	speech	regular	HS	Shrimps sind Früchte des Meeres.	
+85.709	1.52	BUBBA	1	speech	regular	HS	Du kannst sie am Spieß braten.	
+87.549	2.96	BUBBA	1	speech	regular;addendum	none	Backen, Braten, Auf den Grill tun, Sautieren. 	
+90.549	0.44	BUBBA	1	speech	regular	HS	Es gibt...	
+91.029	0.2	BUBBA	1	non	regular	none	...äh...	
+91.269	0.96	BUBBA	1	speech	regular	none	Shrimps Kebab,	###objects?###
+92.469	1.04	BUBBA	1	speech	regular	none	Shrimps Creol,	
+94.109	1.28	BUBBA	1	speech	regular	none	Shrimps mit Gumbo,	
+95.429	0.8	ERZAEHLER	1	speech	regular	HS	Sie putzen Stiefel.	
+96.269	1.32	BUBBA	1	speech	regular	none	in der Pfanne gebraten,	
+97.709	0.84	BUBBA	1	speech	regular	none	oder fritiert	
+98.789	1.44	BUBBA	1	speech	regular	HS	Es gibt Shrimps mit Bananen,	
+100.909	1.08	BUBBA	1	speech	regular	none	Limonenshrimps, 	
+102.109	1.24	BUBBA	1	speech	regular	none	Kokusnussshrimps,	
+103.549	0.96	BUBBA	1	speech	regular	none	Pfeffershrimps,	
+104.589	1.08	BUBBA	1	speech	regular	none	Shrimpssuppe,	
+105.749	1.0	BUBBA	1	speech	regular	none	Shrimpeintopf,	
+106.789	1.68	ERZAEHLER	1	speech	regular	HS	Sie scheuern den Boden mit Zahnbürsten.	
+107.069	0.92	BUBBA	1	speech	regular	none	Shrimpssalat, 	#movie only#
+108.549	1.44	BUBBA	1	speech	regular	none	Shrimps mit Kartoffel,	
+110.309	1.08	BUBBA	1	speech	regular	none	Shrimpsburger, 	
+112.029	1.2	BUBBA	1	speech	regular	none	Shrimpssandwich	
+116.069	1.28	BUBBA	1	speech	regular	complex	Das, das wars glaub ich.	
+118.469	0.2	BUBBA	1	speech	regular	none	Ja	
+121.149	39.2	OST	1	song	instrumental	instrumental		
+119.429	0.64	ERZAEHLER	1	speech	regular	HS	Es ist dunkel.	
+120.149	0.92	ERZAEHLER	1	speech	regular	HS	Bubba liegt wach im Bett.	
+121.309	3.04	FORREST (V.O.)	1	speech	regular	HS	Die Nächte in der Army, sind sehr, sehr einsam.	
+125.069	1.68	FORREST (V.O.)	1	speech	regular	HS	Wir lagen in unseren Feldbetten.	
+127.309	1.4	FORREST (V.O.)	1	speech	regular;addendum	HS	und meine Mama fehlte mir.	
+129.509	1.56	FORREST (V.O.)	1	speech	regular;addendum	HS	und Jenny fehlte mir.	
+131.469	1.72	ERZAEHLER	1	speech	regular	HS	Forrest liegt oben im Etagenbett.	
+133.309	1.72	ERZAEHLER	1	speech	regular	HS	Sein Nachbar wirft ihm einen 'Playboy' zu.	
+135.389	0.64	YOUNG PRIVATE	1	speech	regular	address	Hey, Gump	
+137.589	2.0	YOUNG PRIVATE	1	speech	regular	HS;HS	Das sind Titten, da kommst du auf Ideen.	
+140.309	2.4	ERZAEHLER	1	speech	regular	AND	Forrest schaut in die Zeitschrift und blättert um.	
+144.709	3.76	ERZAEHLER	1	speech	regular	HS	Auf einem Bild kniet Jenny nur in weit aufgeknöpfter College-Jacke.	
+149.509	2.08	ERZAEHLER	1	speech	regular	HS	Ungläubig starrt Forrest auf das Foto.	
+152.189	5.44	FORREST (V.O.)	1	speech	regular	HS;NS;NS2	Wie es aussah, hatte Jenny irgendwie Ärger gekriegt, weil sich in ihrer Collegejacke hat fotografieren lassen.	
+158.149	2.04	FORREST (V.O.)	1	speech	regular	HS	Sie wurde jedenfalls vom College geworfen.	
+160.349	18.68	TOMMY JAMES & THE SHONDELLS	0	song	regular		“Hanky Panky”	
+160.469	2.56	TOMMY JAMES & THE SHONDELLS	0	singing	regular	foreign	My baby does the hanky-panky.	
+163.429	1.0	ERZAEHLER	1	speech	regular	HS	Er kommt in einen Club.	
+164.509	16.6	STRIP CLUB CROWD	0	speech	regular		Background rambling	
+164.589	1.32	FORREST (V.O.)	1	speech	regular;addendum	HS	Aber das war gar nicht so schlimm.	
+166.789	2.84	FORREST (V.O.)	1	speech	regular	HS	Ein Mann in Memphis Tennesse nämlich hatte einen Club.	
+170.429	2.0	FORREST (V.O.)	1	speech	regular	HS	Und der hat ihr einen Job angeboten.	
+173.309	0.8	FORREST (V.O.)	1	speech	regular	none	Als Sängerin	
+174.109	1.52	ERZAEHLER	1	speech	regular	none	Zwischen Porträts eins von Jenny	
+175.669	5.48	FORREST (V.O.)	1	speech	regular	HS;NS	Bei der erst besten Gelegenheit bin ich mit dem Bus nach Memphis gefahren, um mir ihren Auftritt anzusehen.	
+181.109	4.0	STRIP CLUB CROWD	1	non	regular	none	Whoooo hahahahaha yea	
+181.069	1.56	EMCEE	1	speech	regular	HS	Das war Amber, Amber Flame.	
+182.669	12.44	EMCEE	1	speech	commanding	imperative;address	Schenkt ihr doch mal nen schönen Applaus, Leute!	
+184.149	0.72	EMCEE	1	speech	regular	HS;address	Gut gemacht, Amber.	
+185.229	0.6	EMCEE	1	speech	regular	none	Und jetzt...	
+186.149	3.44	EMCEE	1	speech	regular	none	...etwas fürs Auge und etwas fürs Ohr, direkt auf Hollywood Kalifornien.	
+189.709	2.04	EMCEE	1	speech	regular	none	Exklusiv für sie unsere Beatnik Muse	
+191.789	3.12	EMCEE	1	speech	regular	HS	Ich bitte nochmal um einen satten Applaus für unsere sinnliche Bobbie Dylan.	
+195.269	1.04	ERZAEHLER	1	speech	regular	HS	Der Vorhang öffnet sich.	
+196.229	0.48	STRIP CLUB CROWD	1	non	regular	none	Yeaaaa	
+197.109	2.44	ERZAEHLER	1	speech	regular	HS	Jenny sitzt mit einer großen Gitarre auf einem Barhocker.	
+202.309	1.72	ERZAEHLER	1	speech	regular	HS	Das Instrument verdeckt Brust und Schoß. 	
+204.149	4.72	JENNY	1	singing	regular	foreign	How many roads must a man walk down...	
+207.709	1.92	ERZAEHLER	1	speech	regular	HS	Sie trägt nur einen hautfarbenen Slip.	
+209.709	4.96	JENNY	1	singing	asking	question	...before you call him a man?	
+204.949	15.68	JENNY	1	singing	regular	foreign	Yes, And how many seas must the white dove sail,...	
+221.309	3.84	JENNY	1	singing	asking	foreign	...before she sleeps in the sand?	
+221.509	1.48	FORREST (V.O.)	1	speech	regular	HS	Ihr Traum war wahrgeworden.	
+224.629	1.6	FORREST (V.O.)	1	speech	regular	HS	Sie war eine Folk Sängerin.	
+226.709	5.52	JENNY	1	singing	regular	foreign	Yes, how many times must the cannonballs fly...	
+232.989	4.92	JENNY	1	singing	regular	foreign	...before they're forever banned.	
+233.829	0.2	MAN #1	0	speech	regular	imperative;address	Tu doch mal die Gitarre weg, Süße.	
+235.229	0.4	MAN #2	0	speech	asking	question;address	Willst du nicht mal aufstehen, Baby?	
+236.709	1.92	STRIP CLUB CROWD	1	speech	regular		Hahahahahaha	
+237.309	2.8	MAN #3	0	speech	regular	HS;NS	Ich fänds besser, sie würde Mundharmonika spielen.	
+239.029	4.88	JENNY	1	speech	regular	foreign	The answer, My friend is blowing in the wind. The answer is blowing in...	
+239.829	1.68	STRIP CLUB CROWD	1	non	regular	none	Hahahaahaha	
+241.549	2.48	ERZAEHLER	 	speech	regular	HS	Ein Mann will ihr einen Geldschein in den Pumps stecken.	
+242.229	0.0	MAN ###	0	speech	regular	###	###	###
+244.629	0.0	MEN AT CLUB	0	speech	regular	###	###	###
+244.709	2.0	STRIP CLUB CROWD	1	non	regular	none	Hahahahahaha	
+244.909	1.72	MAN #5	0	speech	regular	address;HS	Hey Schätzchen, ich hab noch was für dich.	
+246.069	1.04	ERZAEHLER	1	speech	regular	HS	Sie tritt seine Hand weg.	
+247.429	0.4	STRIP CLUB GUEST 1	1	non	regular	none	Whoei	
+248.309	0.84	MAN #5	1	speech	exclamation;asking	address;address;question	Hey! Hey, was fällt dir denn ein?	
+248.429	1.08	STRIP CLUB CROWD	1	non	regular	none	Whoooo Wöööh	
+249.429	0.28	JENNY	1	non	regular	none	Eyiiii	
+249.469	1.48	ERZAEHLER	1	speech	regular	HS	Er schüttet sein Bier über seine Füße.	
+249.949	3.0	JENNY	1	speech	regular	complex	Du Wichser, ich sing ein Lied, verdammt.	
+252.949	1.44	JENNY	1	speech	commanding	address;imperative	Polly, schmeiß den Kerl raus!	
+250.029	4.08	STRIP CLUB CROWD	1	non	regular	none	woooo eyyyyy	
+253.109	0.32	STRIP CLUB GUEST 2	1	non	regular	none	Wauw	
+253.509	2.12	STRIP CLUB CROWD	1	non	regular	none	Hahahahaha	
+255.629	0.68	STRIP CLUB GUEST 3 	1	non	regular	none	Whoooo	
+256.429	0.08	MAN #	1	speech	commanding	imperative;NS	Zeig lieber, was du hast!	
+256.629	5.6	STRIP CLUB CROWD	1	non	regular	none	Hahahahahaha	
+256.669	2.04	ERZAEHLER	1	speech	regular	HS	Forrest marschiert mit grimmiger Miene nach vorn.	
+259.749	2.2	ERZAEHLER	1	speech	regular	AND	Er packt den Mann von hinten und stößt ihn zu Boden.	
+260.709	0.0	JENNY	1	speech	regular	###	###	
+262.229	0.48	STRIP CLUB GUEST 1	1	non	regular	none	Wuuuähuu	
+263.149	0.56	JENNY	1	speech	regular	address	Forrest	
+263.709	1.0	ERZAEHLER	1	speech	regular	HS	Er schubst noch einen um.	
+264.789	0.32	JENNY	1	speech	regular	address	Forrest	
+265.229	1.2	JENNY	1	speech	asking	question	Was machst du denn hier?	
+266.509	0.88	ERZAEHLER	1	speech	regular	HS	Er steigt auf die Bühne	
+267.389	1.28	JENNY	1	speech	asking	question	Was soll das alles?	
+267.309	1.72	STRIP CLUB GUEST 3 	1	non	regular	none	Whooooo eyyyyyy	
+269.109	0.0	FORREST	1	speech	regular	###	###	
+269.069	0.84	ERZAEHLER	1	speech	regular	HS	Und hebt sie hoch.	
+269.709	3.12	STRIP CLUB CROWD	0	speech	regular	###	Background rambling	
+270.749	1.4	JENNY	1	speech	commanding	imperative	Lass mich runter!	
+272.229	0.48	ERZAEHLER	1	speech	regular	HS	Er tut es.	
+273.629	1.6	STRIP CLUB CROWD	1	speech	regular		Ooooowwwwww hehe	
+273.669	2.28	ERZAEHLER	1	speech	regular	AND	Sie drückt ihm die Gitarre in die Hand und eilt von der Bühne.	
+276.109	1.12	ERZAEHLER	1	speech	regular	HS	Forrest hetzt ihr nach. 	
+277.669	1.0	ERZAEHLER	1	speech	regular	none	Später auf einer Brücke	
+278.949	1.52	JENNY	1	speech	regular	HS;address	So geht das doch nicht weiter, Forrest.	
+280.509	1.88	JENNY	1	speech	regular	HS;NS	Du kannst nicht dauernd versuchen, mich zu retten.	
+281.589	2.12	FORREST	1	speech	regular	HS	Aber die Kerle wollte dich begrabschen.	
+283.829	1.76	JENNY	1	speech	regular	HS;NS	Es gibt viele Leute, die das wollen.	
+286.589	3.28	JENNY	1	speech	regular	complex	Du kannst, das geht so nicht weiter, das kannst du doch nicht machen.	
+290.509	1.08	FORREST	1	speech	regular	HS	Ich kann nichts dafür.	
+292.549	0.76	FORREST	1	speech	regular	HS	Ich liebe dich.	
+293.909	104.6	OST	0	song	instrumental	instrumental		
+294.069	3.76	JENNY	1	speech	regular	address	Forrest	
+295.989	1.68	JENNY	1	speech	regular	HS;NS	Du weißt gar nicht, was Liebe ist.	
+298.469	1.88	ERZAEHLER	1	speech	regular	HS	Jenny schaut nachdenklich aufs Wasser.	
+301.509	1.08	ERZAEHLER	1	speech	regular	HS	Forrest betrachtet sie.	
+304.429	1.96	JENNY	1	speech	asking	question;NS;address	Weißt Du noch, wie wir gebetet haben, Forrest?	
+308.269	4.08	JENNY	1	speech	regular	HS;NS;NS2	Wir haben gebetet, Gott soll einen Vogel aus mir machen, damit ich weit weit weg fliegen kann.	
+314.469	1.16	FORREST	1	speech	regular	HS	Ja, ich weiß.	
+319.549	1.6	JENNY	1	speech	asking	question;HS;NS	Denkst du, Ich könnte von der Brücke fliegen?	
+321.869	2.76	ERZAEHLER	1	speech	regular	HS	Sie steigt auf eine niedrige Querstrebe des Geländers.	
+325.029	3.56	ERZAEHLER	1	speech	regular	AND	Beunruhigt sieht Forrest sie von unten nach oben an und kommt etwas näher.	
+328.789	1.32	FORREST	1	speech	regular	question	Was meinst du denn damit?	
+330.149	0.44	FORREST	1	speech	regular	address	Jenny	
+334.509	0.64	JENNY	1	speech	regular	none	Ach, nichts	
+335.749	2.0	ERZAEHLER	1	speech	regular	HS	Ein Autoscheinwerfer streift ihr Gesicht.	
+338.669	1.16	JENNY	1	speech	regular	HS	Ich muss weg von hier.	
+340.309	1.76	ERZAEHLER	1	speech	regular	AND	Sie stellt sich auf die Fahrbahn und winkt.	
+342.789	0.52	FORREST	1	speech	regular	imperative	Warte!	
+343.469	0.52	FORREST	1	speech	regular	address	Jenny	
+344.109	0.36	JENNY	1	speech	regular	address	Forrest	
+344.509	1.32	JENNY	1	speech	commanding;asking	imperative;question	Lass mich in Ruhe, hast du gehört?	
+345.869	1.24	JENNY	1	speech	commanding	imperative	Lass mich gefälligst in Ruhe!	
+348.109	50.48	OST	0	song	instrumental	instrumental		
+348.469	0.64	JENNY	1	speech	asking	question	Kann ich mitfahren?	
+349.629	0.72	DRIVER	1	speech	asking	question	Wo willst du denn hin?	
+347.629	3.36	JENNY	1	speech	regular	HS	Ist ganz egal.	
+351.149	0.8	DRIVER	1	speech	commanding	imperative	Na, dann hüpf rein!	
+352.549	0.88	FORREST	1	speech	regular	none	Also, auf Wiedersehen	
+353.509	0.36	FORREST	1	speech	regular	address	Jenny	
+354.429	1.48	ERZAEHLER	1	speech	regular	AND	Sie bleibt stehen und sieht zu ihm.	
+356.909	0.96	FORREST	1	speech	regular	HS	Sie schicken mich nach...	
+358.309	0.76	FORREST	1	speech	regular;addendum	HS	...nach Vietnam.	
+361.829	1.44	FORREST	1	speech	regular	HS	Das ist ein ganz, ganz anderes Land.	
+366.429	1.12	JENNY	1	speech	commanding	imperative	Sei so nett, wart doch mal!	
+369.669	1.88	JENNY	1	speech	commanding;regular;asking	complex	Hör zu, Du musst mir jetzt was versprechen, ja?	
+372.709	3.32	JENNY	1	speech	regular;commanding;asking	complex;NS;imperative;imperative	Wenn du je in Gefahr kommst, dann sei bloß nicht tapfer, sondern lauf weg, ok?	
+376.269	1.08	JENNY	1	speech	commanding	imperative	Lauf einfach weg!	
+378.709	0.6	FORREST	1	speech	regular	none	Okay	
+380.269	1.52	ERZAEHLER	1	speech	regular	HS	Jenny geht zur Beifahrerseite.	
+384.749	0.56	FORREST	1	speech	regular	address	Jenny	
+385.909	0.52	ERZAEHLER	1	speech	regular	HS	Sie stoppt.	
+387.709	1.48	FORREST	1	speech	regular	HS	Ich werde dir jeden Tag schreiben.	
+398.581	144.52	CREEDENCE CLEARWATER REVIVAL	1	song	regular		“Fortunate Son”	
+399.821	2.36	ERZAEHLER	1	speech	regular	HS	Der Schatten eines Hubschraubers gleitet über Reisfelder. 	
+402.421	2.44	ERZAEHLER	1	speech	regular	HS	In der offenen Tür sitzt ein Bordschütze am Maschinengewehr.	
+407.581	1.76	ERZAEHLER	1	speech	regular	HS	Er schaut zu Forrest und Bubba neben ihm.	
+409.541	2.08	ERZAEHLER	1	speech	regular	HS	Die beiden weichen seinem Blick eingeschüchtert aus.	
+412.621	3.16	CREEDENCE CLEARWATER REVIVAL	1	singing	regular	foreign	Some folks are born made to wave the flag.	
+416.221	1.96	CREEDENCE CLEARWATER REVIVAL	1	singing	regular	foreign	Ooh, They're red, White and blue.	
+418.421	3.2	ERZAEHLER	1	speech	regular	HS	Der Hubschrauber landet auf einem Stützpunkt neben einem anderen Helikopter.	
+421.821	1.52	ERZAEHLER	1	speech	regular	HS	Zwei Soldaten erwarten ihn.	
+423.621	2.52	ERZAEHLER	1	speech	regular	HS	Bubba und Forrest springen mit ihren Gepäcksäcken raus.	
+435.061	6.24	FORREST (V.O.)	1	speech	regular	HS;NS	Also, Sie haben uns erzählt, Vietnam wäre ganz anders als die Vereinigten Staaten von Amerika.	
+442.061	1.96	FORREST (V.O.)	1	speech	regular;addendum	none	...und abgesehen vom Barbecue...	
+444.261	1.04	FORREST (V.O.)	1	speech	regular;addendum	none	...und von den Bierdosen...	
+445.621	0.8	FORREST (V.O.)	1	speech	regular	completion;HS	...wars das auch.	
+446.741	2.88	ERZAEHLER	1	speech	regular	AND	An einem Fluss grillen Soldaten zwischen Palmen und trinken Bier.	
+449.981	1.0	ERZAEHLER	1	speech	regular	HS	Einige spielen Karten.	
+451.301	2.48	ERZAEHLER	1	speech	regular	HS	Im Hintergrund fliegt eine Hubschrauberstaffel den Fluss entlang.	
+454.141	2.04	ERZAEHLER	1	speech	regular	HS	Forrest und Bubba gehen mit ihrem Gepäck darauf zu.	
+456.421	2.16	BUBBA	1	speech	regular	HS	In dem Wasser gibt's garantiert Shrimps in Massen.	
+459.221	1.96	BUBBA	1	speech	regular	HS;NS	Das heißt, in Vietnam kann man gut Shrimp fischen.	###object###
+462.261	10.16	BUBBA	1	speech	regular	complex	Ich sag dir was, wenn wir den Krieg gewonnen haben und und wir alles übernommen haben, holen wir uns Shrimpfischer aus Amerika und holen die Shrimps hier raus. Wir werden die ganze Zeit Shrimps fangen, Mann, so viele Shrimps, also das kannst du dir gar nicht vorstellen.	
+472.461	1.44	ERZAEHLER	1	speech	regular	none	Ein Soldat mit nacktem Oberkörper	
+473.941	1.24	LT. DAN	1	speech	asking	question	Ihr seid die beiden Neuen, hu?	
+475.981	1.04	BUBBA	1	speech	regular	address	Guten Morgen, Sir	
+475.981	1.04	FORREST	1	speech	regular	address	Guten Morgen, Sir	
+477.061	1.24	LT. DAN	1	speech	regular	complex	Hey! Hände runter, ja?	
+479.021	4.68	LT. DAN	1	speech	regular	complex	Salutiert nicht vor mir, es wimmelt hier nur so von beschissenen Scharfschützen, die gerne Offiziere abknallen.	
+484.861	1.16	LT. DAN	1	speech	regular	HS	Ich bin Lieutenant Dan Taylor.	
+486.061	1.16	LT. DAN	1	speech	exclamation	none	Willkommen im vierten Platoon	
+488.981	0.88	LT. DAN	1	speech	asking	question	Was is'n mit deiner Lippe?	
+491.541	1.8	BUBBA	1	speech	regular	HS;address	Ich bin schon so auf die Welt gekommen, Sir.	
+493.781	1.24	LT. DAN	1	speech	regular	imperative	Naja gut, zieh sie lieber ein.	
+495.661	1.72	LT. DAN	1	speech	regular;addendum	NS	...sonst hängst du irgendwann am Stacheldraht fest.	###NS?###
+497.621	1.24	ERZAEHLER	1	speech	regular	HS	Bubba zieht die Unterlippe ein.	
+499.461	1.16	LT. DAN	1	speech	asking	question	Wo kommt ihr zwei denn her?	
+500.901	0.96	BUBBA	1	speech	regular	address	Alabama, Sir.	
+500.901	0.96	FORREST	1	speech	regular	address	Alabama, Sir.	
+502.421	1.08	LT. DAN	1	non	regular	none	pfff ha	###bißchen ausatmen###
+503.661	0.88	LT. DAN	1	speech	asking	question	Seid ihr Zwillinge?	
+504.861	2.24	ERZAEHLER	1	speech	regular	AND	Forrest und Bubba mustern sich und schütteln den Kopf.	
+507.381	0.28	FORREST	1	speech	regular	none	Nein	
+507.821	0.92	FORREST	1	speech	regular	HS	Wir sind nicht verwandt.	
+508.821	0.36	FORREST	1	speech	regular	address	Sir	
+511.781	0.4	LT. DAN	1	speech	regular	none	Na, gut	
+513.061	1.08	LT. DAN	1	speech	regular	HS	Es ist ziemlich einfach hier.	
+514.181	0.72	ERZAEHLER	1	speech	regular	HS	Sie folgen Dan.	
+515.381	0.8	LT. DAN	1	speech	regular	imperative	Bleibt bei mir.	
+516.701	2.84	LT. DAN	1	speech	regular	HS;NS;NS	Und lernt was von den Jungs, die schon ne Weile hier sind, dann geht alles glatt.	
+520.501	4.32	LT. DAN	1	speech	regular	HS;NS	In eurem Marschgepäck gibt es was, das kann den Unterschied zwischen einem lebenden und einem toten Soldaten bedeuten.	
+526.581	60.44	LT. DAN	1	speech	regular	none	Socken	
+527.661	1.84	LT. DAN	1	speech	regular	none	Frotteesohle und olivgrün	
+529.741	2.44	LT. DAN	1	speech	regular	imperative;NS	Sorgt immer für trockene Füße, wenn wir draußen rummaschieren. 	
+532.261	2.44	LT. DAN	1	speech	regular	imperative;NS	Vergesst das nicht, bei jedem Halt die Socken wechseln.	
+534.941	2.4	LT. DAN	1	speech	regular	HS	Der Vietcong frisst den Soldaten den Fuß direkt vom Bein.	
+537.781	1.16	LT. DAN	1	speech	regular	address	Sergeant Sims	
+539.221	2.76	LT. DAN	1	speech	regular	question;NS	Verdammt nochmal, wo bleiben die Seile, die sie bestellen sollen.	
+541.821	1.4	SGT. SIMS	1	speech	regular	HS	Die hab ich in der Materialkammer beim Battalion angefordert.	###timing###
+543.181	2.24	LT. DAN	1	speech	regular	imperative	Ja, Ja, Ja. Dann rufen sie diese Schreibstubenwichser nochmal an.	###trennen###
+545.461	2.4	FORREST (V.O.)	1	speech	regular	HS	Lt. Dan, der verstand was von seinem Job.	
+547.901	1.92	FORREST (V.O.)	1	speech	regular	HS;NS	Ich war richtig froh, dass er mein Lieutenant war.	
+550.261	3.64	FORREST (V.O.)	1	speech	regular	HS	Er kam aus einer Familie mit ruhmreicher, militärischer Tradition.	
+554.141	3.48	FORREST (V.O.)	1	speech	regular	AND	Irgendjemand in seiner Familie hat immer gekämpft und ist gefallen.	
+558.621	3.92	FORREST (V.O.)	1	speech	regular;addendum	none	In jedem einzelnen amerikanischen Krieg.	###movie only###
+558.541	3.92	ERZAEHLER	1	speech	regular	HS;NS;HS	Soldaten, die genau wie Dan aussehen, sterben in vier historischen Kriegen.	
+563.101	1.6	LT. DAN	1	speech	regular	HS	Sie müssen denen einfach in den Arsch treten.	
+564.501	0.76	SGT. SIMS	1	speech	regular	HS;address	Wird erledigt, Lieutenant.	
+565.301	0.64	LT. DAN	1	speech	commanding	none	Na dann, los	
+566.501	3.8	FORREST (V.O.)	1	speech	regular	HS;NS	Ich glaube, er stellte an sich selbst sehr hohe Ansprüche.	
+567.341	37.96	THE FOUR TOPS	0	song	regular	foreign	“I Can't Help Myself (Sugar Pie Honey Bunch)”	
+571.221	1.92	LT. DAN	1	speech	asking	question	Also ihr Männer seid aus Arkansas, huh?	
+573.261	0.52	LT. DAN	1	speech	regular	none	Naja	
+574.701	1.04	LT. DAN	1	speech	regular	HS	Bin da mal durchgekommen.	
+576.421	1.24	LT. DAN	1	speech	regular	HS	Bedrock ist 'n hübsches Städtchen.	
+578.741	0.44	LT. DAN	1	speech	regular	none	So	
+579.581	1.44	LT. DAN	1	speech	commanding	HS	Ihr stellt jetzt euren ganzen Kram ab.	
+581.341	2.64	LT. DAN	1	speech	regular;addendum	imperative;HS	...geht zu eurem Platoonseargent, da kriegt ihre eure Kampfausrüstung.	
+584.021	1.04	ERZAEHLER	1	speech	regular	HS	Er geht in eine Latrine.	
+585.101	0.68	LT. DAN	1	speech	regular	NS	Wenn ihr Hunger habt...	
+586.021	1.48	LT. DAN	1	speech	regular;addendum	HS	...wir haben grad 'n paar Steaks auf dem Grill da drüben.	
+588.461	2.24	LT. DAN	1	speech	regular	HS	Es gibt ein Paar feststehende Regeln in diesem Platoon.	
+591.661	0.68	LT. DAN	1	speech	regular	none	Erstens	
+592.661	1.32	LT. DAN	1	speech	commanding	imperative	Passt auf eure Füße auf!	
+594.381	0.72	LT. DAN	1	speech	regular	none	Zweitens	
+595.461	2.0	LT. DAN	1	speech	regular	HS;NS	Kommt nicht auf die Idee, Dummheiten zu machen.	
+597.701	1.48	LT. DAN	1	speech	regular	imperative;HS	Lasst euch nicht umbringen, meine ich.	
+599.781	2.52	ERZAEHLER	1	speech	regular	HS	Sein Kopf verschwindet hinter der brusthohen Latrinentür.	
+604.701	2.52	FORREST	1	speech	exclamation	HS;NS	Oh Gott, Ich hoffe, ich werde ihn nie enttäuschen.	###gott trennen;eklamation###
+607.541	31.84	JIMI HENDRIX	1	song	regular	foreign	“All Along the Watchtower”	
+609.101	2.96	ERZAEHLER	1	speech	regular	HS	Auf Patrouille gehen Forrest und Bubba mit anderen durch ein Reisfeld.	
+612.141	3.32	ERZAEHLER	1	speech	regular	HS	Sie tragen tarnfarbene Helme, olivgrüne Uniformen und Rucksäcke.	
+615.741	1.64	ERZAEHLER	1	speech	regular	HS	Ihre Gewehre halten sie quer vor sich.	
+618.341	2.32	FORREST (V.O.)	1	speech	regular	HS	Ich hab sehr viel von der Gegend da zu sehen gekriegt.	
+620.861	2.2	FORREST (V.O.)	1	speech	regular	HS	Wir haben immer ganz ganz lange Wanderungen gemacht.	
+623.101	2.12	ERZAEHLER	1	speech	regular	HS	Zwischen Feldern gehen sie eine Sandpiste entlang.	
+631.421	3.56	FORREST (V.O.)	1	speech	regular	HS	Und wir waren dauernd auf der Suche nach einem gewissen Charlie.	
+635.541	1.68	ERZAEHLER	1	speech	regular	HS	Forrests Gesicht ist schmutzig.	
+637.381	2.52	ERZAEHLER	1	speech	regular	HS	Unter einem Riemen an seinem Helm klemmt ein Plastikfläschchen.	
+640.581	1.76	ERZAEHLER	1	speech	regular	HS	Ein vorne gehender Soldat hebt die Faust.	
+642.581	0.52	LT. DAN	1	speech	commanding	imperative	Stehen bleiben!	
+643.181	1.08	SGT. SIMS	1	speech	regular	address;imperative	Alle Mann, stehen bleiben!	
+644.621	2.32	ERZAEHLER	1	speech	regular	HS	Der Trupp hockt sich links und rechts der Piste an die Böschung.	
+647.701	1.92	FORREST (V.O.)	1	speech	regular	HS	Es hat nicht immer Spaß gemacht.	
+650.181	5.2	FORREST (V.O.)	1	speech	regular	HS	Lt. Dan hatte dann öfter mal so komische Vorahnungen gehabt wegen einem Stein oder einem Weg	
+655.421	3.12	FORREST (V.O.)	1	speech	regular	HS;NS	Er hat dann gesagt, wir sollen in Deckung gehen und die Schnautze halten.	
+659.101	0.68	LT. DAN	1	speech	commanding	none	In Deckung	
+660.301	0.76	LT. DAN	1	speech	commanding	none	Schnautze halten	
+661.421	1.48	FORREST (V.O.)	1	speech	regular	HS	Und das haben wir gemacht.	
+663.021	0.96	ERZAEHLER	1	speech	regular	HS	Dan geht nach vorn.	
+667.341	4.2	ERZAEHLER	1	speech	regular	AND	Er hockt sich hin, dreht sich zu seinen Männern um und zeigt mit zwei Fingern auf seine Augen.	
+674.861	3.32	ERZAEHLER	1	speech	regular	AND	Dan legt sich flach auf die Piste und späht über den Boden direkt vor ihm.	
+679.341	6.32	FORREST (V.O.)	1	speech	regular	complex	Viel versteh ich ja nicht davon, aber ich glaube, in dem Krieg da dienten manche, das waren die Besten jungen Amerikaner.	
+686.221	1.92	FORREST (V.O.)	1	speech	regular	HS	Das war Dallas aus Phoenix.	
+688.381	1.2	ERZAEHLER	1	speech	regular	none	Ein Soldat mit Hornbrille	
+690.141	0.92	FORREST (V.O.)	1	speech	regular	incomplete	Und Cleveland...	
+691.261	1.08	FORREST (V.O.)	1	speech	regular;addendum	HS	...der war aus Detroid.	
+692.381	0.6	ERZAEHLER	1	speech	regular	none	Ein Schwarzer	
+693.061	0.68	CLEVELAND	1	speech	regular	address	Hey, Tex	
+694.781	0.44	CLEVELAND	1	speech	regular	address	Tex	
+695.541	1.72	CLEVELAND	1	speech	asking	question	Verdammt nochmal, was ist denn da los?	###verdammt nochmal = exclamation###
+697.741	1.12	FORREST (V.O.)	1	speech	regular	HS	Und Tex war...	
+699.381	0.72	FORREST (V.O.)	1	speech	exclamation	none	Achje	
+700.141	1.8	FORREST (V.O.)	1	speech	regular	HS;NS	Ich weiß nicht mehr, wo Tex herkam.	
+701.981	1.0	LT. DAN	1	speech	regular	none	Ach, nichts	
+703.261	1.68	ERZAEHLER	1	speech	regular	HS	Vorne steht Lieutenant Dan wieder auf.	
+707.261	1.36	LT. DAN	1	speech	commanding	none	Viertes Platoon auf die Füße	
+710.061	1.44	LT. DAN	1	speech	regular	HS	Wir hams nicht mehr weit bis zum Fluss.	
+712.101	0.92	LT. DAN	1	speech	commanding	none	Vorwärts, Marsch	
+713.141	1.12	###	1	speech	regular	HS	Ok, dann wollen wir mal wieder.	
+713.141	55.08	THE DOORS	0	song	regular	###	“Soul Kitchen”	
+719.981	3.48	FORREST	1	speech	regular	HS;NS	Das gute an Vietnam war, dass man immer irgendwas vorhatte.	
+724.021	0.76	LT. DAN (V.O.)	0	speech	regular	undistinguishable		###WTF?###
+726.421	1.88	ERZAEHLER	1	speech	regular	HS	Hinter Dan und Forrest fliegt Erde hoch.	
+728.581	0.28	LT. DAN	1	speech	regular	address	Gump	
+729.221	0.8	LT. DAN	1	speech	commanding	imperative	Kontrollier das Loch!	
+730.101	0.92	ERZAEHLER	1	speech	regular	HS	Forrest kriecht rein.	
+731.061	1.88	FORREST (V.O.)	1	speech	regular	HS	Und es gab auch immer irgendwas zu tun.	
+733.701	0.96	LT. DAN	1	speech	commanding	address	Vorwärts, Männer	
+735.101	1.12	SGT. SIMS	1	speech	commanding	imperative	Los, gebt Feuerschutz!	
+736.301	2.88	ERZAEHLER	1	speech	regular	HS	Bis zur Brust in trübem Wasser watet der Trupp durch ein Reisfeld.	
+741.421	2.32	FORREST (V.O.)	1	speech	regular	HS	Eines Tages fing es an zu regnen.	
+744.021	3.04	FORREST (V.O.)	1	speech	regular	HS	Und es hörte vier Monate lang nicht auf.	
+747.701	2.36	FORREST (V.O.)	1	speech	regular	HS;NS	Wir haben so zu ziemlich jeden Regen gehabt, den es gibt.	
+750.541	2.52	FORREST (V.O.)	1	speech	regular	none	Regen mit kleinen prasselnden Tropfen.	
+753.821	2.16	FORREST (V.O.)	1	speech	regular	none	Richtig schönen dicken Tropfen.	
+756.541	2.6	FORREST (V.O.)	1	speech	regular	none;NS	Regen, der von der Seite kam	
+759.861	1.56	FORREST (V.O.)	1	speech	regular	none	Und manchmal sogar Regen,...	
+761.661	2.48	FORREST (V.O.)	1	speech	regular	NS	...der von unten nach oben zu kommen schien.	
+764.181	1.0	ERZAEHLER	1	speech	regular	HS	Sie gehen durch einen Fluss.	
+765.341	1.04	FORREST (V.O.)	1	speech	exclamation	none	So ein Mist	
+766.461	1.72	FORREST (V.O.)	1	speech	regular	HS	Es regnete sogar nachts.	
+768.621	0.76	BUBBA	1	speech	regular	address	Na, Forrest	
+769.941	0.72	FORREST	1	speech	regular	address	Na, Bubba	
+770.941	3.16	BUBBA	1	speech	regular	complex	Weißt du was, ich lehn mich bei dir an und du lehnst dich dafür bei mir an.	
+774.461	2.48	BUBBA	1	speech	regular	HS	Dann brauchen wir wenigstens nicht mit dem Kopf im Schlamm zu pennen.	
+778.621	1.84	BUBBA	1	speech	asking	HS;NS	Weißt du, warum wir so gute Kameraden sind?	
+780.501	0.52	BUBBA	1	speech	regular	address	Forrest	
+782.301	1.88	BUBBA	1	speech	regular	HS	Wir passen aufeinander auf, deswegen.	
+784.861	1.32	BUBBA	1	speech	regular	none	Wie Brüder ist sowas.	
+788.421	0.76	BUBBA	1	speech	regular	address	Du, Forrest	
+789.701	1.36	BUBBA	1	speech	regular	HS	Ich hab mir mal was überlegt.	
+791.901	2.56	BUBBA	1	speech	regular	HS	Ich werd dich jetzt was ganz wichtiges fragen, ja?	
+796.381	3.32	BUBBA	1	speech	regular	question;NS	Was hälst du davon, wenn du mit mir ins Shrimpgeschäft einsteigst?	
+801.501	0.76	FORREST	1	speech	regular	none	Okay	
+802.861	1.24	BUBBA	1	speech	regular	address;HS;address	Mann, ich sag dir was, du	
+804.341	1.68	BUBBA	1	speech	regular	HS	Also, ich hab das alles schon durchgerechnet.	
+806.301	2.4	BUBBA	1	speech	regular	none;NS	So und so viel Pfund Shrimps, um das Boot abzuzahlen	
+809.061	1.6	BUBBA	1	speech	regular	none	So und so viel Pfund für Diesel	
+810.941	2.8	BUBBA	1	speech	regular	HS;HS	Wohnen können wir ja auf dem Boot, dann fällt die Miete schonmal weg.	
+814.661	3.84	BUBBA	1	speech	regular	HS;NS	Ich bin der Kaptain, aber wir machen alles zusammen und teilen alles immer durch zwei.	
+818.581	1.12	BUBBA	1	speech	asking	question;NS	Verstehst du, was ich sage?	
+819.781	0.92	BUBBA	1	speech	regular	none	Fifty, fifty	
+821.021	0.96	BUBBA	1	speech	regular	address	Und Forrest,	
+822.101	2.24	BUBBA	1	speech	regular	HS	So viel Shrimps wie du essen kannst.	
+825.941	1.64	FORREST	1	speech	regular	HS	Das ist wirklich ne gute Idee.	
+827.661	39.0	THE MAMAS AND THE PAPAS	1	song	regular		“California Dreamin”	
+828.701	1.92	FORREST (V.O.)	1	speech	regular	HS	Bubba hatte wirklich ne gute Idee.	
+831.221	1.72	ERZAEHLER	1	speech	regular	AND	Er liegt unter einer Plane und schreibt.	
+834.421	2.08	FORREST (V.O.)	1	speech	regular	HS	Ich hab das sogar Jenny geschrieben.	
+837.141	1.48	FORREST (V.O.)	1	speech	regular	HS	Ich hab ihr immer Briefe geschrieben.	
+838.981	2.12	FORREST (V.O.)	1	speech	regular;addendum	none	Nicht jeden Tag, aber fast jeden Tag.	
+841.541	6.48	FORREST (V.O.)	1	speech	regular	complex	Ich hab ihr erzählt, was ich so mache und sie gefragt, was sie so macht. Und ich hab ihr geschrieben, dass ich immer an sie denke.	###trennen###
+848.341	1.72	ERZAEHLER	1	speech	regular	HS	Jenny kommt aus dem Wohnwagen ihrer Oma.	
+850.141	2.88	FORREST (V.O.)	1	speech	regular	HS;NS	und das ich mich schon darauf freue, mal einen Brief von ihr zu kriegen,	
+853.581	1.08	FORREST (V.O.)	1	speech	regular;addendum	NS	...wenn sie Zeit dafür hat.	
+854.861	2.16	ERZAEHLER	1	speech	regular	HS	Sie steigt zu anderen Hippies in einen VW-Bus.	
+857.221	2.0	FORREST (V.O.)	1	speech	regular	HS;NS	Ich hab ihr immer gesagt, dass es mir gut geht.	
+859.781	2.04	FORREST (V.O.)	1	speech	regular	HS	Und jeden Brief hab ich unterschrieben.	
