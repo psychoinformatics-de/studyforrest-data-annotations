@@ -19,8 +19,8 @@ import pandas as pd
 
 
 # constants #
-MOVIE = False
-INPUT_FILE = 'researchcut/speech_narrator' # sys.argv[1:]
+MOVIE = True
+INPUT_FILE = 'researchcut/speech_vocalization.tsv' # sys.argv[1:]
 OUT_DIR = 'segments/'
 
 SEGMENTS_OFFSETS = (
