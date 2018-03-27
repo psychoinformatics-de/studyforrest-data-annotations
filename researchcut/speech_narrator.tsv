@@ -11,7 +11,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5.300	0.500	fliegt				VVFIN		
 5.800	0.200	eine				ART		
 6.000	0.200	Reihe				NN		
-6.200	0.400	Sterne		object		NE		
+6.200	0.400	Sterne		object		NN		
 6.600	0.200	zu				PTKVZ		
 6.800	0.600	sie				PPER		
 7.400	0.200	bilden				VVFIN		
@@ -45,11 +45,11 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 31.900	0.400	Robert				NE		
 32.300	0.500	Zemeckis			mname	NE		
 32.800	0.300	Film			object	NN		
-33.900	0.500	Tom				NE		
+33.900	0.500	Tom				###		
 34.400	0.300	Hanks			mname	NE		
 34.700	0.900	als				APPR		
-35.600	0.600	Forrest				NN		
-36.200	0.400	Gump			mname	NN		
+35.600	0.600	Forrest				###		
+36.200	0.400	Gump			mname	NE		
 40.400	0.400	die				ART		
 40.800	0.300	Feder		object		NN		
 41.100	0.200	fliegt				VVFIN		
@@ -59,39 +59,39 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 42.000	0.300	über				APPR		
 42.300	0.100	den				ART		
 42.400	0.200	Wipfeln		geo		NN		
-42.600	1.400	Robin				NE		
+42.600	1.400	Robin				###		
 44.000	0.100	Wright			fname	NE		
 44.100	0.300	als				APPR		
 44.400	0.400	Jenny			fname	NE		
-44.800	0.900	Gary#Sinise		#	#	#		
+44.800	0.900	Gary#Sinise	###			NE		
 45.700	0.400	als				APPR		
 46.100	0.200	Lieutenant				NN		
 46.300	0.400	Dan			mname	NE		
-46.700	0.800	Kelly				NE		
+46.700	0.800	Kelly				###		
 47.500	0.600	Williamson			mname	NE		
 48.100	0.300	als				APPR		
 48.400	0.300	Bubba			mname	NE		
 48.700	0.600	und				KON		
-49.300	0.300	Sally				NE		
+49.300	0.300	Sally				###		
 49.600	0.300	Field			fname	NE		
 49.900	0.100	als				APPR		
-50.000	0.400	Misses				NE		
-50.400	0.200	Gump			fname	NN		
+50.000	0.400	Misses				###		
+50.400	0.200	Gump			fname	NE		
 50.600	1.000	Musik				NN		
-51.600	0.400	Alan				NE		
+51.600	0.400	Alan				###		
 52.000	0.300	Silvestri			mname	NE		
-52.300	1.200	Buch			object	NE		
-53.500	0.400	Eric				NE		
+52.300	1.200	Buch			object	NN		
+53.500	0.400	Eric				###		
 53.900	0.200	Ross			mname	NE		
 54.100	0.900	nach				APPR		
 55.000	0.200	dem				ART		
 55.200	0.300	gleichnamigen				ADJA		
 55.500	0.400	Roman			object	NN		
 55.900	0.400	von				APPR		
-56.300	0.400	Winston				NE		
-56.700	0.300	Groom			mname	NN		
+56.300	0.400	Winston				###		
+56.700	0.300	Groom			mname	NE		
 57.000	1.700	Regie				NN		
-58.700	0.400	Robert				NE		
+58.700	0.400	Robert				###		
 59.100	0.500	Zemeckis			mname	NE		
 68.500	0.300	in				APPR		
 68.800	0.100	der				ART		
@@ -120,23 +120,23 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 80.900	0.400	Schweizer				ADJA		
 81.300	0.200	Fernsehens				NN		
 81.500	1.000	Text				NN		
-82.500	0.400	Kopp				NE		
+82.500	0.400	Kopp				###		
 82.900	0.600	Michalski			mname	NE		
 83.500	0.300	und				KON		
 83.800	0.400	Weckmann			mname	NE		
 84.200	0.700	Hörfilm				NN		
 84.900	0.100	ev				APPR		
 85.000	1.300	Redaktion				NN		
-86.300	0.400	Elmar				NE		
+86.300	0.400	Elmar				###		
 86.700	0.200	Dosch			mname	NE		
 86.900	0.300	und				KON		
-87.200	0.300	Bernd				NE		
+87.200	0.300	Bernd				###		
 87.500	0.300	Benecke			mname	NE		
 87.800	1.100	Tonmischung				NN		
-88.900	0.500	Herbert				NE		
+88.900	0.500	Herbert				###		
 89.400	0.200	Glaser			mname	NE		
 89.600	0.900	Sprecher				NN		
-90.500	0.300	Thomas				NE		
+90.500	0.300	Thomas				###		
 90.800	0.600	Meinhardt			mname	NE		
 92.700	0.400	die				ART		
 93.100	0.300	Feder		object		NN		
@@ -210,7 +210,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 120.300	0.200	auf				APPR		
 120.500	0.200	einer				ART		
 120.700	0.500	Wartebank		furniture		NN		
-121.200	1.300	Sie#landet		#	#	#		
+121.200	1.300	Sie#landet	###			VVFIN		
 122.500	0.200	an				APPR		
 122.700	0.300	einem				PIS		
 123.000	0.200	seiner				PPOSAT		
@@ -222,7 +222,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 126.700	0.200	sie				PPER		
 126.900	0.000	auf				PTKVZ		
 126.900	0.700	und				KON		
-127.600	0.300	betrachtet#e		#	#	#		
+127.600	0.300	betrachtet#Sie	###			PPER		
 127.900	0.300	er				PPER		
 128.200	1.300	ist				VAFIN		
 129.500	0.200	etwa				ADV		
@@ -267,7 +267,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 143.900	0.500	kleinen				ADJA		
 144.400	0.300	Koffer		object		NN		
 144.700	0.300	und				KON		
-145.000	0.500	öffnet#ihn		#	#	#		
+145.000	0.500	öffnet#ihn	###			PPER		
 145.500	1.800	zwischen				APPR		
 147.300	0.200	den				ART		
 147.500	0.400	akkurat				ADJD		
@@ -291,7 +291,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 153.700	0.500	Kinderbuch		object		NN		
 154.200	0.700	Curious				NE		
 154.900	0.200	George			mname	NE		
-156.700	0.700	electiv#e		#	#	#		
+156.700	0.700	electiv#e	###			###		
 157.400	0.200	wieder				ADV		
 157.600	0.400	hinein				ADV		
 158.000	0.500	schließt				VVFIN		
@@ -362,7 +362,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 195.900	0.300	und				KON		
 196.200	0.200	liest				VVFIN		
 196.400	0.200	weiter				PTKVZ		
-196.600	0.900	Forrest		mname		NN		
+196.600	0.900	Forrest		mname		NE		
 197.500	0.300	hält				VVFIN		
 197.800	0.100	ihr				PPER		
 197.900	0.100	die				ART		
@@ -380,7 +380,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 218.100	0.400	Schwester		female		NN		
 218.500	0.200	reagiert				VVFIN		
 218.700	0.500	nicht				PTKNEG		
-220.900	0.500	Forrest		mname		NN		
+220.900	0.500	Forrest		mname		NE		
 221.400	0.500	zeigt				VVFIN		
 221.900	0.100	auf				APPR		
 222.000	0.200	ihre				PPOSAT		
@@ -461,7 +461,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 322.700	0.300	der				ART		
 323.000	0.400	aussieht				VVFIN		
 323.400	0.000	wie				KOKOM		
-323.400	0.200	Forrest		mname		NN		
+323.400	0.200	Forrest		mname		NE		
 347.300	3.400	auf				APPR		
 350.700	0.300	einer				ART		
 351.000	0.100	Straße		setting_new;geo		NN		
@@ -473,7 +473,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 352.400	0.300	bleibt				VVFIN		
 352.700	0.100	der				ART		
 352.800	0.100	kleine				ADJA		
-352.900	0.600	Forrest		mname		NN		
+352.900	0.600	Forrest		mname		NE		
 353.500	0.100	mit				APPR		
 353.600	0.300	einer				ART		
 353.900	0.300	Schiene		object		NN		
@@ -501,7 +501,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 426.500	0.200	stehen				VVINF		
 427.300	6.900	ein				ART		
 434.200	0.200	Büro		setting_new		NN		
-434.400	11.700	Forrest		mname		NN		
+434.400	11.700	Forrest		mname		NE		
 446.100	0.200	sitzt				VVFIN		
 446.300	0.300	neben				APPR		
 446.600	0.100	der				ART		
@@ -509,7 +509,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 447.000	0.100	Tür		roomgeo		NN		
 447.100	0.100	im				APPRART		
 447.200	0.400	Schulflur		locale		NN		
-487.300	25.200	Hancock		mname		NN		
+487.300	25.200	Hancock		mname		NE		
 512.500	0.400	mustert				VVFIN		
 512.900	0.400	sie				PPER		
 513.300	0.400	lüstern				VVINF		
@@ -529,11 +529,11 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 522.000	0.700	im				APPRART		
 522.700	0.500	ersten				ADJA		
 523.200	0.100	Stock		locale		NN		
-523.300	0.300	brennt				ADJD		
+523.300	0.300	brennt				VVFIN		
 523.600	0.300	Licht				NN		
 525.900	2.500	verschwitzt				VVPP		
 528.400	0.200	kommt				VVFIN		
-528.600	0.300	Hancock		mname		NN		
+528.600	0.300	Hancock		mname		NE		
 528.900	0.200	aus				APPR		
 529.100	0.100	dem				ART		
 529.200	0.200	Haus		geo		NN		
@@ -542,7 +542,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 529.700	0.400	Veranda		locale_recur		NN		
 530.100	0.500	dort				ADV		
 530.600	0.200	sitzt				VVFIN		
-530.800	0.400	Forrest		mname		NN		
+530.800	0.400	Forrest		mname		NE		
 531.200	0.600	teilnahmslos				ADJD		
 531.800	0.100	in				APPR		
 531.900	0.300	einem				ART		
@@ -558,17 +558,17 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 539.300	0.200	Hals		head		NN		
 539.500	0.300	und				KON		
 539.800	0.100	sieht				VVFIN		
-539.900	0.500	z#u		#	#	#		
-540.400	0.200	F#orrest		#	#	#		
+539.900	0.500	z#u	###			APPR		
+540.400	0.200	F#orrest	###			NE		
 540.600	0.500	der				PDS		
 541.100	0.400	starrt				VVFIN		
 541.500	0.200	ins				APPRART		
 541.700	0.300	Leere				NN		
-542.000	3.600	Forrest		mname		NN		
+542.000	3.600	Forrest		mname		NE		
 545.600	0.200	schaut				VVFIN		
-545.800	0.400	Hancock		mname		NN		
+545.800	0.400	Hancock		mname		NE		
 546.200	0.200	an				PTKVZ		
-548.000	2.900	Hancock		mname		NN		
+548.000	2.900	Hancock		mname		NE		
 550.900	0.500	marschiert				VVFIN		
 551.400	0.300	davon				PROAV		
 551.700	0.800	die				ART		
@@ -577,29 +577,29 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 552.900	0.100	mit				APPR		
 553.000	0.100	dem				ART		
 553.100	0.300	Buch		object		NN		
-553.400	0.400	Curious				NE		
+553.400	0.400	Curious				###		
 553.800	0.300	George			mname	NE		
 554.100	0.200	auf				APPR		
 554.300	0.200	dem				ART		
 554.500	0.100	Bett		furniture		NN		
 554.600	0.200	von				APPR		
-554.800	0.400	Forrest		mname		NN		
-555.200	23.200	er#blickt		#	#	#		
-578.400	1.000	gedankenverloren				VVFIN		
+554.800	0.400	Forrest		mname		NE		
+555.200	23.200	er#blickt	###			VVFIN		
+578.400	1.000	gedankenverloren				ADJD		
 579.400	0.100	zur				APPRART		
 579.500	0.400	Zimmerdecke		roomgeo		NN		
 582.500	4.500	es				PPER		
 587.000	0.200	ist				VAFIN		
 587.200	0.200	Tag		++		NN		
-587.400	32.700	Misses				NE		
-620.100	0.300	Gump		fname		NN		
+587.400	32.700	Misses				###		
+620.100	0.300	Gump		fname		NE		
 620.400	0.200	geht				VVFIN		
 620.600	0.500	neugierig				ADJD		
 621.100	0.200	zu				APPR		
 621.300	0.200	einer				ART		
 621.500	0.500	geschlossenen				ADJA		
 622.000	0.200	Zimmertür		locale		NN		
-624.000	0.600	Forrest		mname		NN		
+624.000	0.600	Forrest		mname		NE		
 624.600	0.400	schwingt				VVFIN		
 625.000	0.200	mit				APPR		
 625.200	0.500	gebeugten				ADJA		
@@ -611,7 +611,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 627.000	0.100	sich				PRF		
 627.100	0.200	an				APPR		
 627.300	0.200	einem				ART		
-627.500	0.500	Besen#fest		#	#	#		
+627.500	0.500	Besen#fest	###			PTKVZ		
 628.000	0.400	der				ART		
 628.400	0.400	Gitarrist		male		NN		
 628.800	0.100	hat				VAFIN		
@@ -626,16 +626,16 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 680.600	3.400	er				PPER		
 684.000	0.300	tanzt				VVFIN		
 684.300	0.100	wie				KOKOM		
-684.400	0.400	Forrest		mname		NN		
+684.400	0.400	Forrest		mname		NE		
 684.800	0.500	dabei				PROAV		
 685.300	0.400	schwingt				VVFIN		
 685.700	0.100	er				PPER		
-685.800	0.500	lasziv				VVFIN		
+685.800	0.500	lasziv				ADJD		
 686.300	0.200	die				ART		
 686.500	0.400	Hüften		bodypart		NN		
 686.900	3.300	sie				PPER		
 690.200	0.200	geht				VVFIN		
-690.400	0.700	Forrest		mname		NN		
+690.400	0.700	Forrest		mname		NE		
 691.100	0.300	sieht				VVFIN		
 691.400	0.300	weiter				ADV		
 691.700	0.700	fasziniert				ADJD		
@@ -661,15 +661,15 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 724.000	0.500	rauchende				ADJA		
 724.500	0.600	Busfahrerin		female		NN		
 725.100	0.200	sieht				VVFIN		
-725.300	0.400	Forrest		mname		NN		
+725.300	0.400	Forrest		mname		NE		
 725.700	0.100	an				PTKVZ		
-725.800	8.200	Forrest#bleibt		#	#	#		
+725.800	8.200	Forrest#bleibt	###			VVFIN		
 734.000	0.500	unschlüssig				ADJD		
 734.500	0.200	vor				APPR		
 734.700	0.100	der				ART		
 734.800	0.200	Tür		roomgeo		NN		
 735.000	0.300	stehen				VVINF		
-735.300	10.400	Dorothy#schmunzelt#Forrest#steigt		#	#	#		
+735.300	10.400	Dorothy#schmunzelt#Forrest#steigt	###			VVFIN		
 745.700	0.200	etwas				ADV		
 745.900	0.500	mühsam				ADJD		
 746.400	0.100	mit				APPR		
@@ -697,7 +697,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 761.100	0.300	ihm				PPER		
 761.400	0.100	ist				VAFIN		
 761.500	0.300	leer				ADJD		
-761.800	0.900	Forrest		mname		NN		
+761.800	0.900	Forrest		mname		NE		
 762.700	0.200	sieht				VVFIN		
 762.900	0.200	ein				ART		
 763.100	0.200	Mädchen		female		NN		
@@ -728,10 +728,10 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 796.900	0.200	schaut				VVFIN		
 797.100	0.200	ihn				PPER		
 797.300	0.100	an				PTKVZ		
-797.400	11.000	Forrest		male		NN		
-808.400	0.800	setzt#sich		#	#	#		
+797.400	11.000	Forrest		male		NE		
+808.400	0.800	setzt#sich	###			PRF		
 809.200	0.300	und				KON		
-809.500	0.600	senkt#verlegen		#	#	#		
+809.500	0.600	senkt#verlegen	###			ADJD		
 810.100	0.300	den				ART		
 810.400	0.200	Blick				NN		
 810.600	28.700	sie				PPER		
@@ -766,7 +766,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 875.900	10.200	der				ART		
 886.100	0.200	Wartebank		setting_rec;furniture		NN		
 886.300	0.500	blickt				VVFIN		
-886.800	0.400	Forrest		mname		NN		
+886.800	0.400	Forrest		mname		NE		
 887.200	0.400	traurig				ADJD		
 887.600	0.200	vor				APPR		
 887.800	0.100	sich				PRF		
@@ -782,31 +782,31 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 896.300	0.200	Schwester		female		NN		
 896.500	0.500	blickt				VVFIN		
 897.000	0.100	hoch				PTKVZ		
-897.100	3.400	Forrest		mname		NN		
+897.100	3.400	Forrest		mname		NE		
 900.500	0.200	und				KON		
-900.700	0.200	Jenny		fname		NN		
+900.700	0.200	Jenny		fname		NE		
 900.900	0.200	auf				APPR		
 901.100	0.200	einem				ART		
 901.300	0.200	Weg		setting_new;geo		NN		
 901.500	0.500	etwas				PIAT		
-902.000	0.400	trifft#ihn		#	#	#		
+902.000	0.400	trifft#ihn	###			PPER		
 902.400	0.000	am				APPRART		
 902.400	0.200	Kopf		head		NN		
-902.600	1.600	Forrest		mname		NN		
+902.600	1.600	Forrest		mname		NE		
 904.200	0.300	kippt				VVFIN		
 904.500	0.100	um				PTKVZ		
 904.600	17.400	die				ART		
 922.000	0.100	drei		males		CARD		
-922.100	0.400	jagen				ADJA		
+922.100	0.400	jagen				VVFIN		
 922.500	0.100	an				APPR		
-922.600	0.300	Jenny		fname		NN		
+922.600	0.300	Jenny		fname		NE		
 922.900	0.200	vorbei				PTKVZ		
 923.100	3.800	Er				PPER		
 926.900	0.200	stakst				VVFIN		
 927.100	0.400	den				ART		
 927.500	0.100	Weg		geo		NN		
 927.600	0.300	entlang				PTKVZ		
-930.000	1.700	Forrest		mname		NN		
+930.000	1.700	Forrest		mname		NE		
 931.700	0.200	wird				VAFIN		
 931.900	0.300	schneller				ADJD		
 932.200	1.300	Jungs		males		NN		
@@ -821,7 +821,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 937.700	0.200	die				ART		
 937.900	0.300	Schienen		object		NN		
 938.200	0.400	hastet				VVFIN		
-938.600	0.200	Forrest		mname		NN		
+938.600	0.200	Forrest		mname		NE		
 938.800	0.500	weiter				PTKVZ		
 939.300	0.400	in				APPR		
 939.700	0.500	Zeitlupe				NN		
@@ -836,14 +836,14 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 943.200	3.600	die				ART		
 946.800	0.500	Verfolger		males		NN		
 947.300	0.400	treten				VVFIN		
-947.700	0.400	verbissen				VVFIN		
+947.700	0.400	verbissen				ADJD		
 948.100	0.100	in				APPR		
 948.200	0.100	die				ART		
 948.300	0.400	Pedale		object		NN		
 948.700	0.400	gehetzt				VVPP		
 949.100	0.300	sieht				VVFIN		
 949.400	0.200	sich				PRF		
-949.600	0.100	Forrest		mname		NN		
+949.600	0.100	Forrest		mname		NE		
 949.700	0.400	zu				APPR		
 950.100	0.200	ihnen				PPER		
 950.300	0.100	um				PTKVZ		
@@ -857,7 +857,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 953.600	0.400	im				APPRART		
 954.000	0.400	Laufen				NN		
 954.400	0.300	beginnt				VVFIN		
-954.700	0.300	Forrest		mname		NN		
+954.700	0.300	Forrest		mname		NE		
 955.000	0.600	plötzlich				ADJD		
 955.600	0.200	die				ART		
 955.800	0.300	Knie		bodypart		NN		
@@ -879,8 +879,8 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 967.400	0.100	Teile		object		NN		
 967.500	0.800	fallen				VVFIN		
 968.300	0.100	ab				PTKVZ		
-970.000	1.200	Forrest#starrt		#	#	#		
-971.200	0.600	entschlossen				VVFIN		
+970.000	1.200	Forrest#starrt	###			VVFIN		
+971.200	0.600	entschlossen				ADJD		
 971.800	0.100	nach				APPR		
 971.900	0.300	vorn				ADV		
 972.200	0.300	die				ART		
@@ -905,14 +905,14 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 986.200	7.200	die				ART		
 993.400	0.200	drei				CARD		
 993.600	0.300	Jungs		setting_rec;males		NN		
-993.900	0.400	stoppen				VVINF		
+993.900	0.400	stoppen				VVFIN		
 994.300	0.800	verblüfft				VVPP		
 995.100	0.200	sehen				VVFIN		
 995.300	0.100	sie				PPER		
-995.400	0.100	den				ART		
+995.400	0.100	dem				ART		
 995.500	0.400	davon				PROAV		
 995.900	0.600	rasenden				ADJA		
-996.500	0.400	Forrest		mname		NN		
+996.500	0.400	Forrest		mname		NE		
 996.900	0.200	nach				APPR		
 997.100	0.600	der				ART		
 997.700	0.200	eine				ART		
@@ -920,7 +920,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 998.300	0.600	hinter				APPR		
 998.900	0.200	sich				PRF		
 999.100	0.400	herzieht				VVFIN		
-999.500	2.200	Forrest#biegt		#	#	#		
+999.500	2.200	Forrest#biegt	###			VVFIN		
 1001.700	0.300	vom				APPRART		
 1002.000	0.200	Weg		geo		NN		
 1002.200	0.200	ab				PTKVZ		
@@ -953,11 +953,11 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 1015.500	0.500	Grünstreifen		geo		NN		
 1016.000	0.300	am				APPRART		
 1016.300	0.700	Straßenrand		geo		NN		
-1017.000	0.500	bearbeiten				VVINF		
+1017.000	0.500	bearbeiten				VVFIN		
 1017.500	1.100	in				APPR		
-1018.600	0.300	Greenbo#w		#	#	#		
+1018.600	0.300	Greenbo#w	###			NE		
 1018.900	0.500	jagt		male		VVPP		
-1019.400	1.000	er#am#Friseurladen		#	#	#		
+1019.400	1.000	er#am#Friseurladen	###			NN		
 1020.400	0.200	vorbei				PTKVZ		
 1020.600	0.300	und				KON		
 1020.900	0.300	wirbelt				VVFIN		
@@ -972,7 +972,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 1023.300	0.400	glotzen				VVFIN		
 1023.700	0.100	ihm				PPER		
 1023.800	0.200	nach				PTKVZ		
-1024.000	3.500	Forrest		mname		NN		
+1024.000	3.500	Forrest		mname		NE		
 1027.500	0.500	rast				VVFIN		
 1028.000	0.100	auf				APPR		
 1028.100	0.200	ein				ART		
@@ -990,7 +990,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 1054.800	0.200	steht				VVFIN		
 1055.000	11.800	sie				PPER		
 1066.800	0.200	zieht				VVFIN		
-1067.000	0.400	Forrest		mname		NN		
+1067.000	0.400	Forrest		mname		NE		
 1067.400	0.200	ins				APPRART		
 1067.600	0.200	Feld		geo		NN		
 1073.600	0.200	ihr				PPOSAT		
@@ -1007,7 +1007,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 1077.900	0.400	Flachmann		object		NN		
 1078.300	0.500	Jenny		fname		NE		
 1078.800	0.200	zieht				VVFIN		
-1079.000	0.400	Forrest		mname		NN		
+1079.000	0.400	Forrest		mname		NE		
 1079.400	0.100	ein				ART		
 1079.500	0.300	hohes				ADJA		
 1079.800	0.500	Maisfeld		geo		NN		
@@ -1026,7 +1026,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 1133.600	12.700	etwas				ADV		
 1146.300	0.200	trifft				VVFIN		
 1146.500	0.100	ihn				PPER		
-1146.600	3.000	Jenny		fname		NN		
+1146.600	3.000	Jenny		fname		NE		
 1149.600	0.200	als				APPR		
 1149.800	0.300	Teenager		setting_new;female		NN		
 1150.100	5.600	der				ART		
@@ -1044,7 +1044,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 1177.400	0.300	fährt				VVFIN		
 1177.700	0.200	dicht				ADJD		
 1177.900	0.500	hinter				APPR		
-1178.400	0.200	Forrest		mname		NN		
+1178.400	0.200	Forrest		mname		NE		
 1178.600	0.400	der				PDS		
 1179.000	0.300	biegt				VVFIN		
 1179.300	0.300	wieder				ADV		
@@ -1062,7 +1062,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 1192.300	0.300	auf				APPR		
 1192.600	1.000	der				ART		
 1193.600	0.300	Wartebank		setting_rec;furniture		NN		
-1193.900	8.100	Forrest		mname		NN		
+1193.900	8.100	Forrest		mname		NE		
 1202.000	0.300	rennt				VVFIN		
 1202.300	0.100	auf				APPR		
 1202.400	0.200	einer				ART		
@@ -1071,8 +1071,8 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 1203.200	0.300	Pick-up		object		NE		
 1203.500	0.400	folgt				VVFIN		
 1203.900	0.100	ihm				PPER		
-1210.700	1.700	Forrest		mname		NN		
-1212.400	0.200	biegt#ab		#	#	#		
+1210.700	1.700	Forrest		mname		NE		
+1212.400	0.200	biegt#ab	###			PTKVZ		
 1212.600	0.600	und				KON		
 1213.200	0.300	rast				VVFIN		
 1213.500	0.000	auf				APPR		
@@ -1092,11 +1092,11 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 1219.200	0.200	Couch		male		NN		
 1219.400	0.300	sieht				VVFIN		
 1219.700	0.200	zu				PTKVZ		
-1221.200	1.700	Forrest		mname		NN		
+1221.200	1.700	Forrest		mname		NE		
 1222.900	0.400	überholt				VVFIN		
-1223.300	0.400	den#Fänger		#	#	#		
+1223.300	0.400	den#Fänger	###			NN		
 1223.700	0.200	der				PDS		
-1223.900	0.400	guckt				ADJD		
+1223.900	0.400	guckt				VVFIN		
 1224.300	0.100	baff				ADJD		
 1224.400	0.500	und				KON		
 1224.900	0.100	wird				VAFIN		
@@ -1104,18 +1104,18 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 1225.100	0.300	Gegner		person		NN		
 1225.400	0.300	umgerannt				VVPP		
 1225.700	0.200	der				ART		
-1225.900	1.500	Coach		male		NE		
+1225.900	1.500	Coach		male		NN		
 1227.400	0.200	und				KON		
 1227.600	0.100	seine				PPOSAT		
 1227.700	0.500	Assistenten		males		NN		
-1228.200	0.400	glotzen				ADJA		
-1228.600	0.400	Forrest		mname		NN		
+1228.200	0.400	glotzen				VVFIN		
+1228.600	0.400	Forrest		mname		NE		
 1229.000	0.200	nach				PTKVZ		
 1229.200	13.200	in				APPR		
 1242.400	0.200	einem				ART		
 1242.600	0.300	vollen				ADJA		
 1242.900	0.600	Football-Stadion		setting_new		NN		
-1243.500	0.800	Forrest		mname		NN		
+1243.500	0.800	Forrest		mname		NE		
 1244.300	0.200	als				APPR		
 1244.500	0.300	Spieler		male		NN		
 1244.800	0.400	träumt				VVFIN		
@@ -1130,13 +1130,13 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 1246.900	0.200	Ball		object		NN		
 1247.100	0.200	zu				APPR		
 1247.300	7.100	ihm				PPER		
-1254.400	0.300	Forrest		mname		NN		
+1254.400	0.300	Forrest		mname		NE		
 1254.700	0.100	hängt				VVFIN		
 1254.800	0.600	mehrere				PIAT		
 1255.400	0.300	Gegner		males		NN		
 1257.200	4.000	in				APPR		
 1261.200	0.200	einem				ART		
-1261.400	0.900	Bühnenbloc#k		#	#	#		
+1261.400	0.900	Bühnenbloc#k	###			NN		
 1262.300	0.100	formen				VVFIN		
 1262.400	0.100	die				ART		
 1262.500	0.400	Zuschauer		persons		NN		
@@ -1144,7 +1144,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 1263.200	0.300	roten				ADJA		
 1263.500	0.400	Tafeln		object		NN		
 1263.900	0.100	die				ART		
-1264.000	0.600	Worte#Go		#	#	#		
+1264.000	0.600	Worte#Go	###			###		
 1264.600	0.800	Alabama				NE		
 1265.400	0.300	der				ART		
 1265.700	0.200	Coach		male		NN		
@@ -1157,21 +1157,21 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 1270.500	0.200	einem				ART		
 1270.700	0.200	Mitspieler		male		NN		
 1270.900	0.600	zusammen				PTKVZ		
-1271.500	0.800	Forrest		mname		NN		
+1271.500	0.800	Forrest		mname		NE		
 1272.300	0.200	rennt				VVFIN		
 1272.500	0.100	zur				APPRART		
 1272.600	0.500	Seitenlinie		roomgeo		NN		
-1273.100	1.300	Er#biegt		#	#	#		
-1274.400	0.400	Richtung				NN		
+1273.100	1.300	Er#biegt	###			VVFIN		
+1274.400	0.400	Richtung						
 1274.800	0.600	Touchdown-Linie		roomgeo		NN		
 1275.400	0.300	ab				PTKVZ		
 1275.700	0.400	Zwei				CARD		
 1276.100	0.300	Gegner		male		NN		
-1276.400	0.300	hech#t		#	#	#		
-1276.700	0.200	n#ebe#n		#	#	#		
+1276.400	0.300	hech#t	###			###		
+1276.700	0.200	n#ebe#n	###			###		
 1276.900	0.400	vergeblich				ADJD		
 1277.300	0.100	nach				PTKVZ		
-1277.400	1.700	Forrest		mname		NN		
+1277.400	1.700	Forrest		mname		NE		
 1279.100	0.400	durchquert				VVFIN		
 1279.500	0.100	die				ART		
 1279.600	0.600	Touchdown-Zone		roomgeo		NN		
@@ -1215,12 +1215,12 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 1301.000	0.300	das				ART		
 1301.300	0.300	etwas				PIS		
 1301.600	0.500	entfernt				ADJD		
-1302.100	0.400	parkt				VVPP		
+1302.100	0.400	parkt				VVFIN		
 1302.500	0.600	darin				PROAV		
 1303.100	0.200	sitzen				VVFIN		
 1303.300	0.400	zwei				CARD		
 1303.700	0.500	Personen		persons		NN		
-1304.200	0.900	Forrest#sieht		#	#	#		
+1304.200	0.900	Forrest#sieht	###			VVFIN		
 1305.100	0.700	aufmerksam				ADJD		
 1305.800	0.200	hin				PTKVZ		
 1309.400	2.700	die				ART		
@@ -1229,7 +1229,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 1312.500	0.300	Auto		object		NN		
 1312.800	0.600	umarmen				VVFIN		
 1313.400	0.200	sich				PRF		
-1313.600	0.700	Forrest		mname		NN		
+1313.600	0.700	Forrest		mname		NE		
 1314.300	0.400	steht				VVFIN		
 1314.700	0.100	auf				PTKVZ		
 1314.800	0.500	die				ART		
@@ -1253,7 +1253,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 1319.500	0.200	ab				PTKVZ		
 1319.700	4.300	entschlossen				ADJD		
 1324.000	0.300	rennt				VVFIN		
-1324.300	0.400	Forrest		mname		NN		
+1324.300	0.400	Forrest		mname		NE		
 1324.700	0.100	hin				ADV		
 1327.900	0.500	sieht				VVFIN		
 1328.400	0.200	durch				APPR		
@@ -1313,9 +1313,9 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 1387.100	0.100	um				APPR		
 1387.200	0.200	eine				ART		
 1387.400	0.100	Ecke		roomgeo		NN		
-1387.500	0.500	sie#schleicht		#	#	#		
+1387.500	0.500	sie#schleicht	###			VVFIN		
 1388.000	0.200	mit				APPR		
-1388.200	0.400	Forrest		mname		NN		
+1388.200	0.400	Forrest		mname		NE		
 1388.600	0.100	zu				APPR		
 1388.700	0.200	einem				ART		
 1388.900	0.300	Zimmer		roomgeo		NN		
@@ -1323,7 +1323,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 1389.300	0.300	schließt				VVFIN		
 1389.600	0.100	auf				PTKVZ		
 1389.700	2.500	später		++		ADJD		
-1392.200	0.600	Jenny		fname		NN		
+1392.200	0.600	Jenny		fname		NE		
 1392.800	0.100	im				APPRART		
 1392.900	0.400	Unterkleid		body		NN		
 1393.300	0.400	nimmt				VVFIN		
@@ -1337,7 +1337,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 1397.800	0.200	ihn				PPER		
 1398.000	0.100	um				APPR		
 1398.100	0.300	seine				PPOSAT		
-1398.400	0.300	nackte				ADJA		
+1398.400	0.300	nackten				ADJA		
 1398.700	0.300	Beine		bodypart		NN		
 1399.000	1.800	auch				ADV		
 1400.800	0.200	sein				PPOSAT		
@@ -1354,17 +1354,17 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 1427.500	0.500	Unterkleid		body		NN		
 1428.000	0.200	aus				PTKVZ		
 1428.200	3.300	in				APPR		
-1431.500	0.300	BH		body		NE		
+1431.500	0.300	BH		body		NN		
 1431.800	0.000	und				KON		
-1431.800	0.700	Unterhose		body		NE		
-1432.500	0.400	setzt#sie		#	#	#		
+1431.800	0.700	Unterhose		body		NN		
+1432.500	0.400	setzt#sie	###			PPER		
 1432.900	0.100	sich				PRF		
 1433.000	0.200	neben				APPR		
-1433.200	0.500	Forrest#aufs		#	#	#		
+1433.200	0.500	Forrest#aufs	###			APPR		
 1433.700	0.300	Bett		furniture		NN		
-1434.000	3.800	schüchtern				VVFIN		
+1434.000	3.800	schüchtern				ADJD		
 1437.800	0.300	sieht				VVFIN		
-1438.100	0.400	Forrest		mname		NN		
+1438.100	0.400	Forrest		mname		NE		
 1438.500	0.100	auf				APPR		
 1438.600	0.200	ihren				PPOSAT		
 1438.800	0.200	Busen		body		NN		
@@ -1416,8 +1416,8 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 1467.200	0.300	auf				APPR		
 1467.500	0.100	die				ART		
 1467.600	0.200	Brust		body		NN		
-1471.800	0.800	Forrest		mname		NN		
-1472.600	0.300	linst				ADJD		
+1471.800	0.800	Forrest		mname		NE		
+1472.600	0.300	linst				VVFIN		
 1472.900	0.200	aus				APPR		
 1473.100	0.100	den				ART		
 1473.200	0.400	Augenwinkeln		face		NN		
@@ -1427,14 +1427,14 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 1475.800	0.100	zusammen				PTKVZ		
 1475.900	13.700	er				PPER		
 1489.600	0.000	schaut				VVFIN		
-1489.600	0.700	aufgewühlt				VVFIN		
+1489.600	0.700	aufgewühlt				ADJD		
 1490.300	0.300	vor				APPR		
 1490.600	0.100	sich				PRF		
 1490.700	0.200	hin				ADV		
 1490.900	1.700	Jenny		fname		NE		
 1492.600	0.200	zieht				VVFIN		
 1492.800	0.100	den				ART		
-1492.900	0.300	BH		object		NE		
+1492.900	0.300	BH		object		NN		
 1493.200	0.200	wieder				ADV		
 1493.400	0.100	an				PTKVZ		
 1493.500	5.700	sie				PPER		
@@ -1495,23 +1495,23 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 1535.700	0.400	Kapelle				NN		
 1536.100	0.300	stellt				VVFIN		
 1536.400	0.100	sich				PRF		
-1536.500	0.200	Forrest		mname		NN		
+1536.500	0.200	Forrest		mname		NE		
 1536.700	0.300	in				APPR		
 1537.000	0.100	den				ART		
 1537.100	0.200	Weg				NN		
 1537.300	0.400	er				PPER		
 1537.700	0.300	bleibt				VVFIN		
-1538.000	0.300	stehen				VVFIN		
+1538.000	0.300	stehen				PTKVZ		
 1538.300	0.400	die				ART		
 1538.700	0.300	Gegner		persons		NN		
 1539.000	0.500	stürzen				VVFIN		
 1539.500	0.500	übereinander				PTKVZ		
-1540.000	15.700	Forrest		mname		NN		
+1540.000	15.700	Forrest		mname		NE		
 1555.700	0.300	vor				APPR		
 1556.000	0.200	einem				ART		
 1556.200	0.100	Buffet		setting_new		NN		
-1556.300	11.300	ein#Kellner		#	#	#		
-1567.600	0.400	öffnet#ihm		#	#	#		
+1556.300	11.300	ein#Kellner	###			NN		
+1567.600	0.400	öffnet#ihm	###			PPER		
 1568.000	0.100	eine				ART		
 1568.100	0.400	Cola		object		NN		
 1568.500	11.300	Kennedy		setting_new;mname		NE		
@@ -1521,7 +1521,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 1584.900	0.200	der				ART		
 1585.100	0.600	Spielerschlange		person		NN		
 1585.700	0.300	trippelt				VVFIN		
-1586.000	0.400	Forrest		mname		NN		
+1586.000	0.400	Forrest		mname		NE		
 1586.400	0.500	unruhig				ADJD		
 1586.900	0.100	hin				ADV		
 1587.000	0.100	und				KON		
@@ -1532,7 +1532,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 1587.800	0.200	den				ART		
 1588.000	0.200	Bauch		body		NN		
 1591.700	0.600	zu				APPR		
-1592.300	0.300	Forrest		mname		NN		
+1592.300	0.300	Forrest		mname		NE		
 1592.600	7.900	in				APPR		
 1600.500	0.100	der				ART		
 1600.600	0.900	Präsidenten-Toilette		setting_new		NN		
@@ -1547,7 +1547,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 1604.500	0.400	neben				APPR		
 1604.900	0.100	dem				ART		
 1605.000	0.200	Klo		furniture		NN		
-1605.200	1.000	Forrest		mname		NN		
+1605.200	1.000	Forrest		mname		NE		
 1606.200	0.200	schließt				VVFIN		
 1606.400	0.300	seine				PPOSAT		
 1606.700	0.300	Hose		body		NN		
@@ -1600,7 +1600,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 1675.000	0.100	sich				PRF		
 1675.100	1.600	eingeschüchtert				ADJD		
 1676.700	0.300	geht				VVFIN		
-1677.000	0.300	Forrest		mname		NN		
+1677.000	0.300	Forrest		mname		NE		
 1677.300	0.400	weiter				PTKVZ		
 1677.700	8.300	Er				PPER		
 1686.000	0.100	sieht				VVFIN		
@@ -1613,7 +1613,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 1687.800	0.500	Der				PDS		
 1688.300	0.200	nimmt				VVFIN		
 1688.500	0.200	einen				ART		
-1688.800	0.400	Koffer#vom		#	#	#		
+1688.800	0.400	Koffer#vom	###			APPR		
 1689.200	0.300	Sitz		object		NN		
 1689.500	8.300	er				PPER		
 1697.800	0.100	gibt				VVFIN		
@@ -1644,8 +1644,8 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 1776.800	0.100	sind				VAFIN		
 1776.900	0.200	in				APPR		
 1777.100	0.500	Unterwäsche		body		NN		
-1777.600	18.100	jeder#setzt		#	#	#		
-1795.700	0.200	sei#n		#	#	#		
+1777.600	18.100	jeder#setzt	###			VVFIN		
+1795.700	0.200	sei#n	###			###		
 1795.900	0.200	Gewehr		object		NN		
 1796.100	0.400	zusammen				PTKVZ		
 1831.600	15.900	Sie				PPER		
@@ -1665,7 +1665,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 1872.500	0.200	wach				ADJD		
 1872.700	0.000	im				APPRART		
 1872.700	0.200	Bett		furniture		NN		
-1872.900	10.800	Forrest		mname		NN		
+1872.900	10.800	Forrest		mname		NE		
 1883.700	0.400	liegt				VVFIN		
 1884.100	0.300	oben				ADV		
 1884.400	0.100	im				APPRART		
@@ -1677,7 +1677,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 1886.100	0.200	einem				ART		
 1886.300	0.200	Playboy		object		NN		
 1886.500	0.400	zu				PTKVZ		
-1891.600	1.300	Forrest#schaut		#	#	#		
+1891.600	1.300	Forrest#schaut	###			VVFIN		
 1892.900	0.300	in				APPR		
 1893.200	0.000	die				ART		
 1893.200	0.400	Zeitschrift		object		NN		
@@ -1696,11 +1696,11 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 1899.800	0.600	College-Jacke		body		NN		
 1900.400	1.600	ungläubig				ADJD		
 1902.000	0.400	starrt				VVFIN		
-1902.400	0.500	Forrest		mname		NN		
+1902.400	0.500	Forrest		mname		NE		
 1902.900	0.200	auf				APPR		
 1903.100	0.100	das				ART		
 1903.200	0.300	Foto		object		NN		
-1903.500	10.000	Bab#y		#	#	#		
+1903.500	10.000	Bab#y	###			###		
 1913.500	1.000	Er				PPER		
 1914.500	1.200	kommt				VVFIN		
 1915.700	0.100	in				APPR		
@@ -1751,18 +1751,18 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 1998.200	0.200	tritt				VVFIN		
 1998.400	0.200	seine				PPOSAT		
 1998.600	0.200	Hand		bodypart		NN		
-1998.800	2.900	weg#er#schüttet		#	#	#		
+1998.800	2.900	weg#er#schüttet	###			VVFIN		
 2001.700	0.200	sein				PPOSAT		
 2001.900	0.200	Bier		object		NN		
 2002.100	0.300	über				APPR		
 2002.400	0.200	ihre				PPOSAT		
 2002.600	0.300	Füße		bodypart		NN		
-2002.900	6.100	Forrest		mname		NN		
+2002.900	6.100	Forrest		mname		NE		
 2009.000	0.400	marschiert				VVFIN		
 2009.400	0.100	mit				APPR		
 2009.500	0.500	grimmiger				ADJA		
 2010.000	0.100	Miene		face		NN		
-2010.100	0.600	nach#vorn		#	#	#		
+2010.100	0.600	nach#vorn	###			APPR		
 2011.500	0.300	Er				PPER		
 2011.800	0.200	packt				VVFIN		
 2012.000	0.200	den				ART		
@@ -1775,7 +1775,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 2013.400	0.100	zu				APPR		
 2013.500	0.200	Boden				NN		
 2013.700	2.100	er				PPER		
-2015.800	0.300	schubst				ADV		
+2015.800	0.300	schubst				VVFIN		
 2016.100	0.100	noch				ADV		
 2016.200	0.300	einen				PIS		
 2016.500	0.100	um				PTKVZ		
@@ -1804,7 +1804,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 2027.400	0.100	von				APPR		
 2027.500	0.100	der				ART		
 2027.600	0.300	Bühne		roomgeo		NN		
-2027.900	0.600	Forrest		mname		NN		
+2027.900	0.600	Forrest		mname		NE		
 2028.500	0.300	hetzt				VVFIN		
 2028.800	0.100	ihr				PPER		
 2028.900	0.200	nach				PTKVZ		
@@ -1815,9 +1815,9 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 2030.400	20.300	Jenny		fname		NE		
 2050.700	0.400	schaut				VVFIN		
 2051.100	0.300	nachdenklich				ADJD		
-2051.400	0.500	aus				APPR		
+2051.400	0.500	aufs				APPR		
 2051.900	0.300	Wasser		geo		NN		
-2053.200	0.700	Forrest		mname		NN		
+2053.200	0.700	Forrest		mname		NE		
 2053.900	0.100	betrachtet				VVFIN		
 2054.000	0.400	sie				PPER		
 2054.400	19.600	Sie				PPER		
@@ -1830,7 +1830,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 2076.000	0.400	Geländers		furniture		NN		
 2076.400	1.200	beunruhigt				ADJD		
 2077.600	0.100	sieht				VVFIN		
-2077.700	0.400	Forrest		mname		NN		
+2077.700	0.400	Forrest		mname		NE		
 2078.100	0.100	sie				PPER		
 2078.200	0.200	von				APPR		
 2078.400	0.300	unten				ADV		
@@ -1886,7 +1886,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 2156.200	3.500	er				PPER		
 2159.700	0.100	schaut				VVFIN		
 2159.800	0.200	zu				APPR		
-2160.000	0.300	Forrest		mname		NN		
+2160.000	0.300	Forrest		mname		NE		
 2160.300	0.100	und				KON		
 2160.400	0.300	Bubba		fname		NE		
 2160.700	0.400	neben				APPR		
@@ -1895,7 +1895,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 2161.500	0.400	beiden				PIAT		
 2161.900	0.300	weichen				VVFIN		
 2162.200	0.200	seinem				PPOSAT		
-2162.400	0.200	Blick		###		NN		
+2162.400	0.200	Blick				NN		
 2162.600	0.700	eingeschüchtert				VVPP		
 2163.300	0.100	aus				PTKVZ		
 2163.400	7.100	der				ART		
@@ -1914,7 +1914,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 2175.100	0.100	ihn				PPER		
 2175.200	0.700	Bubba		mname		NE		
 2175.900	0.100	und				KON		
-2176.000	0.400	Forrest		mname		NN		
+2176.000	0.400	Forrest		mname		NE		
 2176.400	0.300	springen				VVFIN		
 2176.700	0.200	mit				APPR		
 2176.900	0.300	ihren				PPOSAT		
@@ -1923,7 +1923,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 2178.000	20.800	an				APPR		
 2198.800	0.200	einem				ART		
 2199.000	0.200	Fluss		geo		NN		
-2199.200	0.500	grillen				ADJA		
+2199.200	0.500	grillen				VVFIN		
 2199.700	0.500	Soldaten		male		NN		
 2200.200	0.200	zwischen				APPR		
 2200.400	0.400	Palmen		geo		NN		
@@ -1931,7 +1931,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 2201.100	0.300	trinken				VVFIN		
 2201.400	0.100	Bier		object		NN		
 2201.500	0.800	einige				PIAT		
-2202.300	0.200	spielen				ADJA		
+2202.300	0.200	spielen				VVFIN		
 2202.500	0.400	Karten		object		NN		
 2202.900	0.400	im				APPRART		
 2203.300	0.600	Hintergrund				NN		
@@ -1941,7 +1941,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 2204.800	0.300	den				ART		
 2205.100	0.200	Fluss		geo		NN		
 2205.300	0.400	entlang				PTKVZ		
-2205.700	0.800	Forrest		mname		NN		
+2205.700	0.800	Forrest		mname		NE		
 2206.500	0.100	und				KON		
 2206.600	0.000	Bubba		mname		NE		
 2206.600	0.500	gehen				VVFIN		
@@ -1958,19 +1958,19 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 2225.800	24.000	Bubba		male		NE		
 2249.800	0.200	zieht				VVFIN		
 2250.000	0.100	die				ART		
-2250.100	0.400	Unterlippe		face		NE		
+2250.100	0.400	Unterlippe		face		NN		
 2250.500	0.200	ein				PTKVZ		
-2250.700	6.400	Forrest		mname		NN		
+2250.700	6.400	Forrest		mname		NE		
 2257.100	0.200	und				KON		
 2257.300	0.200	Bubba		mname		NE		
 2257.500	0.400	mustern				VVFIN		
 2257.900	0.200	sich				PRF		
 2258.100	0.300	und				KON		
-2258.400	0.100	schüttelt				VVFIN		
+2258.400	0.100	schütteln				VVFIN		
 2258.500	0.300	den				ART		
 2258.800	0.100	Kopf		head		NN		
 2258.900	7.400	sie				PPER		
-2266.300	0.500	folgen#Dan		#	#	#		
+2266.300	0.500	folgen#Dan	###			NE		
 2270.200	40.800	Soldaten		male		NN		
 2311.000	0.200	die				ART		
 2311.200	0.200	genau				ADJD		
@@ -1997,7 +1997,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 2356.300	4.900	auf				APPR		
 2361.200	0.200	Patrouille				NN		
 2361.400	0.400	gehen				VVFIN		
-2361.800	0.500	Forrest		mname		NN		
+2361.800	0.500	Forrest		mname		NE		
 2362.300	0.100	und				KON		
 2362.400	0.100	Bubba		mname		NE		
 2362.500	0.300	mit				APPR		
@@ -2027,7 +2027,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 2376.100	0.100	eine				ART		
 2376.200	0.300	Sandpiste		geo		NN		
 2376.500	0.600	entlang				PTKVZ		
-2377.100	11.200	Forrest#Gesicht		#	#	#		
+2377.100	11.200	Forrest#Gesicht	###			NN		
 2388.300	0.400	ist				VAFIN		
 2388.700	0.400	schmutzig				ADJD		
 2389.100	0.200	unter				APPR		
@@ -2047,7 +2047,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 2393.800	0.100	die				ART		
 2393.900	0.100	Faust		bodypart		NN		
 2394.000	2.700	der				ART		
-2396.700	0.200	Trupp		males		NE		
+2396.700	0.200	Trupp		males		NN		
 2396.900	0.200	hockt				VVFIN		
 2397.100	0.200	sich				PRF		
 2397.300	0.300	links				ADV		
@@ -2098,7 +2098,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 2430.000	0.200	ein				ART		
 2430.200	10.600	Soldat		male		NN		
 2440.800	0.100	mit				APPR		
-2440.900	0.400	Hornbrille		object		NE		
+2440.900	0.400	Hornbrille		object		NN		
 2441.300	3.100	ein				ART		
 2444.400	0.500	Schwarzer		male		NN		
 2444.900	10.600	vorne				ADV		
@@ -2108,7 +2108,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 2456.300	0.300	wieder				ADV		
 2456.600	0.100	auf				PTKVZ		
 2456.700	21.900	hinter				APPR		
-2478.600	0.300	Da#n		#	#	#		
+2478.600	0.300	Da#n	###			NE		
 2479.000	0.600	fliegt				VVFIN		
 2479.600	0.300	Erde				NN		
 2479.900	0.200	hoch		setting_new		PTKVZ		
@@ -2120,7 +2120,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 2489.200	0.100	Wasser		geo		NN		
 2489.300	0.600	wartet				VVFIN		
 2489.900	0.300	der				ART		
-2490.200	0.100	Trupp		males		NE		
+2490.200	0.100	Trupp		males		NN		
 2490.300	0.200	durch				APPR		
 2490.500	0.200	ein				ART		
 2490.700	0.400	Reisfeld		setting_new;geo		NN		
@@ -2162,23 +2162,23 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 2645.400	0.400	Kamerad		male		NN		
 2645.800	0.200	wird				VAFIN		
 2646.000	0.300	getroffen				VVPP		
-2646.300	0.600	Forrest		mname		NN		
+2646.300	0.600	Forrest		mname		NE		
 2646.900	0.300	wirft				VVFIN		
 2647.200	0.100	sich				PRF		
 2647.300	0.100	hin				PTKVZ		
 2647.400	2.000	leuchtende				ADJA		
 2649.400	0.500	Munition		object		NN		
-2649.900	0.200	saust				ADJD		
+2649.900	0.200	saust				VVFIN		
 2650.100	0.200	durch				APPR		
 2650.300	0.100	die				ART		
 2650.400	0.300	Luft				NN		
 2650.700	4.200	überall				ADV		
-2654.900	0.600	spritzt#Erde#hoch		#	#	#		
-2655.500	0.900	Forrest#robbt		#	#	#		
+2654.900	0.600	spritzt#Erde#hoch	###			PTKVZ		
+2655.500	0.900	Forrest#robbt	###			VVFIN		
 2656.400	0.500	hinter				APPR		
 2656.900	0.100	eine				ART		
 2657.000	0.400	Wegböschung		geo		NN		
-2657.400	5.600	Neben#Forrest		#	#	#		
+2657.400	5.600	Neben#Forrest	###			NE		
 2663.000	0.400	liegt				VVFIN		
 2663.400	0.100	Dan		mname		NE		
 2663.500	0.200	und				KON		
@@ -2187,15 +2187,15 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 2664.000	0.200	Hörer		object		NN		
 2664.200	0.200	eines				ART		
 2664.400	0.500	Funktelefon		object		NN		
-2664.900	6.400	Forrest#schießt		#	#	#		
+2664.900	6.400	Forrest#schießt	###			VVFIN		
 2691.200	1.200	ein				ART		
 2692.400	0.400	Feuerball				NN		
 2692.800	0.300	fegt				VVFIN		
 2693.100	0.200	die				ART		
 2693.300	0.400	MG-Schützen		persons		NN		
 2693.700	0.400	weg				PTKVZ		
-2694.100	12.300	Forrest#schaut		#	#	#		
-2706.400	0.600	verstört				VVFIN		
+2694.100	12.300	Forrest#schaut	###			VVFIN		
+2706.400	0.600	verstört				ADJD		
 2707.000	0.200	zwischen				APPR		
 2707.200	0.300	Dan		mname		NE		
 2707.500	0.000	und				KON		
@@ -2205,9 +2205,9 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 2708.200	0.100	her				ADV		
 2708.300	2.900	Dan		mname		NE		
 2711.200	0.100	zerrt				VVFIN		
-2711.300	0.400	Forrest		mname		NN		
+2711.300	0.400	Forrest		mname		NE		
 2711.700	0.200	hoch				PTKVZ		
-2711.900	5.400	Forrest				NN		
+2711.900	5.400	Forrest		mname		NE		
 2717.300	0.200	rennt				VVFIN		
 2717.500	0.400	los				PTKVZ		
 2717.900	0.600	überall				ADV		
@@ -2219,10 +2219,10 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 2720.200	0.100	hoch				PTKVZ		
 2720.300	3.500	ein				ART		
 2723.800	0.400	Soldat		male		NN		
-2724.200	0.600	hinter#Forrest		#	#	#		
+2724.200	0.600	hinter#Forrest	###			NE		
 2724.800	0.200	wird				VAFIN		
 2725.000	0.400	weggerissen				VVPP		
-2725.400	8.600	Forrest		mname		NN		
+2725.400	8.600	Forrest		mname		NE		
 2734.000	0.400	überholt				VVFIN		
 2734.400	0.300	Bubba		mname		NE		
 2734.700	0.300	ohne				APPR		
@@ -2237,7 +2237,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 2755.500	0.300	und				KON		
 2755.800	0.200	rennt				VVFIN		
 2756.000	0.200	zurück				PTKVZ		
-2756.200	5.700	Forrest		mname		NN		
+2756.200	5.700	Forrest		mname		NE		
 2761.900	0.400	läuft				VVFIN		
 2762.300	0.100	durch				APPR		
 2762.400	0.100	den				ART		
@@ -2245,17 +2245,17 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 2762.900	0.300	Dschungel		locale_recur		NN		
 2763.200	9.900	neben				APPR		
 2773.100	0.200	ihm				PPER		
-2773.300	0.400	hebt#sic#h		#	#	#		
+2773.300	0.400	hebt#sic#h	###			PRF		
 2773.700	0.200	eine				ART		
 2773.900	0.200	Hand		bodypart		NN		
-2774.100	6.800	Forrest		mname		NN		
+2774.100	6.800	Forrest		mname		NE		
 2780.900	0.300	legt				VVFIN		
 2781.200	0.100	sich				PRF		
 2781.300	0.300	Tex		mname		NE		
 2781.600	0.200	über				APPR		
 2781.800	0.100	die				ART		
 2781.900	0.300	Schultern		body		NN		
-2782.200	9.300	Tex#ist		#	#	#		
+2782.200	9.300	Tex#ist	###			VAFIN		
 2791.500	0.300	an				APPR		
 2791.800	0.100	der				ART		
 2791.900	0.300	Schulter		body		NN		
@@ -2264,8 +2264,8 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 2793.000	0.300	Hemd		object		NN		
 2793.300	0.100	ist				VAFIN		
 2793.400	0.700	blut-durchtränkt				VVPP		
-2794.100	4.800	Forrest		mname		NN		
-2798.900	0.700	kommt#mit#Tex		#	#	#		
+2794.100	4.800	Forrest		mname		NE		
+2798.900	0.700	kommt#mit#Tex	###			NE		
 2799.600	0.100	zu				APPR		
 2799.700	0.200	einer				ART		
 2799.900	0.300	Lichtung		locale		NN		
@@ -2289,13 +2289,13 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 2816.700	0.300	und				KON		
 2817.000	0.300	rennt				VVFIN		
 2817.300	0.200	zurück				PTKVZ		
-2817.500	0.600	er#findet		#	#	#		
+2817.500	0.600	er#findet	###			VVFIN		
 2818.100	0.300	Dallas		mname		NE		
-2818.400	3.200	Forrest		mname		NN		
+2818.400	3.200	Forrest		mname		NE		
 2821.600	0.300	legt				VVFIN		
 2821.900	0.200	auch				ADV		
 2822.100	0.200	ihn				PPER		
-2822.300	0.400	ans#Ufer		#	#	#		
+2822.300	0.400	ans#Ufer	###			NN		
 2822.700	10.800	er				PPER		
 2833.500	0.400	stolpert				VVFIN		
 2833.900	0.100	und				KON		
@@ -2304,13 +2304,13 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 2834.400	0.400	Dans		mname		NE		
 2834.800	0.500	blutige				ADJA		
 2835.300	0.100	Beine		bodypart		NN		
-2835.400	12.400	Forrest		mname		NN		
+2835.400	12.400	Forrest		mname		NE		
 2847.800	0.700	schneidet				VVFIN		
 2848.500	0.100	ihm				PPER		
 2848.600	0.100	den				ART		
 2848.700	0.300	Rucksack		object		NN		
 2849.000	0.200	ab				PTKVZ		
-2849.200	6.900	Forrest		mname		NN		
+2849.200	6.900	Forrest		mname		NE		
 2856.100	0.300	wuchtet				VVFIN		
 2856.400	0.200	Dan		mname		NE		
 2856.600	0.100	auf				APPR		
@@ -2323,9 +2323,9 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 2869.700	0.200	Baum		geo		NN		
 2869.900	0.200	hinter				APPR		
 2870.100	0.200	ihm				PPER		
-2870.300	0.500	explodiert				VVPP		
-2871.100	1.800	Forrest		mname		NN		
-2872.900	0.400	schleift#Dan		#	#	#		
+2870.300	0.500	explodiert				VVFIN		
+2871.100	1.800	Forrest		mname		NE		
+2872.900	0.400	schleift#Dan	###			NE		
 2873.300	0.200	an				APPR		
 2873.500	0.200	einem				ART		
 2873.700	0.200	Arm		bodypart		NN		
@@ -2341,7 +2341,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 2876.200	0.200	in				APPR		
 2876.400	0.200	den				ART		
 2876.600	0.300	Dschungel		geo		NN		
-2884.000	13.000	Forrest		mname		NN		
+2884.000	13.000	Forrest		mname		NE		
 2897.000	0.200	legt				VVFIN		
 2897.200	0.100	auch				ADV		
 2897.300	0.200	ihn				PPER		
@@ -2366,7 +2366,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 2919.100	0.100	durch				APPR		
 2919.200	0.100	den				ART		
 2919.300	0.200	Dschungel		locale_recur		NN		
-2919.500	5.400	Forrest#stoppt		#	#	#		
+2919.500	5.400	Forrest#stoppt	###			VVFIN		
 2924.900	0.400	und				KON		
 2925.300	0.200	sieht				VVFIN		
 2925.500	0.000	sich				PRF		
@@ -2381,14 +2381,14 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 2931.100	0.100	Bubba		mname		NE		
 2931.200	0.300	am				APPRART		
 2931.500	0.300	Boden				NN		
-2931.800	0.500	Rauch		###		ADV		
+2931.800	0.500	Rauch		###		NN		
 2932.300	0.300	liegt				VVFIN		
 2932.600	0.100	in				APPR		
 2932.700	0.200	der				ART		
 2932.900	0.000	Luft		###		NN		
 2932.900	8.500	geschockt				ADJD		
 2941.400	0.400	zieht				VVFIN		
-2941.800	0.400	Forrest		mname		NN		
+2941.800	0.400	Forrest		mname		NE		
 2942.200	0.200	einen				ART		
 2942.400	0.300	blutigen				ADJA		
 2942.700	0.700	Palmwedel		object		NN		
@@ -2398,7 +2398,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 2944.100	0.500	Bauchwunde		object		NN		
 2944.600	8.700	etwas				ADV		
 2953.300	0.500	entfernt				ADJD		
-2953.800	0.300	huschen				ADJA		
+2953.800	0.300	huschen				VVFIN		
 2954.100	0.400	Gestalten		persons		NN		
 2954.500	0.300	vorbei				PTKVZ		
 2954.800	2.400	schaut				VVFIN		
@@ -2414,10 +2414,10 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 2966.200	0.200	durch				APPR		
 2966.400	0.100	den				ART		
 2966.500	0.100	Dschungel		geo		NN		
-2966.600	9.700	Beim#La		#	#	#		
-2976.300	0.300	ufe#n		#	#	#		
+2966.600	9.700	Beim#La	###			###		
+2976.300	0.300	ufe#n	###			###		
 2976.600	0.200	sieht				VVFIN		
-2976.800	0.300	Forrest		mname		NN		
+2976.800	0.300	Forrest		mname		NE		
 2977.100	0.600	panisch				ADJD		
 2977.700	0.200	zum				APPRART		
 2977.900	0.300	Himmel		###		NN		
@@ -2436,7 +2436,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 2982.500	0.300	hinter				APPR		
 2982.800	0.100	den				ART		
 2982.900	0.100	beiden				PIAT		
-2983.000	0.800	explodieren				ADJA		
+2983.000	0.800	explodieren				VVFIN		
 2983.800	0.800	Napalmbomben		object		NN		
 2984.600	0.400	die				ART		
 2985.000	0.600	Explosionen				NN		
@@ -2451,7 +2451,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 2993.700	0.300	hinter				APPR		
 2994.000	0.200	ihnen				PPER		
 2994.200	0.200	hoch				ADJD		
-2994.400	0.700	Forrest		mname		NN		
+2994.400	0.700	Forrest		mname		NE		
 2995.100	0.200	rennt				VVFIN		
 2995.300	0.200	weiter				PTKVZ		
 2995.500	0.500	der				ART		
@@ -2467,7 +2467,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3003.200	0.300	Baumkronen		geo		NN		
 3003.500	0.800	gehetzt				VVPP		
 3004.300	0.500	trägt				VVFIN		
-3004.800	0.600	f#oreve#r		#	#	#		
+3004.800	0.600	f#oreve#r	###			###		
 3005.400	0.200	zum				APPRART		
 3005.600	0.300	Ufer		locale_recur		NN		
 3005.900	13.100	mit				APPR		
@@ -2482,20 +2482,20 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3061.000	0.200	der				ART		
 3061.200	0.200	Wartebank		setting_rec;furniture		NN		
 3061.400	3.400	neben				APPR		
-3064.800	0.400	Forrest		mname		NN		
+3064.800	0.400	Forrest		mname		NE		
 3065.200	0.300	sitzt				VVFIN		
 3065.500	0.200	jetzt				ADV		
 3065.700	0.300	ein				ART		
 3066.000	0.200	dicker				ADJA		
 3066.200	0.100	Mann		male		NN		
-3066.300	2.300	Forrest		mname		NN		
+3066.300	2.300	Forrest		mname		NE		
 3068.600	0.400	sieht				VVFIN		
 3069.000	0.100	ihn				PPER		
 3069.100	0.300	abrupt				ADJD		
 3069.400	0.300	an				PTKVZ		
 3069.700	24.000	im				APPRART		
 3093.700	0.400	Lazarett		setting_new		NN		
-3096.300	6.700	Forrest		mname		NN		
+3096.300	6.700	Forrest		mname		NE		
 3103.000	0.200	mit				APPR		
 3103.200	0.100	zwei				CARD		
 3103.300	0.600	Eistüten		object		NN		
@@ -2516,12 +2516,12 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3114.000	0.100	in				APPR		
 3114.100	0.200	seine				PPOSAT		
 3114.300	0.500	Bettpfanne		object		NN		
-3114.800	0.600	und#starrt		#	#	#		
+3114.800	0.600	und#starrt	###			VVFIN		
 3115.400	0.200	weiter				ADV		
 3115.600	0.200	vor				APPR		
 3115.800	0.100	sich				PRF		
 3115.900	0.200	hin				ADV		
-3116.100	2.500	Forrest#robbt		#	#	#		
+3116.100	2.500	Forrest#robbt	###			VVFIN		
 3118.600	0.300	von				APPR		
 3118.900	0.000	einer				ART		
 3118.900	0.400	Liege		furniture		NN		
@@ -2537,7 +2537,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3127.400	0.300	einem				ART		
 3127.700	0.300	Haltegriff		object		NN		
 3128.000	0.800	Dans		mname		NE		
-3128.800	0.700	Unterschenkel		bodypart		NE		
+3128.800	0.700	Unterschenkel		bodypart		NN		
 3129.500	0.300	sind				VAFIN		
 3129.800	0.600	amputiert				VVPP		
 3130.400	0.400	Die				ART		
@@ -2548,7 +2548,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3132.000	0.200	umwickelt				VVPP		
 3132.200	0.500	der				ART		
 3132.700	0.400	Pfleger		male		NN		
-3133.100	0.100	hebt#ihn		#	#	#		
+3133.100	0.100	hebt#ihn	###			PPER		
 3133.200	0.400	hoch				PTKVZ		
 3133.600	1.600	ein				ART		
 3135.200	0.500	Rollliege		furniture		NN		
@@ -2565,7 +2565,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3139.700	1.600	Post		###		NN		
 3141.300	0.200	wird				VAFIN		
 3141.500	0.400	verteilt				VVPP		
-3141.900	2.000	Forrest#schleckt		#	#	#		
+3141.900	2.000	Forrest#schleckt	###			VVFIN		
 3143.900	0.400	weiter				ADV		
 3144.300	0.300	sein				PPOSAT		
 3144.600	0.200	Eis		object		NN		
@@ -2575,15 +2575,15 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3149.300	0.400	dickes				ADJA		
 3149.700	0.100	Bündel				NN		
 3149.800	0.500	Briefe		object		NN		
-3150.300	3.400	Forrest		mname		NN		
+3150.300	3.400	Forrest		mname		NE		
 3153.700	0.300	zieht				VVFIN		
 3154.000	0.200	den				ART		
 3154.200	0.400	obersten				ADJA		
-3154.600	0.500	Brief#heraus		#	#	#		
+3154.600	0.500	Brief#heraus	###			PTKVZ		
 3155.100	0.400	er				PPER		
 3155.500	0.200	ist				VAFIN		
 3155.700	0.100	an				APPR		
-3155.800	0.300	Jenny		fname		NN		
+3155.800	0.300	Jenny		fname		NE		
 3156.300	0.400	adressiert				VVPP		
 3156.700	0.000	und				KON		
 3156.700	0.200	mit				APPR		
@@ -2591,7 +2591,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3157.000	0.500	Stempel		object		NN		
 3157.500	0.900	unzustellbar				ADJD		
 3158.400	0.500	versehen				VVPP		
-3158.900	3.000	Forrest		mname		NN		
+3158.900	3.000	Forrest		mname		NE		
 3161.900	0.200	nimmt				VVFIN		
 3162.100	0.300	weiter				ADV		
 3162.400	0.400	Briefe		object		NN		
@@ -2608,9 +2608,9 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3165.300	0.100	den				ART		
 3165.400	0.300	selben				ADJA		
 3165.700	0.400	Stempel		object		NN		
-3167.100	1.100	niedergeschlagen				ADJA		
+3167.100	1.100	niedergeschlagen				ADJD		
 3168.200	0.400	betrachtet				VVFIN		
-3168.600	0.400	Forrest		male		NN		
+3168.600	0.400	Forrest		male		NE		
 3169.000	0.300	einen				ART		
 3169.300	0.300	Brief		object		NN		
 3169.600	0.000	nach				APPR		
@@ -2621,7 +2621,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3172.200	0.500	Zeitraum				NN		
 3172.700	0.300	des				ART		
 3173.000	0.400	Lazaretts		locale		NN		
-3173.400	0.900	Forrest		mname		NN		
+3173.400	0.900	Forrest		mname		NE		
 3174.300	0.100	mit				APPR		
 3174.400	0.200	einem				ART		
 3174.600	0.100	Eis		object		NN		
@@ -2629,7 +2629,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3175.000	0.400	Fernseher		object		NN		
 3175.400	6.600	mühsam				ADJD		
 3182.000	0.200	steht				VVFIN		
-3182.200	0.400	Forrest		mname		NN		
+3182.200	0.400	Forrest		mname		NE		
 3182.600	0.200	von				APPR		
 3182.800	0.400	mehreren				PIAT		
 3183.200	0.300	Kissen		object		NN		
@@ -2646,12 +2646,12 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3191.900	0.200	wie				KOKOM		
 3192.100	0.100	im				APPRART		
 3192.200	0.200	Spiel				NN		
-3192.400	2.200	Forrest		male		NN		
+3192.400	2.200	Forrest		male		NE		
 3194.600	0.400	schüttelt				VVFIN		
 3195.000	0.100	den				ART		
 3195.100	0.100	Kopf		head		NN		
-3195.200	3.200	Er#gibt		#	#	#		
-3198.400	0.600	Forrest		male		NN		
+3195.200	3.200	Er#gibt	###			VVFIN		
+3198.400	0.600	Forrest		male		NE		
 3199.000	0.000	den				ART		
 3199.000	0.400	Schläger		object		NN		
 3199.400	9.800	er				PPER		
@@ -2661,7 +2661,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3209.700	0.200	hin				ADV		
 3209.900	0.200	und				KON		
 3210.100	0.100	her				ADV		
-3210.200	0.800	Forrest		object		NN		
+3210.200	0.800	Forrest		object		NE		
 3211.000	0.300	behält				VVFIN		
 3211.300	0.100	ihn				PPER		
 3211.400	0.200	im				APPRART		
@@ -2673,11 +2673,11 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3213.300	0.100	der				ART		
 3213.400	0.100	Hand		bodypart		NN		
 3213.500	0.300	spielt				VVFIN		
-3213.800	0.200	Forrest		mname		NN		
+3213.800	0.200	Forrest		mname		NE		
 3214.000	0.300	gegen				APPR		
 3214.300	0.300	einen				ART		
 3214.600	0.400	Rollstuhlfahrer		male		NN		
-3215.000	10.800	er#übt		#	#	#		
+3215.000	10.800	er#übt	###			VVFIN		
 3225.800	0.200	die				ART		
 3226.000	0.400	Angabe				NN		
 3227.100	4.000	die				ART		
@@ -2688,7 +2688,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3232.400	0.200	in				APPR		
 3232.600	0.200	eine				ART		
 3232.800	0.200	Bettpfanne		object		NN		
-3233.000	2.500	Forrest#spielt		#	#	#		
+3233.000	2.500	Forrest#spielt	###			VVFIN		
 3235.500	0.200	vor				APPR		
 3235.700	0.300	vielen				PIAT		
 3236.000	0.500	Zuschauern		persons		NN		
@@ -2704,7 +2704,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3250.400	0.300	mürrisch				ADJD		
 3250.700	0.200	nach				APPR		
 3250.900	0.200	draußen				ADV		
-3251.700	0.200	Forrest#spielt		#	#	#		
+3251.700	0.200	Forrest#spielt	###			VVFIN		
 3251.900	0.600	allein		setting_new		ADV		
 3252.500	0.500	dabei				PROAV		
 3253.000	0.300	trifft				VVFIN		
@@ -2720,7 +2720,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3255.800	0.500	ein				ART		
 3256.300	0.400	Offizier		male		NN		
 3256.700	0.300	kommt				VVFIN		
-3257.000	6.200	Forrest		mname		NN		
+3257.000	6.200	Forrest		mname		NE		
 3263.200	0.200	greift				VVFIN		
 3263.400	0.300	wieder				ADV		
 3263.700	1.200	zu				APPR		
@@ -2736,7 +2736,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3273.400	0.200	weg				PTKVZ		
 3273.600	0.600	in				APPR		
 3274.200	0.200	Dans		mname		NE		
-3274.400	0.300	Bett		furniture		NE		
+3274.400	0.300	Bett		furniture		NN		
 3274.700	0.300	liegt				VVFIN		
 3275.000	0.100	ein				ART		
 3275.100	0.200	Mann		male		NN		
@@ -2749,7 +2749,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3277.100	0.700	zu				APPR		
 3277.800	0.200	einer				ART		
 3278.000	0.200	Schwester		female		NN		
-3278.200	7.200	Forrest		mname		NN		
+3278.200	7.200	Forrest		mname		NE		
 3285.400	0.200	sieht			face	VVFIN		
 3285.600	0.200	wieder				ADV		
 3285.800	0.200	auf				APPR		
@@ -2759,7 +2759,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3293.600	0.500	Fernsehen		setting_new		NN		
 3294.100	13.700	Johnson		mname		NE		
 3307.800	0.200	hängt				VVFIN		
-3308.000	0.400	Forrest		mname		NN		
+3308.000	0.400	Forrest		mname		NE		
 3308.400	0.100	die				ART		
 3308.500	0.400	Medaille		object		NN		
 3308.900	0.100	um				PTKVZ		
@@ -2770,7 +2770,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3319.700	0.100	die				ART		
 3319.800	0.200	Mutter		female		NN		
 3320.000	0.200	von				APPR		
-3320.200	0.400	Forrest		mname		NN		
+3320.200	0.400	Forrest		mname		NE		
 3320.600	0.400	der				ART		
 3321.000	0.500	glotzt			face	VVFIN		
 3321.500	0.300	Johnson		mname		NE		
@@ -2799,16 +2799,16 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3331.700	0.200	ab				PTKVZ		
 3331.900	0.300	und				KON		
 3332.200	0.200	geht				VVFIN		
-3332.400	2.400	Forrest		mname		NN		
+3332.400	2.400	Forrest		mname		NE		
 3334.800	0.200	vor				APPR		
 3335.000	0.100	dem				ART		
-3335.100	0.300	Lincoln				NE		
+3335.100	0.300	Lincoln				###		
 3335.400	0.200	Memorial		setting_new;geo		NE		
 3335.600	10.200	er				PPER		
 3345.800	0.300	trägt				VVFIN		
 3346.100	0.800	Paradeuniform		object		NN		
 3346.900	12.000	Er				PPER		
-3358.900	0.300	wird#in		#	#	#		
+3358.900	0.300	wird#in	###			###		
 3359.200	0.200	eine				ART		
 3359.400	0.300	Schlange				NN		
 3359.700	0.100	von				APPR		
@@ -2830,7 +2830,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3369.500	0.300	die				ART		
 3369.800	0.500	Veteranen		males		NN		
 3370.300	0.100	und				KON		
-3370.400	0.400	Forrest		mname		NN		
+3370.400	0.400	Forrest		mname		NE		
 3370.800	0.300	hinter				APPR		
 3371.100	0.100	eine				ART		
 3371.200	0.300	Bühne		locale		NN		
@@ -2845,14 +2845,14 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3373.800	0.400	sie				PPER		
 3374.200	0.300	tragen				VVFIN		
 3374.500	0.600	Uniformteile		object		NN		
-3375.100	0.700	kombiniert				VVFIN		
+3375.100	0.700	kombiniert				###		
 3375.800	0.100	mit				APPR		
 3375.900	0.600	Zivilkleidung		body		NN		
 3376.500	0.900	an				APPR		
 3377.400	0.100	der				ART		
 3377.500	0.700	Bühne		geo		NN		
 3378.200	0.100	wird				VAFIN		
-3378.300	0.400	Forrest		mname		NN		
+3378.300	0.400	Forrest		mname		NE		
 3378.700	0.100	an				APPR		
 3378.800	0.100	den				ART		
 3378.900	0.400	Anfang				NN		
@@ -2867,8 +2867,8 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3420.600	0.300	Veteran		male		NN		
 3420.900	3.500	Zögernd				ADJD		
 3424.400	0.200	geht				VVFIN		
-3424.600	0.400	Forrest		mname		NN		
-3425.000	0.300	zu#den		#	#	#		
+3424.600	0.400	Forrest		mname		NE		
+3425.000	0.300	zu#den	###			ART		
 3425.300	0.400	Mikros		object		NN		
 3425.700	0.800	vor				APPR		
 3426.500	0.100	der				ART		
@@ -2884,18 +2884,18 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3429.800	0.100	Ende				NN		
 3429.900	0.500	ragt				VVFIN		
 3430.400	0.200	das				ART		
-3430.600	0.600	Washington				NE		
+3430.600	0.600	Washington				###		
 3431.200	0.100	Monument		geo		NE		
 3431.300	0.800	empor				PTKVZ		
 3432.100	0.500	ein				ART		
 3432.600	0.800	170				CARD		
-3433.400	0.000	m				NN		
+3433.400	0.000	m				###		
 3433.400	0.500	hoher				ADJA		
 3433.900	0.400	weißer				ADJA		
-3434.300	0.500	Obelisk		geo		NE		
+3434.300	0.500	Obelisk		geo		NN		
 3435.900	9.600	vor				APPR		
 3445.500	0.100	dem				ART		
-3445.600	0.400	Lincoln				NE		
+3445.600	0.400	Lincoln				###		
 3446.000	0.100	Memorial		geo		NE		
 3446.100	0.800	stehen				VVFIN		
 3446.900	0.800	Übertragungswagen		object		NN		
@@ -2920,7 +2920,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3483.400	0.300	Stecker		object		NN		
 3483.700	0.400	aus				APPR		
 3484.100	0.300	Buchsen		object		NN		
-3484.400	4.000	Forrest		mname		NN		
+3484.400	4.000	Forrest		mname		NE		
 3488.400	0.500	spricht				VVFIN		
 3488.900	0.300	weiter				PTKVZ		
 3489.200	2.000	eine				PIS		
@@ -2943,7 +2943,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3504.000	0.800	Verstärkeranlage		object		NN		
 3504.800	0.100	neu				ADJD		
 3504.900	0.600	verkabelt				VVPP		
-3505.500	4.300	Forrest		male		NN		
+3505.500	4.300	Forrest		male		NE		
 3509.800	0.500	immer				ADV		
 3510.300	0.300	weiter				ADV		
 3510.600	9.000	der				ART		
@@ -2959,7 +2959,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3521.900	0.100	Augen		face		NN		
 3522.000	0.400	und				KON		
 3522.400	0.200	legt				VVFIN		
-3522.600	0.400	Forrest		mname		NN		
+3522.600	0.400	Forrest		mname		NE		
 3523.000	0.200	die				ART		
 3523.200	0.300	Hände		bodypart		NN		
 3523.500	0.100	auf				APPR		
@@ -2975,7 +2975,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3543.300	0.300	durchs				APPRART		
 3543.600	0.500	knietiefe				ADJA		
 3544.100	0.100	Wasser		geo		NN		
-3544.200	0.500	Richtung				NN		
+3544.200	0.500	richtung				APPR		
 3544.700	0.200	Bühne		geo		NN		
 3544.900	4.200	der				ART		
 3549.100	0.500	springt				VVFIN		
@@ -2983,7 +2983,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3549.700	0.200	der				ART		
 3549.900	0.200	Bühne		geo		NN		
 3550.100	0.100	und				KON		
-3550.200	0.300	hetzt				VVPP		
+3550.200	0.300	hetzt				VVFIN		
 3550.500	0.200	durch				APPR		
 3550.700	0.100	die				ART		
 3550.800	0.100	Menge		persons		NN		
@@ -3016,7 +3016,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3559.400	0.100	den				ART		
 3559.500	0.200	Waden		bodypart		NN		
 3559.700	0.500	reicht				VVFIN		
-3560.200	1.300	Forrest		mname		NN		
+3560.200	1.300	Forrest		mname		NE		
 3561.500	0.300	rennt				VVFIN		
 3561.800	0.100	ins				APPRART		
 3561.900	0.300	Wasser		geo		NN		
@@ -3038,20 +3038,20 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3609.200	0.300	mit				APPR		
 3609.500	0.200	roter				ADJA		
 3609.700	0.400	Armbinde		object		NN		
-3622.900	13.300	Forrest#starrt		#	#	#		
+3622.900	13.300	Forrest#starrt	###			VVFIN		
 3636.200	0.400	zu				APPR		
 3636.600	0.300	Jenny		fname		NE		
 3636.900	0.100	und				KON		
 3637.000	0.400	Wesley		mname		NE		
 3637.400	0.100	die				ART		
 3637.500	0.100	sich				PRF		
-3637.600	0.400	streiten				VVINF		
+3637.600	0.400	streiten				VVFIN		
 3638.000	5.800	Wesley		male		NE		
 3643.800	0.200	ohrfeigt				VVFIN		
 3644.000	0.500	Jenny		fname		NE		
 3644.500	2.900	in				APPR		
 3647.400	0.500	Zeitlupe				NN		
-3647.900	0.600	Forrest		mname		NN		
+3647.900	0.600	Forrests		mname		NE		
 3648.500	0.500	Augen		face		NN		
 3649.000	0.300	weiten				VVFIN		
 3649.300	0.200	sich				PRF		
@@ -3121,8 +3121,8 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3692.500	0.500	Lederjacke		body		NN		
 3693.000	5.400	vor				APPR		
 3698.400	0.100	dem				ART		
-3698.500	0.300	Weißen				ADJA		
-3698.800	0.100	Haus		setting_new;geo		NN		
+3698.500	0.300	Weißen				#		
+3698.800	0.100	Haus		setting_new;geo		NE		
 3698.900	0.400	geht				VVFIN		
 3699.300	0.200	Jenny		fname		NE		
 3699.500	0.200	mit				APPR		
@@ -3155,18 +3155,18 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3721.900	0.200	wischt				VVFIN		
 3722.100	0.000	über				APPR		
 3722.100	0.500	Forrests		mname		NE		
-3722.600	0.600	Ärmel		bodypart		NE		
+3722.600	0.600	Ärmel		bodypart		NN		
 3723.200	20.200	Jenny		fname		NE		
 3743.400	0.300	harkt				VVFIN		
 3743.700	0.200	sich				PRF		
-3743.900	0.200	bei#ihm		#	#	#		
+3743.900	0.200	bei#ihm	###			PPER		
 3744.100	0.400	unter				PTKVZ		
-3744.500	7.700	Jenny		fname		NN		
+3744.500	7.700	Jenny		fname		NE		
 3752.200	0.200	beim				APPRART		
 3752.400	0.500	Trampen		setting_new		NN		
 3752.900	7.400	sie		female		PPER		
 3760.300	0.200	nimmt				VVFIN		
-3760.500	0.200	LSD				NE		
+3760.500	0.200	LSD				NN		
 3760.700	8.100	als				APPR		
 3768.800	0.800	Straßenmusikant		person		NN		
 3769.600	0.100	auf				APPR		
@@ -3183,9 +3183,9 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3787.800	0.300	einem				ART		
 3788.100	0.200	alten				ADJA		
 3788.300	0.200	Bus		setting_new;object		NN		
-3788.500	2.400	z#ö		#	#	#		
-3790.900	0.400	n#ä		#	#	#		
-3791.300	0.200	h#er#t		#	#	#		
+3788.500	2.400	z#ö	###			###		
+3790.900	0.400	n#ä	###			###		
+3791.300	0.200	h#er#t	###			###		
 3791.500	0.100	sich				PRF		
 3791.600	0.500	Wesley		mname		NE		
 3792.100	9.200	Jenny		fname		NE		
@@ -3212,8 +3212,8 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3821.300	0.300	und				KON		
 3821.600	0.200	wendet				VVFIN		
 3821.800	0.100	sich				PRF		
-3821.900	0.500	kurz#ab		#	#	#		
-3835.000	1.100	Forrest		mname		NN		
+3821.900	0.500	kurz#ab	###			PTKVZ		
+3835.000	1.100	Forrest		mname		NE		
 3836.100	0.400	öffnet				VVFIN		
 3836.500	0.200	das				ART		
 3836.700	0.200	blaue				ADJA		
@@ -3243,7 +3243,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3879.700	0.500	Einsteigen				NN		
 3880.200	0.600	lächelt				VVFIN		
 3880.800	0.100	sie				PPER		
-3880.900	0.500	Forrest		mname		NN		
+3880.900	0.500	Forrest		mname		NE		
 3881.400	0.600	er				PPER		
 3882.000	0.500	lächelt				VVFIN		
 3882.500	0.100	zurück				PTKVZ		
@@ -3253,25 +3253,25 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3884.000	0.000	mal				ADV		
 3884.000	0.400	ernst				ADJD		
 3884.400	0.200	zu				PTKVZ		
-3884.600	1.100	Forrest		mname		NN		
+3884.600	1.100	Forrest		mname		NE		
 3885.700	0.400	kneift				VVFIN		
 3886.100	0.300	finster				ADJD		
 3886.400	0.100	die				ART		
 3886.500	0.300	Augen		face		NN		
 3886.800	0.400	zusammen				PTKVZ		
-3887.200	8.300	Jenny		fname		NN		
+3887.200	8.300	Jenny		fname		NE		
 3895.500	0.400	klopft				VVFIN		
 3895.900	0.000	gegen				APPR		
 3895.900	0.200	die				ART		
 3896.100	0.500	Heckscheibe		roomgeo		NN		
 3896.600	0.200	und				KON		
 3896.800	0.300	winkt				VVFIN		
-3897.100	0.300	Forrest		mname		NN		
+3897.100	0.300	Forrest		mname		NE		
 3897.400	0.200	zu				PTKVZ		
 3901.400	0.400	sie				PPER		
 3901.800	0.200	macht				VVFIN		
 3902.000	0.100	das				ART		
-3902.100	0.400	v-förmige				NN		
+3902.100	0.400	v-förmige				ADJA		
 3902.500	0.700	Peace-Zeichen				NN		
 3903.200	0.500	er				PPER		
 3903.700	0.600	erwidert				VVFIN		
@@ -3295,7 +3295,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3920.600	0.200	und				KON		
 3920.800	0.400	Patienten		persons		NN		
 3921.200	0.300	gucken				VVFIN		
-3921.500	0.400	Forrest		mname		NN		
+3921.500	0.400	Forrest		mname		NE		
 3921.900	0.100	zu				APPR		
 3922.000	0.200	der				ART		
 3922.200	0.200	allein				ADV		
@@ -3305,7 +3305,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3923.200	0.100	und				KON		
 3923.300	0.200	drei				CARD		
 3923.500	0.400	Bällen		object		NN		
-3923.900	0.300	PingPong				NE		
+3923.900	0.300	PingPong				NN		
 3924.200	0.200	spielt				VVFIN		
 3961.400	3.900	der				ART		
 3965.300	0.400	Talkmaster		male		NN		
@@ -3313,7 +3313,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3966.200	0.300	Cavett		mname		NE		
 3966.500	0.200	steht				VVFIN		
 3966.700	0.200	auf		setting_new		PTKVZ		
-3966.900	0.600	Forrest		mname		NN		
+3966.900	0.600	Forrest		mname		NE		
 3967.500	0.300	kommt				VVFIN		
 3967.800	0.200	in				APPR		
 3968.000	0.100	einem				ART		
@@ -3326,13 +3326,13 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 3971.000	12.700	John				NE		
 3983.700	0.300	Lennon		mname		NE		
 3984.000	0.400	raucht				VVFIN		
-3984.400	8.500	Forrest				NN		
+3984.400	8.500	Forrest				NE		
 3992.900	0.400	guckt		mname		VVFIN		
 3993.300	0.200	John				NE		
 3993.500	0.200	Lennon		mname		NE		
 3993.700	0.400	irritiert				ADJD		
 3994.100	0.200	an				PTKVZ		
-3994.300	26.000	Forrest		mname		NN		
+3994.300	26.000	Forrest		mname		NE		
 4020.300	0.500	verlässt				VVFIN		
 4020.800	0.200	das				ART		
 4021.000	0.100	Gebäude		setting_new;geo		NN		
@@ -3386,8 +3386,8 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 4093.800	0.500	Verkehrsstau		setting_new		NN		
 4094.300	7.600	ein				ART		
 4101.900	0.400	Taxi		object		NN		
-4102.300	0.500	bremst#dicht		#	#	#		
-4102.800	0.300	vor#ihnen		#	#	#		
+4102.300	0.500	bremst#dicht	###			###		
+4102.800	0.300	vor#ihnen	###			PPER		
 4103.100	12.100	im				APPRART		
 4115.200	0.600	Fernsehen		setting_new		NN		
 4115.800	0.600	mitsingende				ADJA		
@@ -3403,8 +3403,8 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 4123.500	0.600	Weihnachtsfeier				NN		
 4124.100	0.100	mit				APPR		
 4124.200	0.300	Bob				NE		
-4124.500	4.700	tausende				VVFIN		
-4129.200	0.100	die				ART		
+4124.500	4.700	tausende				###		
+4129.200	0.100	die				###		
 4129.300	0.200	Gis		persons		NN		
 4129.500	0.300	stehen				VVFIN		
 4129.800	0.200	auf				PTKVZ		
@@ -3420,7 +3420,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 4151.900	0.200	eine				ART		
 4152.100	0.100	leere				ADJA		
 4152.200	0.200	Flasche		object		NN		
-4152.400	16.100	er#öffnet		#	#	#		
+4152.400	16.100	er#öffnet	###			VVFIN		
 4168.500	0.200	einen				ART		
 4168.700	0.300	leeren				ADJA		
 4169.000	0.400	Flachmann		object		NN		
@@ -3435,10 +3435,10 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 4197.100	1.400	lässt				VVFIN		
 4198.500	0.100	sie				PPER		
 4198.600	0.200	wieder				ADV		
-4198.800	0.400	einfallen				VVINF		
+4198.800	0.400	reinfallen				VVINF		
 4201.200	2.700	Dan		mname		NE		
-4203.900	0.400	rollt#zu		#	#	#		
-4204.300	0.500	Forrest		mname		NN		
+4203.900	0.400	rollt#zu	###			APPR		
+4204.300	0.500	Forrest		mname		NE		
 4204.800	0.200	der				ART		
 4205.000	0.100	auf				APPR		
 4205.100	0.100	dem				ART		
@@ -3447,7 +3447,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 4205.800	6.800	in				APPR		
 4212.600	0.200	einer				ART		
 4212.800	0.000	Bar		setting_new		NN		
-4261.200	36.300	Sie#zeigt		#	#	#		
+4261.200	36.300	Sie#zeigt	###			VVFIN		
 4297.500	0.200	zum				APPRART		
 4297.700	0.300	Fernseher		object		NN		
 4298.000	12.000	die				PDS		
@@ -3464,7 +3464,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 4316.900	0.100	New				NE		
 4317.000	0.300	York				NE		
 4317.300	0.500	Jenny		female		NE		
-4317.800	0.600	packt#eilig		#	#	#		
+4317.800	0.600	packt#eilig	###			ADJD		
 4318.400	0.300	Sachen		###		NN		
 4318.700	0.100	in				APPR		
 4318.800	0.200	ihre				PPOSAT		
@@ -3506,7 +3506,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 4346.000	0.500	Fernseher		object		NN		
 4346.500	0.200	leuchtet				VVFIN		
 4346.700	1.700	1972		time		CARD		
-4348.400	1.000	Forrest#trägt		#	#	#		
+4348.400	1.000	Forrest#trägt	###			VVFIN		
 4349.400	0.100	ein				ART		
 4349.500	0.500	Partyhütchen		object		NN		
 4350.000	0.700	Leute		persons		NN		
@@ -3516,7 +3516,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 4352.400	0.200	und				KON		
 4352.600	0.300	Lenore		fname		NE		
 4352.900	0.200	küssen				VVFIN		
-4353.100	0.600	Forrest		mname		NN		
+4353.100	0.600	Forrest		mname		NE		
 4353.700	0.100	auf				APPR		
 4353.800	0.100	die				ART		
 4353.900	0.300	Wangen		face		NN		
@@ -3547,7 +3547,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 4427.600	0.400	Aufschrift				NN		
 4428.000	0.800	Watergate				NE		
 4428.800	0.100	Hotel				NE		
-4428.900	1.900	Nixon				NN		
+4428.900	1.900	Nixon				NE		
 4430.800	0.100	im				APPRART		
 4430.900	0.500	Fernsehen		setting_rec		NN		
 4431.400	11.100	in				APPR		
@@ -3563,20 +3563,20 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 4445.400	0.300	und				KON		
 4445.700	0.300	steuert				VVFIN		
 4446.000	0.200	auf				APPR		
-4446.200	0.400	Forrest		mname		NN		
+4446.200	0.400	Forrest		mname		NE		
 4446.600	0.200	zu				APPR		
 4446.800	0.200	der				ART		
 4447.000	0.700	allein				ADV		
 4447.700	0.400	spielt				VVFIN		
-4452.500	8.500	er#gibt		#	#	#		
-4461.000	0.500	Forrest		mname		NN		
+4452.500	8.500	er#gibt	###			VVFIN		
+4461.000	0.500	Forrest		mname		NE		
 4461.500	0.100	einen				ART		
 4461.600	0.400	Umschlag		object		NN		
 4462.000	0.300	und				KON		
 4462.300	0.200	geht				VVFIN		
 4462.500	6.400	verwirrt				ADJD		
 4468.900	0.100	sieht				VVFIN		
-4469.000	0.400	Forrest		mname		NN		
+4469.000	0.400	Forrest		mname		NE		
 4469.400	0.200	zur				APPRART		
 4469.600	0.200	Tür		roomgeo		NN		
 4469.800	12.000	er				PPER		
@@ -3586,8 +3586,8 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 4482.400	0.200	Schläger		object		NN		
 4482.600	0.300	zum				APPRART		
 4482.900	0.400	Ausgang		roomgeo		NN		
-4483.700	4.300	Misses				NE		
-4488.000	0.400	Gump		fname		NN		
+4483.700	4.300	Misses				###		
+4488.000	0.400	Gump		fname		NE		
 4488.400	0.300	kommt				VVFIN		
 4488.700	1.100	auf				APPR		
 4489.800	0.300	ihre				PPOSAT		
@@ -3609,8 +3609,8 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 4495.200	0.200	Haar		head		NN		
 4495.400	0.200	ist				VAFIN		
 4495.600	0.300	leicht				ADJD		
-4495.900	0.300	ergraut			face	VVPP		
-4496.200	2.500	Forrest		fname		NN		
+4495.900	0.300	ergraut				VVPP		
+4496.200	2.500	Forrest		fname		NE		
 4498.700	0.200	kommt				VVFIN		
 4498.900	0.200	über				APPR		
 4499.100	0.100	den				ART		
@@ -3633,7 +3633,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 4563.200	0.200	stehen				VVFIN		
 4563.400	0.200	fünf				CARD		
 4563.600	0.300	Kinder		persons		NN		
-4563.900	16.100	Er#zieht		#	#	#		
+4563.900	16.100	Er#zieht	###			VVFIN		
 4580.000	0.200	einen				ART		
 4580.200	0.300	Zettel		object		NN		
 4580.500	0.200	raus				PTKVZ		
@@ -3660,7 +3660,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 4634.100	0.200	dem				ART		
 4634.300	0.400	Achterdeck			locale	NN		
 4634.700	0.300	steht				VVFIN		
-4635.000	0.500	Forrest		mname		NN		
+4635.000	0.500	Forrest		mname		NE		
 4635.500	0.100	am				APPRART		
 4635.600	0.200	Steuer		object		NN		
 4636.400	1.100	hinter				APPR		
@@ -3673,7 +3673,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 4639.400	0.400	gestellten				ADJA		
 4639.800	0.500	Auslegern		object		NN		
 4642.300	0.600	später		time		ADJD		
-4642.900	0.600	Forrest		mname		NN		
+4642.900	0.600	Forrest		mname		NE		
 4643.500	0.300	öffnet				VVFIN		
 4643.800	0.100	ein				ART		
 4643.900	0.300	Netz		object		NN		
@@ -3688,7 +3688,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 4647.700	0.700	Muscheln		object		NN		
 4648.400	0.500	und				KON		
 4648.900	0.200	ein				ART		
-4649.100	0.500	Schrimp		object		NE		
+4649.100	0.500	Schrimp		object		NN		
 4649.600	10.300	im				APPRART		
 4659.900	0.300	Hafen		locale_recur		NN		
 4660.200	0.200	zum				APPRART		
@@ -3698,9 +3698,9 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 4685.400	0.200	Schild		object		NN		
 4685.600	0.200	an				APPR		
 4685.800	0.100	der				ART		
-4685.900	0.400	Bordwand		setting_new;roomgeo		NE		
+4685.900	0.400	Bordwand		setting_new;roomgeo		NN		
 4686.300	0.400	malt				VVFIN		
-4686.700	0.100	Forrest		mname		NN		
+4686.700	0.100	Forrest		mname		NE		
 4686.800	0.100	den				ART		
 4686.900	0.400	Namen				NN		
 4687.300	0.600	Jenny		fname		NE		
@@ -3711,7 +3711,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 4693.400	0.200	sitzt				VVFIN		
 4693.600	0.400	Jenny		fname		NE		
 4694.000	0.200	mit				APPR		
-4694.200	0.400	anderen		persons		ADJA		
+4694.200	0.400	anderen		persons		###		
 4694.600	0.100	an				APPR		
 4694.700	0.100	einem				ART		
 4694.800	0.300	Tisch		furniture		NN		
@@ -3720,7 +3720,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 4700.500	0.300	gibt				VVFIN		
 4700.800	0.100	ihr				PPER		
 4700.900	0.200	einen				ART		
-4701.100	0.400	aufgeräumten				ADJA		
+4701.100	0.400	aufgerollten				ADJA		
 4701.500	0.600	Geldschein		object		NN		
 4702.200	0.500	damit				PROAV		
 4702.700	0.200	zieht				VVFIN		
@@ -3736,7 +3736,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 4704.700	12.000	einem				ART		
 4716.700	0.500	schummrigen				ADJA		
 4717.200	0.300	Zimmer		setting_new		NN		
-4717.500	0.100	lässt				ADJD		
+4717.500	0.100	lässt				###		
 4717.600	0.200	ein				ART		
 4717.800	0.200	Mann		male		NN		
 4718.000	0.400	eine				ART		
@@ -3744,7 +3744,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 4718.800	0.000	auf				APPR		
 4718.800	0.300	einem				ART		
 4719.100	0.200	Tisch		furniture		NN		
-4719.300	0.300	fallen				VVFIN		
+4719.300	0.300	fallen				###		
 4719.600	0.200	auf				APPR		
 4719.800	0.100	dem				ART		
 4719.900	0.300	Geld		object		NN		
@@ -3761,18 +3761,18 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 4723.300	0.200	lose				ADV		
 4723.500	0.200	ein				ART		
 4723.700	0.500	Gummischlauch		object		NN		
-4724.200	0.800	benommen				VVFIN		
+4724.200	0.800	benommen				ADJD		
 4725.000	0.500	berührt				VVFIN		
 4725.500	0.100	der				ART		
 4725.600	0.200	Mann		male		NN		
 4725.800	0.400	Jennys		fname		NE		
 4726.200	0.300	Rücken		body		NN		
 4726.500	0.300	und				KON		
-4726.800	0.200	lässt				VVFIN		
+4726.800	0.200	lässt				###		
 4727.000	0.100	sich				PRF		
 4727.100	0.300	aufs				APPRART		
 4727.400	0.000	Bett		furniture		NN		
-4727.400	0.400	sinken				VVINF		
+4727.400	0.400	sinken				###		
 4729.800	0.400	sie				PPER		
 4730.200	0.300	sitzt				VVFIN		
 4730.500	0.100	von				APPR		
@@ -3796,7 +3796,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 4738.300	0.500	Schminktisch		furniture		NN		
 4738.800	0.600	verwischt				VVFIN		
 4739.400	0.300	Jenny		fname		NE		
-4739.700	0.900	Kokainlinien		object		NE		
+4739.700	0.900	Kokainlinien		object		NN		
 4740.600	0.000	auf				APPR		
 4740.600	0.300	einem				ART		
 4740.900	0.300	Spiegel		object		NN		
@@ -3930,7 +3930,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 4804.700	0.400	scheint				VVFIN		
 4805.100	0.200	der				ART		
 4805.300	0.300	fast				ADV		
-4805.600	0.300	Vollmond		###geo###		NE		
+4805.600	0.300	Vollmond		###geo###		NN		
 4805.900	0.300	auch				ADV		
 4806.200	0.300	auf				APPR		
 4806.500	0.200	den				ART		
@@ -3947,7 +3947,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 4810.500	0.200	Wasser		geo		NN		
 4810.700	0.300	hängt				VVFIN		
 4811.000	0.400	liegt				VVFIN		
-4811.400	0.500	Forrest		mname		NN		
+4811.400	0.500	Forrest		mname		NE		
 4811.900	0.100	wie				KOKOM		
 4812.000	0.100	in				APPR		
 4812.100	0.200	einer				ART		
@@ -3961,14 +3961,14 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 4814.700	4.200	es				PPER		
 4818.900	0.100	ist				VAFIN		
 4819.000	0.200	Tag		++		NN		
-4819.200	0.800	Forrest		mname		NN		
+4819.200	0.800	Forrest		mname		NE		
 4820.000	0.400	steuert				VVFIN		
 4820.400	0.300	die				ART		
-4820.700	0.300	Jenny		fname		NN		
+4820.700	0.300	Jenny		fname		NE		
 4821.000	0.200	am				APPRART		
 4821.200	0.300	Ufer		geo		NN		
 4821.500	0.300	entlang				PTKVZ		
-4821.800	1.700	d#e#s		#	#	#		
+4821.800	1.700	d#e#s	###			###		
 4823.500	1.100	Muscle-Shirt				NN		
 4824.600	0.200	und				KON		
 4824.800	0.200	eine				ART		
@@ -3978,18 +3978,18 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 4827.200	0.100	er				PPER		
 4827.300	0.300	etwas				PIS		
 4827.600	0.300	und				KON		
-4827.900	0.300	späht#Richtung		#	#	#		
+4827.900	0.300	späht#richtung	###			###		
 4828.200	0.600	Ufer		geo		NN		
 4828.800	1.000	auf				APPR		
 4829.800	0.300	einem				ART		
 4830.100	0.600	Anlegesteg		geo		NN		
 4830.700	0.500	sitzt				VVFIN		
-4831.200	0.300	Dan#in#einem		#	#	#		
+4831.200	0.300	Dan#in#einem	###			ART		
 4831.500	0.400	Rollstuhl		furniture		NN		
-4831.900	2.100	Forrest		mname		NN		
-4834.000	0.300	lässt#das		#	#	#		
+4831.900	2.100	Forrest		mname		NE		
+4834.000	0.300	lässt#das	###			ART		
 4834.300	0.200	Steuer		object		NN		
-4834.500	0.500	rat#los		#	#	#		
+4834.500	0.500	rat#los	###			PTKVZ		
 4835.000	0.300	und				KON		
 4835.300	0.300	stellt				VVFIN		
 4835.600	0.100	sich				PRF		
@@ -4000,10 +4000,10 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 4838.500	0.400	macht				VVFIN		
 4838.900	0.100	das				ART		
 4839.000	0.300	Peace-Zeichen				NN		
-4839.300	1.000	Forrest		mname		NN		
+4839.300	1.000	Forrest		mname		NE		
 4840.300	0.400	winkt				VVFIN		
 4840.700	0.200	wild				ADJD		
-4840.900	2.600	Forrest		mname		NN		
+4840.900	2.600	Forrest		mname		NE		
 4843.500	0.600	springt				VVFIN		
 4844.100	0.200	über				APPR		
 4844.300	0.300	Bord		roomgeo		NN		
@@ -4011,15 +4011,15 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 4847.700	0.200	Kutter		object		NN		
 4847.900	0.400	fährt				VVFIN		
 4848.300	0.300	weiter				PTKVZ		
-4849.500	2.100	Forrest#krault		#	#	#		
-4851.600	0.700	zum#Steg		#	#	#		
+4849.500	2.100	Forrest#krault	###			VVFIN		
+4851.600	0.700	zum#Steg	###			NN		
 4856.400	4.000	Dan		mname		NE		
 4860.400	0.500	raucht				VVFIN		
 4860.900	0.100	eine				ART		
 4861.000	0.400	Zigarre		object		NN		
 4861.400	0.100	mit				APPR		
-4861.500	0.200	Mundstück		object		NE		
-4861.700	1.300	Forrest		mname		NN		
+4861.500	0.200	Mundstück		object		NN		
+4861.700	1.300	Forrest		mname		NE		
 4863.000	0.300	steigt				VVFIN		
 4863.300	0.200	eine				ART		
 4863.500	0.300	Leiter		roomgeo		NN		
@@ -4049,19 +4049,19 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 4917.000	0.200	über				APPR		
 4917.200	0.100	dem				ART		
 4917.300	0.200	Deck		roomgeo		NN		
-4917.500	0.300	sitzt#Dan		#	#	#		
+4917.500	0.300	sitzt#Dan	###			NE		
 4917.800	0.400	auf				APPR		
 4918.200	0.300	einem				ART		
 4918.500	0.100	Mast		geo		NN		
 4918.600	7.000	Verwirrt				ADJD		
 4925.600	0.200	lässt				VVFIN		
-4925.800	0.400	Forrest#das		#	#	#		
-4926.200	0.600	Steuer#los		#	#	#		
-4926.800	10.400	Er#dreht		#	#	#		
+4925.800	0.400	Forrest#das	###			ART		
+4926.200	0.600	Steuer#los	###			PTKVZ		
+4926.800	10.400	Er#dreht	###			VVFIN		
 4937.200	0.100	nach				APPR		
 4937.300	0.400	rechts				ADV		
-4937.700	4.900	Forrest		mname		NN		
-4942.600	0.400	überlegt				VVPP		
+4937.700	4.900	Forrest		mname		NE		
+4942.600	0.400	überlegt				VVFIN		
 4943.000	0.600	und				KON		
 4943.600	0.200	fährt				VVFIN		
 4943.800	0.100	nach				APPR		
@@ -4071,7 +4071,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 4948.100	0.500	Stirnband		head		NN		
 4948.600	0.200	und				KON		
 4948.800	0.500	Sonnenbrille		face		NN		
-4949.300	3.500	Forrest		male		NN		
+4949.300	3.500	Forrest		mname		NE		
 4952.800	0.300	öffnet				VVFIN		
 4953.100	0.200	das				ART		
 4953.300	0.200	Netz		object		NN		
@@ -4087,7 +4087,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 4957.200	0.400	Dan		mname		NE		
 4957.600	0.400	sitzt				VVFIN		
 4958.000	0.100	daneben				PROAV		
-4958.100	1.000	Forrest		mname		NN		
+4958.100	1.000	Forrest		mname		NE		
 4959.100	0.200	hebt				VVFIN		
 4959.300	0.100	die				ART		
 4959.400	0.300	Klobrille		object		NN		
@@ -4099,18 +4099,18 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 4975.500	0.200	einer				ART		
 4975.700	0.200	Kirche		setting_new;geo		NN		
 4975.900	0.500	singt				VVFIN		
-4976.400	0.400	Forrest		mname		NN		
+4976.400	0.400	Forrest		mname		NE		
 4976.800	0.100	in				APPR		
 4976.900	0.600	blau-rotem				ADJA		
 4977.500	0.100	Gewand		body		NN		
 4977.600	0.300	im				APPRART		
 4977.900	0.500	Gospelchor		###persons###		NN		
 4978.400	3.400	Dan		mname		NE		
-4981.800	0.700	sitzt#daneben		#	#	#		
+4981.800	0.700	sitzt#daneben	###			###		
 4982.500	0.100	und				KON		
 4982.600	0.300	trinkt				VVFIN		
 4982.900	7.400	ein				ART		
-4990.300	0.500	Stahlhelm		object		NE		
+4990.300	0.500	Stahlhelm		object		NN		
 4990.800	0.600	ein				ART		
 4991.400	0.500	Stiefel		object		NN		
 4991.900	0.200	und				KON		
@@ -4119,10 +4119,10 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 4992.500	0.700	fallen				VVFIN		
 4993.200	0.100	aufs				APPRART		
 4993.300	0.200	Deck		setting_rec;roomgeo		NN		
-4993.500	1.500	Forrest		mname		NN		
+4993.500	1.500	Forrest		mname		NE		
 4995.000	0.600	inspiziert				VVFIN		
 4995.600	0.200	den				ART		
-4995.800	1.100	Fang#Dan#seilt		#	#	#		
+4995.800	1.100	Fang#Dan#seilt	###			VVFIN		
 4996.900	0.200	sich				PRF		
 4997.100	0.100	auf				APPR		
 4997.200	0.200	einer				ART		
@@ -4131,13 +4131,13 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 4998.200	0.100	vom				APPRART		
 4998.300	0.300	Mast		geo		NN		
 4998.600	0.100	ab				PTKVZ		
-4998.700	1.100	Forrest		mname		NN		
+4998.700	1.100	Forrest		mname		NE		
 4999.800	0.200	kippt				VVFIN		
 5000.000	0.100	das				ART		
 5000.100	0.300	Wasser		###object###		NN		
 5000.400	0.200	aus				APPR		
 5000.600	0.200	dem				ART		
-5000.800	0.400	Stahlhelm		object		NE		
+5000.800	0.400	Stahlhelm		object		NN		
 5001.200	12.600	es				PPER		
 5013.800	0.200	ist				VAFIN		
 5014.000	0.200	dunkel		++		ADJD		
@@ -4147,7 +4147,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5017.400	0.400	gegen				APPR		
 5017.800	0.000	die				ART		
 5017.800	0.400	Bordwand		roomgeo		NN		
-5019.000	0.600	Forrest		mname		NN		
+5019.000	0.600	Forrest		mname		NE		
 5019.600	0.200	kommt				VVFIN		
 5019.800	0.100	aus				APPR		
 5019.900	0.200	dem				ART		
@@ -4170,7 +4170,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5025.100	1.100	Dan				NE		
 5026.200	0.500	sitzt				VVFIN		
 5026.700	0.400	oben				ADV		
-5027.100	0.300	im#Mast		#	#	#		
+5027.100	0.300	im#Mast	###			NN		
 5027.400	0.400	mit				APPR		
 5027.800	0.200	einer				ART		
 5028.000	0.200	Hand		bodypart		NN		
@@ -4190,7 +4190,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5040.200	0.200	Arm		bodypart		NN		
 5040.400	0.200	hoch				ADJD		
 5040.600	0.400	über				APPR		
-5041.000	0.200	ihn		male		PPER		
+5041.000	0.200	ihm		male		PPER		
 5041.200	0.200	weht				VVFIN		
 5041.400	0.100	die				ART		
 5041.500	0.500	US-Fahne		object		NN		
@@ -4228,7 +4228,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5158.600	0.300	mit				APPR		
 5158.900	0.300	Dan		mname		NE		
 5159.200	0.200	vor				APPR		
-5159.400	0.400	der#Kutter		#	#	#		
+5159.400	0.400	der#Kutter	###			###		
 5159.800	0.300	Flotte		setting_new		NN		
 5160.100	6.900	an				APPR		
 5167.000	0.200	Deck		setting_rec;roomgeo		NN		
@@ -4252,7 +4252,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5172.500	0.500	Oberkörper		body		NN		
 5173.000	0.100	im				APPRART		
 5173.100	0.400	Rollstuhl		furniture		NN		
-5180.900	0.700	Forrest		mname		NN		
+5180.900	0.700	Forrest		mname		NE		
 5181.600	0.100	schaut				VVFIN		
 5181.700	0.200	ihn				PPER		
 5181.900	0.200	ruhig				ADJD		
@@ -4264,7 +4264,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5183.900	0.100	die				ART		
 5184.000	0.300	Reling		roomgeo		NN		
 5187.100	0.500	lächelt				VVFIN		
-5187.600	0.300	Forrest		mname		NN		
+5187.600	0.300	Forrest		mname		NE		
 5187.900	0.200	zu				PTKZU		
 5188.100	0.600	dreht				VVFIN		
 5188.700	0.100	sich				PRF		
@@ -4273,7 +4273,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5189.100	0.600	stößt				VVFIN		
 5189.700	0.200	sich				PRF		
 5189.900	0.200	ab				PTKVZ		
-5190.100	4.300	Forrest		mname		NN		
+5190.100	4.300	Forrest		mname		NE		
 5194.400	0.200	tritt				VVFIN		
 5194.600	0.200	näher				ADJD		
 5194.800	0.200	an				APPR		
@@ -4291,7 +4291,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5198.100	10.000	ein				ART		
 5208.100	0.200	Bus		object		NN		
 5208.300	0.300	hält		###setting_rec###		VVFIN		
-5208.600	29.400	Rasenmähen				ADJA		
+5208.600	29.400	Rasenmähen				###		
 5238.000	8.900	Apple-Aktien				NN		
 5247.000	12.000	in				APPR		
 5259.000	0.200	der				ART		
@@ -4301,13 +4301,13 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5271.600	0.200	wird				VAFIN		
 5271.800	0.200	renoviert				VVPP		
 5272.000	5.500	das				ART		
-5277.500	0.400	Gump				NN		
-5277.900	0.400	Medical				NE		
-5278.300	0.400	Center		geo		NE		
+5277.500	0.400	Gump				###		
+5277.900	0.400	Medical				###		
+5278.300	0.400	Center		geo		###		
 5278.700	0.200	wird				VAFIN		
 5278.900	0.500	eingeweiht		setting_new		VVPP		
 5279.400	7.700	Bubbas		male		NE		
-5287.100	0.600	Mutter#starrt		#	#	#		
+5287.100	0.600	Mutter#starrt	###			VVFIN		
 5287.700	0.200	auf				APPR		
 5287.900	0.200	einen				ART		
 5288.100	0.100	Check		object		NN		
@@ -4347,14 +4347,14 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5329.500	0.600	bedrückt				ADJD		
 5330.100	0.300	dreht				VVFIN		
 5330.400	0.200	sich				PRF		
-5330.600	0.400	Forrest		mname		NN		
+5330.600	0.400	Forrest		mname		NE		
 5331.000	0.200	weg				PTKVZ		
 5334.400	0.400	er				PPER		
 5334.800	0.500	schlurft				VVFIN		
 5335.300	0.300	zur				APPRART		
 5335.600	0.200	Tür		roomgeo		NN		
 5339.600	0.500	und				KON		
-5340.100	0.300	geht#zögernd		#	#	#		
+5340.100	0.300	geht#zögernd	###			ADJD		
 5340.400	0.700	zurück				PTKVZ		
 5341.100	0.100	ins				APPRART		
 5341.200	0.200	Haus		geo		NN		
@@ -4365,7 +4365,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5350.500	0.000	seinem				PPOSAT		
 5350.500	0.400	Haus		setting_rec;geo		NN		
 5350.900	0.300	sitzt				VVFIN		
-5351.200	0.300	Forrest		mname		NN		
+5351.200	0.300	Forrest		mname		NE		
 5351.500	0.200	auf				APPR		
 5351.700	0.100	dem				ART		
 5351.800	0.300	kleinen				ADJA		
@@ -4408,13 +4408,13 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5376.100	0.100	Schaukel		object		NN		
 5376.200	0.400	vorbei				ADV		
 5376.600	0.300	auf				APPR		
-5376.900	0.400	Forrest		mname		NN		
+5376.900	0.400	Forrest		mname		NE		
 5377.300	0.200	zu				PTKVZ		
 5387.200	0.700	langsam				ADJD		
 5387.900	0.400	nähert				VVFIN		
 5388.300	0.000	sich				PRF		
 5388.300	0.500	Jenny		fname		NE		
-5390.700	1.400	Forrest		mname		NN		
+5390.700	1.400	Forrest		mname		NE		
 5392.100	0.400	steigt				VVFIN		
 5392.500	0.100	ab				PTKVZ		
 5392.600	1.100	ungläubig				ADJD		
@@ -4502,7 +4502,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5495.800	0.100	seinem				PPOSAT		
 5495.900	0.400	Arm		bodypart		NN		
 5496.300	0.300	durch				PTKVZ		
-5496.600	0.800	Forrest		mname		NN		
+5496.600	0.800	Forrest		mname		NE		
 5497.400	0.200	wippt				VVFIN		
 5497.600	0.100	auf				APPR		
 5497.700	0.300	der				ART		
@@ -4523,7 +4523,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5510.100	0.200	ihn				PPER		
 5510.300	4.000	auf				APPR		
 5514.300	0.200	dem				ART		
-5514.500	0.500	Wasser#spiegeln		#	#	#		
+5514.500	0.500	Wasser#spiegeln	###			VVFIN		
 5515.000	0.300	sich				PRF		
 5515.300	0.600	zerplatzende				ADJA		
 5515.900	1.100	Feuerwerksraketen		object		NN		
@@ -4541,7 +4541,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5523.300	0.300	über				APPR		
 5523.600	0.100	der				ART		
 5523.700	0.600	Freiheitsstatue		setting_new;geo		NN		
-5524.300	1.000	explodieren				ADJA		
+5524.300	1.000	explodieren				VVFIN		
 5525.300	0.500	Raketen		object		NN		
 5525.800	0.700	Jenny		fname		NE		
 5526.500	0.300	sitzt				VVFIN		
@@ -4549,7 +4549,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5527.000	0.400	vor				APPR		
 5527.400	0.100	dem				ART		
 5527.500	0.300	Gerät		setting_new;object		NN		
-5527.800	0.800	Forrest		mname		NN		
+5527.800	0.800	Forrest		mname		NE		
 5528.600	0.200	hockt				VVFIN		
 5528.800	0.200	mit				APPR		
 5529.000	0.100	einer				ART		
@@ -4569,7 +4569,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5542.800	0.100	und				KON		
 5542.900	0.400	schaltet				VVFIN		
 5543.300	0.000	aus				PTKVZ		
-5543.300	1.700	Forrest#sieht		#	#	#		
+5543.300	1.700	Forrest#sieht	###			VVFIN		
 5545.000	0.200	ihr				PPER		
 5545.200	0.100	nach				PTKVZ		
 5545.300	1.000	entschlossen				ADJD		
@@ -4585,7 +4585,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5549.500	0.200	hoch				PTKVZ		
 5549.700	0.600	unten				ADV		
 5550.300	0.200	kommt				VVFIN		
-5550.500	0.400	Forrest		mname		NN		
+5550.500	0.400	Forrest		mname		NE		
 5550.900	0.100	in				APPR		
 5551.000	0.100	den				ART		
 5551.100	0.200	Flur		locale		NN		
@@ -4596,7 +4596,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5554.700	0.100	zu				APPR		
 5554.800	0.100	ihm				PPER		
 5554.900	0.200	um				PTKVZ		
-5556.500	33.600	Forrest#geht		#	#	#		
+5556.500	33.600	Forrest#geht	###			VVFIN		
 5590.100	0.300	durch				APPR		
 5590.400	0.100	die				ART		
 5590.500	0.800	Fliegengittertür		roomgeo		NN		
@@ -4626,12 +4626,12 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5603.100	0.500	im				APPRART		
 5603.600	0.600	strömenden				ADJA		
 5604.200	0.400	Regen		setting_rec;++		NN		
-5604.600	5.200	Forrest				NN		
+5604.600	5.200	Forrest				NE		
 5609.800	0.300	liegt				VVFIN		
 5610.100	0.100	im				APPRART		
 5610.200	0.100	Bett		locale_recur		NN		
 5610.300	1.000	draußen				ADV		
-5611.300	0.500	geht#Jenny		#	#	#		
+5611.300	0.500	geht#Jenny	###			NE		
 5611.800	0.200	im				APPRART		
 5612.000	0.200	Nachthemd		body		NN		
 5612.200	0.300	am				APPRART		
@@ -4646,12 +4646,12 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5618.200	0.100	an				APPR		
 5618.300	0.100	der				ART		
 5618.400	0.200	Tür		roomgeo		NN		
-5618.600	0.300	stehen				VVFIN		
+5618.600	0.300	stehen				PTKVZ		
 5618.900	0.300	und				KON		
 5619.200	0.100	sieht				VVFIN		
 5619.300	0.200	ihn				PPER		
 5619.500	0.100	an				PTKVZ		
-5619.600	1.100	Forrest		mname		NN		
+5619.600	1.100	Forrest		mname		NE		
 5620.700	0.400	richtet				VVFIN		
 5621.100	0.200	sich				PRF		
 5621.300	0.200	etwas				PIS		
@@ -4681,12 +4681,12 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5637.500	0.300	innig				ADJD		
 5637.800	1.200	zaghaft				ADJD		
 5639.000	0.100	hebt				VVFIN		
-5639.100	0.200	Forrest		mname		NN		
+5639.100	0.200	Forrest		mname		NE		
 5639.300	0.300	die				ART		
 5639.600	0.400	Hände		bodypart		NN		
 5640.000	1.300	und				KON		
 5641.300	0.300	schließt				VVFIN		
-5641.600	0.300	Jenny		fname		NN		
+5641.600	0.300	Jenny		fname		NE		
 5641.900	0.100	in				APPR		
 5642.000	0.200	seine				PPOSAT		
 5642.200	0.200	Arme		bodypart		NN		
@@ -4704,8 +4704,8 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5653.600	0.100	ihr				PPOSAT		
 5653.700	0.300	Nachthemd		body		NN		
 5654.000	0.300	aus				PTKVZ		
-5654.300	1.700	Forrest		mname		NN		
-5656.000	0.400	umarmt				ADJD		
+5654.300	1.700	Forrest		mname		NE		
+5656.000	0.400	umarmt				VVFIN		
 5656.400	0.100	sie				PPER		
 5656.500	0.300	wieder				ADV		
 5656.800	0.300	die				ART		
@@ -4720,7 +4720,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5663.400	0.200	dem				ART		
 5663.600	0.200	Haus		locale_recur		NN		
 5663.800	2.400	in				APPR		
-5666.200	0.300	Rock		body		NE		
+5666.200	0.300	Rock		body		NN		
 5666.500	0.200	und				KON		
 5666.700	0.200	Bluse		body		NN		
 5666.900	0.400	kommt				VVFIN		
@@ -4759,7 +4759,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5692.600	0.100	das				ART		
 5692.700	0.200	Taxi		object		NN		
 5692.900	0.400	davon				PTKVZ		
-5697.000	2.600	Forrest		mname		NN		
+5697.000	2.600	Forrest		mname		NE		
 5699.600	0.400	liegt				VVFIN		
 5700.000	0.200	schlafend				ADJD		
 5700.200	0.300	im				APPRART		
@@ -4778,7 +4778,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5706.900	0.400	liegt				VVFIN		
 5707.300	0.300	neben				APPR		
 5707.600	0.200	Forrests		mname		NE		
-5707.800	1.200	Tischtennisschläger		object		NE		
+5707.800	1.200	Tischtennisschläger		object		NN		
 5709.000	0.500	seine				PPOSAT		
 5709.500	0.400	goldene				ADJA		
 5709.900	0.100	Tapferkeitsmedaille		object		NN		
@@ -4787,7 +4787,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5711.200	0.200	Band		object		NN		
 5711.400	1.600	steht				VVFIN		
 5713.000	0.100	im				APPRART		
-5713.100	0.500	Morgenmantel		body		NE		
+5713.100	0.500	Morgenmantel		body		NN		
 5713.600	0.200	mit				APPR		
 5713.800	0.300	einem				ART		
 5714.100	0.200	Glas		object		NN		
@@ -4801,12 +4801,12 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5716.300	0.400	Medaille		object		NN		
 5716.700	0.400	ernst				ADJD		
 5719.400	0.700	Jennys		fname		NE		
-5720.100	0.200	Zimmer		locale		NE		
+5720.100	0.200	Zimmer		locale		NN		
 5720.300	0.300	ist				VAFIN		
 5720.600	0.200	das				ART		
 5720.800	0.200	Bett		furniture		NN		
 5721.000	0.300	unberührt				ADJD		
-5721.300	1.200	Forrest		mname		NN		
+5721.300	1.200	Forrest		mname		NE		
 5722.500	0.200	steht				VVFIN		
 5722.700	0.100	in				APPR		
 5722.800	0.100	der				ART		
@@ -4826,7 +4826,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5736.300	0.200	der				ART		
 5736.500	0.400	Veranda		locale_recur		NN		
 5736.900	0.300	sitzt				VVFIN		
-5737.200	0.500	Forrest		male		NN		
+5737.200	0.500	Forrest		male		NE		
 5737.700	0.400	reglos				ADJD		
 5738.100	0.200	in				APPR		
 5738.300	0.200	einem				ART		
@@ -4841,8 +4841,8 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5741.100	0.200	vor				APPR		
 5741.300	0.100	sich				PRF		
 5741.400	0.200	hin				PTKVZ		
-5749.300	0.800	Forrest		mname		NN		
-5750.100	0.500	setzt#sein		#	#	#		
+5749.300	0.800	Forrest		mname		NE		
+5750.100	0.500	setzt#sein	###			PPOSAT		
 5750.600	0.400	rotes				ADJA		
 5751.000	1.200	Bubba-Gump-Shrimp-Cappy		object		NN		
 5752.200	0.200	auf				PTKVZ		
@@ -4868,7 +4868,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5768.100	0.000	die				ART		
 5768.100	0.400	Zufahrt		locale_recur		NN		
 5768.500	0.400	entlang				PTKVZ		
-5769.700	30.000	Forrest		male		NN		
+5769.700	30.000	Forrest		male		NE		
 5799.700	0.200	kommt				VVFIN		
 5799.900	0.100	nach				APPR		
 5800.000	0.300	Mississippi		setting_new		NE		
@@ -4876,10 +4876,10 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5804.000	0.200	der				ART		
 5804.200	0.200	Wartebank		setting_rec;furniture		NN		
 5804.400	6.700	in				APPR		
-5811.100	0.300	Santa				NE		
+5811.100	0.300	Santa				###		
 5811.400	0.500	Monica		setting_new		NE		
 5811.900	0.300	läuft				VVFIN		
-5812.200	0.300	Forrest		mname		NN		
+5812.200	0.300	Forrest		mname		NE		
 5812.500	0.100	auf				APPR		
 5812.600	0.200	dem				ART		
 5812.800	0.200	Pier		geo		NN		
@@ -4896,7 +4896,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5815.300	0.500	und				KON		
 5815.800	0.200	einen				ART		
 5816.000	0.300	Vollbart		face		NN		
-5816.300	7.200	Forrest		mname		NN		
+5816.300	7.200	Forrest		mname		NE		
 5823.500	0.300	erreicht				VVFIN		
 5823.800	0.200	einen				ART		
 5824.000	0.300	kleinen				ADJA		
@@ -4911,7 +4911,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5845.400	0.100	die				ART		
 5845.500	0.100	Frau		female		NN		
 5845.600	0.200	an				PTKVZ		
-5845.800	11.200	Forrest		mname		NN		
+5845.800	11.200	Forrest		mname		NE		
 5857.000	0.300	läuft				VVFIN		
 5857.300	0.100	an				APPR		
 5857.400	0.200	einem				ART		
@@ -4919,7 +4919,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5857.800	0.300	entlang				PTKVZ		
 5858.100	0.600	unter				APPR		
 5858.700	0.300	seinem				PPOSAT		
-5859.000	0.300	Cappy#lugt		#	#	#		
+5859.000	0.300	Cappy#lugt	###			VVFIN		
 5859.300	0.400	sein				PPOSAT		
 5859.700	0.600	nacken-langes				ADJA		
 5860.300	0.200	Haar		head		NN		
@@ -4932,7 +4932,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5863.500	0.100	auf				APPR		
 5863.600	0.300	einer				ART		
 5863.900	0.400	einsamen				ADJA		
-5864.300	0.600	schnurgerade				ADJA		
+5864.300	0.600	schnurgeraden				ADJA		
 5864.900	0.600	Straße		geo		NN		
 5865.500	1.200	auf				APPR		
 5866.700	0.300	einer				ART		
@@ -4947,7 +4947,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5870.300	0.800	schneebedeckte				ADJA		
 5871.100	0.100	Gipfel		geo		NN		
 5871.200	0.400	der				ART		
-5871.600	0.200	Rocky				NE		
+5871.600	0.200	Rocky				###		
 5871.800	0.200	Mountains		setting_new		NE		
 5877.300	0.400	in				APPR		
 5877.700	0.300	kurzer				ADJA		
@@ -4961,7 +4961,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5879.600	0.300	auf				APPR		
 5879.900	0.200	einer				ART		
 5880.100	0.500	Landstraße		setting_new;geo		NN		
-5881.500	0.500	Forrest		mname		NN		
+5881.500	0.500	Forrest		mname		NE		
 5882.000	0.300	kommt				VVFIN		
 5882.300	0.100	in				APPR		
 5882.400	0.700	gleichbleibendem				ADJA		
@@ -4976,7 +4976,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5885.300	0.300	gelb				ADJD		
 5885.600	0.500	orange				ADJA		
 5886.100	0.200	und				KON		
-5886.300	0.300	rot				ADJD		
+5886.300	0.300	rot				ADJA		
 5886.600	12.400	in				APPR		
 5899.000	0.400	Greenbow				NE		
 5899.400	0.200	beim				APPRART		
@@ -4994,7 +4994,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 5940.400	0.200	einem				ART		
 5940.600	0.300	Ort		setting_new		NN		
 5940.900	0.200	ein				ART		
-5941.100	0.200	junger#Mann		#	#	#		
+5941.100	0.200	junger#Mann	###			NN		
 5941.400	1.200	hängt				VVFIN		
 5942.600	0.000	sich				PRF		
 5942.600	0.200	an				APPR		
@@ -5025,13 +5025,13 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 6014.100	0.400	Autoaufkleber		object		NN		
 6014.500	0.500	shit				ADJD		
 6015.000	0.200	happens				ADV		
-6015.200	15.500	Forrest#drückt		#	#	#		
+6015.200	15.500	Forrest#drückt	###			VVFIN		
 6030.700	0.200	sich				PRF		
 6030.900	0.100	das				ART		
 6031.000	0.300	gelbe				ADJA		
 6031.300	0.400	T-Shirt		object		NN		
 6031.700	0.200	ins				APPRART		
-6031.900	0.200	verdeckte				ADJA		
+6031.900	0.200	verdreckte				ADJA		
 6032.100	0.500	Gesicht		face		NN		
 6032.600	0.100	und				KON		
 6032.700	0.200	gibt				VVFIN		
@@ -5040,7 +5040,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 6033.100	0.600	darauf				PROAV		
 6033.700	0.200	ein				ART		
 6033.900	0.700	Smiley-Abdruck		###face###		NN		
-6034.600	11.000	Forrest		mname		NN		
+6034.600	11.000	Forrest		mname		NE		
 6045.600	0.300	läuft				VVFIN		
 6045.900	0.100	mit				APPR		
 6046.000	0.200	seinen				PPOSAT		
@@ -5050,7 +5050,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 6047.000	0.300	Steppe		setting_new		NN		
 6047.300	5.200	im				APPRART		
 6052.500	0.500	Hintergrund				NN		
-6053.000	0.500	Tafelberge		geo		NE		
+6053.000	0.500	Tafelberge		geo		NN		
 6061.400	10.900	er				PPER		
 6072.300	0.200	bleibt				VVFIN		
 6072.500	0.400	stehen				VVINF		
@@ -5095,7 +5095,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 6084.000	0.200	dreht				VVFIN		
 6084.200	0.000	sich				PRF		
 6084.200	0.300	um				PTKVZ		
-6084.500	5.200	Forrest		mname		NN		
+6084.500	5.200	Forrest		mname		NE		
 6089.700	0.300	sieht				VVFIN		
 6090.000	0.200	zu				APPR		
 6090.200	0.200	den				ART		
@@ -5137,12 +5137,12 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 6120.800	0.200	sehen				VVFIN		
 6121.000	0.100	ihm				PPER		
 6121.100	0.200	nach				PTKVZ		
-6121.300	3.900	Forrest		mname		NN		
+6121.300	3.900	Forrest		mname		NE		
 6125.200	0.200	geht				VVFIN		
 6125.400	0.300	weiter				PTKVZ		
 6125.700	8.200	im				APPRART		
 6133.900	0.400	Fernseher		setting_new;object		NN		
-6134.300	0.500	Ronald				NE		
+6134.300	0.500	Ronald				###		
 6134.800	0.300	Reagan		mname		NE		
 6135.100	0.100	geht				VVFIN		
 6135.200	0.100	zu				APPR		
@@ -5153,7 +5153,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 6139.900	0.200	wird				VAFIN		
 6140.100	0.400	überwältigt				VVPP		
 6140.500	5.700	Bei				APPR		
-6146.200	0.500	Forrest		setting_rec;mname		NN		
+6146.200	0.500	Forrest		setting_rec;mname		NE		
 6146.700	0.200	Louis		fname		NE		
 6174.000	8.500	sie				PPER		
 6182.500	0.300	zeigt				VVFIN		
@@ -5175,7 +5175,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 6188.000	2.000	auf				APPR		
 6190.000	0.200	die				ART		
 6190.200	0.300	Straße		geo		NN		
-6190.500	4.100	Forrest		mname		NN		
+6190.500	4.100	Forrest		mname		NE		
 6194.600	0.200	hetzt				VVFIN		
 6194.800	0.300	weiter				PTKVZ		
 6195.100	3.600	Jenny		fname		NE		
@@ -5183,7 +5183,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 6199.000	0.200	ihre				PPOSAT		
 6199.200	0.600	Wohnungstür		setting_new;roomgeo		NN		
 6199.800	4.700	sie				PPER		
-6204.500	0.400	umarmt				ADJD		
+6204.500	0.400	umarmt				VVFIN		
 6204.900	0.100	ihn				PPER		
 6205.000	7.100	Jenny		fname		NE		
 6212.100	0.200	hat				VAFIN		
@@ -5196,9 +5196,9 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 6223.300	0.100	ihr				PPOSAT		
 6223.400	0.800	türkisfarbenes				ADJA		
 6224.200	0.800	Kellnerinnenkleid		body		NN		
-6225.000	2.200	Forrest		mname		NN		
+6225.000	2.200	Forrest		mname		NE		
 6227.200	0.100	gib				VVFIN		
-6227.300	0.100	dir				PPER		
+6227.300	0.100	ihr				PPER		
 6227.400	0.100	die				ART		
 6227.500	0.400	Schachtel		object		NN		
 6234.000	7.600	auf				APPR		
@@ -5208,13 +5208,13 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 6243.300	0.700	Runnersworld				NE		
 6244.000	0.100	und				KON		
 6244.100	0.200	vom				APPRART		
-6244.300	0.300	National				NE		
-6244.600	0.200	Enquirer				NN		
+6244.300	0.300	National				###		
+6244.600	0.200	Enquirer				NE		
 6244.800	5.500	Jenny		fname		NE		
 6250.300	0.200	schaut				VVFIN		
 6250.500	0.200	ins				APPRART		
 6250.700	0.300	Album		object		NN		
-6251.000	0.600	Forrest		mname		NN		
+6251.000	0.600	Forrest		mname		NE		
 6251.600	0.400	betrachtet				VVFIN		
 6252.000	0.200	sie				PPER		
 6252.200	3.100	sie				PPER		
@@ -5246,7 +5246,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 6303.900	0.100	läuft				VVFIN		
 6304.000	0.300	ins				APPRART		
 6304.300	0.200	Kinderzimmer		locale		NN		
-6304.500	22.300	er#starrt		#	#	#		
+6304.500	22.300	er#starrt	###			VVFIN		
 6326.800	0.500	weiter				ADV		
 6327.300	0.100	zu				APPR		
 6327.400	0.200	dem				ART		
@@ -5278,18 +5278,18 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 6354.300	0.800	Sesamstraße				NE		
 6355.100	0.200	guckt				VVPP		
 6355.300	23.900	sein				PPOSAT		
-6379.200	0.300	Blick#geht		#	#	#		
+6379.200	0.300	Blick#geht	###			VVFIN		
 6379.500	0.200	zwischen				APPR		
 6379.700	0.300	ihr				PPER		
 6380.000	0.200	und				KON		
-6380.200	0.500	Forrest				NN		
-6380.700	0.400	Junior		mname		NN		
+6380.200	0.500	Forrest				###		
+6380.700	0.400	Junior		mname		NE		
 6381.100	0.200	hin				ADV		
 6381.300	0.200	und				KON		
 6381.500	0.100	her				ADV		
 6386.600	4.500	unsicher				ADJD		
 6391.100	0.200	geht				VVFIN		
-6391.300	0.500	Forrest		mname		NN		
+6391.300	0.500	Forrest		mname		NE		
 6391.800	0.100	zu				APPR		
 6391.900	0.200	seinem				PPOSAT		
 6392.100	0.100	Sohn		male		NN		
@@ -5301,7 +5301,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 6393.400	0.200	einem				ART		
 6393.600	0.200	Kissen		object		NN		
 6393.800	0.400	sitzt				VVFIN		
-6394.200	7.400	Forrest#setzt		#	#	#		
+6394.200	7.400	Forrest#setzt	###			VVFIN		
 6401.600	0.100	sich				PRF		
 6401.700	0.600	neben				APPR		
 6402.300	0.200	ihn				PPER		
@@ -5317,8 +5317,8 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 6418.500	0.100	einem				ART		
 6418.600	0.400	Park		geo		NN		
 6419.000	0.500	schaukelt				VVFIN		
-6419.500	0.400	Forrest				NN		
-6419.900	0.300	Junior		mname		NN		
+6419.500	0.400	Forrest				###		
+6419.900	0.300	Junior		mname		NE		
 6420.200	0.400	seine				PPOSAT		
 6420.600	0.400	Eltern		persons		NN		
 6421.000	0.200	sitzen				VVFIN		
@@ -5326,7 +5326,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 6421.300	0.200	einer				ART		
 6421.500	0.100	Bank		furniture		NN		
 6421.600	51.700	vor				APPR		
-6473.300	0.700	ForrestsHaus		setting_rec		NE		
+6473.300	0.700	ForrestsHaus		setting_rec		NN		
 6474.000	0.600	elegant				ADJD		
 6474.600	0.500	gekleidete				ADJA		
 6475.100	0.000	Leute		persons		NN		
@@ -5335,8 +5335,8 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 6476.200	0.400	gelben				ADJA		
 6476.600	0.100	Kleid		body		NN		
 6476.900	0.200	geht				VVFIN		
-6477.100	0.300	zu#For		#	#	#		
-6477.400	0.300	e#st		#	#	#		
+6477.100	0.300	zu#For	###			###		
+6477.400	0.300	e#st	###			NE		
 6477.700	0.200	der				ART		
 6477.900	0.600	nachdenklich				ADJD		
 6478.500	0.200	etwas				PIS		
@@ -5351,7 +5351,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 6483.700	0.200	die				ART		
 6483.900	0.700	blumen-geschmückte				ADJA		
 6484.600	0.400	Veranda		locale_recur		NN		
-6485.000	0.700	Forrest		mname		NN		
+6485.000	0.700	Forrest		mname		NE		
 6485.700	0.200	geht				VVFIN		
 6485.900	0.200	ihr				PPER		
 6486.100	0.400	entgegen				PTKVZ		
@@ -5412,7 +5412,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 6513.800	0.300	Rasen		geo		NN		
 6514.100	0.600	eine				ART		
 6514.700	0.500	Asiatin		female		NN		
-6515.200	0.500	begleitet#ihn		#	#	#		
+6515.200	0.500	begleitet#ihn	###			PPER		
 6515.700	2.800	zögernd				ADJD		
 6518.500	0.300	geht				VVFIN		
 6518.800	0.100	er				PPER		
@@ -5483,7 +5483,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 6577.400	0.100	Wange		face		NN		
 6577.500	0.700	Dan		mname		NE		
 6578.200	0.300	sieht				VVFIN		
-6578.500	0.400	Forrest		mname		NN		
+6578.500	0.400	Forrest		mname		NE		
 6578.900	0.100	an				PTKVZ		
 6579.000	0.100	der				PDS		
 6579.100	0.900	schmunzelt			face	VVFIN		
@@ -5504,9 +5504,9 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 6605.200	0.100	den				ART		
 6605.300	0.100	Bäumen		geo		NN		
 6605.400	0.700	spazieren				VVFIN		
-6606.100	0.300	Jenny		fname		NN		
+6606.100	0.300	Jenny		fname		NE		
 6606.400	0.200	und				KON		
-6606.600	0.300	Forrest		fname		NN		
+6606.600	0.300	Forrest		fname		NE		
 6606.900	1.000	händchenhaltend				ADJD		
 6607.900	0.100	auf				APPR		
 6608.000	0.200	das				ART		
@@ -5531,23 +5531,23 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 6612.700	1.800	im				APPRART		
 6614.500	0.200	Haus		locale_recur		NN		
 6614.700	0.300	kommt				VVFIN		
-6615.000	0.500	Forrest		mname		NN		
+6615.000	0.500	Forrest		mname		NE		
 6615.500	0.100	mit				APPR		
 6615.600	0.200	einem				ART		
-6615.800	0.400	Frühstückstablet#t		#	#	#		
+6615.800	0.400	Frühstückstablet#t	###			###		
 6616.200	0.400	ins				APPRART		
 6616.600	0.600	ehemalige				ADJA		
 6617.200	0.600	Schlafzimmer		locale_recur		NN		
 6617.800	0.200	seiner				PPOSAT		
 6618.000	0.200	Mutter		female		NN		
-6618.200	2.000	abrupt#bleibt		#	#	#		
+6618.200	2.000	abrupt#bleibt	###			VVFIN		
 6620.200	0.100	er				PPER		
-6620.300	0.100	stehen				VVFIN		
+6620.300	0.100	stehen				PTKVZ		
 6620.400	0.400	und				KON		
 6620.800	0.200	starrt				VVFIN		
 6621.000	0.200	auf				APPR		
 6621.200	0.400	Jenny		fname		NE		
-6621.600	0.700	di#e		#	#	#		
+6621.600	0.700	di#e	###			ART		
 6622.300	0.200	reglos				ADJD		
 6622.500	0.100	im				APPRART		
 6622.600	0.200	Bett		furniture		NN		
@@ -5595,14 +5595,14 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 6648.000	0.100	in				APPR		
 6648.100	0.100	die				ART		
 6648.200	0.100	Hand		bodypart		NN		
-6648.300	9.900	Forrest		mname		NN		
+6648.300	9.900	Forrest		mname		NE		
 6658.200	0.200	nachts		time		ADV		
 6658.400	0.100	in				APPR		
 6658.500	0.400	Vietnam		setting_rec		NE		
 6658.900	5.700	er				PPER		
 6664.600	0.200	nimmt				VVFIN		
 6664.800	0.100	den				ART		
-6664.900	0.500	Stahlhelm		head		NE		
+6664.900	0.500	Stahlhelm		head		NN		
 6665.400	0.100	ab				PTKVZ		
 6665.500	0.200	und				KON		
 6665.700	0.200	sieht				VVFIN		
@@ -5624,24 +5624,24 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 6681.400	0.500	spiegeln				VVFIN		
 6681.900	0.100	sich				PRF		
 6682.000	0.400	Gipfel		setting_new;geo		NN		
-6682.400	1.600	Er#läuft		#	#	#		
+6682.400	1.600	Er#läuft	###			VVFIN		
 6684.000	0.300	daran				PROAV		
 6684.300	0.300	entlang				PTKVZ		
-6684.600	12.000	Forrest		mname		NN		
+6684.600	12.000	Forrest		mname		NE		
 6696.600	0.100	mit				APPR		
 6696.700	0.500	zotteligem				ADJA		
 6697.200	0.200	Haar		head		NN		
 6697.400	0.300	und				KON		
-6697.700	0.100	Bart		face		NE		
+6697.700	0.100	Bart		face		NN		
 6697.800	10.500	am				APPRART		
 6708.300	0.200	Bett		setting_new;furniture		NN		
 6708.500	0.200	sieht				VVFIN		
-6708.700	0.200	Forrest		mname		NN		
+6708.700	0.200	Forrest		mname		NE		
 6708.900	0.700	abwesend				ADJD		
 6709.600	0.100	vor				APPR		
 6709.700	0.200	sich				PRF		
 6709.900	0.100	hin				ADV		
-6710.000	0.600	Jenny		fname		NN		
+6710.000	0.600	Jenny		fname		NE		
 6710.600	0.200	blickt				VVFIN		
 6710.800	0.500	versonnen				VVINF		
 6711.300	0.100	zum				APPRART		
@@ -5662,7 +5662,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 6726.100	0.300	nimmt				VVFIN		
 6726.400	0.200	seine				PPOSAT		
 6726.600	0.200	Hand		bodypart		NN		
-6726.800	6.400	Forrest		mname		NN		
+6726.800	6.400	Forrest		mname		NE		
 6733.200	0.400	sieht				VVFIN		
 6733.600	0.000	sie				PPER		
 6733.600	0.400	zärtlich				ADJD		
@@ -5671,7 +5671,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 6738.600	0.200	steht				VVFIN		
 6738.800	0.200	am				APPRART		
 6739.000	0.300	Grabstein		setting_new;object		NN		
-6739.300	0.600	um#den#ein		#	#	#		
+6739.300	0.600	um#den#ein	###			ART		
 6739.900	0.200	Kranz		object		NN		
 6740.100	0.200	aus				APPR		
 6740.300	0.400	Steinen		object		NN		
@@ -5708,7 +5708,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 6839.600	0.200	einem				ART		
 6839.800	0.600	Blumenstrauß		object		NN		
 6840.400	0.400	lehnt				VVFIN		
-6840.800	0.100	er#den		#	#	#		
+6840.800	0.100	er#den	###			ART		
 6840.900	0.300	Brief		object		NN		
 6841.200	0.100	an				APPR		
 6841.300	0.200	den				ART		
@@ -5720,7 +5720,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 6843.300	0.100	in				APPR		
 6843.400	0.600	Kinderschrift				NN		
 6844.000	0.400	Mom				NE		
-6844.500	1.400	Forres#t		#	#	#		
+6844.500	1.400	Forres#t	###			NE		
 6845.900	0.300	tritt				VVFIN		
 6846.200	0.200	wieder				ADV		
 6846.400	0.100	aus				APPR		
@@ -5734,7 +5734,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 6920.100	0.200	Kopf		head		NN		
 6920.300	0.600	entfernt				VVFIN		
 6920.900	0.200	sich				PRF		
-6921.100	0.300	Forrest		mname		NN		
+6921.100	0.300	Forrest		mname		NE		
 6921.400	0.200	von				APPR		
 6921.600	0.100	dem				ART		
 6921.700	0.300	Grab		geo		NN		
@@ -5760,12 +5760,12 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 6928.000	0.200	durch				APPR		
 6928.200	0.200	eine				ART		
 6928.400	0.300	Baumkrone		geo		NN		
-6933.900	0.900	Hinter#Forrest		#	#	#		
+6933.900	0.900	Hinter#Forrest	###			NE		
 6934.800	0.300	fliegt				VVFIN		
 6935.100	0.100	ein				ART		
 6935.200	0.500	Vogelschwarm				NN		
 6935.700	0.400	vorbei				PTKVZ		
-6938.600	2.300	Forrest#sieht		#	#	#		
+6938.600	2.300	Forrest#sieht	###			VVFIN		
 6940.900	0.200	ihm				PPER		
 6941.100	0.200	nach				PTKVZ		
 6945.000	0.300	an				APPR		
@@ -5778,11 +5778,11 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 6946.800	0.200	auf				APPR		
 6947.000	0.100	einem				ART		
 6947.100	0.500	Baumstumpf		object		NN		
-6947.600	3.900	Er#zieht#das#Curious#George#Buch		#	#	#		
+6947.600	3.900	Er#zieht#das#Curious#George#Buch	###			###		
 6951.500	0.100	aus				APPR		
 6951.600	0.300	der				ART		
 6951.900	0.200	Schultasche		object		NN		
-6952.100	11.900	Forrest		mname		NN		
+6952.100	11.900	Forrest		mname		NE		
 6964.000	0.200	blättert				VVFIN		
 6964.200	0.300	darin				PROAV		
 6964.500	0.300	die				ART		
@@ -5809,8 +5809,8 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 6974.000	0.300	einer				ART		
 6974.300	0.800	Frühstückstüte		object		NN		
 6975.100	0.100	geht				VVFIN		
-6975.200	0.500	Forrest				NN		
-6975.700	0.300	Junior		mname		NN		
+6975.200	0.500	Forrest				###		
+6975.700	0.300	Junior		mname		NE		
 6976.000	0.200	zur				APPRART		
 6976.200	0.300	Bustür		object		NN		
 6977.500	15.000	der				ART		
@@ -5827,14 +5827,14 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 7003.500	0.200	ihn				PPER		
 7003.700	0.100	an				PTKVZ		
 7003.800	0.400	der				ART		
-7004.200	0.300	kleine				ADJA		
+7004.200	0.300	kleine				###		
 7004.500	0.300	winkt				VVFIN		
 7004.800	0.200	seinem				PPOSAT		
 7005.000	0.300	Vater		male		NN		
 7005.300	0.200	und				KON		
 7005.500	0.200	steigt				VVFIN		
 7005.700	0.200	ein				PTKVZ		
-7006.700	11.100	Forrest#sieht		#	#	#		
+7006.700	11.100	Forrest#sieht	###			VVFIN		
 7017.800	0.200	dem				ART		
 7018.000	0.100	Bus		object		NN		
 7018.100	0.300	nach				PTKVZ		
@@ -5851,7 +5851,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 7026.300	0.200	vor				APPR		
 7026.500	0.200	sich				PRF		
 7026.700	0.100	hin				ADV		
-7026.800	3.600	Forrest#Hände		#	#	#		
+7026.800	3.600	Forrest#Hände	###			NN		
 7030.400	0.600	ruhen				VVFIN		
 7031.000	0.600	auf				APPR		
 7031.600	0.300	seinen				PPOSAT		
@@ -5883,7 +5883,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 7049.600	0.500	sanft				VVINF		
 7050.100	0.800	unten				ADV		
 7050.900	0.300	sitzt				VVFIN		
-7051.200	0.200	Forrest		mname		NN		
+7051.200	0.200	Forrest		mname		NE		
 7051.400	0.500	immer				ADV		
 7051.900	0.000	noch				ADV		
 7051.900	0.200	auf				APPR		
@@ -5914,7 +5914,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 7067.000	0.500	hindurch				PROAV		
 7070.900	0.300	die				ART		
 7071.200	0.400	Feder		object		NN		
-7071.600	0.300	singt				VVFIN		
+7071.600	0.300	sinkt				VVFIN		
 7071.900	0.200	etwas				PIS		
 7072.100	0.400	herab				ADV		
 7072.500	0.500	und				KON		
