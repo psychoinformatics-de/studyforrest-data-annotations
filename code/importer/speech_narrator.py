@@ -6,7 +6,7 @@ import pandas as pd
 
 # read the annotation
 # TO DO: skiprows flagged with '???' here already?
-df = pd.read_csv(opj('src', 'voice', 'speech_narrator.csv'))
+df = pd.read_csv(opj('src', 'voice', 'data', 'audio-description-by-word.csv'))
 
 # # drop rows with whole sentences as flagged with '???' in column 1
 df = df.loc[df.iloc[:,1] != '???']
@@ -23,7 +23,7 @@ df.iloc[:,1] = df.iloc[:,1] - df.iloc[:,0]
 df.rename(columns=dict(start='onset', end='duration'), inplace=True)
 
 df.to_csv(
-    opj('researchcut', 'speech_narrator.tsv'),
+    opj('researchcut', 'audio-description-by-word.tsv'),
     index=False,
     sep='\t',
     float_format='%.3f')

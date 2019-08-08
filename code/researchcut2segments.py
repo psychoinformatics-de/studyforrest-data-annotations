@@ -237,9 +237,6 @@ if __name__ == "__main__":
             # all splendid for now
             pass
 
-        else:
-            raise ValueError('%s is an unknown annotation', basename(input_file))
-
         row['onset'] = round(onset_in_seg, 3)
 
         # append that shit
