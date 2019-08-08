@@ -10,20 +10,20 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 37.146	0.3	mit				APPR		
 37.446	0.2	roter				ADJA		
 37.646	0.4	Armbinde		object		NN		
-50.846	13.3	Forrest#starrt		#	#	#		
+50.846	13.3	Forrest#starrt	###			VVFIN		
 64.146	0.4	zu				APPR		
 64.546	0.3	Jenny		fname		NE		
 64.846	0.1	und				KON		
 64.946	0.4	Wesley		mname		NE		
 65.346	0.1	die				ART		
 65.446	0.1	sich				PRF		
-65.546	0.4	streiten				VVINF		
+65.546	0.4	streiten				VVFIN		
 65.946	5.8	Wesley		male		NE		
 71.746	0.2	ohrfeigt				VVFIN		
 71.946	0.5	Jenny		fname		NE		
 72.446	2.9	in				APPR		
 75.346	0.5	Zeitlupe				NN		
-75.846	0.6	Forrest		mname		NN		
+75.846	0.6	Forrests		mname		NE		
 76.446	0.5	Augen		face		NN		
 76.946	0.3	weiten				VVFIN		
 77.246	0.2	sich				PRF		
@@ -93,8 +93,8 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 120.446	0.5	Lederjacke		body		NN		
 120.946	5.4	vor				APPR		
 126.346	0.1	dem				ART		
-126.446	0.3	Weißen				ADJA		
-126.746	0.1	Haus		setting_new;geo		NN		
+126.446	0.3	Weißen				#		
+126.746	0.1	Haus		setting_new;geo		NE		
 126.846	0.4	geht				VVFIN		
 127.246	0.2	Jenny		fname		NE		
 127.446	0.2	mit				APPR		
@@ -127,18 +127,18 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 149.846	0.2	wischt				VVFIN		
 150.046	0.0	über				APPR		
 150.046	0.5	Forrests		mname		NE		
-150.546	0.6	Ärmel		bodypart		NE		
+150.546	0.6	Ärmel		bodypart		NN		
 151.146	20.2	Jenny		fname		NE		
 171.346	0.3	harkt				VVFIN		
 171.646	0.2	sich				PRF		
-171.846	0.2	bei#ihm		#	#	#		
+171.846	0.2	bei#ihm	###			PPER		
 172.046	0.4	unter				PTKVZ		
-172.446	7.7	Jenny		fname		NN		
+172.446	7.7	Jenny		fname		NE		
 180.146	0.2	beim				APPRART		
 180.346	0.5	Trampen		setting_new		NN		
 180.846	7.4	sie		female		PPER		
 188.246	0.2	nimmt				VVFIN		
-188.446	0.2	LSD				NE		
+188.446	0.2	LSD				NN		
 188.646	8.1	als				APPR		
 196.746	0.8	Straßenmusikant		person		NN		
 197.546	0.1	auf				APPR		
@@ -155,9 +155,9 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 215.746	0.3	einem				ART		
 216.046	0.2	alten				ADJA		
 216.246	0.2	Bus		setting_new;object		NN		
-216.446	2.4	z#ö		#	#	#		
-218.846	0.4	n#ä		#	#	#		
-219.246	0.2	h#er#t		#	#	#		
+216.446	2.4	z#ö	###			###		
+218.846	0.4	n#ä	###			###		
+219.246	0.2	h#er#t	###			###		
 219.446	0.1	sich				PRF		
 219.546	0.5	Wesley		mname		NE		
 220.046	9.2	Jenny		fname		NE		
@@ -184,8 +184,8 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 249.246	0.3	und				KON		
 249.546	0.2	wendet				VVFIN		
 249.746	0.1	sich				PRF		
-249.846	0.5	kurz#ab		#	#	#		
-262.946	1.1	Forrest		mname		NN		
+249.846	0.5	kurz#ab	###			PTKVZ		
+262.946	1.1	Forrest		mname		NE		
 264.046	0.4	öffnet				VVFIN		
 264.446	0.2	das				ART		
 264.646	0.2	blaue				ADJA		
@@ -215,7 +215,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 307.646	0.5	Einsteigen				NN		
 308.146	0.6	lächelt				VVFIN		
 308.746	0.1	sie				PPER		
-308.846	0.5	Forrest		mname		NN		
+308.846	0.5	Forrest		mname		NE		
 309.346	0.6	er				PPER		
 309.946	0.5	lächelt				VVFIN		
 310.446	0.1	zurück				PTKVZ		
@@ -225,25 +225,25 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 311.946	0.0	mal				ADV		
 311.946	0.4	ernst				ADJD		
 312.346	0.2	zu				PTKVZ		
-312.546	1.1	Forrest		mname		NN		
+312.546	1.1	Forrest		mname		NE		
 313.646	0.4	kneift				VVFIN		
 314.046	0.3	finster				ADJD		
 314.346	0.1	die				ART		
 314.446	0.3	Augen		face		NN		
 314.746	0.4	zusammen				PTKVZ		
-315.146	8.3	Jenny		fname		NN		
+315.146	8.3	Jenny		fname		NE		
 323.446	0.4	klopft				VVFIN		
 323.846	0.0	gegen				APPR		
 323.846	0.2	die				ART		
 324.046	0.5	Heckscheibe		roomgeo		NN		
 324.546	0.2	und				KON		
 324.746	0.3	winkt				VVFIN		
-325.046	0.3	Forrest		mname		NN		
+325.046	0.3	Forrest		mname		NE		
 325.346	0.2	zu				PTKVZ		
 329.346	0.4	sie				PPER		
 329.746	0.2	macht				VVFIN		
 329.946	0.1	das				ART		
-330.046	0.4	v-förmige				NN		
+330.046	0.4	v-förmige				ADJA		
 330.446	0.7	Peace-Zeichen				NN		
 331.146	0.5	er				PPER		
 331.646	0.6	erwidert				VVFIN		
@@ -267,7 +267,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 348.546	0.2	und				KON		
 348.746	0.4	Patienten		persons		NN		
 349.146	0.3	gucken				VVFIN		
-349.446	0.4	Forrest		mname		NN		
+349.446	0.4	Forrest		mname		NE		
 349.846	0.1	zu				APPR		
 349.946	0.2	der				ART		
 350.146	0.2	allein				ADV		
@@ -277,7 +277,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 351.146	0.1	und				KON		
 351.246	0.2	drei				CARD		
 351.446	0.4	Bällen		object		NN		
-351.846	0.3	PingPong				NE		
+351.846	0.3	PingPong				NN		
 352.146	0.2	spielt				VVFIN		
 389.346	3.9	der				ART		
 393.246	0.4	Talkmaster		male		NN		
@@ -285,7 +285,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 394.146	0.3	Cavett		mname		NE		
 394.446	0.2	steht				VVFIN		
 394.646	0.2	auf		setting_new		PTKVZ		
-394.846	0.6	Forrest		mname		NN		
+394.846	0.6	Forrest		mname		NE		
 395.446	0.3	kommt				VVFIN		
 395.746	0.2	in				APPR		
 395.946	0.1	einem				ART		
@@ -298,13 +298,13 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 398.946	12.7	John				NE		
 411.646	0.3	Lennon		mname		NE		
 411.946	0.4	raucht				VVFIN		
-412.346	8.5	Forrest				NN		
+412.346	8.5	Forrest				NE		
 420.846	0.4	guckt		mname		VVFIN		
 421.246	0.2	John				NE		
 421.446	0.2	Lennon		mname		NE		
 421.646	0.4	irritiert				ADJD		
 422.046	0.2	an				PTKVZ		
-422.246	26.0	Forrest		mname		NN		
+422.246	26.0	Forrest		mname		NE		
 448.246	0.5	verlässt				VVFIN		
 448.746	0.2	das				ART		
 448.946	0.1	Gebäude		setting_new;geo		NN		
@@ -358,8 +358,8 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 521.746	0.5	Verkehrsstau		setting_new		NN		
 522.246	7.6	ein				ART		
 529.846	0.4	Taxi		object		NN		
-530.246	0.5	bremst#dicht		#	#	#		
-530.746	0.3	vor#ihnen		#	#	#		
+530.246	0.5	bremst#dicht	###			###		
+530.746	0.3	vor#ihnen	###			PPER		
 531.046	12.1	im				APPRART		
 543.146	0.6	Fernsehen		setting_new		NN		
 543.746	0.6	mitsingende				ADJA		
@@ -375,8 +375,8 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 551.446	0.6	Weihnachtsfeier				NN		
 552.046	0.1	mit				APPR		
 552.146	0.3	Bob				NE		
-552.446	4.7	tausende				VVFIN		
-557.146	0.1	die				ART		
+552.446	4.7	tausende				###		
+557.146	0.1	die				###		
 557.246	0.2	Gis		persons		NN		
 557.446	0.3	stehen				VVFIN		
 557.746	0.2	auf				PTKVZ		
@@ -392,7 +392,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 579.846	0.2	eine				ART		
 580.046	0.1	leere				ADJA		
 580.146	0.2	Flasche		object		NN		
-580.346	16.1	er#öffnet		#	#	#		
+580.346	16.1	er#öffnet	###			VVFIN		
 596.446	0.2	einen				ART		
 596.646	0.3	leeren				ADJA		
 596.946	0.4	Flachmann		object		NN		
@@ -407,10 +407,10 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 625.046	1.4	lässt				VVFIN		
 626.446	0.1	sie				PPER		
 626.546	0.2	wieder				ADV		
-626.746	0.4	einfallen				VVINF		
+626.746	0.4	reinfallen				VVINF		
 629.146	2.7	Dan		mname		NE		
-631.846	0.4	rollt#zu		#	#	#		
-632.246	0.5	Forrest		mname		NN		
+631.846	0.4	rollt#zu	###			APPR		
+632.246	0.5	Forrest		mname		NE		
 632.746	0.2	der				ART		
 632.946	0.1	auf				APPR		
 633.046	0.1	dem				ART		
@@ -419,7 +419,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 633.746	6.8	in				APPR		
 640.546	0.2	einer				ART		
 640.746	0.0	Bar		setting_new		NN		
-689.146	36.3	Sie#zeigt		#	#	#		
+689.146	36.3	Sie#zeigt	###			VVFIN		
 725.446	0.2	zum				APPRART		
 725.646	0.3	Fernseher		object		NN		
 725.946	12.0	die				PDS		
@@ -436,7 +436,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 744.846	0.1	New				NE		
 744.946	0.3	York				NE		
 745.246	0.5	Jenny		female		NE		
-745.746	0.6	packt#eilig		#	#	#		
+745.746	0.6	packt#eilig	###			ADJD		
 746.346	0.3	Sachen		###		NN		
 746.646	0.1	in				APPR		
 746.746	0.2	ihre				PPOSAT		
@@ -478,7 +478,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 773.946	0.5	Fernseher		object		NN		
 774.446	0.2	leuchtet				VVFIN		
 774.646	1.7	1972		time		CARD		
-776.346	1.0	Forrest#trägt		#	#	#		
+776.346	1.0	Forrest#trägt	###			VVFIN		
 777.346	0.1	ein				ART		
 777.446	0.5	Partyhütchen		object		NN		
 777.946	0.7	Leute		persons		NN		
@@ -488,7 +488,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 780.346	0.2	und				KON		
 780.546	0.3	Lenore		fname		NE		
 780.846	0.2	küssen				VVFIN		
-781.046	0.6	Forrest		mname		NN		
+781.046	0.6	Forrest		mname		NE		
 781.646	0.1	auf				APPR		
 781.746	0.1	die				ART		
 781.846	0.3	Wangen		face		NN		
@@ -519,7 +519,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 855.532	0.4	Aufschrift				NN		
 855.932	0.8	Watergate				NE		
 856.732	0.1	Hotel				NE		
-856.832	1.9	Nixon				NN		
+856.832	1.9	Nixon				NE		
 858.732	0.1	im				APPRART		
 858.832	0.5	Fernsehen		setting_rec		NN		
 859.332	11.1	in				APPR		
@@ -535,20 +535,20 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 873.332	0.3	und				KON		
 873.632	0.3	steuert				VVFIN		
 873.932	0.2	auf				APPR		
-874.132	0.4	Forrest		mname		NN		
+874.132	0.4	Forrest		mname		NE		
 874.532	0.2	zu				APPR		
 874.732	0.2	der				ART		
 874.932	0.7	allein				ADV		
 875.632	0.4	spielt				VVFIN		
-880.432	8.5	er#gibt		#	#	#		
-888.932	0.5	Forrest		mname		NN		
+880.432	8.5	er#gibt	###			VVFIN		
+888.932	0.5	Forrest		mname		NE		
 889.432	0.1	einen				ART		
 889.532	0.4	Umschlag		object		NN		
 889.932	0.3	und				KON		
 890.232	0.2	geht				VVFIN		
 890.432	6.4	verwirrt				ADJD		
 896.832	0.1	sieht				VVFIN		
-896.932	0.4	Forrest		mname		NN		
+896.932	0.4	Forrest		mname		NE		
 897.332	0.2	zur				APPRART		
 897.532	0.2	Tür		roomgeo		NN		
 897.732	12.0	er				PPER		

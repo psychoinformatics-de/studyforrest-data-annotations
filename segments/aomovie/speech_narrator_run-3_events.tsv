@@ -5,8 +5,8 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 24.847	0.1	sind				VAFIN		
 24.947	0.2	in				APPR		
 25.147	0.5	Unterwäsche		body		NN		
-25.647	18.1	jeder#setzt		#	#	#		
-43.747	0.2	sei#n		#	#	#		
+25.647	18.1	jeder#setzt	###			VVFIN		
+43.747	0.2	sei#n	###			###		
 43.947	0.2	Gewehr		object		NN		
 44.147	0.4	zusammen				PTKVZ		
 79.647	15.9	Sie				PPER		
@@ -26,7 +26,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 120.547	0.2	wach				ADJD		
 120.747	0.0	im				APPRART		
 120.747	0.2	Bett		furniture		NN		
-120.947	10.8	Forrest		mname		NN		
+120.947	10.8	Forrest		mname		NE		
 131.747	0.4	liegt				VVFIN		
 132.147	0.3	oben				ADV		
 132.447	0.1	im				APPRART		
@@ -38,7 +38,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 134.147	0.2	einem				ART		
 134.347	0.2	Playboy		object		NN		
 134.547	0.4	zu				PTKVZ		
-139.647	1.3	Forrest#schaut		#	#	#		
+139.647	1.3	Forrest#schaut	###			VVFIN		
 140.947	0.3	in				APPR		
 141.247	0.0	die				ART		
 141.247	0.4	Zeitschrift		object		NN		
@@ -57,11 +57,11 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 147.847	0.6	College-Jacke		body		NN		
 148.447	1.6	ungläubig				ADJD		
 150.047	0.4	starrt				VVFIN		
-150.447	0.5	Forrest		mname		NN		
+150.447	0.5	Forrest		mname		NE		
 150.947	0.2	auf				APPR		
 151.147	0.1	das				ART		
 151.247	0.3	Foto		object		NN		
-151.547	10.0	Bab#y		#	#	#		
+151.547	10.0	Bab#y	###			###		
 161.547	1.0	Er				PPER		
 162.547	1.2	kommt				VVFIN		
 163.747	0.1	in				APPR		
@@ -112,18 +112,18 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 246.247	0.2	tritt				VVFIN		
 246.447	0.2	seine				PPOSAT		
 246.647	0.2	Hand		bodypart		NN		
-246.847	2.9	weg#er#schüttet		#	#	#		
+246.847	2.9	weg#er#schüttet	###			VVFIN		
 249.747	0.2	sein				PPOSAT		
 249.947	0.2	Bier		object		NN		
 250.147	0.3	über				APPR		
 250.447	0.2	ihre				PPOSAT		
 250.647	0.3	Füße		bodypart		NN		
-250.947	6.1	Forrest		mname		NN		
+250.947	6.1	Forrest		mname		NE		
 257.047	0.4	marschiert				VVFIN		
 257.447	0.1	mit				APPR		
 257.547	0.5	grimmiger				ADJA		
 258.047	0.1	Miene		face		NN		
-258.147	0.6	nach#vorn		#	#	#		
+258.147	0.6	nach#vorn	###			APPR		
 259.547	0.3	Er				PPER		
 259.847	0.2	packt				VVFIN		
 260.047	0.2	den				ART		
@@ -136,7 +136,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 261.447	0.1	zu				APPR		
 261.547	0.2	Boden				NN		
 261.747	2.1	er				PPER		
-263.847	0.3	schubst				ADV		
+263.847	0.3	schubst				VVFIN		
 264.147	0.1	noch				ADV		
 264.247	0.3	einen				PIS		
 264.547	0.1	um				PTKVZ		
@@ -165,7 +165,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 275.447	0.1	von				APPR		
 275.547	0.1	der				ART		
 275.647	0.3	Bühne		roomgeo		NN		
-275.947	0.6	Forrest		mname		NN		
+275.947	0.6	Forrest		mname		NE		
 276.547	0.3	hetzt				VVFIN		
 276.847	0.1	ihr				PPER		
 276.947	0.2	nach				PTKVZ		
@@ -176,9 +176,9 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 278.447	20.3	Jenny		fname		NE		
 298.747	0.4	schaut				VVFIN		
 299.147	0.3	nachdenklich				ADJD		
-299.447	0.5	aus				APPR		
+299.447	0.5	aufs				APPR		
 299.947	0.3	Wasser		geo		NN		
-301.247	0.7	Forrest		mname		NN		
+301.247	0.7	Forrest		mname		NE		
 301.947	0.1	betrachtet				VVFIN		
 302.047	0.4	sie				PPER		
 302.447	19.6	Sie				PPER		
@@ -191,7 +191,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 324.047	0.4	Geländers		furniture		NN		
 324.447	1.2	beunruhigt				ADJD		
 325.647	0.1	sieht				VVFIN		
-325.747	0.4	Forrest		mname		NN		
+325.747	0.4	Forrest		mname		NE		
 326.147	0.1	sie				PPER		
 326.247	0.2	von				APPR		
 326.447	0.3	unten				ADV		
@@ -247,7 +247,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 404.252	3.5	er				PPER		
 407.752	0.1	schaut				VVFIN		
 407.852	0.2	zu				APPR		
-408.052	0.3	Forrest		mname		NN		
+408.052	0.3	Forrest		mname		NE		
 408.352	0.1	und				KON		
 408.452	0.3	Bubba		fname		NE		
 408.752	0.4	neben				APPR		
@@ -256,7 +256,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 409.552	0.4	beiden				PIAT		
 409.952	0.3	weichen				VVFIN		
 410.252	0.2	seinem				PPOSAT		
-410.452	0.2	Blick		###		NN		
+410.452	0.2	Blick				NN		
 410.652	0.7	eingeschüchtert				VVPP		
 411.352	0.1	aus				PTKVZ		
 411.452	7.1	der				ART		
@@ -275,7 +275,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 423.152	0.1	ihn				PPER		
 423.252	0.7	Bubba		mname		NE		
 423.952	0.1	und				KON		
-424.052	0.4	Forrest		mname		NN		
+424.052	0.4	Forrest		mname		NE		
 424.452	0.3	springen				VVFIN		
 424.752	0.2	mit				APPR		
 424.952	0.3	ihren				PPOSAT		
@@ -284,7 +284,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 426.052	20.8	an				APPR		
 446.852	0.2	einem				ART		
 447.052	0.2	Fluss		geo		NN		
-447.252	0.5	grillen				ADJA		
+447.252	0.5	grillen				VVFIN		
 447.752	0.5	Soldaten		male		NN		
 448.252	0.2	zwischen				APPR		
 448.452	0.4	Palmen		geo		NN		
@@ -292,7 +292,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 449.152	0.3	trinken				VVFIN		
 449.452	0.1	Bier		object		NN		
 449.552	0.8	einige				PIAT		
-450.352	0.2	spielen				ADJA		
+450.352	0.2	spielen				VVFIN		
 450.552	0.4	Karten		object		NN		
 450.952	0.4	im				APPRART		
 451.352	0.6	Hintergrund				NN		
@@ -302,7 +302,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 452.852	0.3	den				ART		
 453.152	0.2	Fluss		geo		NN		
 453.352	0.4	entlang				PTKVZ		
-453.752	0.8	Forrest		mname		NN		
+453.752	0.8	Forrest		mname		NE		
 454.552	0.1	und				KON		
 454.652	0.0	Bubba		mname		NE		
 454.652	0.5	gehen				VVFIN		
@@ -319,19 +319,19 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 473.852	24.0	Bubba		male		NE		
 497.852	0.2	zieht				VVFIN		
 498.052	0.1	die				ART		
-498.152	0.4	Unterlippe		face		NE		
+498.152	0.4	Unterlippe		face		NN		
 498.552	0.2	ein				PTKVZ		
-498.752	6.4	Forrest		mname		NN		
+498.752	6.4	Forrest		mname		NE		
 505.152	0.2	und				KON		
 505.352	0.2	Bubba		mname		NE		
 505.552	0.4	mustern				VVFIN		
 505.952	0.2	sich				PRF		
 506.152	0.3	und				KON		
-506.452	0.1	schüttelt				VVFIN		
+506.452	0.1	schütteln				VVFIN		
 506.552	0.3	den				ART		
 506.852	0.1	Kopf		head		NN		
 506.952	7.4	sie				PPER		
-514.352	0.5	folgen#Dan		#	#	#		
+514.352	0.5	folgen#Dan	###			NE		
 518.252	40.8	Soldaten		male		NN		
 559.052	0.2	die				ART		
 559.252	0.2	genau				ADJD		
@@ -358,7 +358,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 604.352	4.9	auf				APPR		
 609.252	0.2	Patrouille				NN		
 609.452	0.4	gehen				VVFIN		
-609.852	0.5	Forrest		mname		NN		
+609.852	0.5	Forrest		mname		NE		
 610.352	0.1	und				KON		
 610.452	0.1	Bubba		mname		NE		
 610.552	0.3	mit				APPR		
@@ -388,7 +388,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 624.152	0.1	eine				ART		
 624.252	0.3	Sandpiste		geo		NN		
 624.552	0.6	entlang				PTKVZ		
-625.152	11.2	Forrest#Gesicht		#	#	#		
+625.152	11.2	Forrest#Gesicht	###			NN		
 636.352	0.4	ist				VAFIN		
 636.752	0.4	schmutzig				ADJD		
 637.152	0.2	unter				APPR		
@@ -408,7 +408,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 641.852	0.1	die				ART		
 641.952	0.1	Faust		bodypart		NN		
 642.052	2.7	der				ART		
-644.752	0.2	Trupp		males		NE		
+644.752	0.2	Trupp		males		NN		
 644.952	0.2	hockt				VVFIN		
 645.152	0.2	sich				PRF		
 645.352	0.3	links				ADV		
@@ -459,7 +459,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 678.052	0.2	ein				ART		
 678.252	10.6	Soldat		male		NN		
 688.852	0.1	mit				APPR		
-688.952	0.4	Hornbrille		object		NE		
+688.952	0.4	Hornbrille		object		NN		
 689.352	3.1	ein				ART		
 692.452	0.5	Schwarzer		male		NN		
 692.952	10.6	vorne				ADV		
@@ -469,7 +469,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 704.352	0.3	wieder				ADV		
 704.652	0.1	auf				PTKVZ		
 704.752	21.9	hinter				APPR		
-726.652	0.3	Da#n		#	#	#		
+726.652	0.3	Da#n	###			NE		
 727.052	0.6	fliegt				VVFIN		
 727.652	0.3	Erde				NN		
 727.952	0.2	hoch		setting_new		PTKVZ		
@@ -481,7 +481,7 @@ onset	duration	text	kommentar	loc_besch	loc_erw	w_class	function	grammar
 737.252	0.1	Wasser		geo		NN		
 737.352	0.6	wartet				VVFIN		
 737.952	0.3	der				ART		
-738.252	0.1	Trupp		males		NE		
+738.252	0.1	Trupp		males		NN		
 738.352	0.2	durch				APPR		
 738.552	0.2	ein				ART		
 738.752	0.4	Reisfeld		setting_new;geo		NN		

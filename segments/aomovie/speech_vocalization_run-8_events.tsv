@@ -1,0 +1,256 @@
+onset	duration	person	FG	kind	prosody	sentence_grammar	text	commentary
+5.738	2.72	ERZAEHLER	1	speech	regular	HS	Auf einem Spielplatz in einem Park schaukelt Forrest Junior.	
+8.618	1.44	ERZAEHLER	1	speech	regular	HS	Seine Eltern sitzen auf einer Bank.	
+11.618	0.68	JENNY	1	speech	regular	address	Forrest	
+14.578	0.88	JENNY	1	speech	regular	HS	Ich bin krank.	
+18.658	0.44	FORREST	1	speech	asking	question	Was ist?	
+19.138	0.6	FORREST	1	speech	asking	question	Hast du Husten?	
+19.778	0.8	FORREST	1	speech	asking	question	Bist du erkältet?	
+22.098	1.68	JENNY	1	speech	regular	HS	Ich hab so eine Art Virus.	
+24.778	1.32	JENNY	1	speech	regular	HS	Und die Ärzte wissen...	
+26.458	2.68	JENNY	1	speech	regular	complex	....wissen nicht, was es ist. Sie können nichts dagegen tun. Es gibt nichts.	
+31.258	0.72	GIRL IN BACKGROUND	0	non	regular	none	iiiiiiiigh	
+34.458	1.56	FORREST	1	speech	exclamation	imperative	Dann komm doch mit mir nach Haus!	
+38.258	0.44	FORREST	1	speech	regular	address	Jenny	
+38.738	0.52	FORREST	1	speech	regular	none	Du und...	
+39.898	1.0	FORREST	1	speech	regular	none	...der kleine Forrest	
+41.098	0.84	FORREST	1	speech	regular	HS	Ihr kommt mit in...	
+42.338	1.44	FORREST	1	speech	regular	none	...in mein Haus in Greenbow.	
+47.818	2.08	FORREST	1	speech	regular	###	Wenn du krank bist, kann ich für dich Sorgen.	
+52.698	0.96	JENNY	1	speech	asking	question	Würdest du mich heiraten?	
+53.698	0.52	JENNY	1	speech	regular	address	Forrest	
+60.258	0.8	FORREST	1	speech	regular	none	Okay	
+61.298	2.36	ERZAEHLER	1	speech	regular	HS	Vor Forrests Haus elegant gekleidete Leute.	
+62.458	1.64	###	0	speech	regular	HS	Ja, ich wollte erst ein anderes Kleid.	
+63.858	3.8	ERZAEHLER	1	speech	regular	HS;NS	Louise, in gelbem Kleid, geht zu Forrest, der nachdenklich etwas abseits steht.	
+67.698	0.56	LOUISE	1	speech	regular	address	Forrest	
+69.098	0.88	LOUISE	1	speech	regular	HS	Wir müssen anfangen.	
+70.778	2.48	ERZAEHLER	1	speech	regular	HS	Jenny kommt aus dem Haus auf die blumengeschmückte Veranda.	
+73.538	1.2	ERZAEHLER	1	speech	regular	HS	Forrest geht ihr entgegen.	
+75.298	4.6	ERZAEHLER	1	speech	regular	HS	Er trägt einen hellgrauen Anzug mit einem Sträußchen im Knopfloch und eine dunkle geblümte Krawatte.	
+80.498	2.32	ERZAEHLER	1	speech	regular	HS	Jenny steigt barfuß die Stufen zu ihm herunter.	
+83.258	13.4	WEDDING GUESTS	0	speech	regular			###BG noise###
+83.298	4.6	ERZAEHLER	1	speech	regular	HS	Sie trägt ein cremefarbenes schlichtes Brautkleid mit Puffärmeln und einen Blumenkranz im Haar.	
+88.498	0.32	JENNY	1	speech	regular	address	Hi	
+90.818	0.68	JENNY	1	speech	regular	none	Deine Krawatte	
+91.738	0.92	ERZAEHLER	1	speech	regular	HS	Jenny richtet sie.	
+96.658	1.36	ERZAEHLER	1	speech	regular	HS	Die beiden blicken zur Zufahrt.	
+98.298	2.32	ERZAEHLER	1	speech	regular	none	Aufrecht gehend, auf einen Stock gestützt, kommt...	
+101.338	1.04	ERZAEHLER	1	speech	regular	none	...Dan über den Rasen. 	
+102.698	1.36	ERZAEHLER	1	speech	regular	HS	Eine Asiatin begleitet ihn.	
+102.738	97.16	OST	1	song	instrumental			
+104.258	1.36	FORREST	1	speech	exclamation	none	Lt. Dan	###exclamation###
+106.338	1.64	ERZAEHLER	1	speech	regular	HS	Zögernd geht er auf das Paar zu.	
+108.618	2.24	ERZAEHLER	1	speech	regular	HS	Dan nähert sich langsam mit steifen Schritten.	
+111.378	3.68	ERZAEHLER	1	speech	regular	AND	Er hat kurzgeschnittenes Haar, ist glatt rasiert und trägt einen hellen Anzug.	
+115.578	2.4	ERZAEHLER	1	speech	regular	HS	Seine Begleiterin ist fast einen Kopf kleiner als er.	
+118.218	2.08	ERZAEHLER	1	speech	regular	HS	Sie trägt ein lilafarbenes geblümtes Kleid.	
+120.418	1.16	FORREST	1	speech	regular	address	Lt. Dan	
+123.138	0.36	LT. DAN	1	speech	regular	address	Hallo	
+123.578	0.64	LT. DAN	1	speech	regular	address	Forrest	
+124.978	1.68	FORREST	1	speech	regular	HS	Sie haben neue Beine.	
+127.338	0.72	FORREST	1	speech	regular	none	Neue Beine	
+128.098	0.76	JENNY	1	non	regular	none	mmhmm	
+129.098	0.44	LT. DAN	1	speech	regular	none	Ja	
+129.618	1.2	LT. DAN	1	speech	regular	HS	Ich hab neue Beine.	
+131.018	1.24	ERZAEHLER	1	speech	regular	HS	Er zeigt seine Prothese.	
+132.298	1.68	LT. DAN	1	speech	regular	none	Maßarbeit, Titaniumlegierung	
+134.258	1.2	ERZAEHLER	1	speech	regular	HS	Sie steckt in Schuh und Socke.	
+135.458	1.44	LT. DAN	1	speech	regular	HS	Sowas benutzen sie in der Raumfahrt.	
+141.098	1.24	FORREST	1	speech	regular	none	Zauberbeine	
+144.378	0.44	LT. DAN	1	speech	regular	none	Das...	
+146.418	0.96	LT. DAN	1	speech	regular	HS	...ist meine Verlobte.	
+147.938	0.6	LT. DAN	1	speech	regular	none	Susan	
+150.938	1.72	FORREST	1	speech	regular	address	Lt. Dan	
+153.738	1.0	SUSAN	1	speech	regular	HS	Hallo, Forrest	
+154.858	0.96	ERZAEHLER	1	speech	regular	HS	Sie gibt ihm die Hand.	
+156.338	1.0	FORREST	1	speech	regular	address	Lt. Dan	
+158.338	1.04	FORREST	1	speech	regular	HS	Das ist meine Jenny.	
+159.858	0.48	JENNY	1	speech	regular	HS	Hallo	
+161.178	1.72	JENNY	1	speech	regular	HS;NS	Es freut mich, Sie endlich kennen zu lernen.	
+163.258	0.04	JENNY	1	non	regular	none		
+163.738	2.24	ERZAEHLER	1	speech	regular	AND	Sie reicht Dan die Hand und küsst ihn auf die Wange.	
+166.258	1.08	ERZAEHLER	1	speech	regular	HS	Dan sieht Forrest an.	
+167.618	1.0	ERZAEHLER	1	speech	regular	HS	Der schmunzelt stolz.	
+170.418	0.56	LT. DAN	1	non	regular	none	hach	
+171.618	0.6	ERZAEHLER	1	speech	regular	none	Im Garten	
+173.138	1.32	MINISTER	0	speech	regular	question;address	Willst du, Forrest...	
+174.898	1.52	MINISTER	0	speech	asking	question	Jenny zu deiner Frau nehmen?	
+178.778	2.92	MINISTER	0	speech	regular	complex	Und du, Jenny, willst du Forrest zu deinem Mann nehmen?	
+183.258	1.04	MINISTER	0	speech	regular	NS	Da es so ist,	
+184.658	2.48	MINISTER	0	speech	regular	HS	Erkläre ich euch hiermit zu Mann und Frau.	
+188.458	3.2	ERZAEHLER	1	speech	regular	HS	Trockenes Laub weht über die von mächtigen Bäumen gesäumte Zufahrt.	
+193.098	3.88	ERZAEHLER	1	speech	regular	HS	Zwischen den Bäumen spazieren Jenny und Forrest Händchen haltend auf das Haus zu.	
+197.338	2.12	ERZAEHLER	1	speech	regular	AND	Ihr Sohn hebt etwas auf und gibt es seinem Vater. 	
+199.938	1.08	ERZAEHLER	1	speech	regular	HS	Der nimmt ihn an die Hand.	
+202.658	3.88	ERZAEHLER	1	speech	regular	HS	Im Haus kommt Forrest mit einem Frühstückstablett ins ehemalige Schlafzimmer seiner Mutter.	
+207.698	3.68	ERZAEHLER	1	speech	regular	AND;NS	Abrupt bleibt er stehen und starrt auf Jenny, die reglos im Bett liegt.	
+211.698	1.48	ERZAEHLER	1	speech	regular	HS	Ihr Kopf ruht auf mehreren Kissen.	
+214.418	0.96	ERZAEHLER	1	speech	regular	HS	Sie öffnet die Augen.	
+216.618	0.72	JENNY	1	speech	regular	address	Hey	
+217.858	0.32	FORREST	1	speech	regular	address	Hey	
+223.738	2.24	ERZAEHLER	1	speech	regular	HS	Er stellt das Tablett auf ein Tischchen neben dem Bett...	
+227.578	1.28	ERZAEHLER	1	speech	regular	HS	...und schiebt ein Fenster hoch.	
+231.418	0.88	JENNY	1	speech	regular	address	Du, Forrest	
+232.738	1.24	ERZAEHLER	1	speech	regular	HS	Er setzt sich auf einen Stuhl.	
+234.218	2.52	ERZAEHLER	1	speech	regular	AND	Jenny dreht sich zu ihm und stützt den Kopf in die Hand.	
+238.178	1.36	JENNY	1	speech	asking	question	Hattest du Angst in Vietnam?	
+241.618	0.56	FORREST	1	speech	regular	none	Ja	
+243.458	0.68	FORREST	1	speech	regular	HS	Ich meine, ich...	
+245.018	0.88	FORREST	1	speech	regular	HS	...ich weiß es nicht.	
+245.938	1.28	ERZAEHLER	1	speech	regular	none	Forrest nachts in Vietnam	
+247.258	80.84	OST	0	song	instrumental			
+247.458	12.92	FORREST (V.O.)	1	speech	regular	HS	Manchmal hat es so lang aufgehört zu regnen,...	
+250.818	1.48	FORREST (V.O.)	1	speech	regular	NS	...dass man die Sterne sehen konnte.	
+252.658	2.72	ERZAEHLER	1	speech	regular	AND	Er nimmt den Stahlhelm ab und sieht zu einem Wolkenloch am Himmel.	
+255.458	0.96	FORREST (V.O.)	1	speech	regular	HS	Und dann war es schön.	
+257.178	0.76	ERZAEHLER	1	speech	regular	HS	Jenny lächelt.	
+261.498	1.64	FORREST (V.O.)	1	speech	regular	###	Es war so, als wenn die Sonne schlafen geht.	
+263.218	0.96	FORREST (V.O.)	1	speech	regular	none	Unten am Fluss.	
+264.258	0.92	ERZAEHLER	1	speech	regular	HS	Er steht auf dem Kutter.	
+265.338	0.68	FORREST (V.O.)	1	speech	regular	HS	Es waren...	
+266.698	2.4	FORREST (V.O.)	1	speech	regular	HS	Es waren millionen Glitzerlichter auf dem Wasser.	
+269.178	1.52	ERZAEHLER	1	speech	regular	HS	In einem See spiegeln sich Gipfel.	
+270.778	1.2	FORREST (V.O.)	1	speech	regular	none	Oder so wie der Bergsee	
+272.018	0.84	ERZAEHLER	1	speech	regular	HS	Er läuft daran entlang.	
+272.858	3.16	FORREST (V.O.)	1	speech	regular	HS	Der war so klar.	
+274.098	0.36	FORREST (V.O.)	1	speech	regular	address	Jenny	
+274.498	1.56	FORREST (V.O.)	1	speech	regular	HS;NS	Es hat so ausgesehen, als ob da...	
+276.738	1.16	FORREST (V.O.)	1	speech	regular	NS	...zwei Himmel wären.	
+278.298	1.04	FORREST (V.O.)	1	speech	regular;addendum	none	Einer auf dem anderen	
+281.698	2.32	FORREST (V.O.)	1	speech	regular	none;NS	Dann in der Wüste, kurz bevor die Sonne rauskam,...	
+284.378	1.88	ERZAEHLER	1	speech	regular	none	Forrest mit zotteligem Haar und Bart	
+286.858	0.8	FORREST (V.O.)	1	speech	regular	HS	Ich wusste nie,...	
+288.218	0.36	FORREST (V.O.)	1	speech	regular	none	...wo....	
+289.498	1.16	FORREST (V.O.)	1	speech	regular	NS	...der Himmel aufhörte.	
+291.698	1.52	FORREST (V.O.)	1	speech	regular	NS	Und die Erde anfing.	
+294.898	1.04	FORREST (V.O.)	1	speech	regular	HS	Es war wunderschön.	
+296.378	1.96	ERZAEHLER	1	speech	regular	HS	Am Bett sieht Forrest abwesend vor sich hin.	
+298.538	1.56	ERZAEHLER	1	speech	regular	HS	Jenny blickt versonnen zum Fenster.	
+301.098	1.96	JENNY	1	speech	regular	HS;NS	Ich wünschte, ich wäre mit dir dagewesen.	
+305.058	0.72	ERZAEHLER	1	speech	regular	HS	Er schaut sie an.	
+307.098	0.84	FORREST	1	speech	regular	HS	Das warst du.	
+309.738	1.28	ERZAEHLER	1	speech	regular	HS	Jenny sieht ihm in die Augen.	
+313.098	2.0	ERZAEHLER	1	speech	regular;addendum	AND	lächelt traurig und nimmt seine Hand.	
+318.698	0.88	JENNY	1	speech	regular	HS	Ich liebe dich.	
+320.978	1.6	ERZAEHLER	1	speech	regular	HS	Forrest blickt sie zärtlich an.	
+324.378	2.24	FORREST (V.O.)	1	speech	regular	HS	Du bist an einem Samstag morgen gestorben.	
+326.698	2.48	ERZAEHLER	1	speech	regular	HS;NS	Er steht am Grabstein, um den ein Kranz aus Steinen liegt.	
+329.338	0.96	FORREST	1	speech	regular	none	Und ich hab dich hier....	
+331.018	1.68	FORREST	1	speech	regular	HS	...unter unserem Baum begraben lassen.	
+337.498	1.2	FORREST	1	speech	regular	HS	Und ich habe das...	
+339.338	3.16	FORREST	1	speech	regular	HS	...Haus von deinem Vater mit dem Bulldozer einreißen lassen.	
+342.978	0.96	ERZAEHLER	1	speech	regular	HS	Er schaut dabei zu.	
+345.938	0.6	FORREST (V.O.)	1	speech	regular	none	Mama	
+348.738	1.24	FORREST	1	speech	regular;addendum	HS	...hat immer gesagt:	
+350.898	2.6	FORREST	1	speech	regular	HS	Der Tod gehört nun mal zum Leben dazu.	
+356.498	1.68	FORREST	1	speech	regular	HS;NS	Ich wünschte, es wäre anders.	
+361.378	1.24	FORREST	1	speech	regular	none	Der kleine Forrest,...	
+364.338	1.4	FORREST	1	speech	regular	HS	Er macht sich prächtig.	
+365.818	0.4	ERZAEHLER	1	speech	regular	none	Abends	
+366.298	1.72	ERZAEHLER	1	speech	regular	HS;NS	Er sitzt bei seinem Sohn, der liest.	
+367.818	1.92	FORREST (V.O.)	1	speech	regular	HS	Er geht nun bald wieder in die Schule.	###beginning in movie###
+369.058	5.8	FORREST JR.	0	speech	regular	complex	...er war sicht nicht ganz sicher, überall wo sie hingingen waren die neuen Gäste...	
+371.978	1.84	FORREST	1	speech	regular	HS	Ich mache jeden Tag sein Frühstück für ihn.	
+373.938	0.84	FORREST	1	speech	regular	none	Das Mittagessen	
+375.058	0.92	FORREST	1	speech	regular	none	Und das Abendessen	
+377.938	0.72	FORREST	1	speech	regular	HS	Ich pass auf.	
+380.538	1.0	FORREST	1	speech	regular	NS	...dass er sich kämt und...	###or completion?###
+382.058	1.72	FORREST	1	speech	regular	NS	...sich jeden Tag die Zähne putzt.	
+385.458	0.52	FORREST	1	non	regular	none	ach	
+386.458	1.8	FORREST	1	speech	regular	HS	Und ich bring ihm Ping Pong Spielen bei.	
+388.858	1.44	ERZAEHLER	1	speech	regular	HS	Auf der Veranda steht eine Platte.	
+390.298	0.68	FORREST	1	speech	regular	none	Okay	
+391.458	1.04	FORREST (V.O.)	1	speech	regular	HS	Er macht es sehr gut.	
+392.418	1.32	FORREST	1	speech	regular	address	Ok, Forrest, jetzt du	
+394.378	0.64	FORREST	1	non	regular	none	haeeeeh	
+395.578	2.64	ERZAEHLER	1	speech	regular	HS	Die Zwei sitzen mit Angelrouten auf dem Baumstumpf am Fluss.	
+398.698	1.2	FORREST (V.O.)	1	speech	regular	HS	Wir gehen oft zum Angeln.	
+403.818	2.28	FORREST	1	speech	regular	complex	Und am Abend lesen wir immer ein Buch. Er ist wirklich klug.	
+406.138	0.44	FORREST	1	speech	regular	address	Jenny	
+406.738	0.36	FORREST	1	non	regular	none	schnief	
+407.578	1.24	FORREST	1	non	regular	none	schnief	
+410.258	1.24	FORREST	1	speech	regular	HS	Du wärst so stolz auf ihn.	
+413.818	0.76	FORREST	1	speech	regular	HS	Ich bin es	
+416.418	0.28	FORREST	1	speech	regular	HS	Er hat...	
+417.138	1.8	FORREST	1	speech	regular	HS	Er hat dir einen Brief geschrieben.	
+421.258	1.48	FORREST	1	speech	regular	HS;NS	Er, er sagt, ich darf ihn nicht lesen.	indirekte Rede
+422.978	3.2	FORREST	1	speech	regular	complex	Er ist ja nicht für mich, al, also lass ich ihn hier für dich.	
+427.538	2.76	ERZAEHLER	1	speech	regular	HS	Neben einem Blumenstrauß lehnt er den Brief an den Grabstein.	
+430.698	1.64	ERZAEHLER	1	speech	regular	HS	Auf dem Umschlag steht in Kinderschrift:	
+432.498	0.4	ERZAEHLER	1	speech	regular	none	'Mom'	direkte Rede
+433.778	2.56	ERZAEHLER	1	speech	regular	AND	Forrest tritt wieder aus dem Steinkranz und bleibt stehen.	
+441.978	0.56	FORREST	1	speech	regular	address	b	
+447.298	1.28	FORREST	1	non	regular	none	heeeehech	
+448.698	3.6	FORREST	1	speech	regular	HS;NS	Ich weiß nicht, ob Mama Recht hatte oder ob...	
+453.098	1.44	FORREST	1	speech	regular	NS	...Lt. Dan Recht hatte.	
+454.578	1.32	FORREST	1	speech	regular	HS	Ich weiß nicht,...	
+457.098	1.08	FORREST	1	speech	regular	none	...ob jeder von uns,...	
+458.738	0.8	FORREST	1	speech	regular	none	...jeder von uns...	
+459.658	0.32	FORREST	1	speech	regular	none	schnief	
+460.778	1.0	FORREST	1	speech	regular	NS	...sein Schicksal hat.	
+463.298	0.96	FORREST	1	speech	regular	none	Oder ob wir...	
+465.218	2.96	FORREST	1	speech	regular	HS	...einfach nur zufällig dahingleiten wie ein Blatt im Wind.	
+472.338	67.16	OST	0	song	instrumental			
+472.658	1.4	FORREST	1	speech	regular	HS	Aber ich, ich denke...	
+476.178	1.52	FORREST	1	speech	regular	NS	...es stimmt vielleicht beides.	
+482.178	2.72	FORREST	1	speech	regular	HS	Vielleicht passiert ja beides zur selben Zeit.	
+490.698	0.84	FORREST	1	speech	regular	HS	Du fehlst mir so.	
+491.578	0.56	FORREST	1	speech	regular	address	Jenny	
+492.258	0.36	FORREST	1	non	regular	none	schnief	
+493.258	0.16	FORREST	0	non	regular	none	hmm	
+494.298	0.2	FORREST	1	non	regular	none	schnief	
+496.498	0.16	FORREST	1	non	regular	none	schluchz	
+497.378	0.2	FORREST	1	non	regular	none	hmm	
+498.938	1.56	FORREST	1	speech	regular	###	Wenn du irgendetwas brauchst,...	
+501.978	1.36	FORREST	1	speech	regular	###	...ich bin immer in deiner Nähe.	
+503.978	0.2	FORREST	1	non	regular	none	schnief	
+505.258	0.36	FORREST	1	speech	regular	none	schnief	
+505.658	0.28	FORREST	0	speech	regular	none	mhm	
+507.698	5.04	ERZAEHLER	1	speech	regular	HS;NS	Mit gesenktem Kopf entfernt sich Forrest von dem Grab unter der ausladenden Eiche, die auf einer Wiese steht.	
+513.178	4.12	ERZAEHLER	1	speech	regular	HS	In der Nähe leuchtet die tiefstehende Sonne in warmem Orange durch eine Baumkrone.	
+522.378	2.12	ERZAEHLER	1	speech	regular	HS	Hinter Forrest fliegt ein Vogelschwarm vorbei.	
+528.538	1.16	ERZAEHLER	1	speech	regular	HS	Forrest sieht ihm nach.	
+533.458	2.44	ERZAEHLER	1	speech	regular	HS	An der Straße sitzen Vater und Sohn auf einem Baumstumpf.	
+536.858	0.96	FORREST	1	speech	regular	HS	Da kommt dein Bus.	
+538.178	2.4	ERZAEHLER	1	speech	regular	HS	Er zieht das 'Curious George'-Buch aus der Schultasche.	
+541.018	0.88	FORREST	1	speech	exclamation	none	Hey	
+543.098	1.28	FORREST	1	speech	regular	HS	Das kenne ich.	
+544.578	2.32	FORREST JR.	1	speech	regular	HS	Ich will was in der Schule davon erzählen, weil...	
+547.338	1.96	FORREST JR.	1	speech	regular	NS	...Großmutter es dir immer vorgelesen hat.	
+550.138	1.44	FORREST	1	speech	regular	HS	Das ist mein Lieblingsbuch.	
+551.778	1.08	ERZAEHLER	1	speech	regular	HS	Forrest blättert darin.	
+552.978	2.12	ERZAEHLER	1	speech	regular	HS	Die grau-weiße Feder fällt unbemerkt raus.	
+555.738	0.36	FORREST	0	non	regular	none	Oh..	
+556.898	0.56	FORREST	1	speech	regular	none	Okay	
+557.818	1.6	ERZAEHLER	1	speech	regular	HS	Er steckt das Buch zurück in die Tasche.	
+559.978	0.88	FORREST	1	speech	regular	HS	Jetzt gehts los.	
+561.058	3.84	ERZAEHLER	1	speech	regular	HS	Mit der Tasche über der Schulter und einer Frühstückstüte geht Forrest Junior zur Bustür.	
+566.138	0.88	FORREST	1	speech	regular	address	Hey, Forrest	
+567.618	0.32	FORREST	1	speech	commanding	imperative	Warte!	
+571.778	1.68	FORREST	1	speech	regular	HS;NS	Ich wollte dir nur noch sagen, dass ich dich lieb hab.	
+574.138	0.92	FORREST JR.	1	speech	regular	HS	Ich hab dich auch lieb.	
+575.098	0.28	FORREST JR.	1	speech	regular	address	Daddy	
+577.378	1.76	FORREST	1	speech	regular	###	Wenn du wiederkommst, warte ich hier auf dich.	
+580.578	2.48	ERZAEHLER	1	speech	regular	HS;NS	Der Junge sieht zur Busfahrerin hoch, die Kaugummi kaut.	
+584.578	1.84	DOROTHY HARRIS	1	speech	regular	HS	Das hier, das ist der Schulbus.	
+586.458	1.2	DOROTHY HARRIS	1	speech	asking	question	Das weißt du doch, ja?	
+587.578	0.68	FORREST JR.	1	speech	regular	none	Natürlich	
+588.418	2.36	FORREST JR.	1	speech	regular	complex	Und sie sind Dorothy Harris und ich bin Forrest Gump.	
+591.378	0.76	ERZAEHLER	1	speech	regular	HS	Sie lacht ihn an.	
+592.258	2.0	ERZAEHLER	1	speech	regular	HS	Der Kleine winkt seinem Vater und steigt ein.	
+605.418	1.36	ERZAEHLER	1	speech	regular	HS	Forrest sieht dem Bus nach.	
+611.818	3.32	ERZAEHLER	1	speech	regular	AND	Er setzt sich wieder auf den Baumstumpf und schaut melancholisch vor sich hin.	
+618.458	2.08	ERZAEHLER	1	speech	regular	HS	Forrests Hände ruhen auf seinen Knien.	
+622.178	2.2	ERZAEHLER	1	speech	regular	HS	Zwischen seinen Füßen liegt die Feder im Gras.	
+624.658	1.48	ERZAEHLER	1	speech	regular	HS	Ein Windstoß wirbelt sie hoch.	
+627.938	44.48	OST	1	song	instrumental			
+635.138	1.76	ERZAEHLER	1	speech	regular	HS	Die Feder steigt höher in die Luft.	
+637.098	1.36	ERZAEHLER	1	speech	regular	HS	Dabei dreht sie sich sanft.	
+638.818	2.32	ERZAEHLER	1	speech	regular	HS	Unten sitzt Forrest immer noch auf dem Baumstumpf.	
+644.898	3.32	ERZAEHLER	1	speech	regular	HS	Die Feder fliegt über die Wipfel der mächtigen Bäume an der Zufahrt.	
+652.658	3.16	ERZAEHLER	1	speech	regular	HS	Hoch über der Feder lugt zwischen Wolken der blaue Himmel hindurch.	
+659.338	2.6	ERZAEHLER	1	speech	regular	AND	Die Feder sinkt etwas herab und wirbelt herum.	
+664.378	1.12	ERZAEHLER	1	speech	regular	HS	Sie wird wieder angehoben...	
+668.458	1.36	ERZAEHLER	1	speech	regular	HS	... und schwebt auf die Kamera zu.	
+671.378	1.04	ERZAEHLER	1	speech	regular	HS	Das Bild wird schwarz.	

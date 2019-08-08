@@ -211,7 +211,7 @@ if __name__ == "__main__":
             onset_in_seg += 0.040
 
             # 2nd, correct for the offset between the (unshifted) audio
-            # description and the audiovisual movie
+            # description and audiovisual movie
             # it turned out the offset is varying +/- one frame (40 ms) around 0
             # across the course of the whole stimuli
             onset_in_seg -= 0.000
