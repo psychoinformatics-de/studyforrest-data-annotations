@@ -199,24 +199,13 @@ if __name__ == "__main__":
 
         # correct for the stimulus used to annotate the audiotrack
         if annotated_time == 'aomovie':
-            # the files 'forrestgump_researchcut_ad_ger.flac' and
-            # german_dvd_5.1_48000hz_488kb_research_cut_aligned_cutted_narrator_muted_48000Hz.flac
-            # (that both contain the audio-description) are lagging behind for
-            # roughly 40 msec at the beginning of the stimuli. They  were
-            # shifted forward by one frame (40ms) in respect to the reference
-            # file forrestgump_researchcut_ger.mkv
-
-            # 1st, correct for the manual shifting of the audio-description
-            # 40ms to the front before annotating the it
-            onset_in_seg += 0.040
-
-            # 2nd, correct for the offset between the (unshifted) audio
+            # first, correct for the offset between the (unshifted) audio
             # description and audiovisual movie
             # it turned out the offset is varying +/- one frame (40 ms) around 0
             # across the course of the whole stimuli
             onset_in_seg -= 0.000
 
-            # 3rd, correct for the offset between whole stimulus
+            # second, correct for the offset between whole stimulus
             # (audiovisual or audio-description) and its segments
             if target_time == 'avmovie':
                 onset_in_seg = fix_audio_movie_segments(
