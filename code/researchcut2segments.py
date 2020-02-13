@@ -227,6 +227,7 @@ if __name__ == "__main__":
             pass
 
         row['onset'] = round(onset_in_seg, 3)
+        row['duration'] = round(row['duration'], 3)
 
         # append that shit
         run_events[run].append(row)
