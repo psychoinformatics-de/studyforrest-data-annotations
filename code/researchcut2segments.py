@@ -199,25 +199,14 @@ if __name__ == "__main__":
 
         # correct for the stimulus used to annotate the audiotrack
         if annotated_time == 'aomovie':
-            # the files
-            # forrestgump_researchcut_ad_ger.flac and
-            # german_dvd_5.1_48000hz_488kb_research_cut_aligned_cutted_narrator_muted_48000Hz.flac
-            # (that contain the audio description) were originally lagging
-            # behind for XYZ msec and were shiftet forward
-            # by one frame (40ms) in respect to the reference file
-            # forrestgump_researchcut_ger.mkv
-
-            # 1st, correct for shifting the narrator (incl. dialogue) 40ms
-            # to the front before annotating the narrator/dialogue
-            onset_in_seg += 0.040
-
-            # 2nd, correct for the offset between the (unshifted) audio
-            # description and the audiovisual movie
-            # -> the offset is varying +/- one frame (40 ms) around 0
+            # first, correct for the offset between the (unshifted) audio
+            # description and audiovisual movie
+            # it turned out the offset is varying +/- one frame (40 ms) around 0
+            # across the course of the whole stimuli
             onset_in_seg -= 0.000
 
-            # 3rd, correct for the offset between whole stimulus
-            # (audiovisual or audio-only) and its segments
+            # second, correct for the offset between whole stimulus
+            # (audiovisual or audio-description) and its segments
             if target_time == 'avmovie':
                 onset_in_seg = fix_audio_movie_segments(
                     AUDIO_AV_OFFSETS,
@@ -237,10 +226,8 @@ if __name__ == "__main__":
             # all splendid for now
             pass
 
-        else:
-            raise ValueError('%s is an unknown annotation', basename(input_file))
-
         row['onset'] = round(onset_in_seg, 3)
+        row['duration'] = round(row['duration'], 3)
 
         # append that shit
         run_events[run].append(row)
