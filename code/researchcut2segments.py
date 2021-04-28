@@ -153,6 +153,14 @@ def write_segmented_annos(infilename, stimulus, run_dict, out_dir):
     '''
     '''
     basefilename = basename(infilename)[:-4]
+    # rename the speech annotation (since it did not run through the importer
+    # script that renamed e.g. structure.csv to locations.tsv
+    # name it 'speech_ad' because the narrator will also be in it if
+    # segmented into timings of the movie (-> e.g. for control contrasts)
+    print(basefilename)
+    if basefilename == 'fg_rscut_ad_ger_speech_tagged':
+        basefilename = 'speech_ad'
+
     outdir = opj(out_dir, stimulus)
     if not exists(outdir):
         os.makedirs(outdir)
