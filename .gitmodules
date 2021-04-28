@@ -13,3 +13,7 @@
 [submodule "src/bodycontact"]
 	path = src/bodycontact
 	url = https://github.com/psychoinformatics-de/studyforrest-paper-bodycontactannotation.git
+[submodule "src/speech"]
+	path = src/speech
+	url = osf://f5j3e
+	datalad-id = cacc9298-faed-11e9-9b76-e86a64c80559
