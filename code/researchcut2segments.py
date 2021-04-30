@@ -3,9 +3,11 @@
 created on Wed Jan 30 2018
 author: Christian Olaf Haeusler
 
-To Do:
-    argparser
-    Erzaehler Filtern wennn MOVIE = True
+Parameters:
+----------
+input:
+    'aomovie' means that input is an annotation of the AUDIOTRACK
+    'avmovie' means that input is an annotation of the MOVIE FRAMES
 """
 from collections import defaultdict
 import os
@@ -204,8 +206,9 @@ if __name__ == "__main__":
             run,
             float(row['onset']))
 
-
         # correct for the stimulus used to annotate the audiotrack
+        # 'aomovie' means that input is an annotation of the AUDIOTRACK
+        # 'avmovie' means that input is an annotation of the MOVIE FRAMES
         if annotated_time == 'aomovie':
             # first, correct for the offset between the (unshifted) audio
             # description and audiovisual movie
