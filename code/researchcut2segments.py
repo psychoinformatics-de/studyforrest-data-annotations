@@ -191,7 +191,12 @@ if __name__ == "__main__":
 
 #     with launch_ipdb_on_exception():
     # read the annotation file
-    anno = pd.read_csv(infile, sep='\t', encoding='utf-8').to_records(index=False)
+    anno = pd.read_csv(infile,
+                       sep='\t',
+                       encoding='utf-8',
+                       converters={'year': str}
+                       ).to_records(index=False)
+
     segment_starts = [start for start, offset in SEGMENTS_OFFSETS]
 
     run_events = defaultdict(list)
