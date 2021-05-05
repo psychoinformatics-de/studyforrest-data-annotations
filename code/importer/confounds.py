@@ -27,8 +27,7 @@ def parse_arguments():
 
     parser.add_argument('-i',
                         help='input directory where files are located',
-                        default='src/confounds/annotation/audio/' +
-                        'fg_av_ger_seg0.mkv'
+                        default='src/confounds/annotation/audio/'
                         )
 
     parser.add_argument('-s',
@@ -103,7 +102,7 @@ if __name__ == '__main__':
     # segments = [re.search(r'seg\d{1}', in_fpath) for in_fpath in in_fpathes]
     # segments = sorted(list(set([segment.group() for segment in segments])))
 
-    for segment in SEGMENTS[:1]:
+    for segment in SEGMENTS:
         run = f'run-{segment + 1}'
         # subtitute for current segment
         inputs = os.path.join(in_dir, file_pattern)
