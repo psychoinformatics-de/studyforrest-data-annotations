@@ -17,3 +17,7 @@
 	path = src/speech
 	url = osf://f5j3e
 	datalad-id = cacc9298-faed-11e9-9b76-e86a64c80559
+[submodule "src/confounds"]
+	path = src/confounds
+	url = https://github.com/psychoinformatics-de/studyforrest-data-confoundsannotation
+	datalad-id = 5f4c2889-56f4-4ef2-81c7-ddf31c0059f7
