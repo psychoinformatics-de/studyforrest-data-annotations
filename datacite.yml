@@ -1,0 +1,62 @@
+# Metadata for DOI registration according to DataCite Metadata Schema 4.1.
+# For detailed schema description see https://doi.org/10.5438/0014
+
+authors:
+  - firstname: Michael
+    lastname: Hanke
+    id: "ORCID:0000-0001-6398-6370"
+
+  - firstname: Adina
+    lastname: Wagner
+    id: "ORCID:0000-0003-2917-3450"
+
+  - firstname: Christian O.
+    lastname: Häusler
+    id: "ORCID:0000-0002-0936-317X"
+
+
+title: Stimulus annotations for the movie Forrest Gump
+
+
+description: |
+  "This repository collects stimulus annotations for the research cut of the
+   "Forrest Gump" movie used in the studyforrest.org project. Annotations are
+   collected from various contributors and publications.
+
+   Annotations are typically provided as plain text tables, using a
+   tab-separated-value markup with a header row. Table usually contain a onset
+   and a duration column to indicate the timing of an event. All other columns
+   contain variables that describe properties of an event."
+
+
+keywords:
+  - Neuroscience
+  - Studyforrest
+
+
+license:
+  name: "CC0 1.0 Universal"
+  url: "http://creativecommons.org/publicdomain/zero/1.0/"
+
+
+# Related publications. reftype might be: IsSupplementTo, IsDescribedBy, IsReferencedBy.
+# Please provide digital identifier (e.g., DOI) if possible.
+# Add a prefix to the ID, separated by a colon, to indicate the source.
+# Supported sources are: DOI, arXiv, PMID
+# In the citation field, please provide the full reference, including title, authors, journal etc.
+references:
+  - id: "doi:10.12688/f1000research.27621.1"
+    reftype: "IsSupplementTo"
+    citation: "Häusler, C. O. & Hanke, M. (2021). A studyforrest extension, an annotation of spoken language in the German dubbed movie „Forrest Gump“ and its audio-description, F1000Research, 10:54."
+
+  - id: "doi:10.12688/f1000research.9536.1"
+    reftype: "IsSupplementTo"
+    citation: "Häusler, C. O. & Hanke, M. (2016). An annotation of cuts, depicted locations, and temporal progression in the motion picture “Forrest Gump”. F1000Research, 5:2273."
+
+
+# Resource type. Default is Dataset, other possible values are Software, Image, Text.
+resourcetype: Dataset
+
+
+# Do not edit or remove the following line
+templateversion: 1.2
