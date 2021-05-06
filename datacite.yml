@@ -6,13 +6,17 @@ authors:
     lastname: Hanke
     id: "ORCID:0000-0001-6398-6370"
 
+  - firstname: Christian O.
+    lastname: Häusler
+    id: "ORCID:0000-0002-0936-317X"
+
   - firstname: Adina
     lastname: Wagner
     id: "ORCID:0000-0003-2917-3450"
 
-  - firstname: Christian O.
-    lastname: Häusler
-    id: "ORCID:0000-0002-0936-317X"
+  - firstname: Christian
+    lastname: Mönch
+    id: "ORCID:0000-0002-3092-0612"
 
 
 title: Stimulus annotations for the movie Forrest Gump
